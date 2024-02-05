@@ -21,8 +21,4 @@ index,date,account_name,amount,message,vs,name
 19,2024-02-01,"Unimedia spol. ,s.r.",-44850.0,Platba/UNIMEDIA OOH 02-03 2024,"720240006
 VS720240006/SS/KS",Progresívne Slovensko
 20,2024-01-31,,-0.0,Poplatok za balík,,Progresívne Slovensko
-21,2024-01-31,Progresívne Slovensko,70000.0,"Platba/
-                        prevod medzi uctami
-                    ","
-                        
-                    ",Progresívne Slovensko
+21,2024-01-31,Progresívne Slovensko,70000.0,Platba/prevod medzi uctami,,Progresívne Slovensko

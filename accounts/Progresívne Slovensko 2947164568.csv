@@ -4,8 +4,4 @@ index,date,amount,currency,account_name,message,vs
 2,2024-02-01,-44850.0,EUR,"Unimedia spol. ,s.r.",Platba/UNIMEDIA OOH 02-03 2024,"720240006
 VS720240006/SS/KS"
 3,2024-01-31,-0.0,EUR,,Poplatok za balík,
-4,2024-01-31,70000.0,EUR,Progresívne Slovensko,"Platba/
-                        prevod medzi uctami
-                    ","
-                        
-                    "
+4,2024-01-31,70000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
