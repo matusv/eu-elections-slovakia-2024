@@ -11,14 +11,36 @@ index,date,account_name,amount,message,vs,name
 9,2024-01-31,,-1.61,Poplatok za vedenie účtu,,SaS
 10,2024-01-27,Bačák Juraj,0.01,Prispevok na drahy alkohol v Dubaji .,,SaS
 11,2024-01-23,Sloboda a Solidarita (SaS),200.0,presun prostriedkov,,SaS
-12,2024-02-02,Sloboda a Solidarita (SaS),500000.0,presun prostriedkov na kampaň,,SNS
+12,2024-01-31,,-0.97,Poplatok za vedenie účtu,,SNS
 13,2024-01-31,,-5.0,Zverejňovanie účtu,,SNS
-14,2024-01-31,,-1.61,Poplatok za vedenie účtu,,SNS
-15,2024-01-27,Bačák Juraj,0.01,Prispevok na drahy alkohol v Dubaji .,,SNS
-16,2024-01-23,Sloboda a Solidarita (SaS),200.0,presun prostriedkov,,SNS
-17,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
-18,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
-19,2024-02-01,"Unimedia spol. ,s.r.",-44850.0,Platba/UNIMEDIA OOH 02-03 2024,"720240006
+14,2024-01-29,Mihalovič Martin,0.01,"Voda svieti, slnko laka, snehulme si postaviaka",,SNS
+15,2024-01-29,Ruzena Kapusnakova,0.01,Simkovicovej a Dankovi na psychiatricke vysetrenie,,SNS
+16,2024-01-29,MICHAL ZAJIC,0.01,ZMRDE. NA LETENKU DO MOSKVY.,,SNS
+17,2024-01-29,PATRIK TIMULAK,0.01,PRISPEVOK PRE TOHO KTORY V ZIVOTE NEPOUZIVA PAPIER KED CITA,,SNS
+18,2024-01-29,SLOV NARODNA STRANA,120000.0,prevod na eurovolby 2024,1200002024.0,SNS
+19,2024-01-28,Chebeň Mário,0.01,"Zdravím kapitán, to je za zúbkovú vílu. Bozkávam všade",,SNS
+20,2024-01-27,Siládi Peter,1.0,Na prednostny termin u logopeda.,,SNS
+21,2024-01-27,Belica Vladimir,0.01,F001270120245490503,,SNS
+22,2024-01-27,Kardoš Milan,0.01,Ste velmi zabavny ze eurovolby. Ale sak skuste.,,SNS
+23,2024-01-27,Hlatký Miroslav,0.01,Slopenska narodna sranda,,SNS
+24,2024-01-27,Schelling Žaneta,0.01,Hrad na Danka,,SNS
+25,2024-01-27,Kristina Chabadova,0.01,za platy europoslancov robit hanbu a nadavat na EU? A to narodne menu kto tu bude zrat? SNS naspat do 19storocia,,SNS
+26,2024-01-26,Bohuslav Masiarcik,0.01,"Na jednodmerny do RuSSka, aby ste Putlera mohli bozkavat vsade.",,SNS
+27,2024-01-26,Godor Patrik,0.01,aby kokotom nebolo malo,,SNS
+28,2024-02-01,APPKEE,-60.5,tarif aplikacia 02/2024,20230649,Republika
+29,2024-02-01,APPKEE,-60.5,tarif aplikacia 01/2024,20240055,Republika
+30,2024-02-01,APPKEE,-60.5,tarif aplikacia 11/2023,20230849,Republika
+31,2024-02-01,APPKEE,-60.5,tarif aplikacia 12/2023,20230943,Republika
+32,2024-02-01,GRYF reklamne studio,-11880.0,zaloha za reklamne plochy big 05/24,24010,Republika
+33,2024-02-01,GRYF reklamne studio,-20838.0,zaloha za reklamne plochy 05/24,24008,Republika
+34,2024-02-01,GRYF reklamne studio,-20010.0,zaloha za reklamne plochy 06/24,24009,Republika
+35,2024-02-01,GRYF reklamne studio,-6900.0,zaloha za reklamne plochy 04/24,24007,Republika
+36,2024-02-01,GRYF reklamne studio,-9384.0,zaloha za reklamne plochy 03/24,24006,Republika
+37,2024-02-01,REPUBLIKA,100000.0,prevod prostriedkov na transparentny ucet, ,Republika
+38,2024-01-31, ,-7.0,Vedenie účtu,9,Republika
+39,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
+40,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
+41,2024-02-01,"Unimedia spol. ,s.r.",-44850.0,Platba/UNIMEDIA OOH 02-03 2024,"720240006
 VS720240006/SS/KS",Progresívne Slovensko
-20,2024-01-31,,-0.0,Poplatok za balík,,Progresívne Slovensko
-21,2024-01-31,Progresívne Slovensko,70000.0,Platba/prevod medzi uctami,,Progresívne Slovensko
+42,2024-01-31,,-0.0,Poplatok za balík,,Progresívne Slovensko
+43,2024-01-31,Progresívne Slovensko,70000.0,Platba/prevod medzi uctami,,Progresívne Slovensko
