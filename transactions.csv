@@ -38,9 +38,112 @@ index,date,account_name,amount,message,vs,name
 36,2024-02-01,GRYF reklamne studio,-9384.0,zaloha za reklamne plochy 03/24,24006,Republika
 37,2024-02-01,REPUBLIKA,100000.0,prevod prostriedkov na transparentny ucet, ,Republika
 38,2024-01-31, ,-7.0,Vedenie účtu,9,Republika
-39,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
-40,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
-41,2024-02-01,"Unimedia spol. ,s.r.",-44850.0,Platba/UNIMEDIA OOH 02-03 2024,"720240006
+39,2024-02-07,FACEBK *CMHV7XXXC2,-40.0,EUR NÁKUP POS FACEBK *CMHV7XXXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+40,2024-02-06,"
+                            FACEBK *WBF9UX3YC2
+                    ",-10.0,"
+                        EUR NÁKUP POS FACEBK *WBF9UX3YC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+41,2024-02-06,FACEBK *88UEZWPXC2,-33.0,EUR NÁKUP POS FACEBK *88UEZWPXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+42,2024-02-06,"
+                            FACEBK *TCRX9XBXC2
+                    ",-6.14,"
+                        EUR NÁKUP POS FACEBK *TCRX9XBXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+43,2024-02-06,"
+                            FACEBK *NG355X3XC2
+                    ",-4.0,"
+                        EUR NÁKUP POS FACEBK *NG355X3XC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+44,2024-02-06,"
+                            FACEBK *98478X7XC2
+                    ",-5.0,"
+                        EUR NÁKUP POS FACEBK *98478X7XC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+45,2024-02-06,"
+                            FACEBK *ZST6UX3YC2
+                    ",-9.0,"
+                        EUR NÁKUP POS FACEBK *ZST6UX3YC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+46,2024-02-06,"
+                            FACEBK *2UFD5XXXC2
+                    ",-6.0,"
+                        EUR NÁKUP POS FACEBK *2UFD5XXXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+47,2024-02-06,"
+                            FACEBK *GYWPSYKXC2
+                    ",-12.0,"
+                        EUR NÁKUP POS FACEBK *GYWPSYKXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+48,2024-02-06,"
+                            FACEBK *PNREUX3YC2
+                    ",-15.0,"
+                        EUR NÁKUP POS FACEBK *PNREUX3YC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+49,2024-02-06,"
+                            FACEBK *QB8RTXFXC2
+                    ",-18.0,"
+                        EUR NÁKUP POS FACEBK *QB8RTXFXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+50,2024-02-06,FACEBK *G3QBTYKXC2,-22.0,EUR NÁKUP POS FACEBK *G3QBTYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+51,2024-02-06,FACEBK *VMWJTYKXC2,-27.0,EUR NÁKUP POS FACEBK *VMWJTYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+52,2024-02-05,FACEBK *62FYRXFXC2,-2.0,EUR NÁKUP POS FACEBK *62FYRXFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+53,2024-02-05,FACEBK *YQ4U8XBXC2,-2.0,EUR NÁKUP POS FACEBK *YQ4U8XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+54,2024-02-05,FACEBK *A4CDZZTXC2,-2.0,EUR NÁKUP POS FACEBK *A4CDZZTXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+55,2024-02-05,FACEBK *JZLV8XBXC2,-2.0,EUR NÁKUP POS FACEBK *JZLV8XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+56,2024-02-05,FACEBK *MCFXRXFXC2,-2.0,EUR NÁKUP POS FACEBK *MCFXRXFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+57,2024-02-05,FACEBK *73B39XBXC2,-3.0,EUR NÁKUP POS FACEBK *73B39XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+58,2024-02-05,FACEBK *JVJ9RYKXC2,-2.0,EUR NÁKUP POS FACEBK *JVJ9RYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+59,2024-02-05,FACEBK *ZANARYKXC2,-2.0,EUR NÁKUP POS FACEBK *ZANARYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+60,2024-02-05,FACEBK *UKDBRYKXC2,-2.0,EUR NÁKUP POS FACEBK *UKDBRYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+61,2024-02-05,"
+                            FACEBK *4HE64X3XC2
+                    ",-3.0,"
+                        EUR NÁKUP POS FACEBK *4HE64X3XC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+62,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
+63,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
+64,2024-02-01,"Unimedia spol. ,s.r.",-44850.0,Platba/UNIMEDIA OOH 02-03 2024,"720240006
 VS720240006/SS/KS",Progresívne Slovensko
-42,2024-01-31,,-0.0,Poplatok za balík,,Progresívne Slovensko
-43,2024-01-31,Progresívne Slovensko,70000.0,Platba/prevod medzi uctami,,Progresívne Slovensko
+65,2024-01-31,,-0.0,Poplatok za balík,,Progresívne Slovensko
+66,2024-01-31,Progresívne Slovensko,70000.0,Platba/prevod medzi uctami,,Progresívne Slovensko

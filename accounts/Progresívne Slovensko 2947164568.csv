@@ -1,7 +1,110 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-02-02,-5.0,EUR,ZMENA DENNÉHO LIMITU,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,
-1,2024-02-02,-5.0,EUR,ZMENA DENNÉHO LIMITU,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,
-2,2024-02-01,-44850.0,EUR,"Unimedia spol. ,s.r.",Platba/UNIMEDIA OOH 02-03 2024,"720240006
+0,2024-02-07,-40.0,EUR,FACEBK *CMHV7XXXC2,EUR NÁKUP POS FACEBK *CMHV7XXXC2 / fb.me/ads / (POS 99999999),
+1,2024-02-06,-33.0,EUR,FACEBK *88UEZWPXC2,EUR NÁKUP POS FACEBK *88UEZWPXC2 / fb.me/ads / (POS 99999999),
+2,2024-02-06,-27.0,EUR,FACEBK *VMWJTYKXC2,EUR NÁKUP POS FACEBK *VMWJTYKXC2 / fb.me/ads / (POS 99999999),
+3,2024-02-06,-22.0,EUR,FACEBK *G3QBTYKXC2,EUR NÁKUP POS FACEBK *G3QBTYKXC2 / fb.me/ads / (POS 99999999),
+4,2024-02-06,-18.0,EUR,"
+                            FACEBK *QB8RTXFXC2
+                    ","
+                        EUR NÁKUP POS FACEBK *QB8RTXFXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+5,2024-02-06,-15.0,EUR,"
+                            FACEBK *PNREUX3YC2
+                    ","
+                        EUR NÁKUP POS FACEBK *PNREUX3YC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+6,2024-02-06,-12.0,EUR,"
+                            FACEBK *GYWPSYKXC2
+                    ","
+                        EUR NÁKUP POS FACEBK *GYWPSYKXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+7,2024-02-06,-10.0,EUR,"
+                            FACEBK *WBF9UX3YC2
+                    ","
+                        EUR NÁKUP POS FACEBK *WBF9UX3YC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+8,2024-02-06,-9.0,EUR,"
+                            FACEBK *ZST6UX3YC2
+                    ","
+                        EUR NÁKUP POS FACEBK *ZST6UX3YC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+9,2024-02-06,-6.0,EUR,"
+                            FACEBK *2UFD5XXXC2
+                    ","
+                        EUR NÁKUP POS FACEBK *2UFD5XXXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+10,2024-02-06,-5.0,EUR,"
+                            FACEBK *98478X7XC2
+                    ","
+                        EUR NÁKUP POS FACEBK *98478X7XC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+11,2024-02-06,-4.0,EUR,"
+                            FACEBK *NG355X3XC2
+                    ","
+                        EUR NÁKUP POS FACEBK *NG355X3XC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+12,2024-02-06,-6.14,EUR,"
+                            FACEBK *TCRX9XBXC2
+                    ","
+                        EUR NÁKUP POS FACEBK *TCRX9XBXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+13,2024-02-05,-3.0,EUR,"
+                            FACEBK *4HE64X3XC2
+                    ","
+                        EUR NÁKUP POS FACEBK *4HE64X3XC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+14,2024-02-05,-3.0,EUR,FACEBK *73B39XBXC2,EUR NÁKUP POS FACEBK *73B39XBXC2 / fb.me/ads / (POS 99999999),
+15,2024-02-05,-2.0,EUR,FACEBK *UKDBRYKXC2,EUR NÁKUP POS FACEBK *UKDBRYKXC2 / fb.me/ads / (POS 99999999),
+16,2024-02-05,-2.0,EUR,FACEBK *ZANARYKXC2,EUR NÁKUP POS FACEBK *ZANARYKXC2 / fb.me/ads / (POS 99999999),
+17,2024-02-05,-2.0,EUR,FACEBK *JVJ9RYKXC2,EUR NÁKUP POS FACEBK *JVJ9RYKXC2 / fb.me/ads / (POS 99999999),
+18,2024-02-05,-2.0,EUR,FACEBK *62FYRXFXC2,EUR NÁKUP POS FACEBK *62FYRXFXC2 / fb.me/ads / (POS 99999999),
+19,2024-02-05,-2.0,EUR,FACEBK *MCFXRXFXC2,EUR NÁKUP POS FACEBK *MCFXRXFXC2 / fb.me/ads / (POS 99999999),
+20,2024-02-05,-2.0,EUR,FACEBK *JZLV8XBXC2,EUR NÁKUP POS FACEBK *JZLV8XBXC2 / fb.me/ads / (POS 99999999),
+21,2024-02-05,-2.0,EUR,FACEBK *A4CDZZTXC2,EUR NÁKUP POS FACEBK *A4CDZZTXC2 / fb.me/ads / (POS 99999999),
+22,2024-02-05,-2.0,EUR,FACEBK *YQ4U8XBXC2,EUR NÁKUP POS FACEBK *YQ4U8XBXC2 / fb.me/ads / (POS 99999999),
+23,2024-02-02,-5.0,EUR,ZMENA DENNÉHO LIMITU,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,
+24,2024-02-02,-5.0,EUR,ZMENA DENNÉHO LIMITU,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,
+25,2024-02-01,-44850.0,EUR,"Unimedia spol. ,s.r.",Platba/UNIMEDIA OOH 02-03 2024,"720240006
 VS720240006/SS/KS"
-3,2024-01-31,-0.0,EUR,,Poplatok za balík,
-4,2024-01-31,70000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+26,2024-01-31,-0.0,EUR,,Poplatok za balík,
+27,2024-01-31,70000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
