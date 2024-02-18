@@ -1,66 +1,78 @@
 index,date,account_name,amount,message,vs,name
-0,2024-02-14,,-0.25,Poplatok za platbu kartou,,Smer
-1,2024-02-14,,-750.0,"B1733394925-44544 17** **** 0646;FACEBK FUEEEY38S2 ,fb.me/ads ,IE ;13.02.2024 17:55:15 ;CashBack:0 EUR",,Smer
-2,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
-3,2024-02-02,SMER - sociálna demokracia,40000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
-4,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
-5,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+0,2024-02-17,,-0.25,Poplatok za platbu kartou,,Smer
+1,2024-02-17,,-750.0,"B1736177721-44544 17** **** 0646;FACEBK 462V9ZB8S2 ,fb.me/ads ,IE ;16.02.2024 14:06:30 ;CashBack:0 EUR",,Smer
+2,2024-02-16,,-0.25,Poplatok za platbu kartou,,Smer
+3,2024-02-16,,-750.0,"B1735075801-44544 17** **** 0646;FACEBK NJGRRZP8S2 ,fb.me/ads ,IE ;15.02.2024 07:51:50 ;CashBack:0 EUR",,Smer
+4,2024-02-14,,-0.25,Poplatok za platbu kartou,,Smer
+5,2024-02-14,,-750.0,"B1733394925-44544 17** **** 0646;FACEBK FUEEEY38S2 ,fb.me/ads ,IE ;13.02.2024 17:55:15 ;CashBack:0 EUR",,Smer
 6,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
-7,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+7,2024-02-02,SMER - sociálna demokracia,40000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
 8,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
-9,2024-02-12,CONFIDENCE MEDIA SR s.r.o.,-6403.2,"prenájom bilboardov, citylightov, bigboard",2421020.0,SaS
-10,2024-02-02,Sloboda a Solidarita (SaS),500000.0,presun prostriedkov na kampaň,,SaS
-11,2024-01-31,,-5.0,Zverejňovanie účtu,,SaS
-12,2024-01-31,,-1.61,Poplatok za vedenie účtu,,SaS
-13,2024-01-27,Bačák Juraj,0.01,Prispevok na drahy alkohol v Dubaji .,,SaS
-14,2024-01-23,Sloboda a Solidarita (SaS),200.0,presun prostriedkov,,SaS
-15,2024-02-15,Belica Vladimir,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-16,2024-02-15,Schelling aneta,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-17,2024-02-15,Chebe Mrio,-0.01,Vratenie platby podla zakona zo dna 28.01.2024,,SNS
-18,2024-02-15,Godor Patrik,-0.01,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
-19,2024-02-15,Bohuslav Masiarcik,-0.01,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
-20,2024-02-15,Kristina Chabadova,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-21,2024-02-15,Hlatk Miroslav,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-22,2024-02-15,Kardo Milan,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-23,2024-02-15,Sildi Peter,-1.0,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-24,2024-02-15,PATRIK TIMULAK,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
-25,2024-02-15,MICHAL ZAJIC,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
-26,2024-02-15,Ruzena Kapusnakova,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
-27,2024-02-15,Mihalovi Martin,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
-28,2024-01-31,,-5.0,Zverejňovanie účtu,,SNS
-29,2024-01-31,,-0.97,Poplatok za vedenie účtu,,SNS
-30,2024-01-29,Mihalovič Martin,0.01,"Voda svieti, slnko laka, snehulme si postaviaka",,SNS
-31,2024-01-29,Ruzena Kapusnakova,0.01,Simkovicovej a Dankovi na psychiatricke vysetrenie,,SNS
-32,2024-01-29,MICHAL ZAJIC,0.01,ZMRDE. NA LETENKU DO MOSKVY.,,SNS
-33,2024-01-29,PATRIK TIMULAK,0.01,PRISPEVOK PRE TOHO KTORY V ZIVOTE NEPOUZIVA PAPIER KED CITA,,SNS
-34,2024-01-29,SLOV NARODNA STRANA,120000.0,prevod na eurovolby 2024,1200002024.0,SNS
-35,2024-01-28,Chebeň Mário,0.01,"Zdravím kapitán, to je za zúbkovú vílu. Bozkávam všade",,SNS
-36,2024-01-27,Siládi Peter,1.0,Na prednostny termin u logopeda.,,SNS
-37,2024-01-27,Belica Vladimir,0.01,F001270120245490503,,SNS
-38,2024-01-27,Kardoš Milan,0.01,Ste velmi zabavny ze eurovolby. Ale sak skuste.,,SNS
-39,2024-01-27,Hlatký Miroslav,0.01,Slopenska narodna sranda,,SNS
-40,2024-01-27,Schelling Žaneta,0.01,Hrad na Danka,,SNS
-41,2024-01-27,Kristina Chabadova,0.01,za platy europoslancov robit hanbu a nadavat na EU? A to narodne menu kto tu bude zrat? SNS naspat do 19storocia,,SNS
-42,2024-01-26,Bohuslav Masiarcik,0.01,"Na jednodmerny do RuSSka, aby ste Putlera mohli bozkavat vsade.",,SNS
-43,2024-01-26,Godor Patrik,0.01,aby kokotom nebolo malo,,SNS
-44,2024-02-01,APPKEE,-60.5,tarif aplikacia 02/2024,20230649,Republika
-45,2024-02-01,APPKEE,-60.5,tarif aplikacia 01/2024,20240055,Republika
-46,2024-02-01,APPKEE,-60.5,tarif aplikacia 11/2023,20230849,Republika
-47,2024-02-01,APPKEE,-60.5,tarif aplikacia 12/2023,20230943,Republika
-48,2024-02-01,GRYF reklamne studio,-11880.0,zaloha za reklamne plochy big 05/24,24010,Republika
-49,2024-02-01,GRYF reklamne studio,-20838.0,zaloha za reklamne plochy 05/24,24008,Republika
-50,2024-02-01,GRYF reklamne studio,-20010.0,zaloha za reklamne plochy 06/24,24009,Republika
-51,2024-02-01,GRYF reklamne studio,-6900.0,zaloha za reklamne plochy 04/24,24007,Republika
-52,2024-02-01,GRYF reklamne studio,-9384.0,zaloha za reklamne plochy 03/24,24006,Republika
-53,2024-02-01,REPUBLIKA,100000.0,prevod prostriedkov na transparentny ucet, ,Republika
-54,2024-01-31, ,-7.0,Vedenie účtu,9,Republika
-55,2024-02-12,FACEBK *5TWUGXBXC2,-100.0,EUR NÁKUP POS FACEBK *5TWUGXBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-56,2024-02-09,FACEBK *66L2AX3XC2,-90.0,EUR NÁKUP POS FACEBK *66L2AX3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-57,2024-02-09,ENERGO ZUGOV S.R.O.,-230.6,Platba/Giselle tlacova konferencia,"20240002
+9,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+10,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+11,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+12,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+13,2024-02-12,CONFIDENCE MEDIA SR s.r.o.,-6403.2,"prenájom bilboardov, citylightov, bigboard",2421020.0,SaS
+14,2024-02-02,Sloboda a Solidarita (SaS),500000.0,presun prostriedkov na kampaň,,SaS
+15,2024-01-31,,-5.0,Zverejňovanie účtu,,SaS
+16,2024-01-31,,-1.61,Poplatok za vedenie účtu,,SaS
+17,2024-01-27,Bačák Juraj,0.01,Prispevok na drahy alkohol v Dubaji .,,SaS
+18,2024-01-23,Sloboda a Solidarita (SaS),200.0,presun prostriedkov,,SaS
+19,2024-02-15,Belica Vladimir,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+20,2024-02-15,Schelling aneta,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+21,2024-02-15,Chebe Mrio,-0.01,Vratenie platby podla zakona zo dna 28.01.2024,,SNS
+22,2024-02-15,Godor Patrik,-0.01,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
+23,2024-02-15,Bohuslav Masiarcik,-0.01,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
+24,2024-02-15,Kristina Chabadova,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+25,2024-02-15,Hlatk Miroslav,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+26,2024-02-15,Kardo Milan,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+27,2024-02-15,Sildi Peter,-1.0,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+28,2024-02-15,PATRIK TIMULAK,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
+29,2024-02-15,MICHAL ZAJIC,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
+30,2024-02-15,Ruzena Kapusnakova,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
+31,2024-02-15,Mihalovi Martin,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
+32,2024-01-31,,-5.0,Zverejňovanie účtu,,SNS
+33,2024-01-31,,-0.97,Poplatok za vedenie účtu,,SNS
+34,2024-01-29,Mihalovič Martin,0.01,"Voda svieti, slnko laka, snehulme si postaviaka",,SNS
+35,2024-01-29,Ruzena Kapusnakova,0.01,Simkovicovej a Dankovi na psychiatricke vysetrenie,,SNS
+36,2024-01-29,MICHAL ZAJIC,0.01,ZMRDE. NA LETENKU DO MOSKVY.,,SNS
+37,2024-01-29,PATRIK TIMULAK,0.01,PRISPEVOK PRE TOHO KTORY V ZIVOTE NEPOUZIVA PAPIER KED CITA,,SNS
+38,2024-01-29,SLOV NARODNA STRANA,120000.0,prevod na eurovolby 2024,1200002024.0,SNS
+39,2024-01-28,Chebeň Mário,0.01,"Zdravím kapitán, to je za zúbkovú vílu. Bozkávam všade",,SNS
+40,2024-01-27,Siládi Peter,1.0,Na prednostny termin u logopeda.,,SNS
+41,2024-01-27,Belica Vladimir,0.01,F001270120245490503,,SNS
+42,2024-01-27,Kardoš Milan,0.01,Ste velmi zabavny ze eurovolby. Ale sak skuste.,,SNS
+43,2024-01-27,Hlatký Miroslav,0.01,Slopenska narodna sranda,,SNS
+44,2024-01-27,Schelling Žaneta,0.01,Hrad na Danka,,SNS
+45,2024-01-27,Kristina Chabadova,0.01,za platy europoslancov robit hanbu a nadavat na EU? A to narodne menu kto tu bude zrat? SNS naspat do 19storocia,,SNS
+46,2024-01-26,Bohuslav Masiarcik,0.01,"Na jednodmerny do RuSSka, aby ste Putlera mohli bozkavat vsade.",,SNS
+47,2024-01-26,Godor Patrik,0.01,aby kokotom nebolo malo,,SNS
+48,2024-02-01,APPKEE,-60.5,tarif aplikacia 02/2024,20230649,Republika
+49,2024-02-01,APPKEE,-60.5,tarif aplikacia 01/2024,20240055,Republika
+50,2024-02-01,APPKEE,-60.5,tarif aplikacia 11/2023,20230849,Republika
+51,2024-02-01,APPKEE,-60.5,tarif aplikacia 12/2023,20230943,Republika
+52,2024-02-01,GRYF reklamne studio,-11880.0,zaloha za reklamne plochy big 05/24,24010,Republika
+53,2024-02-01,GRYF reklamne studio,-20838.0,zaloha za reklamne plochy 05/24,24008,Republika
+54,2024-02-01,GRYF reklamne studio,-20010.0,zaloha za reklamne plochy 06/24,24009,Republika
+55,2024-02-01,GRYF reklamne studio,-6900.0,zaloha za reklamne plochy 04/24,24007,Republika
+56,2024-02-01,GRYF reklamne studio,-9384.0,zaloha za reklamne plochy 03/24,24006,Republika
+57,2024-02-01,REPUBLIKA,100000.0,prevod prostriedkov na transparentny ucet, ,Republika
+58,2024-01-31, ,-7.0,Vedenie účtu,9,Republika
+59,2024-02-15,FACEBK *QE9MGX3XC2,-210.0,EUR NÁKUP POS FACEBK *QE9MGX3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+60,2024-02-14,FACEBK *CSBEFX3XC2,-140.0,EUR NÁKUP POS FACEBK *CSBEFX3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+61,2024-02-12,FACEBK *5TWUGXBXC2,-100.0,EUR NÁKUP POS FACEBK *5TWUGXBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+62,2024-02-09,ENERGO ZUGOV S.R.O.,-230.6,Platba/Giselle tlacova konferencia,"20240002
 VS20240002/SS/KS",Progresívne Slovensko
-58,2024-02-08,FACEBK *LARSBX7XC2,-60.0,EUR NÁKUP POS FACEBK *LARSBX7XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-59,2024-02-07,FACEBK *CMHV7XXXC2,-40.0,EUR NÁKUP POS FACEBK *CMHV7XXXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-60,2024-02-06,"
+63,2024-02-09,FACEBK *66L2AX3XC2,-90.0,EUR NÁKUP POS FACEBK *66L2AX3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+64,2024-02-08,FACEBK *LARSBX7XC2,-60.0,EUR NÁKUP POS FACEBK *LARSBX7XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+65,2024-02-07,FACEBK *CMHV7XXXC2,-40.0,"
+                        EUR NÁKUP POS FACEBK *CMHV7XXXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+66,2024-02-06,"
                             FACEBK *WBF9UX3YC2
                     ",-10.0,"
                         EUR NÁKUP POS FACEBK *WBF9UX3YC2 / fb.me/ads / (POS 99999999)
@@ -69,28 +81,12 @@ VS20240002/SS/KS",Progresívne Slovensko
                     ","
                         
                     ",Progresívne Slovensko
-61,2024-02-06,FACEBK *NG355X3XC2,-4.0,EUR NÁKUP POS FACEBK *NG355X3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-62,2024-02-06,FACEBK *98478X7XC2,-5.0,EUR NÁKUP POS FACEBK *98478X7XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-63,2024-02-06,"
-                            FACEBK *2UFD5XXXC2
-                    ",-6.0,"
-                        EUR NÁKUP POS FACEBK *2UFD5XXXC2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Progresívne Slovensko
-64,2024-02-06,"
-                            FACEBK *ZST6UX3YC2
-                    ",-9.0,"
-                        EUR NÁKUP POS FACEBK *ZST6UX3YC2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Progresívne Slovensko
-65,2024-02-06,FACEBK *TCRX9XBXC2,-6.14,EUR NÁKUP POS FACEBK *TCRX9XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-66,2024-02-06,"
+67,2024-02-06,FACEBK *TCRX9XBXC2,-6.14,EUR NÁKUP POS FACEBK *TCRX9XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+68,2024-02-06,FACEBK *98478X7XC2,-5.0,EUR NÁKUP POS FACEBK *98478X7XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+69,2024-02-06,FACEBK *2UFD5XXXC2,-6.0,EUR NÁKUP POS FACEBK *2UFD5XXXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+70,2024-02-06,FACEBK *ZST6UX3YC2,-9.0,EUR NÁKUP POS FACEBK *ZST6UX3YC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+71,2024-02-06,FACEBK *NG355X3XC2,-4.0,EUR NÁKUP POS FACEBK *NG355X3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+72,2024-02-06,"
                             FACEBK *GYWPSYKXC2
                     ",-12.0,"
                         EUR NÁKUP POS FACEBK *GYWPSYKXC2 / fb.me/ads / (POS 99999999)
@@ -99,7 +95,7 @@ VS20240002/SS/KS",Progresívne Slovensko
                     ","
                         
                     ",Progresívne Slovensko
-67,2024-02-06,"
+73,2024-02-06,"
                             FACEBK *QB8RTXFXC2
                     ",-18.0,"
                         EUR NÁKUP POS FACEBK *QB8RTXFXC2 / fb.me/ads / (POS 99999999)
@@ -108,7 +104,7 @@ VS20240002/SS/KS",Progresívne Slovensko
                     ","
                         
                     ",Progresívne Slovensko
-68,2024-02-06,"
+74,2024-02-06,"
                             FACEBK *G3QBTYKXC2
                     ",-22.0,"
                         EUR NÁKUP POS FACEBK *G3QBTYKXC2 / fb.me/ads / (POS 99999999)
@@ -117,11 +113,25 @@ VS20240002/SS/KS",Progresívne Slovensko
                     ","
                         
                     ",Progresívne Slovensko
-69,2024-02-06,FACEBK *VMWJTYKXC2,-27.0,EUR NÁKUP POS FACEBK *VMWJTYKXC2 / fb.me/ads / (POS 99999999),"
+75,2024-02-06,"
+                            FACEBK *VMWJTYKXC2
+                    ",-27.0,"
+                        EUR NÁKUP POS FACEBK *VMWJTYKXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
                         
                     ",Progresívne Slovensko
-70,2024-02-06,FACEBK *88UEZWPXC2,-33.0,EUR NÁKUP POS FACEBK *88UEZWPXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-71,2024-02-06,"
+76,2024-02-06,"
+                            FACEBK *88UEZWPXC2
+                    ",-33.0,"
+                        EUR NÁKUP POS FACEBK *88UEZWPXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+77,2024-02-06,"
                             FACEBK *PNREUX3YC2
                     ",-15.0,"
                         EUR NÁKUP POS FACEBK *PNREUX3YC2 / fb.me/ads / (POS 99999999)
@@ -130,19 +140,19 @@ VS20240002/SS/KS",Progresívne Slovensko
                     ","
                         
                     ",Progresívne Slovensko
-72,2024-02-05,FACEBK *62FYRXFXC2,-2.0,EUR NÁKUP POS FACEBK *62FYRXFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-73,2024-02-05,FACEBK *YQ4U8XBXC2,-2.0,EUR NÁKUP POS FACEBK *YQ4U8XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-74,2024-02-05,FACEBK *A4CDZZTXC2,-2.0,EUR NÁKUP POS FACEBK *A4CDZZTXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-75,2024-02-05,FACEBK *JZLV8XBXC2,-2.0,EUR NÁKUP POS FACEBK *JZLV8XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-76,2024-02-05,FACEBK *MCFXRXFXC2,-2.0,EUR NÁKUP POS FACEBK *MCFXRXFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-77,2024-02-05,FACEBK *JVJ9RYKXC2,-2.0,EUR NÁKUP POS FACEBK *JVJ9RYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-78,2024-02-05,FACEBK *ZANARYKXC2,-2.0,EUR NÁKUP POS FACEBK *ZANARYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-79,2024-02-05,FACEBK *UKDBRYKXC2,-2.0,EUR NÁKUP POS FACEBK *UKDBRYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-80,2024-02-05,FACEBK *73B39XBXC2,-3.0,EUR NÁKUP POS FACEBK *73B39XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-81,2024-02-05,FACEBK *4HE64X3XC2,-3.0,EUR NÁKUP POS FACEBK *4HE64X3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-82,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
-83,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
-84,2024-02-01,"Unimedia spol. ,s.r.",-44850.0,Platba/UNIMEDIA OOH 02-03 2024,"720240006
+78,2024-02-05,FACEBK *62FYRXFXC2,-2.0,EUR NÁKUP POS FACEBK *62FYRXFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+79,2024-02-05,FACEBK *YQ4U8XBXC2,-2.0,EUR NÁKUP POS FACEBK *YQ4U8XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+80,2024-02-05,FACEBK *A4CDZZTXC2,-2.0,EUR NÁKUP POS FACEBK *A4CDZZTXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+81,2024-02-05,FACEBK *JZLV8XBXC2,-2.0,EUR NÁKUP POS FACEBK *JZLV8XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+82,2024-02-05,FACEBK *MCFXRXFXC2,-2.0,EUR NÁKUP POS FACEBK *MCFXRXFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+83,2024-02-05,FACEBK *JVJ9RYKXC2,-2.0,EUR NÁKUP POS FACEBK *JVJ9RYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+84,2024-02-05,FACEBK *ZANARYKXC2,-2.0,EUR NÁKUP POS FACEBK *ZANARYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+85,2024-02-05,FACEBK *UKDBRYKXC2,-2.0,EUR NÁKUP POS FACEBK *UKDBRYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+86,2024-02-05,FACEBK *73B39XBXC2,-3.0,EUR NÁKUP POS FACEBK *73B39XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+87,2024-02-05,FACEBK *4HE64X3XC2,-3.0,EUR NÁKUP POS FACEBK *4HE64X3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+88,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
+89,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
+90,2024-02-01,"Unimedia spol. ,s.r.",-44850.0,Platba/UNIMEDIA OOH 02-03 2024,"720240006
 VS720240006/SS/KS",Progresívne Slovensko
-85,2024-01-31,,-0.0,Poplatok za balík,,Progresívne Slovensko
-86,2024-01-31,Progresívne Slovensko,70000.0,Platba/prevod medzi uctami,,Progresívne Slovensko
+91,2024-01-31,,-0.0,Poplatok za balík,,Progresívne Slovensko
+92,2024-01-31,Progresívne Slovensko,70000.0,Platba/prevod medzi uctami,,Progresívne Slovensko
