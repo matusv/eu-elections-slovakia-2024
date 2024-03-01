@@ -1,2 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Kresťanskodemokratické hnutie,2024-02-22,50000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH,Bezhotovostný vklad,2222024,
+0,,2024-02-29,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2024-02-29,-1.55,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,Kresťanskodemokratické hnutie,2024-02-22,50000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH,Bezhotovostný vklad,2222024.0,
