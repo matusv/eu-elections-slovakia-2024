@@ -1,26 +1,31 @@
 index,date,amount,account_name,message,vs
-0,2024-03-01,-960.0,Platba kartou,FACEBK 6S3LNYFEC2 fb.me/ads,****639
-1,2024-03-01,-960.0,Platba kartou,FACEBK 8AE8KZXD fb.me/ads,****639
-2,2024-03-01,-14.0, ,Ročný popl. Vydanie/obnova karty,639
-3,2024-03-01,-3.5, ,P-Zmena pod. vzoru právnická osoba, 
-4,2024-03-01,-4692.0,GRYF reklamne studio,prenajom reklamnych ploch 05/2024,24022
-5,2024-02-29,-3.52, ,Poplatky za platby spolu,9
-6,2024-02-29,-0.2, ,Popl.za 1x elektronický výpis,9
-7,2024-02-29,-7.0, ,Vedenie účtu,9
-8,2024-02-29,-960.0,Platba kartou,FACEBK KDFF6YTD fb.me/ads,****639
-9,2024-02-26,-960.0,Platba kartou,FACEBK 87DA5ZBE fb.me/ads,****639
-10,2024-02-26,-960.0,"VUB,A.S.",DDFACEBK~R5EQ7ZBEfb.me/ads~~~~~~P1,****639
-11,2024-02-21,-6600.0,"ARTON, sro",bilbordy 03/2024,240058
-12,2024-02-21,-6486.0,"CyberSoft, sro",reklamna kampan 03/2024,24021901
-13,2024-02-21,-726.0,"ARTON, sro",tlac plagatov,240059
-14,2024-02-01,-60.5,APPKEE,tarif aplikacia 02/2024,20230649
-15,2024-02-01,-60.5,APPKEE,tarif aplikacia 01/2024,20240055
-16,2024-02-01,-60.5,APPKEE,tarif aplikacia 11/2023,20230849
-17,2024-02-01,-60.5,APPKEE,tarif aplikacia 12/2023,20230943
-18,2024-02-01,-11880.0,GRYF reklamne studio,zaloha za reklamne plochy big 05/24,24010
-19,2024-02-01,-20838.0,GRYF reklamne studio,zaloha za reklamne plochy 05/24,24008
-20,2024-02-01,-20010.0,GRYF reklamne studio,zaloha za reklamne plochy 06/24,24009
-21,2024-02-01,-6900.0,GRYF reklamne studio,zaloha za reklamne plochy 04/24,24007
-22,2024-02-01,-9384.0,GRYF reklamne studio,zaloha za reklamne plochy 03/24,24006
-23,2024-02-01,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet, 
-24,2024-01-31,-7.0, ,Vedenie účtu,9
+0,2024-03-04,-960.0,Platba kartou,FACEBK FL5UQZXDC2 fb.me/ads,****639
+1,2024-03-02,-960.0,Platba kartou,FACEBK GAXE7Y3EC2 fb.me/ads,****639
+2,2024-03-01,-960.0,Platba kartou,FACEBK 6S3LNYFEC2 fb.me/ads,****639
+3,2024-03-04,-792.0,"NUBIUM, s.r.o", ,24031488
+4,2024-03-04,50000.0,REPUBLIKA, , 
+5,2024-03-04,50000.0,REPUBLIKA, , 
+6,2024-03-01,-960.0,Platba kartou,FACEBK 8AE8KZXD fb.me/ads,****639
+7,2024-03-01,-14.0, ,Ročný popl. Vydanie/obnova karty,639
+8,2024-03-01,-3.5, ,P-Zmena pod. vzoru právnická osoba, 
+9,2024-03-01,-4692.0,GRYF reklamne studio,prenajom reklamnych ploch 05/2024,24022
+10,2024-02-29,-3.52, ,Poplatky za platby spolu,9
+11,2024-02-29,-0.2, ,Popl.za 1x elektronický výpis,9
+12,2024-02-29,-7.0, ,Vedenie účtu,9
+13,2024-02-29,-960.0,Platba kartou,FACEBK KDFF6YTD fb.me/ads,****639
+14,2024-02-26,-960.0,Platba kartou,FACEBK 87DA5ZBE fb.me/ads,****639
+15,2024-02-26,-960.0,"VUB,A.S.",DDFACEBK~R5EQ7ZBEfb.me/ads~~~~~~P1,****639
+16,2024-02-21,-6600.0,"ARTON, sro",bilbordy 03/2024,240058
+17,2024-02-21,-6486.0,"CyberSoft, sro",reklamna kampan 03/2024,24021901
+18,2024-02-21,-726.0,"ARTON, sro",tlac plagatov,240059
+19,2024-02-01,-60.5,APPKEE,tarif aplikacia 02/2024,20230649
+20,2024-02-01,-60.5,APPKEE,tarif aplikacia 01/2024,20240055
+21,2024-02-01,-60.5,APPKEE,tarif aplikacia 11/2023,20230849
+22,2024-02-01,-60.5,APPKEE,tarif aplikacia 12/2023,20230943
+23,2024-02-01,-11880.0,GRYF reklamne studio,zaloha za reklamne plochy big 05/24,24010
+24,2024-02-01,-20838.0,GRYF reklamne studio,zaloha za reklamne plochy 05/24,24008
+25,2024-02-01,-20010.0,GRYF reklamne studio,zaloha za reklamne plochy 06/24,24009
+26,2024-02-01,-6900.0,GRYF reklamne studio,zaloha za reklamne plochy 04/24,24007
+27,2024-02-01,-9384.0,GRYF reklamne studio,zaloha za reklamne plochy 03/24,24006
+28,2024-02-01,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet, 
+29,2024-01-31,-7.0, ,Vedenie účtu,9
