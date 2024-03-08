@@ -1,32 +1,33 @@
 index,date,amount,account_name,message,vs
-0,2024-03-05,-960.0,Platba kartou,FACEBK G7M8NY7EC2 fb.me/ads,****639
-1,2024-03-04,-960.0,Platba kartou,FACEBK FL5UQZXDC2 fb.me/ads,****639
-2,2024-03-04,-960.0,Platba kartou,FACEBK GAXE7Y3E fb.me/ads,****639
-3,2024-03-04,-960.0,Platba kartou,FACEBK 6S3LNYFE fb.me/ads,****639
-4,2024-03-04,-792.0,"NUBIUM, s.r.o", ,24031488
-5,2024-03-04,50000.0,REPUBLIKA, , 
+0,2024-03-06,-960.0,Platba kartou,FACEBK H268LYPDC2 fb.me/ads,****639
+1,2024-03-05,-960.0,Platba kartou,FACEBK G7M8NY7EC2 fb.me/ads,****639
+2,2024-03-06,-960.0,Platba kartou,FACEBK FL5UQZXD fb.me/ads,****639
+3,2024-03-04,-960.0,"VUB,A.S.",DDFACEBK~GAXE7Y3Efb.me/ads~~~~~~P1,****639
+4,2024-03-04,-960.0,"VUB,A.S.",DDFACEBK~6S3LNYFEfb.me/ads~~~~~~P1,****639
+5,2024-03-04,-792.0,"NUBIUM, s.r.o", ,24031488
 6,2024-03-04,50000.0,REPUBLIKA, , 
-7,2024-03-01,-960.0,"VUB,A.S.",DDFACEBK~8AE8KZXDfb.me/ads~~~~~~P1,****639
-8,2024-03-01,-14.0, ,Ročný popl. Vydanie/obnova karty,639
-9,2024-03-01,-3.5, ,P-Zmena pod. vzoru právnická osoba, 
-10,2024-03-01,-4692.0,GRYF reklamne studio,prenajom reklamnych ploch 05/2024,24022
-11,2024-02-29,-3.52, ,Poplatky za platby spolu,9
-12,2024-02-29,-0.2, ,Popl.za 1x elektronický výpis,9
-13,2024-02-29,-7.0, ,Vedenie účtu,9
-14,2024-02-29,-960.0,Platba kartou,FACEBK KDFF6YTD fb.me/ads,****639
-15,2024-02-26,-960.0,Platba kartou,FACEBK 87DA5ZBE fb.me/ads,****639
-16,2024-02-26,-960.0,"VUB,A.S.",DDFACEBK~R5EQ7ZBEfb.me/ads~~~~~~P1,****639
-17,2024-02-21,-6600.0,"ARTON, sro",bilbordy 03/2024,240058
-18,2024-02-21,-6486.0,"CyberSoft, sro",reklamna kampan 03/2024,24021901
-19,2024-02-21,-726.0,"ARTON, sro",tlac plagatov,240059
-20,2024-02-01,-60.5,APPKEE,tarif aplikacia 02/2024,20230649
-21,2024-02-01,-60.5,APPKEE,tarif aplikacia 01/2024,20240055
-22,2024-02-01,-60.5,APPKEE,tarif aplikacia 11/2023,20230849
-23,2024-02-01,-60.5,APPKEE,tarif aplikacia 12/2023,20230943
-24,2024-02-01,-11880.0,GRYF reklamne studio,zaloha za reklamne plochy big 05/24,24010
-25,2024-02-01,-20838.0,GRYF reklamne studio,zaloha za reklamne plochy 05/24,24008
-26,2024-02-01,-20010.0,GRYF reklamne studio,zaloha za reklamne plochy 06/24,24009
-27,2024-02-01,-6900.0,GRYF reklamne studio,zaloha za reklamne plochy 04/24,24007
-28,2024-02-01,-9384.0,GRYF reklamne studio,zaloha za reklamne plochy 03/24,24006
-29,2024-02-01,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet, 
-30,2024-01-31,-7.0, ,Vedenie účtu,9
+7,2024-03-04,50000.0,REPUBLIKA, , 
+8,2024-03-01,-960.0,"VUB,A.S.",DDFACEBK~8AE8KZXDfb.me/ads~~~~~~P1,****639
+9,2024-03-01,-14.0, ,Ročný popl. Vydanie/obnova karty,639
+10,2024-03-01,-3.5, ,P-Zmena pod. vzoru právnická osoba, 
+11,2024-03-01,-4692.0,GRYF reklamne studio,prenajom reklamnych ploch 05/2024,24022
+12,2024-02-29,-3.52, ,Poplatky za platby spolu,9
+13,2024-02-29,-0.2, ,Popl.za 1x elektronický výpis,9
+14,2024-02-29,-7.0, ,Vedenie účtu,9
+15,2024-02-29,-960.0,Platba kartou,FACEBK KDFF6YTD fb.me/ads,****639
+16,2024-02-26,-960.0,Platba kartou,FACEBK 87DA5ZBE fb.me/ads,****639
+17,2024-02-26,-960.0,"VUB,A.S.",DDFACEBK~R5EQ7ZBEfb.me/ads~~~~~~P1,****639
+18,2024-02-21,-6600.0,"ARTON, sro",bilbordy 03/2024,240058
+19,2024-02-21,-6486.0,"CyberSoft, sro",reklamna kampan 03/2024,24021901
+20,2024-02-21,-726.0,"ARTON, sro",tlac plagatov,240059
+21,2024-02-01,-60.5,APPKEE,tarif aplikacia 02/2024,20230649
+22,2024-02-01,-60.5,APPKEE,tarif aplikacia 01/2024,20240055
+23,2024-02-01,-60.5,APPKEE,tarif aplikacia 11/2023,20230849
+24,2024-02-01,-60.5,APPKEE,tarif aplikacia 12/2023,20230943
+25,2024-02-01,-11880.0,GRYF reklamne studio,zaloha za reklamne plochy big 05/24,24010
+26,2024-02-01,-20838.0,GRYF reklamne studio,zaloha za reklamne plochy 05/24,24008
+27,2024-02-01,-20010.0,GRYF reklamne studio,zaloha za reklamne plochy 06/24,24009
+28,2024-02-01,-6900.0,GRYF reklamne studio,zaloha za reklamne plochy 04/24,24007
+29,2024-02-01,-9384.0,GRYF reklamne studio,zaloha za reklamne plochy 03/24,24006
+30,2024-02-01,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet, 
+31,2024-01-31,-7.0, ,Vedenie účtu,9
