@@ -1,2 +1,4 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2024-03-01,10.0,Platba prevodom v rámci banky,Pirátska strana - Slovensko,,,,,
+0,2024-03-08,-1700.0,Bezhotovostná platba,,VOLEBNA KAUCIA EP 2024,,42228034,,VOLEBNA KAUCIA EP 2024
+1,2024-03-08,1700.0,Platba prevodom v rámci banky,Pirátska strana - Slovensko,Kaucia do volieb EP,,,,Kaucia do volieb EP
+2,2024-03-01,10.0,Platba prevodom v rámci banky,Pirátska strana - Slovensko,,,,,
