@@ -1,22 +1,57 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-03-05,-14.79,EUR,FACEBK 7CTZJZ34L2,EUR NÁKUP POS FACEBK 7CTZJZ34L2 / fb.me/ads / (POS 99999999),
-1,2024-03-04,-12208.02,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 3. cast","3624004
+0,2024-03-09,100.0,EUR,Andrea Janicka Rudnayova,Platba,
+1,2024-03-08,1000.0,EUR,Dominik Sumbal,Platba/Dar volby do EU,
+2,2024-03-05,-14.79,EUR,FACEBK 7CTZJZ34L2,EUR NÁKUP POS FACEBK 7CTZJZ34L2 / fb.me/ads / (POS 99999999),
+3,2024-03-04,-12208.02,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 3. cast","3624004
 VS3624004/SS/KS0308"
-2,2024-03-01,-30000.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 2.cast","3624004
+4,2024-03-01,-30000.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 2.cast","3624004
 VS3624004/SS/KS0308"
-3,2024-03-01,-30000.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 1.cast","3624004
-VS3624004/SS/KS0308"
-4,2024-03-01,2000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
-5,2024-02-29,-0.0,EUR,,Poplatok za balík,
-6,2024-02-28,31000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
-7,2024-02-26,-20601.0,EUR,"Magna Global Slovakia, s.r.o.","
+5,2024-03-01,-30000.0,EUR,"
+                            Magna Global Slovakia, s.r.o.
+                    ","
+                        Platba
+                    /
+                        kampan EP, billboard, maj / 1.cast
+                    ","
+                        3624004VS3624004/SS/KS0308
+                    "
+6,2024-03-01,2000.0,EUR,"
+                            Demokrati
+                    ","
+                        Platba
+                    /
+                        na uhradu vydavkov kampane volieb do EP z BU Demokrati
+                    ","
+                        
+                    "
+7,2024-02-29,-0.0,EUR,"
+                            
+                    ","
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    "
+8,2024-02-28,31000.0,EUR,"
+                            Demokrati
+                    ","
+                        Platba
+                    /
+                        na uhradu vydavkov kampane volieb do EP z BU Demokrati
+                    ","
+                        
+                    "
+9,2024-02-26,-20601.0,EUR,"
+                            Magna Global Slovakia, s.r.o.
+                    ","
                         Platba
                     /
                         kampan EP, billboard, april
                     ","
                         3624003VS3624003/SS/KS0308
                     "
-8,2024-02-26,60000.0,EUR,"
+10,2024-02-26,60000.0,EUR,"
                             Demokrati
                     ","
                         Platba
