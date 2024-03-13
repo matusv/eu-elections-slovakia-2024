@@ -1,2 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Jakub Lóška,2024-03-04,0.01,EUR,na stroj času ktorý vráti p.Záborskú do 13.storočia,Bezhotovostný vklad,,
+0,"JM create, s.r.o.",2024-03-13,-28173.6,EUR,Úhrada ZFA 30240002 prenájom a tlač citylightov,Platobný príkaz na úhradu / FIT 2.0 (EB),30240002.0,
+1,Kresťanská únia,2024-03-13,30000.0,EUR,Prevod fin. prostriedkov z bežného účtu Kresťanská únia,Bezhotovostný vklad,,
+2,Jakub Lóška,2024-03-04,0.01,EUR,na stroj času ktorý vráti p.Záborskú do 13.storočia,Bezhotovostný vklad,,
