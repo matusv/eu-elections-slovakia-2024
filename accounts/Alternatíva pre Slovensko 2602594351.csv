@@ -1,70 +1,77 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2024-03-13,50.0,Bezhotovostný príjem,RASTISLAV KRAJCIK,dar,,,,RASTISLAV KRAJCIK
-1,2024-03-12,-6.0,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 11.3.2024, částka  6.00 EUR",,9269,,"Nákup: T-PRESS,  TRNAVA, SK, dne 11.3.2024, částka  6.00 EUR obal A4"
-2,2024-03-11,-5.95,Transakcia kartou,,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 10.3.2024, částka  5.95 EUR",,9269,,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 10.3.2024, částka  5.95 EUR USB kľúč"
-3,2024-03-09,-20.0,Transakcia kartou,,"Nákup: SHELL 8262, BAJKALSKA, SK, dne 8.3.2024, částka  20.00 EUR",,9269,,"Nákup: SHELL 8262, BAJKALSKA, SK, dne 8.3.2024, částka  20.00 EUR"
-4,2024-03-09,-14.3,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 8.3.2024, částka  14.30 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 8.3.2024, částka  14.30 EUR cartridge HP 652 color"
-5,2024-03-09,-2.55,Transakcia kartou,,"Nákup: ZSSK, A.S., BRATISLAVA, SK, dne 8.3.2024, částka  2.55 EUR",,9269,,"Nákup: ZSSK, A.S., BRATISLAVA, SK, dne 8.3.2024, částka  2.55 EUR"
-6,2024-03-08,-1700.0,Bezhotovostná platba,,"Kaucia volby EP 2024 Alternativa pr
+0,2024-03-16,-2.35,Transakcia kartou,,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 15.3.2024, částka  2.35 EUR",,9269,,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 15.3.2024, částka  2.35 EUR"
+1,2024-03-15,-2.55,Transakcia kartou,,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 14.3.2024, částka  2.55 EUR",,9269,,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 14.3.2024, částka  2.55 EUR"
+2,2024-03-14,-27.0,Transakcia kartou,,"Nákup: ALL IN 1 SPORT PUB,TT, TRNAVA, SK, dne 13.3.2024, částka  27.00 EUR",,9269,,"Nákup: ALL IN 1 SPORT PUB,TT, TRNAVA, SK, dne 13.3.2024, částka  27.00 EUR"
+3,2024-03-14,-14.0,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 13.3.2024, částka  14.00 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 13.3.2024, částka  14.00 EUR"
+4,2024-03-14,-2.4,Transakcia kartou,,"Nákup: Milano 2, Trnava, SK, dne 13.3.2024, částka  2.40 EUR",,9269,,"Nákup: Milano 2, Trnava, SK, dne 13.3.2024, částka  2.40 EUR"
+5,2024-03-14,-4.0,Transakcia kartou,,"Nákup: UNO caffetteria, Trnava, SK, dne 13.3.2024, částka  4.00 EUR",,9269,,"Nákup: UNO caffetteria, Trnava, SK, dne 13.3.2024, částka  4.00 EUR"
+6,2024-03-14,2.5,Platba prevodom v rámci banky,"Mgr. Uhlíková, Ivana",,,,,
+7,2024-03-13,50.0,Bezhotovostný príjem,RASTISLAV KRAJCIK,dar,,,,RASTISLAV KRAJCIK
+8,2024-03-12,-6.0,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 11.3.2024, částka  6.00 EUR",,9269,,"Nákup: T-PRESS,  TRNAVA, SK, dne 11.3.2024, částka  6.00 EUR obal A4"
+9,2024-03-11,-5.95,Transakcia kartou,,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 10.3.2024, částka  5.95 EUR",,9269,,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 10.3.2024, částka  5.95 EUR USB kľúč"
+10,2024-03-09,-20.0,Transakcia kartou,,"Nákup: SHELL 8262, BAJKALSKA, SK, dne 8.3.2024, částka  20.00 EUR",,9269,,"Nákup: SHELL 8262, BAJKALSKA, SK, dne 8.3.2024, částka  20.00 EUR"
+11,2024-03-09,-14.3,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 8.3.2024, částka  14.30 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 8.3.2024, částka  14.30 EUR cartridge HP 652 color"
+12,2024-03-09,-2.55,Transakcia kartou,,"Nákup: ZSSK, A.S., BRATISLAVA, SK, dne 8.3.2024, částka  2.55 EUR",,9269,,"Nákup: ZSSK, A.S., BRATISLAVA, SK, dne 8.3.2024, částka  2.55 EUR"
+13,2024-03-08,-1700.0,Bezhotovostná platba,,"Kaucia volby EP 2024 Alternativa pr
 e Slovensko",,42256330,,Kaucia voľby do EP 2024 Alternatíva pre Slovensko
-7,2024-03-07,1750.0,Platba prevodom v rámci banky,"Mgr. Uhlíková, Ivana",Pozicka,,,,Pozicka
-8,2024-02-29,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
-9,2024-01-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
-10,2024-01-18,-3.0,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS,TT,KOLL, TRNAVA, SK, dne 17.1.2024, částka  3.00 EUR",,9269,,"Nákup: TRAFIKA T-PRESS,TT,KOLL, TRNAVA, SK, dne 17.1.2024, částka  3.00 EUR Fix čierna"
-11,2024-01-17,-21.0,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS,TT, HOS, TRNAVA, SK, dne 16.1.2024, částka  21.00 EUR",,9269,,"Nákup: TRAFIKA T-PRESS,TT, HOS, TRNAVA, SK, dne 16.1.2024, částka  21.00 EUR Polica lepenková"
-12,2024-01-17,-6.0,Transakcia kartou,,"Nákup: 2024 TERNO J.Bottu, Trnava, SK, dne 16.1.2024, částka  6.00 EUR",,9269,,"Nákup: 2024 TERNO J.Bottu, Trnava, SK, dne 16.1.2024, částka  6.00 EUR Rámik A4"
-13,2024-01-17,-10.0,Transakcia kartou,,"Nákup: Restauracia Brooklyn T, Trnava, SK, dne 16.1.2024, částka  10.00 EUR",,9269,,"Nákup: Restauracia Brooklyn T, Trnava, SK, dne 16.1.2024, částka  10.00 EUR"
-14,2024-01-16,20.0,Bezhotovostný príjem,RASTISLAV KRAJCIK,clenske 2024,,,,RASTISLAV KRAJCIK
-15,2024-01-16,20.0,Bezhotovostný príjem,NOVOTNY MILOS,/DO2024-01-15/SPClenske 2024,,,,NOVOTNY MILOS
-16,2024-01-09,-4.8,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 8.1.2024, částka  4.80 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 8.1.2024, částka  4.80 EUR Obálky sada A4"
-17,2024-01-08,-7.69,Transakcia kartou,,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 7.1.2024, částka  7.69 EUR",,9269,,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 7.1.2024, částka  7.69 EUR Tlač materiály"
-18,2024-01-06,-13.58,Transakcia kartou,,"Nákup: SHELL 8262, BAJKALSKA, SK, dne 5.1.2024, částka  13.58 EUR",,9269,,"Nákup: SHELL 8262, BAJKALSKA, SK, dne 5.1.2024, částka  13.58 EUR"
-19,2024-01-06,-14.9,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 5.1.2024, částka  14.90 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 5.1.2024, částka  14.90 EUR Obal doska A4"
-20,2024-01-05,-12.5,Transakcia kartou,,"Nákup: SNYT, Bratislava -, SK, dne 4.1.2024, částka  12.50 EUR",,9269,,"Nákup: SNYT, Bratislava -, SK, dne 4.1.2024, částka  12.50 EUR Príprava snem repre"
-21,2024-01-05,-6.4,Transakcia kartou,,"Nákup: PERON, TN, KOLLAROVA, TRNAVA, SK, dne 4.1.2024, částka  6.40 EUR",,9269,,"Nákup: PERON, TN, KOLLAROVA, TRNAVA, SK, dne 4.1.2024, částka  6.40 EUR Diár"
-22,2024-01-05,-18.3,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 4.1.2024, částka  18.30 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 4.1.2024, částka  18.30 EUR Sada Perá"
-23,2024-01-05,-50.64,Transakcia kartou,,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 4.1.2024, částka  50.64 EUR",,9269,,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 4.1.2024, částka  50.64 EUR Tlač materiály A4"
-24,2024-01-05,-14.4,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 4.1.2024, částka  14.40 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 4.1.2024, částka  14.40 EUR Kanc. potreby mix"
-25,2024-01-05,-63.0,Transakcia kartou,,"Nákup: Hotel Nivy, Bratislava, SK, dne 4.1.2024, částka  63.00 EUR",,9269,,"Nákup: Hotel Nivy, Bratislava, SK, dne 4.1.2024, částka  63.00 EUR"
-26,2024-01-05,-2.55,Transakcia kartou,,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 4.1.2024, částka  2.55 EUR",,9269,,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 4.1.2024, částka  2.55 EUR"
-27,2024-01-03,-90.0,Bezhotovostná platba,,,,,,Inventarizácia 2023
-28,2024-01-03,100.0,Bezhotovostný príjem,"Paul Podolay, Jana P",Podolay - dar 2024,,,,"Paul Podolay, Jana P"
-29,2024-01-03,-60.0,Bezhotovostná platba,,,,202353,,nájom 12/2023
-30,2024-01-03,-36.3,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS,TT,KOLL, TRNAVA, SK, dne 2.1.2024, částka  36.30 EUR",,9269,,"Nákup: TRAFIKA T-PRESS,TT,KOLL, TRNAVA, SK, dne 2.1.2024, částka  36.30 EUR HP Deskjet 2135"
-31,2024-01-03,-4.0,Transakcia kartou,,"Nákup: Albatros, Trnava, SK, dne 2.1.2024, částka  4.00 EUR",,9269,,"Nákup: Albatros, Trnava, SK, dne 2.1.2024, částka  4.00 EUR Kanc. podložka"
-32,2024-01-03,20.0,Bezhotovostný príjem,VLASKO JAN,/DO2024-01-02/SPCLENSKE 2023 JAN VLASKO,,,,Členské 2023 VLASKO JAN
-33,2024-01-02,50.0,Bezhotovostný príjem,Mihalik Juraj,/DO2023-12-31/SPClenske 2023 doplatok Juraj Mihalik,,,,Členské 2023 Mihálik Juraj - doplatok
-34,2024-01-02,20.0,Bezhotovostný príjem,"Domorák Martin, Ing.",/DO2023-12-30/SPClenske 2023,,,,"Členské 2023 Domorák Martin, Ing."
-35,2024-01-02,10.0,Bezhotovostný príjem,Anton Paučin,/DO2023-12-29/SPčlenské 2023 Paučin Anton,,,,Členské 2023 Anton Paučin
-36,2024-01-02,20.0,Bezhotovostný príjem,Andrea Slivová,/DO2024-01-01/SPClenske 2023 Michal Blažek,,,,Členské 2023 Michal Blažek
-37,2024-01-02,100.0,Bezhotovostný príjem,Ivana Uhlíková,/DO2023-12-30/SPČlenské 2023 Anton Železník,,,,Členské 2023 Anton Železník
-38,2024-01-02,20.0,Bezhotovostný príjem,"Šimončič Richard, Mg",/DO2023-12-29/SPClenske 2023,,,,"Členské 2023 Šimončič Richard, Mg"
-39,2024-01-02,20.0,Bezhotovostný príjem,Milan Rusnák,/DO2023-12-31/SPČlenské 2023,,,,Členské 2023 Milan Rusnák
-40,2024-01-02,20.0,Bezhotovostný príjem,Milan Rusnák,/DO2023-12-31/SPČlenské ApS Vlado Očadlík,,,,Členské 2023 Vladimír Očadlík
-41,2024-01-02,20.0,Bezhotovostný príjem,Ivana Uhlíková,/DO2023-12-31/SPČlenské 2023 Ivana Uhlíková,,,,Členské 2023 Ivana Uhlíková
-42,2023-12-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
-43,2023-12-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,3718,,poplatek za pojištění
-44,2023-12-30,-6.95,Transakcia kartou,,"Nákup: 2024 TERNO J.Bottu, Trnava, SK, dne 29.12.2023, částka  6.95 EUR",,9269,,"Nákup: 2024 TERNO J.Bottu, Trnava, SK, dne 29.12.2023, částka  6.95 EUR A4 Obal 100 ks"
-45,2023-12-30,-19.9,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 29.12.2023, částka  19.90 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 29.12.2023, částka  19.90 EUR Kancelársky papier A4/80g"
-46,2023-12-29,-20.4,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS,TT, HOS, TRNAVA, SK, dne 28.12.2023, částka  20.40 EUR",,9269,,"Nákup: TRAFIKA T-PRESS,TT, HOS, TRNAVA, SK, dne 28.12.2023, částka  20.40 EUR Toner  HP 652"
-47,2023-12-29,-12.3,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 28.12.2023, částka  12.30 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 28.12.2023, částka  12.30 EUR Šanóny"
-48,2023-12-29,20.0,Bezhotovostný príjem,Patrik Zvonár,/DO2023-12-29/SP Clenske 2023,,,,Členské 2023 Patrik Zvonár
-49,2023-12-28,20.0,Bezhotovostný príjem,Miloš Medovič,/DO2023-12-27/SP Clenske 2023,,,,Členské 2023 Miloš Medovič
-50,2023-12-28,20.0,Bezhotovostný príjem,MIHALIK MILAN,/DO2023-12-27/SPClenske 2023 Mihalik Milan,,,,Členské 2023 MIHALIK MILAN
-51,2023-12-21,-1.0,Bezhotovostná platba,,Dar pre Vagus,0308,3000469835,,Dar pre Vagus
-52,2023-11-30,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
-53,2023-11-30,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,3718,,poplatek za pojištění
-54,2023-11-30,-1.0,Bezhotovostná platba,,,,,,Preplatok vrátenie
-55,2023-11-03,10.0,Bezhotovostný príjem,Miloš Medovič,/DO2023-11-03/SP Dar,,,,Miloš Medovič
-56,2023-10-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
-57,2023-10-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,3718,,poplatek za pojištění
-58,2023-09-30,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
-59,2023-09-30,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,3718,,poplatek za pojištění
-60,2023-08-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
-61,2023-08-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,3718,,poplatek za pojištění
-62,2023-08-21,-3.5,Poplatok - platobná karta,,"Založení karty, číslo bylo přiděleno",,9269,,"Založení karty, číslo bylo přiděleno"
-63,2023-07-23,-4.8,Bezhotovostná platba,,,,,,"tlač, viazanie"
-64,2023-07-13,-31.3,Bezhotovostná platba,,,,,,"kopirovanie, tlac"
-65,2023-07-13,-43.5,Bezhotovostná platba,,,,,,skolenie 11.7.2023
-66,2023-07-13,-70.0,Bezhotovostná platba,,,,,,web design
-67,2023-07-13,150.0,Bezhotovostný príjem,"Česnek Viktor, Ing.,",/DO2023-07-12/SP,,,,"Česnek Viktor, Ing.,"
+14,2024-03-07,1750.0,Platba prevodom v rámci banky,"Mgr. Uhlíková, Ivana",Pozicka,,,,Pozicka
+15,2024-02-29,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
+16,2024-01-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
+17,2024-01-18,-3.0,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS,TT,KOLL, TRNAVA, SK, dne 17.1.2024, částka  3.00 EUR",,9269,,"Nákup: TRAFIKA T-PRESS,TT,KOLL, TRNAVA, SK, dne 17.1.2024, částka  3.00 EUR Fix čierna"
+18,2024-01-17,-21.0,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS,TT, HOS, TRNAVA, SK, dne 16.1.2024, částka  21.00 EUR",,9269,,"Nákup: TRAFIKA T-PRESS,TT, HOS, TRNAVA, SK, dne 16.1.2024, částka  21.00 EUR Polica lepenková"
+19,2024-01-17,-6.0,Transakcia kartou,,"Nákup: 2024 TERNO J.Bottu, Trnava, SK, dne 16.1.2024, částka  6.00 EUR",,9269,,"Nákup: 2024 TERNO J.Bottu, Trnava, SK, dne 16.1.2024, částka  6.00 EUR Rámik A4"
+20,2024-01-17,-10.0,Transakcia kartou,,"Nákup: Restauracia Brooklyn T, Trnava, SK, dne 16.1.2024, částka  10.00 EUR",,9269,,"Nákup: Restauracia Brooklyn T, Trnava, SK, dne 16.1.2024, částka  10.00 EUR"
+21,2024-01-16,20.0,Bezhotovostný príjem,RASTISLAV KRAJCIK,clenske 2024,,,,RASTISLAV KRAJCIK
+22,2024-01-16,20.0,Bezhotovostný príjem,NOVOTNY MILOS,/DO2024-01-15/SPClenske 2024,,,,NOVOTNY MILOS
+23,2024-01-09,-4.8,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 8.1.2024, částka  4.80 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 8.1.2024, částka  4.80 EUR Obálky sada A4"
+24,2024-01-08,-7.69,Transakcia kartou,,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 7.1.2024, částka  7.69 EUR",,9269,,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 7.1.2024, částka  7.69 EUR Tlač materiály"
+25,2024-01-06,-13.58,Transakcia kartou,,"Nákup: SHELL 8262, BAJKALSKA, SK, dne 5.1.2024, částka  13.58 EUR",,9269,,"Nákup: SHELL 8262, BAJKALSKA, SK, dne 5.1.2024, částka  13.58 EUR"
+26,2024-01-06,-14.9,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 5.1.2024, částka  14.90 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 5.1.2024, částka  14.90 EUR Obal doska A4"
+27,2024-01-05,-12.5,Transakcia kartou,,"Nákup: SNYT, Bratislava -, SK, dne 4.1.2024, částka  12.50 EUR",,9269,,"Nákup: SNYT, Bratislava -, SK, dne 4.1.2024, částka  12.50 EUR Príprava snem repre"
+28,2024-01-05,-6.4,Transakcia kartou,,"Nákup: PERON, TN, KOLLAROVA, TRNAVA, SK, dne 4.1.2024, částka  6.40 EUR",,9269,,"Nákup: PERON, TN, KOLLAROVA, TRNAVA, SK, dne 4.1.2024, částka  6.40 EUR Diár"
+29,2024-01-05,-18.3,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 4.1.2024, částka  18.30 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 4.1.2024, částka  18.30 EUR Sada Perá"
+30,2024-01-05,-50.64,Transakcia kartou,,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 4.1.2024, částka  50.64 EUR",,9269,,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 4.1.2024, částka  50.64 EUR Tlač materiály A4"
+31,2024-01-05,-14.4,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 4.1.2024, částka  14.40 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 4.1.2024, částka  14.40 EUR Kanc. potreby mix"
+32,2024-01-05,-63.0,Transakcia kartou,,"Nákup: Hotel Nivy, Bratislava, SK, dne 4.1.2024, částka  63.00 EUR",,9269,,"Nákup: Hotel Nivy, Bratislava, SK, dne 4.1.2024, částka  63.00 EUR"
+33,2024-01-05,-2.55,Transakcia kartou,,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 4.1.2024, částka  2.55 EUR",,9269,,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 4.1.2024, částka  2.55 EUR"
+34,2024-01-03,-90.0,Bezhotovostná platba,,,,,,Inventarizácia 2023
+35,2024-01-03,100.0,Bezhotovostný príjem,"Paul Podolay, Jana P",Podolay - dar 2024,,,,"Paul Podolay, Jana P"
+36,2024-01-03,-60.0,Bezhotovostná platba,,,,202353,,nájom 12/2023
+37,2024-01-03,-36.3,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS,TT,KOLL, TRNAVA, SK, dne 2.1.2024, částka  36.30 EUR",,9269,,"Nákup: TRAFIKA T-PRESS,TT,KOLL, TRNAVA, SK, dne 2.1.2024, částka  36.30 EUR HP Deskjet 2135"
+38,2024-01-03,-4.0,Transakcia kartou,,"Nákup: Albatros, Trnava, SK, dne 2.1.2024, částka  4.00 EUR",,9269,,"Nákup: Albatros, Trnava, SK, dne 2.1.2024, částka  4.00 EUR Kanc. podložka"
+39,2024-01-03,20.0,Bezhotovostný príjem,VLASKO JAN,/DO2024-01-02/SPCLENSKE 2023 JAN VLASKO,,,,Členské 2023 VLASKO JAN
+40,2024-01-02,50.0,Bezhotovostný príjem,Mihalik Juraj,/DO2023-12-31/SPClenske 2023 doplatok Juraj Mihalik,,,,Členské 2023 Mihálik Juraj - doplatok
+41,2024-01-02,20.0,Bezhotovostný príjem,"Domorák Martin, Ing.",/DO2023-12-30/SPClenske 2023,,,,"Členské 2023 Domorák Martin, Ing."
+42,2024-01-02,10.0,Bezhotovostný príjem,Anton Paučin,/DO2023-12-29/SPčlenské 2023 Paučin Anton,,,,Členské 2023 Anton Paučin
+43,2024-01-02,20.0,Bezhotovostný príjem,Andrea Slivová,/DO2024-01-01/SPClenske 2023 Michal Blažek,,,,Členské 2023 Michal Blažek
+44,2024-01-02,100.0,Bezhotovostný príjem,Ivana Uhlíková,/DO2023-12-30/SPČlenské 2023 Anton Železník,,,,Členské 2023 Anton Železník
+45,2024-01-02,20.0,Bezhotovostný príjem,"Šimončič Richard, Mg",/DO2023-12-29/SPClenske 2023,,,,"Členské 2023 Šimončič Richard, Mg"
+46,2024-01-02,20.0,Bezhotovostný príjem,Milan Rusnák,/DO2023-12-31/SPČlenské 2023,,,,Členské 2023 Milan Rusnák
+47,2024-01-02,20.0,Bezhotovostný príjem,Milan Rusnák,/DO2023-12-31/SPČlenské ApS Vlado Očadlík,,,,Členské 2023 Vladimír Očadlík
+48,2024-01-02,20.0,Bezhotovostný príjem,Ivana Uhlíková,/DO2023-12-31/SPČlenské 2023 Ivana Uhlíková,,,,Členské 2023 Ivana Uhlíková
+49,2023-12-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
+50,2023-12-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,3718,,poplatek za pojištění
+51,2023-12-30,-6.95,Transakcia kartou,,"Nákup: 2024 TERNO J.Bottu, Trnava, SK, dne 29.12.2023, částka  6.95 EUR",,9269,,"Nákup: 2024 TERNO J.Bottu, Trnava, SK, dne 29.12.2023, částka  6.95 EUR A4 Obal 100 ks"
+52,2023-12-30,-19.9,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 29.12.2023, částka  19.90 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 29.12.2023, částka  19.90 EUR Kancelársky papier A4/80g"
+53,2023-12-29,-20.4,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS,TT, HOS, TRNAVA, SK, dne 28.12.2023, částka  20.40 EUR",,9269,,"Nákup: TRAFIKA T-PRESS,TT, HOS, TRNAVA, SK, dne 28.12.2023, částka  20.40 EUR Toner  HP 652"
+54,2023-12-29,-12.3,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 28.12.2023, částka  12.30 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 28.12.2023, částka  12.30 EUR Šanóny"
+55,2023-12-29,20.0,Bezhotovostný príjem,Patrik Zvonár,/DO2023-12-29/SP Clenske 2023,,,,Členské 2023 Patrik Zvonár
+56,2023-12-28,20.0,Bezhotovostný príjem,Miloš Medovič,/DO2023-12-27/SP Clenske 2023,,,,Členské 2023 Miloš Medovič
+57,2023-12-28,20.0,Bezhotovostný príjem,MIHALIK MILAN,/DO2023-12-27/SPClenske 2023 Mihalik Milan,,,,Členské 2023 MIHALIK MILAN
+58,2023-12-21,-1.0,Bezhotovostná platba,,Dar pre Vagus,0308,3000469835,,Dar pre Vagus
+59,2023-11-30,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
+60,2023-11-30,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,3718,,poplatek za pojištění
+61,2023-11-30,-1.0,Bezhotovostná platba,,,,,,Preplatok vrátenie
+62,2023-11-03,10.0,Bezhotovostný príjem,Miloš Medovič,/DO2023-11-03/SP Dar,,,,Miloš Medovič
+63,2023-10-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
+64,2023-10-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,3718,,poplatek za pojištění
+65,2023-09-30,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
+66,2023-09-30,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,3718,,poplatek za pojištění
+67,2023-08-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9269,,poplatek za pojištění
+68,2023-08-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,3718,,poplatek za pojištění
+69,2023-08-21,-3.5,Poplatok - platobná karta,,"Založení karty, číslo bylo přiděleno",,9269,,"Založení karty, číslo bylo přiděleno"
+70,2023-07-23,-4.8,Bezhotovostná platba,,,,,,"tlač, viazanie"
+71,2023-07-13,-31.3,Bezhotovostná platba,,,,,,"kopirovanie, tlac"
+72,2023-07-13,-43.5,Bezhotovostná platba,,,,,,skolenie 11.7.2023
+73,2023-07-13,-70.0,Bezhotovostná platba,,,,,,web design
+74,2023-07-13,150.0,Bezhotovostný príjem,"Česnek Viktor, Ing.,",/DO2023-07-12/SP,,,,"Česnek Viktor, Ing.,"
