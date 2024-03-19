@@ -1,4 +1,5 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2024-03-08,-1700.0,Bezhotovostná platba,,VOLEBNA KAUCIA EP 2024,,42228034,,VOLEBNA KAUCIA EP 2024
-1,2024-03-08,1700.0,Platba prevodom v rámci banky,Pirátska strana - Slovensko,Kaucia do volieb EP,,,,Kaucia do volieb EP
-2,2024-03-01,10.0,Platba prevodom v rámci banky,Pirátska strana - Slovensko,,,,,
+0,2024-03-19,25.0,Bezhotovostný príjem,Gloznek Miloš,"?/DO2024-03-18/SPMilos Gloznek, DAR",,,2024,Gloznek Miloš
+1,2024-03-08,-1700.0,Bezhotovostná platba,,VOLEBNA KAUCIA EP 2024,,42228034,,VOLEBNA KAUCIA EP 2024
+2,2024-03-08,1700.0,Platba prevodom v rámci banky,Pirátska strana - Slovensko,Kaucia do volieb EP,,,,Kaucia do volieb EP
+3,2024-03-01,10.0,Platba prevodom v rámci banky,Pirátska strana - Slovensko,,,,,

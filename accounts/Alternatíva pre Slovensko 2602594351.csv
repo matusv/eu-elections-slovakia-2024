@@ -2,7 +2,7 @@ index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2024-03-16,-2.35,Transakcia kartou,,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 15.3.2024, částka  2.35 EUR",,9269,,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 15.3.2024, částka  2.35 EUR"
 1,2024-03-15,-2.55,Transakcia kartou,,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 14.3.2024, částka  2.55 EUR",,9269,,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 14.3.2024, částka  2.55 EUR"
 2,2024-03-14,-27.0,Transakcia kartou,,"Nákup: ALL IN 1 SPORT PUB,TT, TRNAVA, SK, dne 13.3.2024, částka  27.00 EUR",,9269,,"Nákup: ALL IN 1 SPORT PUB,TT, TRNAVA, SK, dne 13.3.2024, částka  27.00 EUR"
-3,2024-03-14,-14.0,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 13.3.2024, částka  14.00 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 13.3.2024, částka  14.00 EUR"
+3,2024-03-14,-14.0,Transakcia kartou,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 13.3.2024, částka  14.00 EUR",,9269,,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 13.3.2024, částka  14.00 EUR balík podložky A3"
 4,2024-03-14,-2.4,Transakcia kartou,,"Nákup: Milano 2, Trnava, SK, dne 13.3.2024, částka  2.40 EUR",,9269,,"Nákup: Milano 2, Trnava, SK, dne 13.3.2024, částka  2.40 EUR"
 5,2024-03-14,-4.0,Transakcia kartou,,"Nákup: UNO caffetteria, Trnava, SK, dne 13.3.2024, částka  4.00 EUR",,9269,,"Nákup: UNO caffetteria, Trnava, SK, dne 13.3.2024, částka  4.00 EUR"
 6,2024-03-14,2.5,Platba prevodom v rámci banky,"Mgr. Uhlíková, Ivana",,,,,
