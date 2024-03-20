@@ -7,17 +7,78 @@ VS60083/SS7/KS"
 3,2024-03-18,-751.11,EUR,AUSTRIAN AI 2572163418378,EUR NÁKUP POS AUSTRIAN AI 2572163418378 / TICKET MAILED / (POS 99999999),
 4,2024-03-18,-652.11,EUR,AUSTRIAN AI 2572163418337,EUR NÁKUP POS AUSTRIAN AI 2572163418337 / TICKET MAILED / (POS 99999999),
 5,2024-03-18,-800.11,EUR,AUSTRIAN AI 2572163418298,EUR NÁKUP POS AUSTRIAN AI 2572163418298 / TICKET MAILED / (POS 99999999),
-6,2024-03-18,-283.8,EUR,AUSTRIAN AIR2572163349657,EUR NÁKUP POS AUSTRIAN AIR2572163349657 / WWW.LUFTHANSA / (POS 28341049),
-7,2024-03-14,-759.35,EUR,BKG*HOTEL AT BOOKING.C,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850189),
-8,2024-03-12,-298.8,EUR,LASA s.r.o.,Platba/prenajom podia tlacovka 6.3.2024,"2024014
-VS2024014/SS/KS"
-9,2024-03-12,-800.0,EUR,FACEBK MHU242LXC2,EUR NÁKUP POS FACEBK MHU242LXC2 / fb.me/ads / (POS 99999999),
-10,2024-03-11,-720.0,EUR,FACEBK *LR8F7YPXC2,EUR NÁKUP POS FACEBK *LR8F7YPXC2 / fb.me/ads / (POS 99999999),
-11,2024-03-08,-480.0,EUR,FACEBK *9KXGYYFXC2,EUR NÁKUP POS FACEBK *9KXGYYFXC2 / fb.me/ads / (POS 99999999),
-12,2024-03-07,-250.0,EUR,Ján Čief,"Platba/diskusia BB 29.2.2024 osvetlenie, ozvucenie","946
-VS0946/SS/KS"
-13,2024-03-07,-69.0,EUR,FRESH REPUBLIC s. r. o.,Platba/FRESH REPUBLIC obcerstvenie tlacova konferencia,"2024104
-VS2024104/SS/KS"
+6,2024-03-18,-283.8,EUR,"
+                            AUSTRIAN AIR2572163349657
+                    ","
+                        EUR NÁKUP POS AUSTRIAN AIR2572163349657 / WWW.LUFTHANSA / (POS 28341049)
+                    /
+                        
+                    ","
+                        
+                    "
+7,2024-03-14,-759.35,EUR,"
+                            BKG*HOTEL AT BOOKING.C
+                    ","
+                        EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850189)
+                    /
+                        
+                    ","
+                        
+                    "
+8,2024-03-12,-298.8,EUR,"
+                            LASA s.r.o.
+                    ","
+                        Platba
+                    /
+                        prenajom podia tlacovka 6.3.2024
+                    ","
+                        2024014VS2024014/SS/KS
+                    "
+9,2024-03-12,-800.0,EUR,"
+                            FACEBK MHU242LXC2
+                    ","
+                        EUR NÁKUP POS FACEBK MHU242LXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+10,2024-03-11,-720.0,EUR,"
+                            FACEBK *LR8F7YPXC2
+                    ","
+                        EUR NÁKUP POS FACEBK *LR8F7YPXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+11,2024-03-08,-480.0,EUR,"
+                            FACEBK *9KXGYYFXC2
+                    ","
+                        EUR NÁKUP POS FACEBK *9KXGYYFXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+12,2024-03-07,-250.0,EUR,"
+                            Ján Čief
+                    ","
+                        Platba
+                    /
+                        diskusia BB 29.2.2024 osvetlenie, ozvucenie
+                    ","
+                        946VS0946/SS/KS
+                    "
+13,2024-03-07,-69.0,EUR,"
+                            FRESH REPUBLIC s. r. o.
+                    ","
+                        Platba
+                    /
+                        FRESH REPUBLIC obcerstvenie tlacova konferencia
+                    ","
+                        2024104VS2024104/SS/KS
+                    "
 14,2024-03-05,-3110.4,EUR,TrollWall AI,"Platba/TrollWall sluzby, 5uctov , 03-06 2024","20240304
 VS20240304/SS/KS"
 15,2024-03-05,-3600.0,EUR,JANA GOGH S. R. O.,Platba/Gogh reklamne a marketingove sluzby 02 24,"20240008

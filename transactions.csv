@@ -170,22 +170,83 @@ index,date,account_name,amount,message,vs,name
 168,2024-03-18,David Marcel,100.0,Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60084
 VS60084/SS7/KS",Progresívne Slovensko
 169,2024-03-18,AUSTRIAN AI 2572163418337,-652.11,EUR NÁKUP POS AUSTRIAN AI 2572163418337 / TICKET MAILED / (POS 99999999),,Progresívne Slovensko
-170,2024-03-18,AUSTRIAN AIR2572163349657,-283.8,EUR NÁKUP POS AUSTRIAN AIR2572163349657 / WWW.LUFTHANSA / (POS 28341049),,Progresívne Slovensko
+170,2024-03-18,"
+                            AUSTRIAN AIR2572163349657
+                    ",-283.8,"
+                        EUR NÁKUP POS AUSTRIAN AIR2572163349657 / WWW.LUFTHANSA / (POS 28341049)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
 171,2024-03-18,AUSTRIAN AI 2572163418298,-800.11,EUR NÁKUP POS AUSTRIAN AI 2572163418298 / TICKET MAILED / (POS 99999999),,Progresívne Slovensko
 172,2024-03-18,"Kocúr Miroslav, ThDr., PhD.",77.77,Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60083
 VS60083/SS7/KS",Progresívne Slovensko
 173,2024-03-18,AUSTRIAN AI 2572163418378,-751.11,EUR NÁKUP POS AUSTRIAN AI 2572163418378 / TICKET MAILED / (POS 99999999),,Progresívne Slovensko
 174,2024-03-18,AUSTRIAN AIR2572163395725,-329.42,EUR NÁKUP POS AUSTRIAN AIR2572163395725 / WWW.LUFTHANSA / (POS 28341049),,Progresívne Slovensko
-175,2024-03-14,BKG*HOTEL AT BOOKING.C,-759.35,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850189),,Progresívne Slovensko
-176,2024-03-12,LASA s.r.o.,-298.8,Platba/prenajom podia tlacovka 6.3.2024,"2024014
-VS2024014/SS/KS",Progresívne Slovensko
-177,2024-03-12,FACEBK MHU242LXC2,-800.0,EUR NÁKUP POS FACEBK MHU242LXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-178,2024-03-11,FACEBK *LR8F7YPXC2,-720.0,EUR NÁKUP POS FACEBK *LR8F7YPXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-179,2024-03-08,FACEBK *9KXGYYFXC2,-480.0,EUR NÁKUP POS FACEBK *9KXGYYFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-180,2024-03-07,Ján Čief,-250.0,"Platba/diskusia BB 29.2.2024 osvetlenie, ozvucenie","946
-VS0946/SS/KS",Progresívne Slovensko
-181,2024-03-07,FRESH REPUBLIC s. r. o.,-69.0,Platba/FRESH REPUBLIC obcerstvenie tlacova konferencia,"2024104
-VS2024104/SS/KS",Progresívne Slovensko
+175,2024-03-14,"
+                            BKG*HOTEL AT BOOKING.C
+                    ",-759.35,"
+                        EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850189)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+176,2024-03-12,"
+                            LASA s.r.o.
+                    ",-298.8,"
+                        Platba
+                    /
+                        prenajom podia tlacovka 6.3.2024
+                    ","
+                        2024014VS2024014/SS/KS
+                    ",Progresívne Slovensko
+177,2024-03-12,"
+                            FACEBK MHU242LXC2
+                    ",-800.0,"
+                        EUR NÁKUP POS FACEBK MHU242LXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+178,2024-03-11,"
+                            FACEBK *LR8F7YPXC2
+                    ",-720.0,"
+                        EUR NÁKUP POS FACEBK *LR8F7YPXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+179,2024-03-08,"
+                            FACEBK *9KXGYYFXC2
+                    ",-480.0,"
+                        EUR NÁKUP POS FACEBK *9KXGYYFXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+180,2024-03-07,"
+                            Ján Čief
+                    ",-250.0,"
+                        Platba
+                    /
+                        diskusia BB 29.2.2024 osvetlenie, ozvucenie
+                    ","
+                        946VS0946/SS/KS
+                    ",Progresívne Slovensko
+181,2024-03-07,"
+                            FRESH REPUBLIC s. r. o.
+                    ",-69.0,"
+                        Platba
+                    /
+                        FRESH REPUBLIC obcerstvenie tlacova konferencia
+                    ","
+                        2024104VS2024104/SS/KS
+                    ",Progresívne Slovensko
 182,2024-03-05,"GOKYO, S.R.O.",-420.0,Platba/kostymy ps fotenie,"20240006
 VS20240006/SS/KS",Progresívne Slovensko
 183,2024-03-05,"Unimedia spol. ,s.r.",-239472.9,Platba/UNIMEDIA OOH 04-06 2024,"720240012
