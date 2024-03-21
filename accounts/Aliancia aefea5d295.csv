@@ -1,26 +1,32 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-03-20,-30000,EUR,Ing.Szilard Nemeth - REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, Zaloha na propagacne materialy",VS: 2024108
-1,2024-03-20,-393.6,EUR,Ing.Szilard Nemeth - REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, Vyroba propagacnych materialov",VS: 2024107
-2,2024-03-18,-900,EUR,,"Transakcia platobnou kartou, Suma: 900 EUR 14.03.2024 Miesto: FACEBK GEZXVZBGY2 fb.me/ads","VS: 405000075
+0,2024-03-20,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.03.2024","VS: 497000079
+ŠS: 5032870992
+KS: 6898"
+1,2024-03-20,-900,EUR,,"Transakcia platobnou kartou, Suma: 900 EUR 18.03.2024 Miesto: FACEBK LHMDBZKGY2 fb.me/ads","VS: 405000079
 ŠS: 5032870992
 KS: 0608"
-3,2024-03-18,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.03.2024","VS: 497000075
+2,2024-03-20,-30000,EUR,Ing.Szilard Nemeth - REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, Zaloha na propagacne materialy",VS: 2024108
+3,2024-03-20,-393.6,EUR,Ing.Szilard Nemeth - REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, Vyroba propagacnych materialov",VS: 2024107
+4,2024-03-18,-900,EUR,,"Transakcia platobnou kartou, Suma: 900 EUR 14.03.2024 Miesto: FACEBK GEZXVZBGY2 fb.me/ads","VS: 405000075
+ŠS: 5032870992
+KS: 0608"
+5,2024-03-18,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.03.2024","VS: 497000075
 ŠS: 5032870992
 KS: 6898"
-4,2024-03-18,-150,EUR,CSEMADOK OV Velky Krtis,"Odoslaná platba elektronicky, Uverejnenie reklamy v mesacniku KURTOS c.3/2024","VS: 132024
+6,2024-03-18,-150,EUR,CSEMADOK OV Velky Krtis,"Odoslaná platba elektronicky, Uverejnenie reklamy v mesacniku KURTOS c.3/2024","VS: 132024
 KS: 0308"
-5,2024-03-18,-29184,EUR,H and K Plus s.r.o. ICO: 51471965,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na 4/2024",VS: 30240004
-6,2024-03-13,-2025,EUR,"DARCUS, a.s.","Odoslaná platba elektronicky, Uverejnenie reklamy - bannerova reklama - volby do EP 2024",VS: 2024018
-7,2024-03-13,150000,EUR,MAGYAR SZOVETSEG - M,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby EP 2024",VS: 13032024
-8,2024-03-05,-5,EUR,,"Poplatok platobné karty, Miesto: POPLATOK ZA ZMENU PIN NA Suma: 5 EUR 04.03.2024","VS: 498000064
+7,2024-03-18,-29184,EUR,H and K Plus s.r.o. ICO: 51471965,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na 4/2024",VS: 30240004
+8,2024-03-13,-2025,EUR,"DARCUS, a.s.","Odoslaná platba elektronicky, Uverejnenie reklamy - bannerova reklama - volby do EP 2024",VS: 2024018
+9,2024-03-13,150000,EUR,MAGYAR SZOVETSEG - M,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby EP 2024",VS: 13032024
+10,2024-03-05,-5,EUR,,"Poplatok platobné karty, Miesto: POPLATOK ZA ZMENU PIN NA Suma: 5 EUR 04.03.2024","VS: 498000064
 ŠS: 5032870992
 KS: 6898"
-9,2024-03-05,-5,EUR,,"Poplatok platobné karty, Miesto: POPLATOK ZA ZMENU PIN NA Suma: 5 EUR 04.03.2024","VS: 298000064
+11,2024-03-05,-5,EUR,,"Poplatok platobné karty, Miesto: POPLATOK ZA ZMENU PIN NA Suma: 5 EUR 04.03.2024","VS: 298000064
 ŠS: 3400277176
 KS: 6898"
-10,2024-03-04,-3000,EUR,Vox Juventae,"Odoslaná platba elektronicky, Bannerova reklama - Reklamny priestor na Korkep.sk za obdobie 21.2.2024 - 20.3.2024",VS: 23012024
-11,2024-03-04,-6480,EUR,"DUEL-PRESS, s.r.o.","Odoslaná platba elektronicky, Uverejnenie inzercii v denniku Uj Szo - volby do EP 2024",VS: 7012400148
-12,2024-03-04,-36000,EUR,Ing.Szilard Nemeth-REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, Propagacny material na volby do EP 2024",VS: 2024078
-13,2024-02-28,-16800,EUR,H and K Plus s.r.o. ICO: 51471965,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na marec 2024 - volby do EP 2024",VS: 30240003
-14,2024-02-28,-20000,EUR,Interregionalny vyskumno - rozvojovy institut,"Odoslaná platba elektronicky, Preddavok na realizaciu volebnej kampane do EP 2024",VS: 30240001
-15,2024-02-26,150000,EUR,MAGYAR SZOVETSEG - M,"Prijatá platba, Prevod na transparentny ucet EP volby 2024",VS: 26022024
+12,2024-03-04,-3000,EUR,Vox Juventae,"Odoslaná platba elektronicky, Bannerova reklama - Reklamny priestor na Korkep.sk za obdobie 21.2.2024 - 20.3.2024",VS: 23012024
+13,2024-03-04,-6480,EUR,"DUEL-PRESS, s.r.o.","Odoslaná platba elektronicky, Uverejnenie inzercii v denniku Uj Szo - volby do EP 2024",VS: 7012400148
+14,2024-03-04,-36000,EUR,Ing.Szilard Nemeth-REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, Propagacny material na volby do EP 2024",VS: 2024078
+15,2024-02-28,-16800,EUR,H and K Plus s.r.o. ICO: 51471965,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na marec 2024 - volby do EP 2024",VS: 30240003
+16,2024-02-28,-20000,EUR,Interregionalny vyskumno - rozvojovy institut,"Odoslaná platba elektronicky, Preddavok na realizaciu volebnej kampane do EP 2024",VS: 30240001
+17,2024-02-26,150000,EUR,MAGYAR SZOVETSEG - M,"Prijatá platba, Prevod na transparentny ucet EP volby 2024",VS: 26022024
