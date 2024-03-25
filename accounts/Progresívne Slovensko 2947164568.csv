@@ -7,85 +7,21 @@ VS60087/SS11/KS"
 VS60086/SS7/KS"
 4,2024-03-21,-8328.0,EUR,More Design s. r. o.,"Platba/More Design dizajn web, skolenie,dizajn eu kampan","202412
 VS202412/SS/KS"
-5,2024-03-20,10.0,EUR,Vladislav Pisancik,"
-                        PLATBA
-                    /
-                        dar Miro K.
-                    ","
-                        VS/SS007/KS
-                    "
-6,2024-03-20,-7860.0,EUR,"
-                            MatusBence s.r.o.
-                    ","
-                        Platba
-                    /
-                        Eu volby vizual fotenie
-                    ","
-                        2024006VS2024006/SS/KS
-                    "
-7,2024-03-20,-250.0,EUR,"
-                            BASEfactory s. r. o.
-                    ","
-                        Platba
-                    /
-                        prenajom priestorov fotenie
-                    ","
-                        182024VS0182024/SS/KS
-                    "
-8,2024-03-20,-1404.0,EUR,"
-                            ARTON s.r.o.
-                    ","
-                        Platba
-                    /
-                        Arton tlac plagatov
-                    ","
-                        240114VS240114/SS/KS
-                    "
-9,2024-03-20,-2790.0,EUR,"
-                            ARTON s.r.o.
-                    ","
-                        Platba
-                    /
-                        Arton najom bilboard 15.3-31.3.2024
-                    ","
-                        240113VS240113/SS/KS
-                    "
-10,2024-03-20,40000.0,EUR,"
-                            Progresívne Slovensko
-                    ","
-                        Platba
-                    /
-                        prevod medzi uctami
-                    ","
-                        
-                    "
-11,2024-03-20,-45.7,EUR,"
-                            ZELEZNICNA SPOLOCNOST
-                    ","
-                        POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001)
-                    /
-                        
-                    ","
-                        
-                    "
-12,2024-03-19,180.0,EUR,"
-                            YAR LUCIA
-                    ","
-                        PLATBA
-                    /
-                        Darovacia zmluva na podporu kandidata Lucia Yar v
-                    ","
-                        60082VS60082/SS6/KS
-                    "
-13,2024-03-18,100.0,EUR,"
-                            David Marcel
-                    ","
-                        Platba
-                    /
-                        Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024
-                    ","
-                        60084VS60084/SS7/KS
-                    "
+5,2024-03-20,10.0,EUR,Vladislav Pisancik,PLATBA/dar Miro K.,VS/SS007/KS
+6,2024-03-20,-7860.0,EUR,MatusBence s.r.o.,Platba/Eu volby vizual fotenie,"2024006
+VS2024006/SS/KS"
+7,2024-03-20,-250.0,EUR,BASEfactory s. r. o.,Platba/prenajom priestorov fotenie,"182024
+VS0182024/SS/KS"
+8,2024-03-20,-1404.0,EUR,ARTON s.r.o.,Platba/Arton tlac plagatov,"240114
+VS240114/SS/KS"
+9,2024-03-20,-2790.0,EUR,ARTON s.r.o.,Platba/Arton najom bilboard 15.3-31.3.2024,"240113
+VS240113/SS/KS"
+10,2024-03-20,40000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+11,2024-03-20,-45.7,EUR,ZELEZNICNA SPOLOCNOST,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
+12,2024-03-19,180.0,EUR,YAR LUCIA,PLATBA/Darovacia zmluva na podporu kandidata Lucia Yar v,"60082
+VS60082/SS6/KS"
+13,2024-03-18,100.0,EUR,David Marcel,Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60084
+VS60084/SS7/KS"
 14,2024-03-18,77.77,EUR,"Kocúr Miroslav, ThDr., PhD.",Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60083
 VS60083/SS7/KS"
 15,2024-03-18,-329.42,EUR,AUSTRIAN AIR2572163395725,EUR NÁKUP POS AUSTRIAN AIR2572163395725 / WWW.LUFTHANSA / (POS 28341049),
@@ -99,12 +35,33 @@ VS2024014/SS/KS"
 22,2024-03-12,-800.0,EUR,FACEBK MHU242LXC2,EUR NÁKUP POS FACEBK MHU242LXC2 / fb.me/ads / (POS 99999999),
 23,2024-03-11,-720.0,EUR,FACEBK *LR8F7YPXC2,EUR NÁKUP POS FACEBK *LR8F7YPXC2 / fb.me/ads / (POS 99999999),
 24,2024-03-08,-480.0,EUR,FACEBK *9KXGYYFXC2,EUR NÁKUP POS FACEBK *9KXGYYFXC2 / fb.me/ads / (POS 99999999),
-25,2024-03-07,-250.0,EUR,Ján Čief,"Platba/diskusia BB 29.2.2024 osvetlenie, ozvucenie","946
-VS0946/SS/KS"
-26,2024-03-07,-69.0,EUR,FRESH REPUBLIC s. r. o.,Platba/FRESH REPUBLIC obcerstvenie tlacova konferencia,"2024104
-VS2024104/SS/KS"
-27,2024-03-05,-3110.4,EUR,TrollWall AI,"Platba/TrollWall sluzby, 5uctov , 03-06 2024","20240304
-VS20240304/SS/KS"
+25,2024-03-07,-250.0,EUR,"
+                            Ján Čief
+                    ","
+                        Platba
+                    /
+                        diskusia BB 29.2.2024 osvetlenie, ozvucenie
+                    ","
+                        946VS0946/SS/KS
+                    "
+26,2024-03-07,-69.0,EUR,"
+                            FRESH REPUBLIC s. r. o.
+                    ","
+                        Platba
+                    /
+                        FRESH REPUBLIC obcerstvenie tlacova konferencia
+                    ","
+                        2024104VS2024104/SS/KS
+                    "
+27,2024-03-05,-3110.4,EUR,"
+                            TrollWall AI
+                    ","
+                        Platba
+                    /
+                        TrollWall sluzby, 5uctov , 03-06 2024
+                    ","
+                        20240304VS20240304/SS/KS
+                    "
 28,2024-03-05,-3600.0,EUR,JANA GOGH S. R. O.,Platba/Gogh reklamne a marketingove sluzby 02 24,"20240008
 VS20240008/SS/KS"
 29,2024-03-05,-420.0,EUR,"GOKYO, S.R.O.",Platba/kostymy ps fotenie,"20240006
