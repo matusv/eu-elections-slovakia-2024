@@ -35,33 +35,12 @@ VS2024014/SS/KS"
 22,2024-03-12,-800.0,EUR,FACEBK MHU242LXC2,EUR NÁKUP POS FACEBK MHU242LXC2 / fb.me/ads / (POS 99999999),
 23,2024-03-11,-720.0,EUR,FACEBK *LR8F7YPXC2,EUR NÁKUP POS FACEBK *LR8F7YPXC2 / fb.me/ads / (POS 99999999),
 24,2024-03-08,-480.0,EUR,FACEBK *9KXGYYFXC2,EUR NÁKUP POS FACEBK *9KXGYYFXC2 / fb.me/ads / (POS 99999999),
-25,2024-03-07,-250.0,EUR,"
-                            Ján Čief
-                    ","
-                        Platba
-                    /
-                        diskusia BB 29.2.2024 osvetlenie, ozvucenie
-                    ","
-                        946VS0946/SS/KS
-                    "
-26,2024-03-07,-69.0,EUR,"
-                            FRESH REPUBLIC s. r. o.
-                    ","
-                        Platba
-                    /
-                        FRESH REPUBLIC obcerstvenie tlacova konferencia
-                    ","
-                        2024104VS2024104/SS/KS
-                    "
-27,2024-03-05,-3110.4,EUR,"
-                            TrollWall AI
-                    ","
-                        Platba
-                    /
-                        TrollWall sluzby, 5uctov , 03-06 2024
-                    ","
-                        20240304VS20240304/SS/KS
-                    "
+25,2024-03-07,-250.0,EUR,Ján Čief,"Platba/diskusia BB 29.2.2024 osvetlenie, ozvucenie","946
+VS0946/SS/KS"
+26,2024-03-07,-69.0,EUR,FRESH REPUBLIC s. r. o.,Platba/FRESH REPUBLIC obcerstvenie tlacova konferencia,"2024104
+VS2024104/SS/KS"
+27,2024-03-05,-3110.4,EUR,TrollWall AI,"Platba/TrollWall sluzby, 5uctov , 03-06 2024","20240304
+VS20240304/SS/KS"
 28,2024-03-05,-3600.0,EUR,JANA GOGH S. R. O.,Platba/Gogh reklamne a marketingove sluzby 02 24,"20240008
 VS20240008/SS/KS"
 29,2024-03-05,-420.0,EUR,"GOKYO, S.R.O.",Platba/kostymy ps fotenie,"20240006
@@ -73,14 +52,67 @@ VS720240012/SS/KS"
 33,2024-03-04,-161.85,EUR,FACEBK *SKL2XXPXC2,EUR NÁKUP POS FACEBK *SKL2XXPXC2 / fb.me/ads / (POS 99999999),
 34,2024-03-01,-1700.0,EUR,Ministerstvo vnútra Slovenskej republiky,Platba/volebna kaucia Progresivne Slovensko EU volby,"51224836
 VS51224836/SS/KS"
-35,2024-02-29,-2.6,EUR,,Poplatky za transakcie,
-36,2024-02-29,-7.0,EUR,,Poplatok za balík,
-37,2024-02-27,-1.0,EUR,MES POPLATOK VISA FIREMNA,Mesačný poplatok MES POPLATOK VISA FIREMNA,
-38,2024-02-26,-320.0,EUR,FACEBK *P4TNXX7XC2,EUR NÁKUP POS FACEBK *P4TNXX7XC2 / fb.me/ads / (POS 99999999),
-39,2024-02-22,-48.0,EUR,NEVERENDING STORY s.,Platba/dopravne sluzby tlacovka 20.2,"2401052
-VS2401052/SS/KS"
-40,2024-02-15,-210.0,EUR,FACEBK *QE9MGX3XC2,EUR NÁKUP POS FACEBK *QE9MGX3XC2 / fb.me/ads / (POS 99999999),
-41,2024-02-14,-140.0,EUR,FACEBK *CSBEFX3XC2,EUR NÁKUP POS FACEBK *CSBEFX3XC2 / fb.me/ads / (POS 99999999),
+35,2024-02-29,-2.6,EUR,,"
+                        Poplatky za transakcie
+                    /
+                        
+                    ","
+                        
+                    "
+36,2024-02-29,-7.0,EUR,"
+                            
+                    ","
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    "
+37,2024-02-27,-1.0,EUR,"
+                            MES POPLATOK VISA FIREMNA
+                    ","
+                        Mesačný poplatok MES POPLATOK VISA FIREMNA
+                    /
+                        
+                    ","
+                        
+                    "
+38,2024-02-26,-320.0,EUR,"
+                            FACEBK *P4TNXX7XC2
+                    ","
+                        EUR NÁKUP POS FACEBK *P4TNXX7XC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+39,2024-02-22,-48.0,EUR,"
+                            NEVERENDING STORY s.
+                    ","
+                        Platba
+                    /
+                        dopravne sluzby tlacovka 20.2
+                    ","
+                        2401052VS2401052/SS/KS
+                    "
+40,2024-02-15,-210.0,EUR,"
+                            FACEBK *QE9MGX3XC2
+                    ","
+                        EUR NÁKUP POS FACEBK *QE9MGX3XC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+41,2024-02-14,-140.0,EUR,"
+                            FACEBK *CSBEFX3XC2
+                    ","
+                        EUR NÁKUP POS FACEBK *CSBEFX3XC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
 42,2024-02-12,-100.0,EUR,FACEBK *5TWUGXBXC2,EUR NÁKUP POS FACEBK *5TWUGXBXC2 / fb.me/ads / (POS 99999999),
 43,2024-02-09,-230.6,EUR,ENERGO ZUGOV S.R.O.,Platba/Giselle tlacova konferencia,"20240002
 VS20240002/SS/KS"
