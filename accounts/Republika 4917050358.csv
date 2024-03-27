@@ -1,51 +1,52 @@
 index,date,amount,account_name,message,vs
-0,2024-03-25,-959.96,Platba kartou,FACEBK 6XTL5ZPD fb.me/ads,****639
-1,2024-03-20,-12096.0,"ISPA, spol. s r.o.", ,24950079
-2,2024-03-20,-6720.0,"ARTON, s.r.o.", ,240123
-3,2024-03-20,-1770.0,"G - tvar studia, s.r.o.", ,24001
-4,2024-03-20,-864.0,Ing. Pavol Anderko - ANKO, ,240111
-5,2024-03-20,-739.2,"ARTON, s.r.o.", ,240124
-6,2024-03-20,-504.0,Ing. Pavol Anderko - ANKO, ,244018
-7,2024-03-20,-84.24,RCS reklama s.r.o., ,820240157
-8,2024-03-20,-344.84,Platba kartou,FACEBK HWA84Z7E fb.me/ads,****639
-9,2024-03-19,-960.0,Platba kartou,FACEBK XS4PXYPD fb.me/ads,****639
-10,2024-03-18,-960.0,Platba kartou,FACEBK JEE6SYTD fb.me/ads,****639
-11,2024-03-15,-5796.0,"CyberSoft, s.r.o.", ,24031101
-12,2024-03-15,-6144.0,"ISPA, spol. s r.o.", , 
-13,2024-03-14,-960.0,Platba kartou,FACEBK 5LULSYPD fb.me/ads,****639
-14,2024-03-11,-960.0,"VUB,A.S.",DDFACEBK~V6TMPYPDfb.me/ads~~~~~~P1,****639
-15,2024-03-11,-960.0,"VUB,A.S.",DDFACEBK~F5KNVZXDfb.me/ads~~~~~~P1,****639
-16,2024-03-08,-1664.96, ,SEPA Europrevod/NonSEPAPrevod,820240132
-17,2024-03-08,-960.0,Platba kartou,FACEBK H268LYPD fb.me/ads,****639
-18,2024-03-08,5.0,Peter Varchoľak,"Peter Varcholak, Sadova 493/58, Stakcin 06761, DAR", 
-19,2024-03-07,-960.0,Platba kartou,FACEBK G7M8NY7E fb.me/ads,****639
-20,2024-03-06,-960.0,"VUB,A.S.",DDFACEBK~FL5UQZXDfb.me/ads~~~~~~P1,****639
-21,2024-03-04,-960.0,"VUB,A.S.",DDFACEBK~GAXE7Y3Efb.me/ads~~~~~~P1,****639
-22,2024-03-04,-960.0,"VUB,A.S.",DDFACEBK~6S3LNYFEfb.me/ads~~~~~~P1,****639
-23,2024-03-04,-792.0,"NUBIUM, s.r.o", ,24031488
-24,2024-03-04,50000.0,REPUBLIKA, , 
+0,2024-03-27,-960.0,Platba kartou,FACEBK YUHBB2CEC2 fb.me/ads,****639
+1,2024-03-25,-959.96,Platba kartou,FACEBK 6XTL5ZPD fb.me/ads,****639
+2,2024-03-20,-12096.0,"ISPA, spol. s r.o.", ,24950079
+3,2024-03-20,-6720.0,"ARTON, s.r.o.", ,240123
+4,2024-03-20,-1770.0,"G - tvar studia, s.r.o.", ,24001
+5,2024-03-20,-864.0,Ing. Pavol Anderko - ANKO, ,240111
+6,2024-03-20,-739.2,"ARTON, s.r.o.", ,240124
+7,2024-03-20,-504.0,Ing. Pavol Anderko - ANKO, ,244018
+8,2024-03-20,-84.24,RCS reklama s.r.o., ,820240157
+9,2024-03-20,-344.84,Platba kartou,FACEBK HWA84Z7E fb.me/ads,****639
+10,2024-03-19,-960.0,Platba kartou,FACEBK XS4PXYPD fb.me/ads,****639
+11,2024-03-18,-960.0,Platba kartou,FACEBK JEE6SYTD fb.me/ads,****639
+12,2024-03-15,-5796.0,"CyberSoft, s.r.o.", ,24031101
+13,2024-03-15,-6144.0,"ISPA, spol. s r.o.", , 
+14,2024-03-14,-960.0,Platba kartou,FACEBK 5LULSYPD fb.me/ads,****639
+15,2024-03-11,-960.0,"VUB,A.S.",DDFACEBK~V6TMPYPDfb.me/ads~~~~~~P1,****639
+16,2024-03-11,-960.0,"VUB,A.S.",DDFACEBK~F5KNVZXDfb.me/ads~~~~~~P1,****639
+17,2024-03-08,-1664.96, ,SEPA Europrevod/NonSEPAPrevod,820240132
+18,2024-03-08,-960.0,Platba kartou,FACEBK H268LYPD fb.me/ads,****639
+19,2024-03-08,5.0,Peter Varchoľak,"Peter Varcholak, Sadova 493/58, Stakcin 06761, DAR", 
+20,2024-03-07,-960.0,Platba kartou,FACEBK G7M8NY7E fb.me/ads,****639
+21,2024-03-06,-960.0,"VUB,A.S.",DDFACEBK~FL5UQZXDfb.me/ads~~~~~~P1,****639
+22,2024-03-04,-960.0,"VUB,A.S.",DDFACEBK~GAXE7Y3Efb.me/ads~~~~~~P1,****639
+23,2024-03-04,-960.0,"VUB,A.S.",DDFACEBK~6S3LNYFEfb.me/ads~~~~~~P1,****639
+24,2024-03-04,-792.0,"NUBIUM, s.r.o", ,24031488
 25,2024-03-04,50000.0,REPUBLIKA, , 
-26,2024-03-01,-960.0,"VUB,A.S.",DDFACEBK~8AE8KZXDfb.me/ads~~~~~~P1,****639
-27,2024-03-01,-14.0, ,Ročný popl. Vydanie/obnova karty,639
-28,2024-03-01,-3.5, ,P-Zmena pod. vzoru právnická osoba, 
-29,2024-03-01,-4692.0,GRYF reklamne studio,prenajom reklamnych ploch 05/2024,24022
-30,2024-02-29,-3.52, ,Poplatky za platby spolu,9
-31,2024-02-29,-0.2, ,Popl.za 1x elektronický výpis,9
-32,2024-02-29,-7.0, ,Vedenie účtu,9
-33,2024-02-29,-960.0,Platba kartou,FACEBK KDFF6YTD fb.me/ads,****639
-34,2024-02-26,-960.0,Platba kartou,FACEBK 87DA5ZBE fb.me/ads,****639
-35,2024-02-26,-960.0,"VUB,A.S.",DDFACEBK~R5EQ7ZBEfb.me/ads~~~~~~P1,****639
-36,2024-02-21,-6600.0,"ARTON, sro",bilbordy 03/2024,240058
-37,2024-02-21,-6486.0,"CyberSoft, sro",reklamna kampan 03/2024,24021901
-38,2024-02-21,-726.0,"ARTON, sro",tlac plagatov,240059
-39,2024-02-01,-60.5,APPKEE,tarif aplikacia 02/2024,20230649
-40,2024-02-01,-60.5,APPKEE,tarif aplikacia 01/2024,20240055
-41,2024-02-01,-60.5,APPKEE,tarif aplikacia 11/2023,20230849
-42,2024-02-01,-60.5,APPKEE,tarif aplikacia 12/2023,20230943
-43,2024-02-01,-11880.0,GRYF reklamne studio,zaloha za reklamne plochy big 05/24,24010
-44,2024-02-01,-20838.0,GRYF reklamne studio,zaloha za reklamne plochy 05/24,24008
-45,2024-02-01,-20010.0,GRYF reklamne studio,zaloha za reklamne plochy 06/24,24009
-46,2024-02-01,-6900.0,GRYF reklamne studio,zaloha za reklamne plochy 04/24,24007
-47,2024-02-01,-9384.0,GRYF reklamne studio,zaloha za reklamne plochy 03/24,24006
-48,2024-02-01,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet, 
-49,2024-01-31,-7.0, ,Vedenie účtu,9
+26,2024-03-04,50000.0,REPUBLIKA, , 
+27,2024-03-01,-960.0,"VUB,A.S.",DDFACEBK~8AE8KZXDfb.me/ads~~~~~~P1,****639
+28,2024-03-01,-14.0, ,Ročný popl. Vydanie/obnova karty,639
+29,2024-03-01,-3.5, ,P-Zmena pod. vzoru právnická osoba, 
+30,2024-03-01,-4692.0,GRYF reklamne studio,prenajom reklamnych ploch 05/2024,24022
+31,2024-02-29,-3.52, ,Poplatky za platby spolu,9
+32,2024-02-29,-0.2, ,Popl.za 1x elektronický výpis,9
+33,2024-02-29,-7.0, ,Vedenie účtu,9
+34,2024-02-29,-960.0,Platba kartou,FACEBK KDFF6YTD fb.me/ads,****639
+35,2024-02-26,-960.0,Platba kartou,FACEBK 87DA5ZBE fb.me/ads,****639
+36,2024-02-26,-960.0,"VUB,A.S.",DDFACEBK~R5EQ7ZBEfb.me/ads~~~~~~P1,****639
+37,2024-02-21,-6600.0,"ARTON, sro",bilbordy 03/2024,240058
+38,2024-02-21,-6486.0,"CyberSoft, sro",reklamna kampan 03/2024,24021901
+39,2024-02-21,-726.0,"ARTON, sro",tlac plagatov,240059
+40,2024-02-01,-60.5,APPKEE,tarif aplikacia 02/2024,20230649
+41,2024-02-01,-60.5,APPKEE,tarif aplikacia 01/2024,20240055
+42,2024-02-01,-60.5,APPKEE,tarif aplikacia 11/2023,20230849
+43,2024-02-01,-60.5,APPKEE,tarif aplikacia 12/2023,20230943
+44,2024-02-01,-11880.0,GRYF reklamne studio,zaloha za reklamne plochy big 05/24,24010
+45,2024-02-01,-20838.0,GRYF reklamne studio,zaloha za reklamne plochy 05/24,24008
+46,2024-02-01,-20010.0,GRYF reklamne studio,zaloha za reklamne plochy 06/24,24009
+47,2024-02-01,-6900.0,GRYF reklamne studio,zaloha za reklamne plochy 04/24,24007
+48,2024-02-01,-9384.0,GRYF reklamne studio,zaloha za reklamne plochy 03/24,24006
+49,2024-02-01,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet, 
+50,2024-01-31,-7.0, ,Vedenie účtu,9
