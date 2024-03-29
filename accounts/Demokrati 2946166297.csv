@@ -1,84 +1,25 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-03-25,-3206.7,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, dolepky","3624007
+0,2024-03-27,-100.27,EUR,FACEBK *QU33D2U4L2,EUR NÁKUP POS FACEBK *QU33D2U4L2 / fb.me/ads / (POS 99999999),
+1,2024-03-27,-150.0,EUR,FACEBK *5VJHB244L2,EUR NÁKUP POS FACEBK *5VJHB244L2 / fb.me/ads / (POS 99999999),
+2,2024-03-25,-3206.7,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, dolepky","3624007
 VS3624007/SS/KS0308"
-1,2024-03-25,2000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
-2,2024-03-12,700.0,EUR,"Meravý Tomáš, Ing.",Platba/FB kampan Tomas Meravy 1. cast,
-3,2024-03-11,200.0,EUR,Marek Polonec,"Platba/Jedina strana v historii, ktora nepovalila demokraticku vladu",
-4,2024-03-11,20.0,EUR,Zlatica Medova,Platba/Drzim palce,
-5,2024-03-11,50.0,EUR,Milan Kypus,Platba/Lepsie Slovensko,
-6,2024-03-09,100.0,EUR,"
-                            Andrea Janicka Rudnayova
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-7,2024-03-08,1000.0,EUR,"
-                            Dominik Sumbal
-                    ","
-                        Platba
-                    /
-                        Dar volby do EU
-                    ","
-                        
-                    "
-8,2024-03-05,-14.79,EUR,"
-                            FACEBK 7CTZJZ34L2
-                    ","
-                        EUR NÁKUP POS FACEBK 7CTZJZ34L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-9,2024-03-04,-12208.02,EUR,"
-                            Magna Global Slovakia, s.r.o.
-                    ","
-                        Platba
-                    /
-                        kampan EP, billboard, maj / 3. cast
-                    ","
-                        3624004VS3624004/SS/KS0308
-                    "
-10,2024-03-01,-30000.0,EUR,"
-                            Magna Global Slovakia, s.r.o.
-                    ","
-                        Platba
-                    /
-                        kampan EP, billboard, maj / 2.cast
-                    ","
-                        3624004VS3624004/SS/KS0308
-                    "
-11,2024-03-01,-30000.0,EUR,"
-                            Magna Global Slovakia, s.r.o.
-                    ","
-                        Platba
-                    /
-                        kampan EP, billboard, maj / 1.cast
-                    ","
-                        3624004VS3624004/SS/KS0308
-                    "
-12,2024-03-01,2000.0,EUR,"
-                            Demokrati
-                    ","
-                        Platba
-                    /
-                        na uhradu vydavkov kampane volieb do EP z BU Demokrati
-                    ","
-                        
-                    "
-13,2024-02-29,-0.0,EUR,"
-                            
-                    ","
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    "
-14,2024-02-28,31000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
-15,2024-02-26,-20601.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, april","3624003
+3,2024-03-25,2000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
+4,2024-03-12,700.0,EUR,"Meravý Tomáš, Ing.",Platba/FB kampan Tomas Meravy 1. cast,
+5,2024-03-11,200.0,EUR,Marek Polonec,"Platba/Jedina strana v historii, ktora nepovalila demokraticku vladu",
+6,2024-03-11,20.0,EUR,Zlatica Medova,Platba/Drzim palce,
+7,2024-03-11,50.0,EUR,Milan Kypus,Platba/Lepsie Slovensko,
+8,2024-03-09,100.0,EUR,Andrea Janicka Rudnayova,Platba,
+9,2024-03-08,1000.0,EUR,Dominik Sumbal,Platba/Dar volby do EU,
+10,2024-03-05,-14.79,EUR,FACEBK 7CTZJZ34L2,EUR NÁKUP POS FACEBK 7CTZJZ34L2 / fb.me/ads / (POS 99999999),
+11,2024-03-04,-12208.02,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 3. cast","3624004
+VS3624004/SS/KS0308"
+12,2024-03-01,-30000.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 2.cast","3624004
+VS3624004/SS/KS0308"
+13,2024-03-01,-30000.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 1.cast","3624004
+VS3624004/SS/KS0308"
+14,2024-03-01,2000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
+15,2024-02-29,-0.0,EUR,,Poplatok za balík,
+16,2024-02-28,31000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
+17,2024-02-26,-20601.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, april","3624003
 VS3624003/SS/KS0308"
-16,2024-02-26,60000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
+18,2024-02-26,60000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,

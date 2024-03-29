@@ -1,160 +1,194 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-03-25,-22.87,EUR,KAPWING PRO PLAN,POS nákup zahr. KAPWING PRO PLAN / HTTPSWWW.KAPW / (POS M51SA49E),
-1,2024-03-25,-22.87,EUR,KAPWING PRO PLAN,POS nákup zahr. KAPWING PRO PLAN / HTTPSWWW.KAPW / (POS M51SA49E),
-2,2024-03-22,180.0,EUR,Andreas Rusnak,PLATBA/Darovacia zmluva na podporu kandidata Andreas Rusnak v eurovolbach 2024,"60087
+0,2024-03-27,-1.0,EUR,MES POPLATOK VISA FIREMNA,Mesačný poplatok MES POPLATOK VISA FIREMNA,
+1,2024-03-27,8000.0,EUR,Ing. Michal Wiezik Ph.D.,PLATBA/Michal Wiezik,"5
+VS05/SS/KS"
+2,2024-03-26,-2582.2,EUR,VB MANAGEMENT S.R.O.,"Platba/Hotel Beigli prenajom priestoru, catering 25.3.2024","2400094
+VS2400094/SS/KS"
+3,2024-03-26,-480.0,EUR,PUKAR S.R.O.,Platba/maskerske prace fotenie eu kandidatky,"224008
+VS224008/SS/KS"
+4,2024-03-26,-558.29,EUR,"
+                            NEVERENDING STORY s.
+                    ","
+                        Platba
+                    /
+                        prenajom aut diskusia praha 03 24
+                    ","
+                        2401069VS2401069/SS/KS
+                    "
+5,2024-03-26,-800.0,EUR,"
+                            Slovenská výtvarná únia
+                    ","
+                        Platba
+                    /
+                        prenajom priestorov galeria umelka tlacova konferencia 6.3.2024
+                    ","
+                        2024010VS2024010/SS/KS
+                    "
+6,2024-03-26,-1000.0,EUR,"
+                            MARATÓN s.r.o.
+                    ","
+                        Platba
+                    /
+                        Kosice hotel maraton diskusia 03 24
+                    ","
+                        2024000052VS2024000052/SS/KS
+                    "
+7,2024-03-26,-144.0,EUR,"
+                            ASGUARD SECURITY
+                    ","
+                        Platba
+                    /
+                        Kosice diskusia sbs
+                    ","
+                        5024034VS5024034/SS/KS308
+                    "
+8,2024-03-26,-96.0,EUR,"
+                            ARES SECURITY CORPOR
+                    ","
+                        Platba
+                    /
+                        Banska Bystrica sbs diskusia 29.2.2024
+                    ","
+                        10240029VS10240029/SS/KS308
+                    "
+9,2024-03-26,-204.0,EUR,"
+                            MESTO BANSKA BYSTRIC
+                    ","
+                        Platba
+                    /
+                        Banska Bystrica prenajom priestorov diskusia 29.2.2024
+                    ","
+                        7420240035VS7420240035/SS62/KS3718
+                    "
+10,2024-03-26,-4500.0,EUR,"
+                            ENGRAMS, s.r.o.
+                    ","
+                        Platba
+                    /
+                        Engrams poradenstvo pre kampan do eu volieb 02 24
+                    ","
+                        20240002VS20240002/SS/KS
+                    "
+11,2024-03-26,-4500.0,EUR,"
+                            ENGRAMS, s.r.o.
+                    ","
+                        Platba
+                    /
+                        Engrams poradenstvo pre kampan do eu volieb 01 24
+                    ","
+                        20240001VS20240001/SS/KS
+                    "
+12,2024-03-26,-1603.96,EUR,"
+                            NH COLLECTION BRUSSELS CE
+                    ","
+                        EUR NÁKUP POS NH COLLECTION BRUSSELS CE / BRUXELLES / (POS 21720101)
+                    /
+                        
+                    ","
+                        
+                    "
+13,2024-03-25,-22.87,EUR,"
+                            KAPWING PRO PLAN
+                    ","
+                        POS nákup zahr. KAPWING PRO PLAN / HTTPSWWW.KAPW / (POS M51SA49E)
+                    /
+                        
+                    ","
+                        
+                    "
+14,2024-03-25,-22.87,EUR,KAPWING PRO PLAN,POS nákup zahr. KAPWING PRO PLAN / HTTPSWWW.KAPW / (POS M51SA49E),
+15,2024-03-22,180.0,EUR,Andreas Rusnak,PLATBA/Darovacia zmluva na podporu kandidata Andreas Rusnak v eurovolbach 2024,"60087
 VS60087/SS11/KS"
-3,2024-03-22,-858.48,EUR,NH COLLECTION BRUSSELS CE,EUR NÁKUP POS NH COLLECTION BRUSSELS CE / BRUXELLES / (POS 21720101),
-4,2024-03-22,-3007.44,EUR,NH COLLECTION BRUSSELS CE,EUR NÁKUP POS NH COLLECTION BRUSSELS CE / BRUXELLES / (POS 21720101),
-5,2024-03-21,30.0,EUR,FRIC JOZEF,PLATBA/PS Kocur,"60086
+16,2024-03-22,-858.48,EUR,NH COLLECTION BRUSSELS CE,EUR NÁKUP POS NH COLLECTION BRUSSELS CE / BRUXELLES / (POS 21720101),
+17,2024-03-22,-3007.44,EUR,NH COLLECTION BRUSSELS CE,EUR NÁKUP POS NH COLLECTION BRUSSELS CE / BRUXELLES / (POS 21720101),
+18,2024-03-21,30.0,EUR,FRIC JOZEF,PLATBA/PS Kocur,"60086
 VS60086/SS7/KS"
-6,2024-03-21,-8328.0,EUR,More Design s. r. o.,"Platba/More Design dizajn web, skolenie,dizajn eu kampan","202412
+19,2024-03-21,-8328.0,EUR,More Design s. r. o.,"Platba/More Design dizajn web, skolenie,dizajn eu kampan","202412
 VS202412/SS/KS"
-7,2024-03-20,10.0,EUR,Vladislav Pisancik,PLATBA/dar Miro K.,VS/SS007/KS
-8,2024-03-20,-7860.0,EUR,MatusBence s.r.o.,Platba/Eu volby vizual fotenie,"2024006
+20,2024-03-20,10.0,EUR,Vladislav Pisancik,PLATBA/dar Miro K.,VS/SS007/KS
+21,2024-03-20,-7860.0,EUR,MatusBence s.r.o.,Platba/Eu volby vizual fotenie,"2024006
 VS2024006/SS/KS"
-9,2024-03-20,-250.0,EUR,BASEfactory s. r. o.,Platba/prenajom priestorov fotenie,"182024
+22,2024-03-20,-250.0,EUR,BASEfactory s. r. o.,Platba/prenajom priestorov fotenie,"182024
 VS0182024/SS/KS"
-10,2024-03-20,-1404.0,EUR,ARTON s.r.o.,Platba/Arton tlac plagatov,"240114
+23,2024-03-20,-1404.0,EUR,ARTON s.r.o.,Platba/Arton tlac plagatov,"240114
 VS240114/SS/KS"
-11,2024-03-20,-2790.0,EUR,ARTON s.r.o.,Platba/Arton najom bilboard 15.3-31.3.2024,"240113
+24,2024-03-20,-2790.0,EUR,ARTON s.r.o.,Platba/Arton najom bilboard 15.3-31.3.2024,"240113
 VS240113/SS/KS"
-12,2024-03-20,40000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
-13,2024-03-20,-45.7,EUR,ZELEZNICNA SPOLOCNOST,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
-14,2024-03-19,180.0,EUR,YAR LUCIA,PLATBA/Darovacia zmluva na podporu kandidata Lucia Yar v,"60082
+25,2024-03-20,40000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+26,2024-03-20,-45.7,EUR,ZELEZNICNA SPOLOCNOST,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
+27,2024-03-19,180.0,EUR,YAR LUCIA,PLATBA/Darovacia zmluva na podporu kandidata Lucia Yar v,"60082
 VS60082/SS6/KS"
-15,2024-03-18,100.0,EUR,David Marcel,Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60084
+28,2024-03-18,100.0,EUR,David Marcel,Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60084
 VS60084/SS7/KS"
-16,2024-03-18,77.77,EUR,"Kocúr Miroslav, ThDr., PhD.",Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60083
+29,2024-03-18,77.77,EUR,"Kocúr Miroslav, ThDr., PhD.",Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60083
 VS60083/SS7/KS"
-17,2024-03-18,-329.42,EUR,AUSTRIAN AIR2572163395725,EUR NÁKUP POS AUSTRIAN AIR2572163395725 / WWW.LUFTHANSA / (POS 28341049),
-18,2024-03-18,-751.11,EUR,AUSTRIAN AI 2572163418378,EUR NÁKUP POS AUSTRIAN AI 2572163418378 / TICKET MAILED / (POS 99999999),
-19,2024-03-18,-652.11,EUR,AUSTRIAN AI 2572163418337,EUR NÁKUP POS AUSTRIAN AI 2572163418337 / TICKET MAILED / (POS 99999999),
-20,2024-03-18,-800.11,EUR,"
-                            AUSTRIAN AI 2572163418298
-                    ","
-                        EUR NÁKUP POS AUSTRIAN AI 2572163418298 / TICKET MAILED / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-21,2024-03-18,-283.8,EUR,"
-                            AUSTRIAN AIR2572163349657
-                    ","
-                        EUR NÁKUP POS AUSTRIAN AIR2572163349657 / WWW.LUFTHANSA / (POS 28341049)
-                    /
-                        
-                    ","
-                        
-                    "
-22,2024-03-14,-759.35,EUR,"
-                            BKG*HOTEL AT BOOKING.C
-                    ","
-                        EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850189)
-                    /
-                        
-                    ","
-                        
-                    "
-23,2024-03-12,-298.8,EUR,"
-                            LASA s.r.o.
-                    ","
-                        Platba
-                    /
-                        prenajom podia tlacovka 6.3.2024
-                    ","
-                        2024014VS2024014/SS/KS
-                    "
-24,2024-03-12,-800.0,EUR,"
-                            FACEBK MHU242LXC2
-                    ","
-                        EUR NÁKUP POS FACEBK MHU242LXC2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-25,2024-03-11,-720.0,EUR,"
-                            FACEBK *LR8F7YPXC2
-                    ","
-                        EUR NÁKUP POS FACEBK *LR8F7YPXC2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-26,2024-03-08,-480.0,EUR,"
-                            FACEBK *9KXGYYFXC2
-                    ","
-                        EUR NÁKUP POS FACEBK *9KXGYYFXC2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-27,2024-03-07,-250.0,EUR,"
-                            Ján Čief
-                    ","
-                        Platba
-                    /
-                        diskusia BB 29.2.2024 osvetlenie, ozvucenie
-                    ","
-                        946VS0946/SS/KS
-                    "
-28,2024-03-07,-69.0,EUR,FRESH REPUBLIC s. r. o.,Platba/FRESH REPUBLIC obcerstvenie tlacova konferencia,"2024104
+30,2024-03-18,-329.42,EUR,AUSTRIAN AIR2572163395725,EUR NÁKUP POS AUSTRIAN AIR2572163395725 / WWW.LUFTHANSA / (POS 28341049),
+31,2024-03-18,-751.11,EUR,AUSTRIAN AI 2572163418378,EUR NÁKUP POS AUSTRIAN AI 2572163418378 / TICKET MAILED / (POS 99999999),
+32,2024-03-18,-652.11,EUR,AUSTRIAN AI 2572163418337,EUR NÁKUP POS AUSTRIAN AI 2572163418337 / TICKET MAILED / (POS 99999999),
+33,2024-03-18,-800.11,EUR,AUSTRIAN AI 2572163418298,EUR NÁKUP POS AUSTRIAN AI 2572163418298 / TICKET MAILED / (POS 99999999),
+34,2024-03-18,-283.8,EUR,AUSTRIAN AIR2572163349657,EUR NÁKUP POS AUSTRIAN AIR2572163349657 / WWW.LUFTHANSA / (POS 28341049),
+35,2024-03-14,-759.35,EUR,BKG*HOTEL AT BOOKING.C,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850189),
+36,2024-03-12,-298.8,EUR,LASA s.r.o.,Platba/prenajom podia tlacovka 6.3.2024,"2024014
+VS2024014/SS/KS"
+37,2024-03-12,-800.0,EUR,FACEBK MHU242LXC2,EUR NÁKUP POS FACEBK MHU242LXC2 / fb.me/ads / (POS 99999999),
+38,2024-03-11,-720.0,EUR,FACEBK *LR8F7YPXC2,EUR NÁKUP POS FACEBK *LR8F7YPXC2 / fb.me/ads / (POS 99999999),
+39,2024-03-08,-480.0,EUR,FACEBK *9KXGYYFXC2,EUR NÁKUP POS FACEBK *9KXGYYFXC2 / fb.me/ads / (POS 99999999),
+40,2024-03-07,-250.0,EUR,Ján Čief,"Platba/diskusia BB 29.2.2024 osvetlenie, ozvucenie","946
+VS0946/SS/KS"
+41,2024-03-07,-69.0,EUR,FRESH REPUBLIC s. r. o.,Platba/FRESH REPUBLIC obcerstvenie tlacova konferencia,"2024104
 VS2024104/SS/KS"
-29,2024-03-05,-3110.4,EUR,TrollWall AI,"Platba/TrollWall sluzby, 5uctov , 03-06 2024","20240304
+42,2024-03-05,-3110.4,EUR,TrollWall AI,"Platba/TrollWall sluzby, 5uctov , 03-06 2024","20240304
 VS20240304/SS/KS"
-30,2024-03-05,-3600.0,EUR,JANA GOGH S. R. O.,Platba/Gogh reklamne a marketingove sluzby 02 24,"20240008
+43,2024-03-05,-3600.0,EUR,JANA GOGH S. R. O.,Platba/Gogh reklamne a marketingove sluzby 02 24,"20240008
 VS20240008/SS/KS"
-31,2024-03-05,-420.0,EUR,"GOKYO, S.R.O.",Platba/kostymy ps fotenie,"20240006
+44,2024-03-05,-420.0,EUR,"GOKYO, S.R.O.",Platba/kostymy ps fotenie,"20240006
 VS20240006/SS/KS"
-32,2024-03-05,-239472.9,EUR,"Unimedia spol. ,s.r.",Platba/UNIMEDIA OOH 04-06 2024,"720240012
+45,2024-03-05,-239472.9,EUR,"Unimedia spol. ,s.r.",Platba/UNIMEDIA OOH 04-06 2024,"720240012
 VS720240012/SS/KS"
-33,2024-03-05,240000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
-34,2024-03-04,-45.01,EUR,SHELL 8257,POS nákup SHELL 8257 / EINSTEINOVA / (POS 33825702),
-35,2024-03-04,-161.85,EUR,FACEBK *SKL2XXPXC2,EUR NÁKUP POS FACEBK *SKL2XXPXC2 / fb.me/ads / (POS 99999999),
-36,2024-03-01,-1700.0,EUR,Ministerstvo vnútra Slovenskej republiky,Platba/volebna kaucia Progresivne Slovensko EU volby,"51224836
+46,2024-03-05,240000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+47,2024-03-04,-45.01,EUR,SHELL 8257,POS nákup SHELL 8257 / EINSTEINOVA / (POS 33825702),
+48,2024-03-04,-161.85,EUR,FACEBK *SKL2XXPXC2,EUR NÁKUP POS FACEBK *SKL2XXPXC2 / fb.me/ads / (POS 99999999),
+49,2024-03-01,-1700.0,EUR,Ministerstvo vnútra Slovenskej republiky,Platba/volebna kaucia Progresivne Slovensko EU volby,"51224836
 VS51224836/SS/KS"
-37,2024-02-29,-2.6,EUR,,Poplatky za transakcie,
-38,2024-02-29,-7.0,EUR,,Poplatok za balík,
-39,2024-02-27,-1.0,EUR,MES POPLATOK VISA FIREMNA,Mesačný poplatok MES POPLATOK VISA FIREMNA,
-40,2024-02-26,-320.0,EUR,FACEBK *P4TNXX7XC2,EUR NÁKUP POS FACEBK *P4TNXX7XC2 / fb.me/ads / (POS 99999999),
-41,2024-02-22,-48.0,EUR,NEVERENDING STORY s.,Platba/dopravne sluzby tlacovka 20.2,"2401052
+50,2024-02-29,-2.6,EUR,,Poplatky za transakcie,
+51,2024-02-29,-7.0,EUR,,Poplatok za balík,
+52,2024-02-27,-1.0,EUR,MES POPLATOK VISA FIREMNA,Mesačný poplatok MES POPLATOK VISA FIREMNA,
+53,2024-02-26,-320.0,EUR,FACEBK *P4TNXX7XC2,EUR NÁKUP POS FACEBK *P4TNXX7XC2 / fb.me/ads / (POS 99999999),
+54,2024-02-22,-48.0,EUR,NEVERENDING STORY s.,Platba/dopravne sluzby tlacovka 20.2,"2401052
 VS2401052/SS/KS"
-42,2024-02-15,-210.0,EUR,FACEBK *QE9MGX3XC2,EUR NÁKUP POS FACEBK *QE9MGX3XC2 / fb.me/ads / (POS 99999999),
-43,2024-02-14,-140.0,EUR,FACEBK *CSBEFX3XC2,EUR NÁKUP POS FACEBK *CSBEFX3XC2 / fb.me/ads / (POS 99999999),
-44,2024-02-12,-100.0,EUR,FACEBK *5TWUGXBXC2,EUR NÁKUP POS FACEBK *5TWUGXBXC2 / fb.me/ads / (POS 99999999),
-45,2024-02-09,-230.6,EUR,ENERGO ZUGOV S.R.O.,Platba/Giselle tlacova konferencia,"20240002
+55,2024-02-15,-210.0,EUR,FACEBK *QE9MGX3XC2,EUR NÁKUP POS FACEBK *QE9MGX3XC2 / fb.me/ads / (POS 99999999),
+56,2024-02-14,-140.0,EUR,FACEBK *CSBEFX3XC2,EUR NÁKUP POS FACEBK *CSBEFX3XC2 / fb.me/ads / (POS 99999999),
+57,2024-02-12,-100.0,EUR,FACEBK *5TWUGXBXC2,EUR NÁKUP POS FACEBK *5TWUGXBXC2 / fb.me/ads / (POS 99999999),
+58,2024-02-09,-230.6,EUR,ENERGO ZUGOV S.R.O.,Platba/Giselle tlacova konferencia,"20240002
 VS20240002/SS/KS"
-46,2024-02-09,-90.0,EUR,FACEBK *66L2AX3XC2,EUR NÁKUP POS FACEBK *66L2AX3XC2 / fb.me/ads / (POS 99999999),
-47,2024-02-08,-60.0,EUR,FACEBK *LARSBX7XC2,EUR NÁKUP POS FACEBK *LARSBX7XC2 / fb.me/ads / (POS 99999999),
-48,2024-02-07,-40.0,EUR,FACEBK *CMHV7XXXC2,EUR NÁKUP POS FACEBK *CMHV7XXXC2 / fb.me/ads / (POS 99999999),
-49,2024-02-06,-33.0,EUR,FACEBK *88UEZWPXC2,EUR NÁKUP POS FACEBK *88UEZWPXC2 / fb.me/ads / (POS 99999999),
-50,2024-02-06,-27.0,EUR,FACEBK *VMWJTYKXC2,EUR NÁKUP POS FACEBK *VMWJTYKXC2 / fb.me/ads / (POS 99999999),
-51,2024-02-06,-22.0,EUR,FACEBK *G3QBTYKXC2,EUR NÁKUP POS FACEBK *G3QBTYKXC2 / fb.me/ads / (POS 99999999),
-52,2024-02-06,-18.0,EUR,FACEBK *QB8RTXFXC2,EUR NÁKUP POS FACEBK *QB8RTXFXC2 / fb.me/ads / (POS 99999999),
-53,2024-02-06,-15.0,EUR,FACEBK *PNREUX3YC2,EUR NÁKUP POS FACEBK *PNREUX3YC2 / fb.me/ads / (POS 99999999),
-54,2024-02-06,-12.0,EUR,FACEBK *GYWPSYKXC2,EUR NÁKUP POS FACEBK *GYWPSYKXC2 / fb.me/ads / (POS 99999999),
-55,2024-02-06,-10.0,EUR,FACEBK *WBF9UX3YC2,EUR NÁKUP POS FACEBK *WBF9UX3YC2 / fb.me/ads / (POS 99999999),
-56,2024-02-06,-9.0,EUR,FACEBK *ZST6UX3YC2,EUR NÁKUP POS FACEBK *ZST6UX3YC2 / fb.me/ads / (POS 99999999),
-57,2024-02-06,-6.0,EUR,FACEBK *2UFD5XXXC2,EUR NÁKUP POS FACEBK *2UFD5XXXC2 / fb.me/ads / (POS 99999999),
-58,2024-02-06,-5.0,EUR,FACEBK *98478X7XC2,EUR NÁKUP POS FACEBK *98478X7XC2 / fb.me/ads / (POS 99999999),
-59,2024-02-06,-4.0,EUR,FACEBK *NG355X3XC2,EUR NÁKUP POS FACEBK *NG355X3XC2 / fb.me/ads / (POS 99999999),
-60,2024-02-06,-6.14,EUR,FACEBK *TCRX9XBXC2,EUR NÁKUP POS FACEBK *TCRX9XBXC2 / fb.me/ads / (POS 99999999),
-61,2024-02-05,-3.0,EUR,FACEBK *4HE64X3XC2,EUR NÁKUP POS FACEBK *4HE64X3XC2 / fb.me/ads / (POS 99999999),
-62,2024-02-05,-3.0,EUR,FACEBK *73B39XBXC2,EUR NÁKUP POS FACEBK *73B39XBXC2 / fb.me/ads / (POS 99999999),
-63,2024-02-05,-2.0,EUR,FACEBK *UKDBRYKXC2,EUR NÁKUP POS FACEBK *UKDBRYKXC2 / fb.me/ads / (POS 99999999),
-64,2024-02-05,-2.0,EUR,FACEBK *ZANARYKXC2,EUR NÁKUP POS FACEBK *ZANARYKXC2 / fb.me/ads / (POS 99999999),
-65,2024-02-05,-2.0,EUR,FACEBK *JVJ9RYKXC2,EUR NÁKUP POS FACEBK *JVJ9RYKXC2 / fb.me/ads / (POS 99999999),
-66,2024-02-05,-2.0,EUR,FACEBK *62FYRXFXC2,EUR NÁKUP POS FACEBK *62FYRXFXC2 / fb.me/ads / (POS 99999999),
-67,2024-02-05,-2.0,EUR,FACEBK *MCFXRXFXC2,EUR NÁKUP POS FACEBK *MCFXRXFXC2 / fb.me/ads / (POS 99999999),
-68,2024-02-05,-2.0,EUR,FACEBK *JZLV8XBXC2,EUR NÁKUP POS FACEBK *JZLV8XBXC2 / fb.me/ads / (POS 99999999),
-69,2024-02-05,-2.0,EUR,FACEBK *A4CDZZTXC2,EUR NÁKUP POS FACEBK *A4CDZZTXC2 / fb.me/ads / (POS 99999999),
-70,2024-02-05,-2.0,EUR,FACEBK *YQ4U8XBXC2,EUR NÁKUP POS FACEBK *YQ4U8XBXC2 / fb.me/ads / (POS 99999999),
-71,2024-02-02,-5.0,EUR,ZMENA DENNÉHO LIMITU,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,
-72,2024-02-02,-5.0,EUR,ZMENA DENNÉHO LIMITU,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,
-73,2024-02-01,-44850.0,EUR,"Unimedia spol. ,s.r.",Platba/UNIMEDIA OOH 02-03 2024,"720240006
+59,2024-02-09,-90.0,EUR,FACEBK *66L2AX3XC2,EUR NÁKUP POS FACEBK *66L2AX3XC2 / fb.me/ads / (POS 99999999),
+60,2024-02-08,-60.0,EUR,FACEBK *LARSBX7XC2,EUR NÁKUP POS FACEBK *LARSBX7XC2 / fb.me/ads / (POS 99999999),
+61,2024-02-07,-40.0,EUR,FACEBK *CMHV7XXXC2,EUR NÁKUP POS FACEBK *CMHV7XXXC2 / fb.me/ads / (POS 99999999),
+62,2024-02-06,-33.0,EUR,FACEBK *88UEZWPXC2,EUR NÁKUP POS FACEBK *88UEZWPXC2 / fb.me/ads / (POS 99999999),
+63,2024-02-06,-27.0,EUR,FACEBK *VMWJTYKXC2,EUR NÁKUP POS FACEBK *VMWJTYKXC2 / fb.me/ads / (POS 99999999),
+64,2024-02-06,-22.0,EUR,FACEBK *G3QBTYKXC2,EUR NÁKUP POS FACEBK *G3QBTYKXC2 / fb.me/ads / (POS 99999999),
+65,2024-02-06,-18.0,EUR,FACEBK *QB8RTXFXC2,EUR NÁKUP POS FACEBK *QB8RTXFXC2 / fb.me/ads / (POS 99999999),
+66,2024-02-06,-15.0,EUR,FACEBK *PNREUX3YC2,EUR NÁKUP POS FACEBK *PNREUX3YC2 / fb.me/ads / (POS 99999999),
+67,2024-02-06,-12.0,EUR,FACEBK *GYWPSYKXC2,EUR NÁKUP POS FACEBK *GYWPSYKXC2 / fb.me/ads / (POS 99999999),
+68,2024-02-06,-10.0,EUR,FACEBK *WBF9UX3YC2,EUR NÁKUP POS FACEBK *WBF9UX3YC2 / fb.me/ads / (POS 99999999),
+69,2024-02-06,-9.0,EUR,FACEBK *ZST6UX3YC2,EUR NÁKUP POS FACEBK *ZST6UX3YC2 / fb.me/ads / (POS 99999999),
+70,2024-02-06,-6.0,EUR,FACEBK *2UFD5XXXC2,EUR NÁKUP POS FACEBK *2UFD5XXXC2 / fb.me/ads / (POS 99999999),
+71,2024-02-06,-5.0,EUR,FACEBK *98478X7XC2,EUR NÁKUP POS FACEBK *98478X7XC2 / fb.me/ads / (POS 99999999),
+72,2024-02-06,-4.0,EUR,FACEBK *NG355X3XC2,EUR NÁKUP POS FACEBK *NG355X3XC2 / fb.me/ads / (POS 99999999),
+73,2024-02-06,-6.14,EUR,FACEBK *TCRX9XBXC2,EUR NÁKUP POS FACEBK *TCRX9XBXC2 / fb.me/ads / (POS 99999999),
+74,2024-02-05,-3.0,EUR,FACEBK *4HE64X3XC2,EUR NÁKUP POS FACEBK *4HE64X3XC2 / fb.me/ads / (POS 99999999),
+75,2024-02-05,-3.0,EUR,FACEBK *73B39XBXC2,EUR NÁKUP POS FACEBK *73B39XBXC2 / fb.me/ads / (POS 99999999),
+76,2024-02-05,-2.0,EUR,FACEBK *UKDBRYKXC2,EUR NÁKUP POS FACEBK *UKDBRYKXC2 / fb.me/ads / (POS 99999999),
+77,2024-02-05,-2.0,EUR,FACEBK *ZANARYKXC2,EUR NÁKUP POS FACEBK *ZANARYKXC2 / fb.me/ads / (POS 99999999),
+78,2024-02-05,-2.0,EUR,FACEBK *JVJ9RYKXC2,EUR NÁKUP POS FACEBK *JVJ9RYKXC2 / fb.me/ads / (POS 99999999),
+79,2024-02-05,-2.0,EUR,FACEBK *62FYRXFXC2,EUR NÁKUP POS FACEBK *62FYRXFXC2 / fb.me/ads / (POS 99999999),
+80,2024-02-05,-2.0,EUR,FACEBK *MCFXRXFXC2,EUR NÁKUP POS FACEBK *MCFXRXFXC2 / fb.me/ads / (POS 99999999),
+81,2024-02-05,-2.0,EUR,FACEBK *JZLV8XBXC2,EUR NÁKUP POS FACEBK *JZLV8XBXC2 / fb.me/ads / (POS 99999999),
+82,2024-02-05,-2.0,EUR,FACEBK *A4CDZZTXC2,EUR NÁKUP POS FACEBK *A4CDZZTXC2 / fb.me/ads / (POS 99999999),
+83,2024-02-05,-2.0,EUR,FACEBK *YQ4U8XBXC2,EUR NÁKUP POS FACEBK *YQ4U8XBXC2 / fb.me/ads / (POS 99999999),
+84,2024-02-02,-5.0,EUR,ZMENA DENNÉHO LIMITU,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,
+85,2024-02-02,-5.0,EUR,ZMENA DENNÉHO LIMITU,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,
+86,2024-02-01,-44850.0,EUR,"Unimedia spol. ,s.r.",Platba/UNIMEDIA OOH 02-03 2024,"720240006
 VS720240006/SS/KS"
-74,2024-01-31,-0.0,EUR,,Poplatok za balík,
-75,2024-01-31,70000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+87,2024-01-31,-0.0,EUR,,Poplatok za balík,
+88,2024-01-31,70000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
