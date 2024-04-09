@@ -1,0 +1,6 @@
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2024-04-08,2000.0,Bezhotovostný príjem,"Radačovský Peter, RS",?/DO2024-04-05/SPdrzim palce,,,,"Radačovský Peter, RS"
+1,2024-03-28,-900.0,Bezhotovostná platba,,Vdaka,,2470021,,LED panel
+2,2024-03-28,-2184.0,Bezhotovostná platba,,Vdaka,,2470020,,
+3,2024-03-28,-1491.0,Bezhotovostná platba,,,,,,Fotenie kandidatov
+4,2024-03-28,5320.0,Bezhotovostný príjem,Mgr. Michal Radacovs,"?/DO2024-03-27/SPMichal Radacovsky, Skalnata 3, 05375 Hnilec. Darovacia zmluva",,23051982,,Mgr. Michal Radacovs

@@ -1,0 +1,6 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2024-03-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2024-03-31,-4.03,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,Sládek Vladimír,2024-03-24,120.0,EUR,Mimoriadny členský príspevok na voľby do EP 2024 Vladimír Sládek,Bezhotovostný vklad,,
+3,Klimentová Viera,2024-03-17,50.0,EUR,Ján Ševc - Banská Bystrica,Bezhotovostný vklad,,
+4,Debnárová Dagmara,2024-03-12,15.0,EUR,F001120320240907021,Bezhotovostný vklad,120324.0,

@@ -10,19 +10,78 @@ VS60101/SS12/KS"
 4,2024-04-03,-504.0,EUR,DANIEL FERENCIK,Platba/Prenajom fotostudia a techniky,"2403002
 VS2403002/SS/KS"
 5,2024-04-03,-600.0,EUR,Seeya Creative,PLATBA VA24040309443/Livestream diskusia praha fa c.2024036,
-6,2024-04-03,-300.0,EUR,"GOKYO, S.R.O.",Platba/gokyo fotenie kandidatov,"20240010
-VS20240010/SS/KS"
-7,2024-04-03,-1000.0,EUR,Petrušková Michaela,Platba/Petruskova marketingove sluzby 03 24,"20240008
-VS20240008/SS/KS308"
-8,2024-04-03,-781.59,EUR,FACEBK *9C3GU2LXC2,EUR NÁKUP POS FACEBK *9C3GU2LXC2 / fb.me/ads / (POS 99999999),
-9,2024-03-30,-6.6,EUR,,Poplatky za transakcie,
-10,2024-03-30,-7.0,EUR,,Poplatok za balík,
-11,2024-03-30,20.0,EUR,"Kečka Roman, PhDr.",Platba/Dar pre Miroslava Kocura,"60100
-VS60100/SS007/KS"
-12,2024-03-28,5000.0,EUR,"Hojsík Martin, Mgr.",Platba/martin hojsik dar,"3
-VS3/SS/KS"
-13,2024-03-28,30.0,EUR,"Kubaňová Silvia, Mgr.",Platba/Kampan s.k.trommler,"60096
-VS60096/SS12/KS0308"
+6,2024-04-03,-300.0,EUR,"
+                            GOKYO, S.R.O.
+                    ","
+                        Platba
+                    /
+                        gokyo fotenie kandidatov
+                    ","
+                        20240010VS20240010/SS/KS
+                    "
+7,2024-04-03,-1000.0,EUR,"
+                            Petrušková Michaela
+                    ","
+                        Platba
+                    /
+                        Petruskova marketingove sluzby 03 24
+                    ","
+                        20240008VS20240008/SS/KS308
+                    "
+8,2024-04-03,-781.59,EUR,"
+                            FACEBK *9C3GU2LXC2
+                    ","
+                        EUR NÁKUP POS FACEBK *9C3GU2LXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+9,2024-03-30,-6.6,EUR,"
+                            
+                    ","
+                        Poplatky za transakcie
+                    /
+                        
+                    ","
+                        
+                    "
+10,2024-03-30,-7.0,EUR,"
+                            
+                    ","
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    "
+11,2024-03-30,20.0,EUR,"
+                            Kečka Roman, PhDr.
+                    ","
+                        Platba
+                    /
+                        Dar pre Miroslava Kocura
+                    ","
+                        60100VS60100/SS007/KS
+                    "
+12,2024-03-28,5000.0,EUR,"
+                            Hojsík Martin, Mgr.
+                    ","
+                        Platba
+                    /
+                        martin hojsik dar
+                    ","
+                        3VS3/SS/KS
+                    "
+13,2024-03-28,30.0,EUR,"
+                            Kubaňová Silvia, Mgr.
+                    ","
+                        Platba
+                    /
+                        Kampan s.k.trommler
+                    ","
+                        60096VS60096/SS12/KS0308
+                    "
 14,2024-03-28,10.0,EUR,Ivan Kamenec,Platba,"60095
 VS60095/SS7/KS"
 15,2024-03-28,990.0,EUR,"Cifrová Ostrihoňová Veronika, Bc.",Platba/Darovacia zmluva na podporu kandidata Veronika Cifrova Ostrihonova v eurovolbach 2024,"60094
@@ -44,33 +103,12 @@ VS2024000052/SS/KS"
 VS5024034/SS/KS308"
 24,2024-03-26,-96.0,EUR,ARES SECURITY CORPOR,Platba/Banska Bystrica sbs diskusia 29.2.2024,"10240029
 VS10240029/SS/KS308"
-25,2024-03-26,-204.0,EUR,"
-                            MESTO BANSKA BYSTRIC
-                    ","
-                        Platba
-                    /
-                        Banska Bystrica prenajom priestorov diskusia 29.2.2024
-                    ","
-                        7420240035VS7420240035/SS62/KS3718
-                    "
-26,2024-03-26,-4500.0,EUR,"
-                            ENGRAMS, s.r.o.
-                    ","
-                        Platba
-                    /
-                        Engrams poradenstvo pre kampan do eu volieb 02 24
-                    ","
-                        20240002VS20240002/SS/KS
-                    "
-27,2024-03-26,-4500.0,EUR,"
-                            ENGRAMS, s.r.o.
-                    ","
-                        Platba
-                    /
-                        Engrams poradenstvo pre kampan do eu volieb 01 24
-                    ","
-                        20240001VS20240001/SS/KS
-                    "
+25,2024-03-26,-204.0,EUR,MESTO BANSKA BYSTRIC,Platba/Banska Bystrica prenajom priestorov diskusia 29.2.2024,"7420240035
+VS7420240035/SS62/KS3718"
+26,2024-03-26,-4500.0,EUR,"ENGRAMS, s.r.o.",Platba/Engrams poradenstvo pre kampan do eu volieb 02 24,"20240002
+VS20240002/SS/KS"
+27,2024-03-26,-4500.0,EUR,"ENGRAMS, s.r.o.",Platba/Engrams poradenstvo pre kampan do eu volieb 01 24,"20240001
+VS20240001/SS/KS"
 28,2024-03-26,-1603.96,EUR,NH COLLECTION BRUSSELS CE,EUR NÁKUP POS NH COLLECTION BRUSSELS CE / BRUXELLES / (POS 21720101),
 29,2024-03-25,-22.87,EUR,KAPWING PRO PLAN,POS nákup zahr. KAPWING PRO PLAN / HTTPSWWW.KAPW / (POS M51SA49E),
 30,2024-03-25,-22.87,EUR,KAPWING PRO PLAN,POS nákup zahr. KAPWING PRO PLAN / HTTPSWWW.KAPW / (POS M51SA49E),
