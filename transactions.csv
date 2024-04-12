@@ -1,994 +1,1019 @@
 index,date,account_name,amount,message,vs,name
-0,2024-04-07,,-0.25,Poplatok za platbu kartou,,Smer
-1,2024-04-07,,-750.0,"B1774643485-44544 17** **** 0646;FACEBK 69F3P4U8S2 ,fb.me/ads ,IE ;06.04.2024 19:47:23 ;CashBack:0 EUR",,Smer
-2,2024-04-06,,-0.25,Poplatok za platbu kartou,,Smer
-3,2024-04-06,,-750.0,"B1773672535-44544 17** **** 0646;FACEBK SRXJB2L8S2 ,fb.me/ads ,IE ;05.04.2024 07:10:02 ;CashBack:0 EUR",,Smer
-4,2024-04-02,HRUSTINEC STEFAN,-2300.0,FD-392-zabezpecenie kulturneho programu,20240008.0,Smer
-5,2024-04-01,,-243.22,"B1770874562-44544 17** **** 0646;FACEBK CXYF72G8S2 ,fb.me/ads ,IE ;31.03.2024 11:37:42 ;CashBack:0 EUR",,Smer
-6,2024-04-01,,-0.25,Poplatok za platbu kartou,,Smer
-7,2024-03-31,,-5.0,Zverejňovanie účtu,,Smer
-8,2024-03-31,,-5.0,Poplatok za vedenie účtu,,Smer
-9,2024-03-31,,-3.5,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 0646Poplatok za Platobnú kartu",,Smer
-10,2024-03-30,,-0.25,Poplatok za platbu kartou,,Smer
-11,2024-03-30,,-750.0,"B1768805339-44544 17** **** 0646;FACEBK EP7652Y8S2 ,fb.me/ads ,IE ;28.03.2024 11:00:22 ;CashBack:0 EUR",,Smer
-12,2024-03-30,,-750.0,"B1769738237-44544 17** **** 0646;FACEBK VMJE62Y8S2 ,fb.me/ads ,IE ;29.03.2024 12:38:38 ;CashBack:0 EUR",,Smer
-13,2024-03-30,,-0.25,Poplatok za platbu kartou,,Smer
-14,2024-03-27,Acjakova Anna,-386.0,FD-393-MDZ-catering,52024.0,Smer
-15,2024-03-25,,-0.25,Poplatok za platbu kartou,,Smer
-16,2024-03-25,,-750.0,"B1765572892-44544 17** **** 0646;FACEBK *7FJC74U8S2 ,fb.me/ads ,IE ;24.03.2024 19:36:00 ;CashBack:0 EUR",,Smer
-17,2024-03-21,,-0.25,Poplatok za platbu kartou,,Smer
-18,2024-03-21,,-750.0,"B1762184418-44544 17** **** 0646;FACEBK VNHDQZ38S2 ,fb.me/ads ,IE ;20.03.2024 23:36:33 ;CashBack:0 EUR",,Smer
-19,2024-03-21,,-0.25,Poplatok za platbu kartou,,Smer
-20,2024-03-21,,-750.0,"B1761214024-44544 17** **** 0646;FACEBK 3QRYB288S2 ,fb.me/ads ,IE ;19.03.2024 06:56:29 ;CashBack:0 EUR",,Smer
-21,2024-03-19,AGENTURA SMER,-90000.0,Zalohova fa c.14-propagacia a organiz.-tech.zabezpecenie MDZ 2024,,Smer
-22,2024-03-18,,-0.25,Poplatok za platbu kartou,,Smer
-23,2024-03-18,,-750.0,"B1759825507-44544 17** **** 0646;FACEBK THP7NZK8S2 ,fb.me/ads ,IE ;17.03.2024 14:36:33 ;CashBack:0 EUR",,Smer
-24,2024-03-17,,-750.0,"B1758948552-44544 17** **** 0646;FACEBK L97QB2C8S2 ,fb.me/ads ,IE ;16.03.2024 09:09:51 ;CashBack:0 EUR",,Smer
-25,2024-03-17,,-0.25,Poplatok za platbu kartou,,Smer
-26,2024-03-16,,-0.25,Poplatok za platbu kartou,,Smer
-27,2024-03-16,,-750.0,"B1758046982-44544 17** **** 0646;FACEBK BDWAJZ38S2 ,fb.me/ads ,IE ;15.03.2024 06:26:10 ;CashBack:0 EUR",,Smer
-28,2024-03-15,,-750.0,"B1757075434-44544 17** **** 0646;FACEBK 93ETMZX8S2 ,fb.me/ads ,IE ;14.03.2024 06:41:53 ;CashBack:0 EUR",,Smer
-29,2024-03-15,,-0.25,Poplatok za platbu kartou,,Smer
-30,2024-03-13,,-0.25,Poplatok za platbu kartou,,Smer
-31,2024-03-13,,-750.0,"B1756019900-44544 17** **** 0646;FACEBK TAPC5288S2 ,fb.me/ads ,IE ;13.03.2024 05:23:49 ;CashBack:0 EUR",,Smer
-32,2024-03-11,,-0.25,Poplatok za platbu kartou,,Smer
-33,2024-03-11,,-750.0,"B1754382874-44544 17** **** 0646;FACEBK EYDRDZ38S2 ,fb.me/ads ,IE ;11.03.2024 05:54:57 ;CashBack:0 EUR",,Smer
-34,2024-03-10,,-0.25,Poplatok za platbu kartou,,Smer
-35,2024-03-10,,-750.0,"B1753203954-44544 17** **** 0646;FACEBK 845LM2Q8S2 ,fb.me/ads ,IE ;09.03.2024 17:55:26 ;CashBack:0 EUR",,Smer
-36,2024-03-10,,-750.0,"B1752320116-44544 17** **** 0646;FACEBK KXCLYZ78S2 ,fb.me/ads ,IE ;08.03.2024 20:41:00 ;CashBack:0 EUR",,Smer
-37,2024-03-10,,-0.25,Poplatok za platbu kartou,,Smer
-38,2024-03-08,,-750.0,"B1751433174-44544 17** **** 0646;FACEBK F894EZX8S2 ,fb.me/ads ,IE ;07.03.2024 06:43:05 ;CashBack:0 EUR",,Smer
-39,2024-03-08,MESTSKE KULTURNE STR,-700.0,FD-268-prenajom priestorov,1113400017.0,Smer
-40,2024-03-08,Harcar Stefan - STEEVEPRESS,-108.0,FD-267-letaky,20240213.0,Smer
-41,2024-03-08,,-0.25,Poplatok za platbu kartou,,Smer
-42,2024-03-08,,-0.25,Poplatok za platbu kartou,,Smer
-43,2024-03-08,,-750.0,"B1751448939-44544 17** **** 0646;FACEBK RZ2ER249S2 ,fb.me/ads ,IE ;07.03.2024 23:28:32 ;CashBack:0 EUR",,Smer
-44,2024-03-07,,-0.25,Poplatok za platbu kartou,,Smer
-45,2024-03-07,,-750.0,"B1750616300-44544 17** **** 0646;FACEBK M5QMBZF8S2 ,fb.me/ads ,IE ;06.03.2024 06:49:00 ;CashBack:0 EUR",,Smer
-46,2024-03-05,,-0.25,Poplatok za platbu kartou,,Smer
-47,2024-03-05,,-750.0,"B1749015879-44544 17** **** 0646;FACEBK 9SFR7ZK8S2 ,fb.me/ads ,IE ;04.03.2024 18:28:13 ;CashBack:0 EUR",,Smer
-48,2024-03-05,Financna sprava Bratislava,-2316.54,DPH-2/2024,1100022024.0,Smer
-49,2024-03-04,,-3000.0,výber hotovosti do pokladne,,Smer
-50,2024-03-04,,-8.0,Poplatok za výber hotovosti,,Smer
-51,2024-03-04,,-750.0,"B1748536167-44544 17** **** 0646;FACEBK NTEU9ZX8S2 ,fb.me/ads ,IE ;03.03.2024 15:14:32 ;CashBack:0 EUR",,Smer
-52,2024-03-04,,-0.25,Poplatok za platbu kartou,,Smer
-53,2024-03-03,,-750.0,"B1747771050-44544 17** **** 0646;FACEBK *HJNUJ249S2 ,fb.me/ads ,IE ;02.03.2024 09:05:16 ;CashBack:0 EUR",,Smer
-54,2024-03-03,,-0.25,Poplatok za platbu kartou,,Smer
-55,2024-03-02,,-0.25,Poplatok za platbu kartou,,Smer
-56,2024-03-02,,-750.0,"B1746935214-44544 17** **** 0646;FACEBK UUHP3ZK8S2 ,fb.me/ads ,IE ;01.03.2024 07:44:27 ;CashBack:0 EUR",,Smer
-57,2024-03-01,,-0.25,Poplatok za platbu kartou,,Smer
-58,2024-03-01,,-332.68,"B1746187219-44544 17** **** 0646;FACEBK END4C3U8S2 ,fb.me/ads ,IE ;29.02.2024 15:40:37 ;CashBack:0 EUR",,Smer
-59,2024-02-29,,-750.0,"B1745428751-44544 17** **** 0646;FACEBK 5RRJYY38S2 ,fb.me/ads ,IE ;28.02.2024 21:14:43 ;CashBack:0 EUR",,Smer
-60,2024-02-29,,-2.9,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 0646Poplatok za Platobnú kartu",,Smer
-61,2024-02-29,,-0.25,Poplatok za platbu kartou,,Smer
-62,2024-02-29,,-750.0,"B1745248866-44544 17** **** 0646;FACEBK *SF5H4ZX8S2 ,fb.me/ads ,IE ;28.02.2024 04:49:54 ;CashBack:0 EUR",,Smer
-63,2024-02-29,,-0.25,Poplatok za platbu kartou,,Smer
-64,2024-02-29,,-5.0,Poplatok za vedenie účtu,,Smer
-65,2024-02-29,,-5.0,Zverejňovanie účtu,,Smer
-66,2024-02-28,,-750.0,"B1744515924-44544 17** **** 0646;FACEBK HUFYNZB8S2 ,fb.me/ads ,IE ;27.02.2024 10:19:47 ;CashBack:0 EUR",,Smer
-67,2024-02-28,MESTO SABINOV,-38.25,FD-215-dan za uzivanie verejneho priestranstva,2825400171.0,Smer
-68,2024-02-28,,-0.25,Poplatok za platbu kartou,,Smer
-69,2024-02-27,,-0.25,Poplatok za platbu kartou,,Smer
-70,2024-02-27,,-750.0,"B1743789690-44544 17** **** 0646;FACEBK 258SVY38S2 ,fb.me/ads ,IE ;26.02.2024 15:54:48 ;CashBack:0 EUR",,Smer
-71,2024-02-26,,-0.25,Poplatok za platbu kartou,,Smer
-72,2024-02-26,,-750.0,"B1743286910-44544 17** **** 0646;FACEBK JZ6PUY38S2 ,fb.me/ads ,IE ;25.02.2024 18:41:54 ;CashBack:0 EUR",,Smer
-73,2024-02-26,AGENTURA SMER,-160000.0,Zal.fa c.11-propagacia a organiz.-tech. zabezpecenie MDZ 2024,240800001.0,Smer
-74,2024-02-26,AGENTURA SMER,-140000.0,Zal.fa c.11-propagacia a organiz.-tech.zabezpecenie MDZ 2024,240800001.0,Smer
-75,2024-02-25,,-0.25,Poplatok za platbu kartou,,Smer
-76,2024-02-25,,-750.0,"B1741709219-44544 17** **** 0646;FACEBK 4CE69249S2 ,fb.me/ads ,IE ;23.02.2024 15:29:54 ;CashBack:0 EUR",,Smer
-77,2024-02-25,,-750.0,"B1742602006-44544 17** **** 0646;FACEBK 8S4YGZ78S2 ,fb.me/ads ,IE ;24.02.2024 20:01:28 ;CashBack:0 EUR",,Smer
-78,2024-02-25,,-0.25,Poplatok za platbu kartou,,Smer
-79,2024-02-24,,-750.0,"B1740834908-44544 17** **** 0646;FACEBK KHQ622Q8S2 ,fb.me/ads ,IE ;22.02.2024 13:36:48 ;CashBack:0 EUR",,Smer
-80,2024-02-24,,-0.25,Poplatok za platbu kartou,,Smer
-81,2024-02-22,,-0.25,Poplatok za platbu kartou,,Smer
-82,2024-02-22,,-750.0,"B1740055724-44544 17** **** 0646;FACEBK FMPRZ2U8S2 ,fb.me/ads ,IE ;21.02.2024 06:23:45 ;CashBack:0 EUR",,Smer
-83,2024-02-20,,-0.25,Poplatok za platbu kartou,,Smer
-84,2024-02-20,,-750.0,"B1738335214-44544 17** **** 0646;FACEBK D4BCNYK8S2 ,fb.me/ads ,IE ;19.02.2024 08:04:31 ;CashBack:0 EUR",,Smer
-85,2024-02-18,,-0.25,Poplatok za platbu kartou,,Smer
-86,2024-02-18,,-750.0,"B1737036884-44544 17** **** 0646;FACEBK XCLMV2U8S2 ,fb.me/ads ,IE ;17.02.2024 17:13:19 ;CashBack:0 EUR",,Smer
-87,2024-02-17,,-0.25,Poplatok za platbu kartou,,Smer
-88,2024-02-17,,-750.0,"B1736177721-44544 17** **** 0646;FACEBK 462V9ZB8S2 ,fb.me/ads ,IE ;16.02.2024 14:06:30 ;CashBack:0 EUR",,Smer
-89,2024-02-16,,-750.0,"B1735075801-44544 17** **** 0646;FACEBK NJGRRZP8S2 ,fb.me/ads ,IE ;15.02.2024 07:51:50 ;CashBack:0 EUR",,Smer
-90,2024-02-16,,-0.25,Poplatok za platbu kartou,,Smer
-91,2024-02-14,,-0.25,Poplatok za platbu kartou,,Smer
-92,2024-02-14,,-750.0,"B1733394925-44544 17** **** 0646;FACEBK FUEEEY38S2 ,fb.me/ads ,IE ;13.02.2024 17:55:15 ;CashBack:0 EUR",,Smer
-93,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
-94,2024-02-02,SMER - sociálna demokracia,40000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
-95,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
-96,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
-97,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
-98,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+0,2024-04-12,AGENTURA SMER,-48090.0,"Zalohova fa c.18-zaloha na volby do EU, merkantil",240800003.0,Smer
+1,2024-04-11,,-750.0,"B1776719294-44544 17** **** 0646;FACEBK Y2L3G248S2 ,fb.me/ads ,IE ;09.04.2024 23:11:27 ;CashBack:0 EUR",,Smer
+2,2024-04-11,,-0.25,Poplatok za platbu kartou,,Smer
+3,2024-04-10,Financna sprava Bratislava,-3048.64,DPH-3/2024,1100032024.0,Smer
+4,2024-04-09,,-0.25,Poplatok za platbu kartou,,Smer
+5,2024-04-09,,-750.0,"B1775797895-44544 17** **** 0646;FACEBK 5VABH2G8S2 ,fb.me/ads ,IE ;08.04.2024 12:46:11 ;CashBack:0 EUR",,Smer
+6,2024-04-07,,-0.25,Poplatok za platbu kartou,,Smer
+7,2024-04-07,,-750.0,"B1774643485-44544 17** **** 0646;FACEBK 69F3P4U8S2 ,fb.me/ads ,IE ;06.04.2024 19:47:23 ;CashBack:0 EUR",,Smer
+8,2024-04-06,,-0.25,Poplatok za platbu kartou,,Smer
+9,2024-04-06,,-750.0,"B1773672535-44544 17** **** 0646;FACEBK SRXJB2L8S2 ,fb.me/ads ,IE ;05.04.2024 07:10:02 ;CashBack:0 EUR",,Smer
+10,2024-04-02,HRUSTINEC STEFAN,-2300.0,FD-392-zabezpecenie kulturneho programu,20240008.0,Smer
+11,2024-04-01,,-0.25,Poplatok za platbu kartou,,Smer
+12,2024-04-01,,-243.22,"B1770874562-44544 17** **** 0646;FACEBK CXYF72G8S2 ,fb.me/ads ,IE ;31.03.2024 11:37:42 ;CashBack:0 EUR",,Smer
+13,2024-03-31,,-5.0,Poplatok za vedenie účtu,,Smer
+14,2024-03-31,,-3.5,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 0646Poplatok za Platobnú kartu",,Smer
+15,2024-03-31,,-5.0,Zverejňovanie účtu,,Smer
+16,2024-03-30,,-0.25,Poplatok za platbu kartou,,Smer
+17,2024-03-30,,-750.0,"B1769738237-44544 17** **** 0646;FACEBK VMJE62Y8S2 ,fb.me/ads ,IE ;29.03.2024 12:38:38 ;CashBack:0 EUR",,Smer
+18,2024-03-30,,-0.25,Poplatok za platbu kartou,,Smer
+19,2024-03-30,,-750.0,"B1768805339-44544 17** **** 0646;FACEBK EP7652Y8S2 ,fb.me/ads ,IE ;28.03.2024 11:00:22 ;CashBack:0 EUR",,Smer
+20,2024-03-27,Acjakova Anna,-386.0,FD-393-MDZ-catering,52024.0,Smer
+21,2024-03-25,,-0.25,Poplatok za platbu kartou,,Smer
+22,2024-03-25,,-750.0,"B1765572892-44544 17** **** 0646;FACEBK *7FJC74U8S2 ,fb.me/ads ,IE ;24.03.2024 19:36:00 ;CashBack:0 EUR",,Smer
+23,2024-03-21,,-0.25,Poplatok za platbu kartou,,Smer
+24,2024-03-21,,-750.0,"B1761214024-44544 17** **** 0646;FACEBK 3QRYB288S2 ,fb.me/ads ,IE ;19.03.2024 06:56:29 ;CashBack:0 EUR",,Smer
+25,2024-03-21,,-750.0,"B1762184418-44544 17** **** 0646;FACEBK VNHDQZ38S2 ,fb.me/ads ,IE ;20.03.2024 23:36:33 ;CashBack:0 EUR",,Smer
+26,2024-03-21,,-0.25,Poplatok za platbu kartou,,Smer
+27,2024-03-19,AGENTURA SMER,-90000.0,Zalohova fa c.14-propagacia a organiz.-tech.zabezpecenie MDZ 2024,,Smer
+28,2024-03-18,,-0.25,Poplatok za platbu kartou,,Smer
+29,2024-03-18,,-750.0,"B1759825507-44544 17** **** 0646;FACEBK THP7NZK8S2 ,fb.me/ads ,IE ;17.03.2024 14:36:33 ;CashBack:0 EUR",,Smer
+30,2024-03-17,,-0.25,Poplatok za platbu kartou,,Smer
+31,2024-03-17,,-750.0,"B1758948552-44544 17** **** 0646;FACEBK L97QB2C8S2 ,fb.me/ads ,IE ;16.03.2024 09:09:51 ;CashBack:0 EUR",,Smer
+32,2024-03-16,,-0.25,Poplatok za platbu kartou,,Smer
+33,2024-03-16,,-750.0,"B1758046982-44544 17** **** 0646;FACEBK BDWAJZ38S2 ,fb.me/ads ,IE ;15.03.2024 06:26:10 ;CashBack:0 EUR",,Smer
+34,2024-03-15,,-750.0,"B1757075434-44544 17** **** 0646;FACEBK 93ETMZX8S2 ,fb.me/ads ,IE ;14.03.2024 06:41:53 ;CashBack:0 EUR",,Smer
+35,2024-03-15,,-0.25,Poplatok za platbu kartou,,Smer
+36,2024-03-13,,-0.25,Poplatok za platbu kartou,,Smer
+37,2024-03-13,,-750.0,"B1756019900-44544 17** **** 0646;FACEBK TAPC5288S2 ,fb.me/ads ,IE ;13.03.2024 05:23:49 ;CashBack:0 EUR",,Smer
+38,2024-03-11,,-750.0,"B1754382874-44544 17** **** 0646;FACEBK EYDRDZ38S2 ,fb.me/ads ,IE ;11.03.2024 05:54:57 ;CashBack:0 EUR",,Smer
+39,2024-03-11,,-0.25,Poplatok za platbu kartou,,Smer
+40,2024-03-10,,-0.25,Poplatok za platbu kartou,,Smer
+41,2024-03-10,,-750.0,"B1753203954-44544 17** **** 0646;FACEBK 845LM2Q8S2 ,fb.me/ads ,IE ;09.03.2024 17:55:26 ;CashBack:0 EUR",,Smer
+42,2024-03-10,,-750.0,"B1752320116-44544 17** **** 0646;FACEBK KXCLYZ78S2 ,fb.me/ads ,IE ;08.03.2024 20:41:00 ;CashBack:0 EUR",,Smer
+43,2024-03-10,,-0.25,Poplatok za platbu kartou,,Smer
+44,2024-03-08,,-0.25,Poplatok za platbu kartou,,Smer
+45,2024-03-08,,-750.0,"B1751448939-44544 17** **** 0646;FACEBK RZ2ER249S2 ,fb.me/ads ,IE ;07.03.2024 23:28:32 ;CashBack:0 EUR",,Smer
+46,2024-03-08,,-0.25,Poplatok za platbu kartou,,Smer
+47,2024-03-08,,-750.0,"B1751433174-44544 17** **** 0646;FACEBK F894EZX8S2 ,fb.me/ads ,IE ;07.03.2024 06:43:05 ;CashBack:0 EUR",,Smer
+48,2024-03-08,Harcar Stefan - STEEVEPRESS,-108.0,FD-267-letaky,20240213.0,Smer
+49,2024-03-08,MESTSKE KULTURNE STR,-700.0,FD-268-prenajom priestorov,1113400017.0,Smer
+50,2024-03-07,,-0.25,Poplatok za platbu kartou,,Smer
+51,2024-03-07,,-750.0,"B1750616300-44544 17** **** 0646;FACEBK M5QMBZF8S2 ,fb.me/ads ,IE ;06.03.2024 06:49:00 ;CashBack:0 EUR",,Smer
+52,2024-03-05,Financna sprava Bratislava,-2316.54,DPH-2/2024,1100022024.0,Smer
+53,2024-03-05,,-750.0,"B1749015879-44544 17** **** 0646;FACEBK 9SFR7ZK8S2 ,fb.me/ads ,IE ;04.03.2024 18:28:13 ;CashBack:0 EUR",,Smer
+54,2024-03-05,,-0.25,Poplatok za platbu kartou,,Smer
+55,2024-03-04,,-8.0,Poplatok za výber hotovosti,,Smer
+56,2024-03-04,,-3000.0,výber hotovosti do pokladne,,Smer
+57,2024-03-04,,-0.25,Poplatok za platbu kartou,,Smer
+58,2024-03-04,,-750.0,"B1748536167-44544 17** **** 0646;FACEBK NTEU9ZX8S2 ,fb.me/ads ,IE ;03.03.2024 15:14:32 ;CashBack:0 EUR",,Smer
+59,2024-03-03,,-0.25,Poplatok za platbu kartou,,Smer
+60,2024-03-03,,-750.0,"B1747771050-44544 17** **** 0646;FACEBK *HJNUJ249S2 ,fb.me/ads ,IE ;02.03.2024 09:05:16 ;CashBack:0 EUR",,Smer
+61,2024-03-02,,-0.25,Poplatok za platbu kartou,,Smer
+62,2024-03-02,,-750.0,"B1746935214-44544 17** **** 0646;FACEBK UUHP3ZK8S2 ,fb.me/ads ,IE ;01.03.2024 07:44:27 ;CashBack:0 EUR",,Smer
+63,2024-03-01,,-0.25,Poplatok za platbu kartou,,Smer
+64,2024-03-01,,-332.68,"B1746187219-44544 17** **** 0646;FACEBK END4C3U8S2 ,fb.me/ads ,IE ;29.02.2024 15:40:37 ;CashBack:0 EUR",,Smer
+65,2024-02-29,,-2.9,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 0646Poplatok za Platobnú kartu",,Smer
+66,2024-02-29,,-750.0,"B1745248866-44544 17** **** 0646;FACEBK *SF5H4ZX8S2 ,fb.me/ads ,IE ;28.02.2024 04:49:54 ;CashBack:0 EUR",,Smer
+67,2024-02-29,,-0.25,Poplatok za platbu kartou,,Smer
+68,2024-02-29,,-750.0,"B1745428751-44544 17** **** 0646;FACEBK 5RRJYY38S2 ,fb.me/ads ,IE ;28.02.2024 21:14:43 ;CashBack:0 EUR",,Smer
+69,2024-02-29,,-0.25,Poplatok za platbu kartou,,Smer
+70,2024-02-29,,-5.0,Zverejňovanie účtu,,Smer
+71,2024-02-29,,-5.0,Poplatok za vedenie účtu,,Smer
+72,2024-02-28,,-0.25,Poplatok za platbu kartou,,Smer
+73,2024-02-28,,-750.0,"B1744515924-44544 17** **** 0646;FACEBK HUFYNZB8S2 ,fb.me/ads ,IE ;27.02.2024 10:19:47 ;CashBack:0 EUR",,Smer
+74,2024-02-28,MESTO SABINOV,-38.25,FD-215-dan za uzivanie verejneho priestranstva,2825400171.0,Smer
+75,2024-02-27,,-0.25,Poplatok za platbu kartou,,Smer
+76,2024-02-27,,-750.0,"B1743789690-44544 17** **** 0646;FACEBK 258SVY38S2 ,fb.me/ads ,IE ;26.02.2024 15:54:48 ;CashBack:0 EUR",,Smer
+77,2024-02-26,AGENTURA SMER,-160000.0,Zal.fa c.11-propagacia a organiz.-tech. zabezpecenie MDZ 2024,240800001.0,Smer
+78,2024-02-26,AGENTURA SMER,-140000.0,Zal.fa c.11-propagacia a organiz.-tech.zabezpecenie MDZ 2024,240800001.0,Smer
+79,2024-02-26,,-750.0,"B1743286910-44544 17** **** 0646;FACEBK JZ6PUY38S2 ,fb.me/ads ,IE ;25.02.2024 18:41:54 ;CashBack:0 EUR",,Smer
+80,2024-02-26,,-0.25,Poplatok za platbu kartou,,Smer
+81,2024-02-25,,-0.25,Poplatok za platbu kartou,,Smer
+82,2024-02-25,,-750.0,"B1742602006-44544 17** **** 0646;FACEBK 8S4YGZ78S2 ,fb.me/ads ,IE ;24.02.2024 20:01:28 ;CashBack:0 EUR",,Smer
+83,2024-02-25,,-0.25,Poplatok za platbu kartou,,Smer
+84,2024-02-25,,-750.0,"B1741709219-44544 17** **** 0646;FACEBK 4CE69249S2 ,fb.me/ads ,IE ;23.02.2024 15:29:54 ;CashBack:0 EUR",,Smer
+85,2024-02-24,,-0.25,Poplatok za platbu kartou,,Smer
+86,2024-02-24,,-750.0,"B1740834908-44544 17** **** 0646;FACEBK KHQ622Q8S2 ,fb.me/ads ,IE ;22.02.2024 13:36:48 ;CashBack:0 EUR",,Smer
+87,2024-02-22,,-0.25,Poplatok za platbu kartou,,Smer
+88,2024-02-22,,-750.0,"B1740055724-44544 17** **** 0646;FACEBK FMPRZ2U8S2 ,fb.me/ads ,IE ;21.02.2024 06:23:45 ;CashBack:0 EUR",,Smer
+89,2024-02-20,,-0.25,Poplatok za platbu kartou,,Smer
+90,2024-02-20,,-750.0,"B1738335214-44544 17** **** 0646;FACEBK D4BCNYK8S2 ,fb.me/ads ,IE ;19.02.2024 08:04:31 ;CashBack:0 EUR",,Smer
+91,2024-02-18,,-750.0,"B1737036884-44544 17** **** 0646;FACEBK XCLMV2U8S2 ,fb.me/ads ,IE ;17.02.2024 17:13:19 ;CashBack:0 EUR",,Smer
+92,2024-02-18,,-0.25,Poplatok za platbu kartou,,Smer
+93,2024-02-17,,-0.25,Poplatok za platbu kartou,,Smer
+94,2024-02-17,,-750.0,"B1736177721-44544 17** **** 0646;FACEBK 462V9ZB8S2 ,fb.me/ads ,IE ;16.02.2024 14:06:30 ;CashBack:0 EUR",,Smer
+95,2024-02-16,,-0.25,Poplatok za platbu kartou,,Smer
+96,2024-02-16,,-750.0,"B1735075801-44544 17** **** 0646;FACEBK NJGRRZP8S2 ,fb.me/ads ,IE ;15.02.2024 07:51:50 ;CashBack:0 EUR",,Smer
+97,2024-02-14,,-0.25,Poplatok za platbu kartou,,Smer
+98,2024-02-14,,-750.0,"B1733394925-44544 17** **** 0646;FACEBK FUEEEY38S2 ,fb.me/ads ,IE ;13.02.2024 17:55:15 ;CashBack:0 EUR",,Smer
 99,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
-100,2024-04-05,Hl. m. SR Bratislava,-80.0,zabratie verejného priestranstva,2241331167.0,SaS
-101,2024-04-03,NUBIUM s.r.o.,-68840.4,"prenájom bigboardy + inštalacia 10 ks, bilboardy 333 ks+ tlač, apríl 2024",24042272.0,SaS
-102,2024-03-31,,-5.0,Zverejňovanie účtu,,SaS
-103,2024-03-31,,-5.0,Poplatok za vedenie účtu,,SaS
-104,2024-03-31,,-2.6,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 5827Poplatok za Platobnú kartu",,SaS
-105,2024-03-30,Maros Mjartan,1.0,Drzim palceky ..,,SaS
-106,2024-03-27,Mesto Trnava,-240.0,,5000300609.0,SaS
-107,2024-03-08,ARTON s.r.o.,-6480.0,"nájomné bigboardy, 9 ks 4/24",240084.0,SaS
-108,2024-03-08,ARTON s.r.o.,-5400.0,"tlač a inštalácia bigboardov,9 ks",240085.0,SaS
-109,2024-03-08,ARTON s.r.o.,-25423.2,"nájomné bilboardov, 214 ks, 4/24",240086.0,SaS
-110,2024-03-08,ARTON s.r.o.,-2568.0,tlač bilboardov 214 ks,240087.0,SaS
-111,2024-02-29,Lukáš Marcinko,-2500.0,"websupport a web design, SSL certif",2024061.0,SaS
-112,2024-02-29,Ministerstvo vnútra,-1700.0,uhrada kaucie,42139333.0,SaS
-113,2024-02-29,,-5.0,Zverejňovanie účtu,,SaS
-114,2024-02-29,,-5.0,Poplatok za vedenie účtu,,SaS
-115,2024-02-28,LK Studio s.r.o.,-1800.0,fotografické práce,20240005.0,SaS
-116,2024-02-12,CONFIDENCE MEDIA SR s.r.o.,-6403.2,"prenájom bilboardov, citylightov, bigboard",2421020.0,SaS
-117,2024-02-02,Sloboda a Solidarita (SaS),500000.0,presun prostriedkov na kampaň,,SaS
-118,2024-01-31,,-5.0,Zverejňovanie účtu,,SaS
-119,2024-01-31,,-1.61,Poplatok za vedenie účtu,,SaS
-120,2024-01-27,Bačák Juraj,0.01,Prispevok na drahy alkohol v Dubaji .,,SaS
-121,2024-01-23,Sloboda a Solidarita (SaS),200.0,presun prostriedkov,,SaS
-122,2024-04-08,SLOV NARODNA STRANA,75000.0,prevod Eurovolby 2024,750002024.0,SNS
-123,2024-04-05,HAVOC s.r.o.,-1500.0,ostatné náklady,20240022.0,SNS
-124,2024-03-31,,-5.0,Zverejňovanie účtu,,SNS
-125,2024-03-31,,-5.0,Poplatok za vedenie účtu,,SNS
-126,2024-03-26,"BigMedia, spol. s r.o.",-2760.0,reklamne plochy,,SNS
-127,2024-03-25,"BigMedia, spol. s r.o.",-32280.0,reklamne plochy,122490037.0,SNS
-128,2024-03-22,"ISPA, spol. s.r.o.",-3198.0,reklamne plochy,24950076.0,SNS
-129,2024-03-22,"ISPA, spol. s.r.o.",-4176.0,reklamne plochy,24950070.0,SNS
-130,2024-03-22,"ARTON, s.r.o.",-25560.0,reklamne plochy,240125.0,SNS
-131,2024-03-22,LIM PO s. r. o.,-450.0,inzercia,20240219.0,SNS
-132,2024-03-22,"Imagewell, s.r.o.",-3240.0,reklamne plochy,460240016.0,SNS
-133,2024-03-22,"ARTON, s.r.o.",-2580.0,reklamne plochy,240126.0,SNS
-134,2024-03-01,"ISPA, spol. s.r.o.",-22608.0,reklamne plochy,24950063.0,SNS
-135,2024-02-29,,-5.0,Zverejňovanie účtu,,SNS
-136,2024-02-29,,-5.0,Poplatok za vedenie účtu,,SNS
-137,2024-02-15,Hlatk Miroslav,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-138,2024-02-15,Mihalovi Martin,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
-139,2024-02-15,Ruzena Kapusnakova,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
-140,2024-02-15,MICHAL ZAJIC,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
-141,2024-02-15,PATRIK TIMULAK,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
-142,2024-02-15,Sildi Peter,-1.0,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-143,2024-02-15,Kardo Milan,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-144,2024-02-15,Kristina Chabadova,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-145,2024-02-15,Godor Patrik,-0.01,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
-146,2024-02-15,Chebe Mrio,-0.01,Vratenie platby podla zakona zo dna 28.01.2024,,SNS
-147,2024-02-15,Schelling aneta,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-148,2024-02-15,Belica Vladimir,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-149,2024-02-15,Bohuslav Masiarcik,-0.01,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
-150,2024-01-31,,-0.97,Poplatok za vedenie účtu,,SNS
-151,2024-01-31,,-5.0,Zverejňovanie účtu,,SNS
-152,2024-01-29,MICHAL ZAJIC,0.01,ZMRDE. NA LETENKU DO MOSKVY.,,SNS
-153,2024-01-29,SLOV NARODNA STRANA,120000.0,prevod na eurovolby 2024,1200002024.0,SNS
-154,2024-01-29,PATRIK TIMULAK,0.01,PRISPEVOK PRE TOHO KTORY V ZIVOTE NEPOUZIVA PAPIER KED CITA,,SNS
-155,2024-01-29,Ruzena Kapusnakova,0.01,Simkovicovej a Dankovi na psychiatricke vysetrenie,,SNS
-156,2024-01-29,Mihalovič Martin,0.01,"Voda svieti, slnko laka, snehulme si postaviaka",,SNS
-157,2024-01-28,Chebeň Mário,0.01,"Zdravím kapitán, to je za zúbkovú vílu. Bozkávam všade",,SNS
-158,2024-01-27,Siládi Peter,1.0,Na prednostny termin u logopeda.,,SNS
-159,2024-01-27,Belica Vladimir,0.01,F001270120245490503,,SNS
-160,2024-01-27,Kardoš Milan,0.01,Ste velmi zabavny ze eurovolby. Ale sak skuste.,,SNS
-161,2024-01-27,Hlatký Miroslav,0.01,Slopenska narodna sranda,,SNS
-162,2024-01-27,Schelling Žaneta,0.01,Hrad na Danka,,SNS
-163,2024-01-27,Kristina Chabadova,0.01,za platy europoslancov robit hanbu a nadavat na EU? A to narodne menu kto tu bude zrat? SNS naspat do 19storocia,,SNS
-164,2024-01-26,Bohuslav Masiarcik,0.01,"Na jednodmerny do RuSSka, aby ste Putlera mohli bozkavat vsade.",,SNS
-165,2024-01-26,Godor Patrik,0.01,aby kokotom nebolo malo,,SNS
-166,2024-04-08,Platba kartou,-960.0,FACEBK GV8DHZTD fb.me/ads,****639,Republika
-167,2024-04-08,Peter Varchoľak,5.0,"Peter Varcholak, Sadova 493/58, Stakcin 06761, DAR", ,Republika
-168,2024-04-03,Radovan Fasung,-4000.0, ,32024,Republika
-169,2024-04-03,"NUBIUM, s.r.o.",-924.0, ,24042275,Republika
-170,2024-04-03,"BigMedia, spol. s r.o.",-372.0, ,122490041,Republika
-171,2024-04-03,"BigMedia, spol. s r.o.",-372.0, ,122490040,Republika
-172,2024-04-03, ,-0.15,Poplatky Nonstop banking - SMS, ,Republika
-173,2024-04-02,"VUB,A.S.",-960.0,DDFACEBK~FUBQCZTDfb.me/ads~~~~~~P1,****639,Republika
-174,2024-03-28, ,-7.0,Vedenie účtu,9,Republika
-175,2024-03-28,Platba kartou,-960.0,FACEBK YUHBB2CE fb.me/ads,****639,Republika
-176,2024-03-28, ,-6.38,Poplatky za platby spolu,9,Republika
-177,2024-03-28, ,-0.2,Popl.za 1x elektronický výpis,9,Republika
-178,2024-03-25,Platba kartou,-959.96,FACEBK 6XTL5ZPD fb.me/ads,****639,Republika
-179,2024-03-20,Platba kartou,-344.84,FACEBK HWA84Z7E fb.me/ads,****639,Republika
-180,2024-03-20,RCS reklama s.r.o.,-84.24, ,820240157,Republika
-181,2024-03-20,"ARTON, s.r.o.",-739.2, ,240124,Republika
-182,2024-03-20,Ing. Pavol Anderko - ANKO,-504.0, ,244018,Republika
-183,2024-03-20,"G - tvar studia, s.r.o.",-1770.0, ,24001,Republika
-184,2024-03-20,Ing. Pavol Anderko - ANKO,-864.0, ,240111,Republika
-185,2024-03-20,"ARTON, s.r.o.",-6720.0, ,240123,Republika
-186,2024-03-20,"ISPA, spol. s r.o.",-12096.0, ,24950079,Republika
-187,2024-03-19,Platba kartou,-960.0,FACEBK XS4PXYPD fb.me/ads,****639,Republika
-188,2024-03-18,Platba kartou,-960.0,FACEBK JEE6SYTD fb.me/ads,****639,Republika
-189,2024-03-15,"CyberSoft, s.r.o.",-5796.0, ,24031101,Republika
-190,2024-03-15,"ISPA, spol. s r.o.",-6144.0, , ,Republika
-191,2024-03-14,Platba kartou,-960.0,FACEBK 5LULSYPD fb.me/ads,****639,Republika
-192,2024-03-11,"VUB,A.S.",-960.0,DDFACEBK~V6TMPYPDfb.me/ads~~~~~~P1,****639,Republika
-193,2024-03-11,"VUB,A.S.",-960.0,DDFACEBK~F5KNVZXDfb.me/ads~~~~~~P1,****639,Republika
-194,2024-03-08, ,-1664.96,SEPA Europrevod/NonSEPAPrevod,820240132,Republika
-195,2024-03-08,Platba kartou,-960.0,FACEBK H268LYPD fb.me/ads,****639,Republika
-196,2024-03-08,Peter Varchoľak,5.0,"Peter Varcholak, Sadova 493/58, Stakcin 06761, DAR", ,Republika
-197,2024-03-07,Platba kartou,-960.0,FACEBK G7M8NY7E fb.me/ads,****639,Republika
-198,2024-03-06,"VUB,A.S.",-960.0,DDFACEBK~FL5UQZXDfb.me/ads~~~~~~P1,****639,Republika
-199,2024-03-04,"VUB,A.S.",-960.0,DDFACEBK~GAXE7Y3Efb.me/ads~~~~~~P1,****639,Republika
-200,2024-03-04,"VUB,A.S.",-960.0,DDFACEBK~6S3LNYFEfb.me/ads~~~~~~P1,****639,Republika
-201,2024-03-04,"NUBIUM, s.r.o",-792.0, ,24031488,Republika
-202,2024-03-04,REPUBLIKA,50000.0, , ,Republika
-203,2024-03-04,REPUBLIKA,50000.0, , ,Republika
-204,2024-03-01,"VUB,A.S.",-960.0,DDFACEBK~8AE8KZXDfb.me/ads~~~~~~P1,****639,Republika
-205,2024-03-01, ,-14.0,Ročný popl. Vydanie/obnova karty,639,Republika
-206,2024-03-01, ,-3.5,P-Zmena pod. vzoru právnická osoba, ,Republika
-207,2024-03-01,GRYF reklamne studio,-4692.0,prenajom reklamnych ploch 05/2024,24022,Republika
-208,2024-02-29, ,-3.52,Poplatky za platby spolu,9,Republika
-209,2024-02-29, ,-0.2,Popl.za 1x elektronický výpis,9,Republika
-210,2024-02-29, ,-7.0,Vedenie účtu,9,Republika
-211,2024-02-29,Platba kartou,-960.0,FACEBK KDFF6YTD fb.me/ads,****639,Republika
-212,2024-02-26,"VUB,A.S.",-960.0,DDFACEBK~R5EQ7ZBEfb.me/ads~~~~~~P1,****639,Republika
-213,2024-02-26,Platba kartou,-960.0,FACEBK 87DA5ZBE fb.me/ads,****639,Republika
-214,2024-02-21,"ARTON, sro",-6600.0,bilbordy 03/2024,240058,Republika
-215,2024-02-21,"CyberSoft, sro",-6486.0,reklamna kampan 03/2024,24021901,Republika
-216,2024-02-21,"ARTON, sro",-726.0,tlac plagatov,240059,Republika
-217,2024-02-01,APPKEE,-60.5,tarif aplikacia 02/2024,20230649,Republika
-218,2024-02-01,APPKEE,-60.5,tarif aplikacia 01/2024,20240055,Republika
-219,2024-02-01,APPKEE,-60.5,tarif aplikacia 11/2023,20230849,Republika
-220,2024-02-01,APPKEE,-60.5,tarif aplikacia 12/2023,20230943,Republika
-221,2024-02-01,GRYF reklamne studio,-11880.0,zaloha za reklamne plochy big 05/24,24010,Republika
-222,2024-02-01,GRYF reklamne studio,-20838.0,zaloha za reklamne plochy 05/24,24008,Republika
-223,2024-02-01,GRYF reklamne studio,-20010.0,zaloha za reklamne plochy 06/24,24009,Republika
-224,2024-02-01,GRYF reklamne studio,-6900.0,zaloha za reklamne plochy 04/24,24007,Republika
-225,2024-02-01,GRYF reklamne studio,-9384.0,zaloha za reklamne plochy 03/24,24006,Republika
-226,2024-02-01,REPUBLIKA,100000.0,prevod prostriedkov na transparentny ucet, ,Republika
-227,2024-01-31, ,-7.0,Vedenie účtu,9,Republika
-228,2024-04-04,Lea Maria Jassova,-1700.0,Platba/Jassova socialne siete 03 24,"12024
-VS012024/SS/KS",Progresívne Slovensko
-229,2024-04-04,YAR LUCIA,2500.0,PLATBA/Lucia Yar dar,"6
-VS6/SS/KS",Progresívne Slovensko
-230,2024-04-04,"SLOVENSKÁ POŠTA, A.S.",50.0,PLATBA,"1009400001
-VS1009400001/SS6010000768/KS0998",Progresívne Slovensko
-231,2024-04-03,Kubaň Jakub,50.0,Platba/Darovacia zmluva na podporu kandidata Sofia Karina Trommlerova v eurovolbach 2024,"60101
-VS60101/SS12/KS",Progresívne Slovensko
-232,2024-04-03,Seeya Creative,-600.0,PLATBA VA24040309443/Livestream diskusia praha fa c.2024036,,Progresívne Slovensko
-233,2024-04-03,"
-                            GOKYO, S.R.O.
-                    ",-300.0,"
+100,2024-02-02,SMER - sociálna demokracia,40000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+101,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+102,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+103,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+104,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+105,2024-02-02,SMER - sociálna demokracia,160000.0,Prevod prostriedkov z bezneho uctu SMER-SD na transparentny ucet SMER-SD,2022024.0,Smer
+106,2024-04-10,NEXT Film s.r.o.,-720.0,natáčanie europrogramu,2024025.0,SaS
+107,2024-04-10,Bittner print,-3594.0,"tlač brožúry, 1000 ks",1020241517.0,SaS
+108,2024-04-10,euroAWK spol. s.r.o.,-1284.0,"CLV 20 ks, apríl",2470026.0,SaS
+109,2024-04-05,Hl. m. SR Bratislava,-80.0,zabratie verejného priestranstva,2241331167.0,SaS
+110,2024-04-03,NUBIUM s.r.o.,-68840.4,"prenájom bigboardy + inštalacia 10 ks, bilboardy 333 ks+ tlač, apríl 2024",24042272.0,SaS
+111,2024-03-31,,-5.0,Zverejňovanie účtu,,SaS
+112,2024-03-31,,-5.0,Poplatok za vedenie účtu,,SaS
+113,2024-03-31,,-2.6,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 5827Poplatok za Platobnú kartu",,SaS
+114,2024-03-30,Maros Mjartan,1.0,Drzim palceky ..,,SaS
+115,2024-03-27,Mesto Trnava,-240.0,,5000300609.0,SaS
+116,2024-03-08,ARTON s.r.o.,-2568.0,tlač bilboardov 214 ks,240087.0,SaS
+117,2024-03-08,ARTON s.r.o.,-25423.2,"nájomné bilboardov, 214 ks, 4/24",240086.0,SaS
+118,2024-03-08,ARTON s.r.o.,-5400.0,"tlač a inštalácia bigboardov,9 ks",240085.0,SaS
+119,2024-03-08,ARTON s.r.o.,-6480.0,"nájomné bigboardy, 9 ks 4/24",240084.0,SaS
+120,2024-02-29,,-5.0,Zverejňovanie účtu,,SaS
+121,2024-02-29,,-5.0,Poplatok za vedenie účtu,,SaS
+122,2024-02-29,Lukáš Marcinko,-2500.0,"websupport a web design, SSL certif",2024061.0,SaS
+123,2024-02-29,Ministerstvo vnútra,-1700.0,uhrada kaucie,42139333.0,SaS
+124,2024-02-28,LK Studio s.r.o.,-1800.0,fotografické práce,20240005.0,SaS
+125,2024-02-12,CONFIDENCE MEDIA SR s.r.o.,-6403.2,"prenájom bilboardov, citylightov, bigboard",2421020.0,SaS
+126,2024-02-02,Sloboda a Solidarita (SaS),500000.0,presun prostriedkov na kampaň,,SaS
+127,2024-01-31,,-5.0,Zverejňovanie účtu,,SaS
+128,2024-01-31,,-1.61,Poplatok za vedenie účtu,,SaS
+129,2024-01-27,Bačák Juraj,0.01,Prispevok na drahy alkohol v Dubaji .,,SaS
+130,2024-01-23,Sloboda a Solidarita (SaS),200.0,presun prostriedkov,,SaS
+131,2024-04-11,"ISPA, spol. s.r.o.",-35136.0,reklamne plochy,24950098.0,SNS
+132,2024-04-11,"BigMedia, spol. s.r.o.",-38820.0,reklamne plochy,122490038.0,SNS
+133,2024-04-08,SLOV NARODNA STRANA,75000.0,prevod Eurovolby 2024,750002024.0,SNS
+134,2024-04-05,HAVOC s.r.o.,-1500.0,ostatné náklady,20240022.0,SNS
+135,2024-03-31,,-5.0,Zverejňovanie účtu,,SNS
+136,2024-03-31,,-5.0,Poplatok za vedenie účtu,,SNS
+137,2024-03-26,"BigMedia, spol. s r.o.",-2760.0,reklamne plochy,,SNS
+138,2024-03-25,"BigMedia, spol. s r.o.",-32280.0,reklamne plochy,122490037.0,SNS
+139,2024-03-22,"ARTON, s.r.o.",-25560.0,reklamne plochy,240125.0,SNS
+140,2024-03-22,"ARTON, s.r.o.",-2580.0,reklamne plochy,240126.0,SNS
+141,2024-03-22,"ISPA, spol. s.r.o.",-4176.0,reklamne plochy,24950070.0,SNS
+142,2024-03-22,"ISPA, spol. s.r.o.",-3198.0,reklamne plochy,24950076.0,SNS
+143,2024-03-22,LIM PO s. r. o.,-450.0,inzercia,20240219.0,SNS
+144,2024-03-22,"Imagewell, s.r.o.",-3240.0,reklamne plochy,460240016.0,SNS
+145,2024-03-01,"ISPA, spol. s.r.o.",-22608.0,reklamne plochy,24950063.0,SNS
+146,2024-02-29,,-5.0,Zverejňovanie účtu,,SNS
+147,2024-02-29,,-5.0,Poplatok za vedenie účtu,,SNS
+148,2024-02-15,Mihalovi Martin,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
+149,2024-02-15,Ruzena Kapusnakova,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
+150,2024-02-15,MICHAL ZAJIC,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
+151,2024-02-15,PATRIK TIMULAK,-0.01,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
+152,2024-02-15,Sildi Peter,-1.0,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+153,2024-02-15,Kardo Milan,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+154,2024-02-15,Hlatk Miroslav,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+155,2024-02-15,Kristina Chabadova,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+156,2024-02-15,Godor Patrik,-0.01,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
+157,2024-02-15,Chebe Mrio,-0.01,Vratenie platby podla zakona zo dna 28.01.2024,,SNS
+158,2024-02-15,Schelling aneta,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+159,2024-02-15,Belica Vladimir,-0.01,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+160,2024-02-15,Bohuslav Masiarcik,-0.01,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
+161,2024-01-31,,-0.97,Poplatok za vedenie účtu,,SNS
+162,2024-01-31,,-5.0,Zverejňovanie účtu,,SNS
+163,2024-01-29,MICHAL ZAJIC,0.01,ZMRDE. NA LETENKU DO MOSKVY.,,SNS
+164,2024-01-29,SLOV NARODNA STRANA,120000.0,prevod na eurovolby 2024,1200002024.0,SNS
+165,2024-01-29,PATRIK TIMULAK,0.01,PRISPEVOK PRE TOHO KTORY V ZIVOTE NEPOUZIVA PAPIER KED CITA,,SNS
+166,2024-01-29,Ruzena Kapusnakova,0.01,Simkovicovej a Dankovi na psychiatricke vysetrenie,,SNS
+167,2024-01-29,Mihalovič Martin,0.01,"Voda svieti, slnko laka, snehulme si postaviaka",,SNS
+168,2024-01-28,Chebeň Mário,0.01,"Zdravím kapitán, to je za zúbkovú vílu. Bozkávam všade",,SNS
+169,2024-01-27,Siládi Peter,1.0,Na prednostny termin u logopeda.,,SNS
+170,2024-01-27,Belica Vladimir,0.01,F001270120245490503,,SNS
+171,2024-01-27,Kardoš Milan,0.01,Ste velmi zabavny ze eurovolby. Ale sak skuste.,,SNS
+172,2024-01-27,Hlatký Miroslav,0.01,Slopenska narodna sranda,,SNS
+173,2024-01-27,Schelling Žaneta,0.01,Hrad na Danka,,SNS
+174,2024-01-27,Kristina Chabadova,0.01,za platy europoslancov robit hanbu a nadavat na EU? A to narodne menu kto tu bude zrat? SNS naspat do 19storocia,,SNS
+175,2024-01-26,Bohuslav Masiarcik,0.01,"Na jednodmerny do RuSSka, aby ste Putlera mohli bozkavat vsade.",,SNS
+176,2024-01-26,Godor Patrik,0.01,aby kokotom nebolo malo,,SNS
+177,2024-04-12,Platba kartou,-960.0,FACEBK MHM363YDC2 fb.me/ads,****639,Republika
+178,2024-04-08,Peter Varchoľak,5.0,"Peter Varcholak, Sadova 493/58, Stakcin 06761, DAR", ,Republika
+179,2024-04-08,Platba kartou,-960.0,FACEBK GV8DHZTD fb.me/ads,****639,Republika
+180,2024-04-03,Radovan Fasung,-4000.0, ,32024,Republika
+181,2024-04-03,"BigMedia, spol. s r.o.",-372.0, ,122490041,Republika
+182,2024-04-03,"BigMedia, spol. s r.o.",-372.0, ,122490040,Republika
+183,2024-04-03, ,-0.15,Poplatky Nonstop banking - SMS, ,Republika
+184,2024-04-03,"NUBIUM, s.r.o.",-924.0, ,24042275,Republika
+185,2024-04-02,"VUB,A.S.",-960.0,DDFACEBK~FUBQCZTDfb.me/ads~~~~~~P1,****639,Republika
+186,2024-03-28, ,-6.38,Poplatky za platby spolu,9,Republika
+187,2024-03-28, ,-0.2,Popl.za 1x elektronický výpis,9,Republika
+188,2024-03-28, ,-7.0,Vedenie účtu,9,Republika
+189,2024-03-28,Platba kartou,-960.0,FACEBK YUHBB2CE fb.me/ads,****639,Republika
+190,2024-03-25,Platba kartou,-959.96,FACEBK 6XTL5ZPD fb.me/ads,****639,Republika
+191,2024-03-20,"ARTON, s.r.o.",-739.2, ,240124,Republika
+192,2024-03-20,Platba kartou,-344.84,FACEBK HWA84Z7E fb.me/ads,****639,Republika
+193,2024-03-20,RCS reklama s.r.o.,-84.24, ,820240157,Republika
+194,2024-03-20,Ing. Pavol Anderko - ANKO,-504.0, ,244018,Republika
+195,2024-03-20,"G - tvar studia, s.r.o.",-1770.0, ,24001,Republika
+196,2024-03-20,Ing. Pavol Anderko - ANKO,-864.0, ,240111,Republika
+197,2024-03-20,"ISPA, spol. s r.o.",-12096.0, ,24950079,Republika
+198,2024-03-20,"ARTON, s.r.o.",-6720.0, ,240123,Republika
+199,2024-03-19,Platba kartou,-960.0,FACEBK XS4PXYPD fb.me/ads,****639,Republika
+200,2024-03-18,Platba kartou,-960.0,FACEBK JEE6SYTD fb.me/ads,****639,Republika
+201,2024-03-15,"CyberSoft, s.r.o.",-5796.0, ,24031101,Republika
+202,2024-03-15,"ISPA, spol. s r.o.",-6144.0, , ,Republika
+203,2024-03-14,Platba kartou,-960.0,FACEBK 5LULSYPD fb.me/ads,****639,Republika
+204,2024-03-11,"VUB,A.S.",-960.0,DDFACEBK~V6TMPYPDfb.me/ads~~~~~~P1,****639,Republika
+205,2024-03-11,"VUB,A.S.",-960.0,DDFACEBK~F5KNVZXDfb.me/ads~~~~~~P1,****639,Republika
+206,2024-03-08,Platba kartou,-960.0,FACEBK H268LYPD fb.me/ads,****639,Republika
+207,2024-03-08,Peter Varchoľak,5.0,"Peter Varcholak, Sadova 493/58, Stakcin 06761, DAR", ,Republika
+208,2024-03-08, ,-1664.96,SEPA Europrevod/NonSEPAPrevod,820240132,Republika
+209,2024-03-07,Platba kartou,-960.0,FACEBK G7M8NY7E fb.me/ads,****639,Republika
+210,2024-03-06,"VUB,A.S.",-960.0,DDFACEBK~FL5UQZXDfb.me/ads~~~~~~P1,****639,Republika
+211,2024-03-04,"VUB,A.S.",-960.0,DDFACEBK~GAXE7Y3Efb.me/ads~~~~~~P1,****639,Republika
+212,2024-03-04,"VUB,A.S.",-960.0,DDFACEBK~6S3LNYFEfb.me/ads~~~~~~P1,****639,Republika
+213,2024-03-04,"NUBIUM, s.r.o",-792.0, ,24031488,Republika
+214,2024-03-04,REPUBLIKA,50000.0, , ,Republika
+215,2024-03-04,REPUBLIKA,50000.0, , ,Republika
+216,2024-03-01, ,-14.0,Ročný popl. Vydanie/obnova karty,639,Republika
+217,2024-03-01, ,-3.5,P-Zmena pod. vzoru právnická osoba, ,Republika
+218,2024-03-01,GRYF reklamne studio,-4692.0,prenajom reklamnych ploch 05/2024,24022,Republika
+219,2024-03-01,"VUB,A.S.",-960.0,DDFACEBK~8AE8KZXDfb.me/ads~~~~~~P1,****639,Republika
+220,2024-02-29, ,-3.52,Poplatky za platby spolu,9,Republika
+221,2024-02-29, ,-0.2,Popl.za 1x elektronický výpis,9,Republika
+222,2024-02-29, ,-7.0,Vedenie účtu,9,Republika
+223,2024-02-29,Platba kartou,-960.0,FACEBK KDFF6YTD fb.me/ads,****639,Republika
+224,2024-02-26,"VUB,A.S.",-960.0,DDFACEBK~R5EQ7ZBEfb.me/ads~~~~~~P1,****639,Republika
+225,2024-02-26,Platba kartou,-960.0,FACEBK 87DA5ZBE fb.me/ads,****639,Republika
+226,2024-02-21,"ARTON, sro",-6600.0,bilbordy 03/2024,240058,Republika
+227,2024-02-21,"CyberSoft, sro",-6486.0,reklamna kampan 03/2024,24021901,Republika
+228,2024-02-21,"ARTON, sro",-726.0,tlac plagatov,240059,Republika
+229,2024-02-01,APPKEE,-60.5,tarif aplikacia 02/2024,20230649,Republika
+230,2024-02-01,APPKEE,-60.5,tarif aplikacia 01/2024,20240055,Republika
+231,2024-02-01,APPKEE,-60.5,tarif aplikacia 11/2023,20230849,Republika
+232,2024-02-01,APPKEE,-60.5,tarif aplikacia 12/2023,20230943,Republika
+233,2024-02-01,GRYF reklamne studio,-11880.0,zaloha za reklamne plochy big 05/24,24010,Republika
+234,2024-02-01,GRYF reklamne studio,-20838.0,zaloha za reklamne plochy 05/24,24008,Republika
+235,2024-02-01,GRYF reklamne studio,-20010.0,zaloha za reklamne plochy 06/24,24009,Republika
+236,2024-02-01,GRYF reklamne studio,-6900.0,zaloha za reklamne plochy 04/24,24007,Republika
+237,2024-02-01,GRYF reklamne studio,-9384.0,zaloha za reklamne plochy 03/24,24006,Republika
+238,2024-02-01,REPUBLIKA,100000.0,prevod prostriedkov na transparentny ucet, ,Republika
+239,2024-01-31, ,-7.0,Vedenie účtu,9,Republika
+240,2024-04-10,Rogovská Vanda,10.0,Platba,"60114
+VS60114/SS8/KS",Progresívne Slovensko
+241,2024-04-10,PUKAR S.R.O.,-300.0,Platba/maskerske prace fotenie eu kandidatky,"2240015
+VS2240015/SS/KS",Progresívne Slovensko
+242,2024-04-10,JAROSKA MILOS,5000.0,PLATBA/Darovacia zmluva,"3
+VS3/SS/KS",Progresívne Slovensko
+243,2024-04-10,TWITTER PAID FEATURES,-3.0,INT NÁKUP POS EUR TWITTER PAID FEATURES / HTTPSWWW.X.CO / (POS KWX1DVYY),,Progresívne Slovensko
+244,2024-04-10,"Pavol Krajci Consulting, s.r.o.",-300.0,Platba/organizacia diskusie zvolen 4.4.2024,"2024040501
+VS2024040501/SS/KS",Progresívne Slovensko
+245,2024-04-09,Hana Kobliskova,-1000.0,Platba/Kobliskova marketing 03 24,"2024003
+VS2024003/SS/KS",Progresívne Slovensko
+246,2024-04-09,"
+                            More Design s. r. o.
+                    ",-5772.0,"
                         Platba
                     /
-                        gokyo fotenie kandidatov
+                        More Design kreativa,fotenie,web
                     ","
-                        20240010VS20240010/SS/KS
+                        202416VS202416/SS/KS
                     ",Progresívne Slovensko
-234,2024-04-03,"
-                            Petrušková Michaela
-                    ",-1000.0,"
-                        Platba
+247,2024-04-09,"
+                            Čifári Zuzana
+                    ",-2000.0,"
+                        VÝBER V HOTOVOSTI
                     /
-                        Petruskova marketingove sluzby 03 24
-                    ","
-                        20240008VS20240008/SS/KS308
-                    ",Progresívne Slovensko
-235,2024-04-03,"
-                            FACEBK *9C3GU2LXC2
-                    ",-781.59,"
-                        EUR NÁKUP POS FACEBK *9C3GU2LXC2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Progresívne Slovensko
-236,2024-04-03,DANIEL FERENCIK,-504.0,Platba/Prenajom fotostudia a techniky,"2403002
-VS2403002/SS/KS",Progresívne Slovensko
-237,2024-03-30,"
-                            
-                    ",-6.6,"
-                        Poplatky za transakcie
-                    /
-                        
+                        vklad do pokladne
                     ","
                         
                     ",Progresívne Slovensko
-238,2024-03-30,"
-                            
-                    ",-7.0,"
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    ",Progresívne Slovensko
-239,2024-03-30,"
-                            Kečka Roman, PhDr.
-                    ",20.0,"
-                        Platba
-                    /
-                        Dar pre Miroslava Kocura
-                    ","
-                        60100VS60100/SS007/KS
-                    ",Progresívne Slovensko
-240,2024-03-28,Ivan Kamenec,10.0,Platba,"60095
-VS60095/SS7/KS",Progresívne Slovensko
-241,2024-03-28,"Cifrová Ostrihoňová Veronika, Bc.",990.0,Platba/Darovacia zmluva na podporu kandidata Veronika Cifrova Ostrihonova v eurovolbach 2024,"60094
-VS60094/SS4/KS",Progresívne Slovensko
-242,2024-03-28,"
-                            Hojsík Martin, Mgr.
-                    ",5000.0,"
-                        Platba
-                    /
-                        martin hojsik dar
-                    ","
-                        3VS3/SS/KS
-                    ",Progresívne Slovensko
-243,2024-03-28,"
-                            Kubaňová Silvia, Mgr.
-                    ",30.0,"
-                        Platba
-                    /
-                        Kampan s.k.trommler
-                    ","
-                        60096VS60096/SS12/KS0308
-                    ",Progresívne Slovensko
-244,2024-03-27,MES POPLATOK VISA FIREMNA,-1.0,Mesačný poplatok MES POPLATOK VISA FIREMNA,,Progresívne Slovensko
-245,2024-03-27,Ing. Michal Wiezik Ph.D.,8000.0,PLATBA/Michal Wiezik,"5
-VS05/SS/KS",Progresívne Slovensko
-246,2024-03-26,ASGUARD SECURITY,-144.0,Platba/Kosice diskusia sbs,"5024034
-VS5024034/SS/KS308",Progresívne Slovensko
-247,2024-03-26,"ENGRAMS, s.r.o.",-4500.0,Platba/Engrams poradenstvo pre kampan do eu volieb 01 24,"20240001
-VS20240001/SS/KS",Progresívne Slovensko
-248,2024-03-26,MESTO BANSKA BYSTRIC,-204.0,Platba/Banska Bystrica prenajom priestorov diskusia 29.2.2024,"7420240035
-VS7420240035/SS62/KS3718",Progresívne Slovensko
-249,2024-03-26,ARES SECURITY CORPOR,-96.0,Platba/Banska Bystrica sbs diskusia 29.2.2024,"10240029
-VS10240029/SS/KS308",Progresívne Slovensko
-250,2024-03-26,NH COLLECTION BRUSSELS CE,-1603.96,EUR NÁKUP POS NH COLLECTION BRUSSELS CE / BRUXELLES / (POS 21720101),,Progresívne Slovensko
-251,2024-03-26,MARATÓN s.r.o.,-1000.0,Platba/Kosice hotel maraton diskusia 03 24,"2024000052
-VS2024000052/SS/KS",Progresívne Slovensko
-252,2024-03-26,PUKAR S.R.O.,-480.0,Platba/maskerske prace fotenie eu kandidatky,"224008
-VS224008/SS/KS",Progresívne Slovensko
-253,2024-03-26,Slovenská výtvarná únia,-800.0,Platba/prenajom priestorov galeria umelka tlacova konferencia 6.3.2024,"2024010
-VS2024010/SS/KS",Progresívne Slovensko
-254,2024-03-26,VB MANAGEMENT S.R.O.,-2582.2,"Platba/Hotel Beigli prenajom priestoru, catering 25.3.2024","2400094
-VS2400094/SS/KS",Progresívne Slovensko
-255,2024-03-26,"ENGRAMS, s.r.o.",-4500.0,Platba/Engrams poradenstvo pre kampan do eu volieb 02 24,"20240002
-VS20240002/SS/KS",Progresívne Slovensko
-256,2024-03-26,NEVERENDING STORY s.,-558.29,Platba/prenajom aut diskusia praha 03 24,"2401069
-VS2401069/SS/KS",Progresívne Slovensko
-257,2024-03-25,KAPWING PRO PLAN,-22.87,POS nákup zahr. KAPWING PRO PLAN / HTTPSWWW.KAPW / (POS M51SA49E),,Progresívne Slovensko
-258,2024-03-25,KAPWING PRO PLAN,-22.87,POS nákup zahr. KAPWING PRO PLAN / HTTPSWWW.KAPW / (POS M51SA49E),,Progresívne Slovensko
-259,2024-03-22,Andreas Rusnak,180.0,PLATBA/Darovacia zmluva na podporu kandidata Andreas Rusnak v eurovolbach 2024,"60087
-VS60087/SS11/KS",Progresívne Slovensko
-260,2024-03-22,NH COLLECTION BRUSSELS CE,-858.48,EUR NÁKUP POS NH COLLECTION BRUSSELS CE / BRUXELLES / (POS 21720101),,Progresívne Slovensko
-261,2024-03-22,NH COLLECTION BRUSSELS CE,-3007.44,EUR NÁKUP POS NH COLLECTION BRUSSELS CE / BRUXELLES / (POS 21720101),,Progresívne Slovensko
-262,2024-03-21,FRIC JOZEF,30.0,PLATBA/PS Kocur,"60086
-VS60086/SS7/KS",Progresívne Slovensko
-263,2024-03-21,More Design s. r. o.,-8328.0,"Platba/More Design dizajn web, skolenie,dizajn eu kampan","202412
-VS202412/SS/KS",Progresívne Slovensko
-264,2024-03-20,ARTON s.r.o.,-2790.0,Platba/Arton najom bilboard 15.3-31.3.2024,"240113
-VS240113/SS/KS",Progresívne Slovensko
-265,2024-03-20,ZELEZNICNA SPOLOCNOST,-45.7,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),,Progresívne Slovensko
-266,2024-03-20,Progresívne Slovensko,40000.0,Platba/prevod medzi uctami,,Progresívne Slovensko
-267,2024-03-20,BASEfactory s. r. o.,-250.0,Platba/prenajom priestorov fotenie,"182024
-VS0182024/SS/KS",Progresívne Slovensko
-268,2024-03-20,ARTON s.r.o.,-1404.0,Platba/Arton tlac plagatov,"240114
-VS240114/SS/KS",Progresívne Slovensko
-269,2024-03-20,MatusBence s.r.o.,-7860.0,Platba/Eu volby vizual fotenie,"2024006
-VS2024006/SS/KS",Progresívne Slovensko
-270,2024-03-20,Vladislav Pisancik,10.0,PLATBA/dar Miro K.,VS/SS007/KS,Progresívne Slovensko
-271,2024-03-19,YAR LUCIA,180.0,PLATBA/Darovacia zmluva na podporu kandidata Lucia Yar v,"60082
-VS60082/SS6/KS",Progresívne Slovensko
-272,2024-03-18,David Marcel,100.0,Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60084
-VS60084/SS7/KS",Progresívne Slovensko
-273,2024-03-18,"Kocúr Miroslav, ThDr., PhD.",77.77,Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60083
-VS60083/SS7/KS",Progresívne Slovensko
-274,2024-03-18,AUSTRIAN AIR2572163395725,-329.42,EUR NÁKUP POS AUSTRIAN AIR2572163395725 / WWW.LUFTHANSA / (POS 28341049),,Progresívne Slovensko
-275,2024-03-18,AUSTRIAN AI 2572163418378,-751.11,EUR NÁKUP POS AUSTRIAN AI 2572163418378 / TICKET MAILED / (POS 99999999),,Progresívne Slovensko
-276,2024-03-18,AUSTRIAN AI 2572163418337,-652.11,EUR NÁKUP POS AUSTRIAN AI 2572163418337 / TICKET MAILED / (POS 99999999),,Progresívne Slovensko
-277,2024-03-18,AUSTRIAN AI 2572163418298,-800.11,EUR NÁKUP POS AUSTRIAN AI 2572163418298 / TICKET MAILED / (POS 99999999),,Progresívne Slovensko
-278,2024-03-18,AUSTRIAN AIR2572163349657,-283.8,EUR NÁKUP POS AUSTRIAN AIR2572163349657 / WWW.LUFTHANSA / (POS 28341049),,Progresívne Slovensko
-279,2024-03-14,BKG*HOTEL AT BOOKING.C,-759.35,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850189),,Progresívne Slovensko
-280,2024-03-12,FACEBK MHU242LXC2,-800.0,EUR NÁKUP POS FACEBK MHU242LXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-281,2024-03-12,LASA s.r.o.,-298.8,Platba/prenajom podia tlacovka 6.3.2024,"2024014
-VS2024014/SS/KS",Progresívne Slovensko
-282,2024-03-11,FACEBK *LR8F7YPXC2,-720.0,EUR NÁKUP POS FACEBK *LR8F7YPXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-283,2024-03-08,FACEBK *9KXGYYFXC2,-480.0,EUR NÁKUP POS FACEBK *9KXGYYFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-284,2024-03-07,Ján Čief,-250.0,"Platba/diskusia BB 29.2.2024 osvetlenie, ozvucenie","946
-VS0946/SS/KS",Progresívne Slovensko
-285,2024-03-07,FRESH REPUBLIC s. r. o.,-69.0,Platba/FRESH REPUBLIC obcerstvenie tlacova konferencia,"2024104
-VS2024104/SS/KS",Progresívne Slovensko
-286,2024-03-05,TrollWall AI,-3110.4,"Platba/TrollWall sluzby, 5uctov , 03-06 2024","20240304
-VS20240304/SS/KS",Progresívne Slovensko
-287,2024-03-05,JANA GOGH S. R. O.,-3600.0,Platba/Gogh reklamne a marketingove sluzby 02 24,"20240008
-VS20240008/SS/KS",Progresívne Slovensko
-288,2024-03-05,"GOKYO, S.R.O.",-420.0,Platba/kostymy ps fotenie,"20240006
-VS20240006/SS/KS",Progresívne Slovensko
-289,2024-03-05,"Unimedia spol. ,s.r.",-239472.9,Platba/UNIMEDIA OOH 04-06 2024,"720240012
-VS720240012/SS/KS",Progresívne Slovensko
-290,2024-03-05,Progresívne Slovensko,240000.0,Platba/prevod medzi uctami,,Progresívne Slovensko
-291,2024-03-04,SHELL 8257,-45.01,POS nákup SHELL 8257 / EINSTEINOVA / (POS 33825702),,Progresívne Slovensko
-292,2024-03-04,FACEBK *SKL2XXPXC2,-161.85,EUR NÁKUP POS FACEBK *SKL2XXPXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-293,2024-03-01,Ministerstvo vnútra Slovenskej republiky,-1700.0,Platba/volebna kaucia Progresivne Slovensko EU volby,"51224836
-VS51224836/SS/KS",Progresívne Slovensko
-294,2024-02-29,,-2.6,Poplatky za transakcie,,Progresívne Slovensko
-295,2024-02-29,,-7.0,Poplatok za balík,,Progresívne Slovensko
-296,2024-02-27,MES POPLATOK VISA FIREMNA,-1.0,Mesačný poplatok MES POPLATOK VISA FIREMNA,,Progresívne Slovensko
-297,2024-02-26,FACEBK *P4TNXX7XC2,-320.0,EUR NÁKUP POS FACEBK *P4TNXX7XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-298,2024-02-22,NEVERENDING STORY s.,-48.0,Platba/dopravne sluzby tlacovka 20.2,"2401052
-VS2401052/SS/KS",Progresívne Slovensko
-299,2024-02-15,FACEBK *QE9MGX3XC2,-210.0,EUR NÁKUP POS FACEBK *QE9MGX3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-300,2024-02-14,FACEBK *CSBEFX3XC2,-140.0,EUR NÁKUP POS FACEBK *CSBEFX3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-301,2024-02-12,FACEBK *5TWUGXBXC2,-100.0,EUR NÁKUP POS FACEBK *5TWUGXBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-302,2024-02-09,ENERGO ZUGOV S.R.O.,-230.6,Platba/Giselle tlacova konferencia,"20240002
-VS20240002/SS/KS",Progresívne Slovensko
-303,2024-02-09,FACEBK *66L2AX3XC2,-90.0,EUR NÁKUP POS FACEBK *66L2AX3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-304,2024-02-08,FACEBK *LARSBX7XC2,-60.0,EUR NÁKUP POS FACEBK *LARSBX7XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-305,2024-02-07,FACEBK *CMHV7XXXC2,-40.0,EUR NÁKUP POS FACEBK *CMHV7XXXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-306,2024-02-06,FACEBK *TCRX9XBXC2,-6.14,EUR NÁKUP POS FACEBK *TCRX9XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-307,2024-02-06,FACEBK *WBF9UX3YC2,-10.0,EUR NÁKUP POS FACEBK *WBF9UX3YC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-308,2024-02-06,FACEBK *NG355X3XC2,-4.0,EUR NÁKUP POS FACEBK *NG355X3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-309,2024-02-06,FACEBK *98478X7XC2,-5.0,EUR NÁKUP POS FACEBK *98478X7XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-310,2024-02-06,FACEBK *2UFD5XXXC2,-6.0,EUR NÁKUP POS FACEBK *2UFD5XXXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-311,2024-02-06,FACEBK *ZST6UX3YC2,-9.0,EUR NÁKUP POS FACEBK *ZST6UX3YC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-312,2024-02-06,FACEBK *VMWJTYKXC2,-27.0,EUR NÁKUP POS FACEBK *VMWJTYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-313,2024-02-06,FACEBK *GYWPSYKXC2,-12.0,EUR NÁKUP POS FACEBK *GYWPSYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-314,2024-02-06,FACEBK *PNREUX3YC2,-15.0,EUR NÁKUP POS FACEBK *PNREUX3YC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-315,2024-02-06,FACEBK *QB8RTXFXC2,-18.0,EUR NÁKUP POS FACEBK *QB8RTXFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-316,2024-02-06,FACEBK *G3QBTYKXC2,-22.0,EUR NÁKUP POS FACEBK *G3QBTYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-317,2024-02-06,FACEBK *88UEZWPXC2,-33.0,EUR NÁKUP POS FACEBK *88UEZWPXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-318,2024-02-05,FACEBK *YQ4U8XBXC2,-2.0,EUR NÁKUP POS FACEBK *YQ4U8XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-319,2024-02-05,FACEBK *A4CDZZTXC2,-2.0,EUR NÁKUP POS FACEBK *A4CDZZTXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-320,2024-02-05,FACEBK *JZLV8XBXC2,-2.0,EUR NÁKUP POS FACEBK *JZLV8XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-321,2024-02-05,FACEBK *MCFXRXFXC2,-2.0,EUR NÁKUP POS FACEBK *MCFXRXFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-322,2024-02-05,FACEBK *62FYRXFXC2,-2.0,EUR NÁKUP POS FACEBK *62FYRXFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-323,2024-02-05,FACEBK *JVJ9RYKXC2,-2.0,EUR NÁKUP POS FACEBK *JVJ9RYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-324,2024-02-05,FACEBK *ZANARYKXC2,-2.0,EUR NÁKUP POS FACEBK *ZANARYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-325,2024-02-05,FACEBK *UKDBRYKXC2,-2.0,EUR NÁKUP POS FACEBK *UKDBRYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-326,2024-02-05,FACEBK *73B39XBXC2,-3.0,EUR NÁKUP POS FACEBK *73B39XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-327,2024-02-05,FACEBK *4HE64X3XC2,-3.0,EUR NÁKUP POS FACEBK *4HE64X3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-328,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
-329,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
-330,2024-02-01,"Unimedia spol. ,s.r.",-44850.0,Platba/UNIMEDIA OOH 02-03 2024,"720240006
-VS720240006/SS/KS",Progresívne Slovensko
-331,2024-01-31,,-0.0,Poplatok za balík,,Progresívne Slovensko
-332,2024-01-31,Progresívne Slovensko,70000.0,Platba/prevod medzi uctami,,Progresívne Slovensko
-333,2024-04-09,"Plotbase, s.r.o. IČO: 45674515",-742.9,"Roll up, pult",112277.0,Slovensko
-334,2024-04-08,,-13.11,"B1775308942-44544 17** **** 6916;FACEBK N5UQV2Q7S2 ,fb.me/ads ,IE ;07.04.2024 07:34:26 ;CashBack:0 EUR",,Slovensko
-335,2024-04-08,,-0.25,Poplatok za platbu kartou,,Slovensko
-336,2024-04-07,,-0.25,Poplatok za platbu kartou,,Slovensko
-337,2024-04-07,,-60.0,"B1774611701-44544 17** **** 6916;FACEBK P2GZ5547S2 ,fb.me/ads ,IE ;06.04.2024 15:01:39 ;CashBack:0 EUR",,Slovensko
-338,2024-04-06,,-0.25,Poplatok za platbu kartou,,Slovensko
-339,2024-04-06,,-37.79,"B1774056712-44544 17** **** 6916;KAUFLAND 1120, PO, LEVO ,PRESOV ,SK ;05.04.2024 11:59:53 ;CashBack:0 EUR",,Slovensko
-340,2024-04-06,,-0.25,Poplatok za platbu kartou,,Slovensko
-341,2024-04-06,,-6.01,"B1773707583-44544 17** **** 6916;PAGURKO Masiarstvo ,Presov ,SK ;05.04.2024 12:26:51 ;CashBack:0 EUR",,Slovensko
-342,2024-04-04,Matěj Horník ICO: 52206572,-2200.0,Socialne siete,424.0,Slovensko
-343,2024-04-04,Martin Bagar ICO: 50355031,-2700.0,Video produkcia,20240004.0,Slovensko
-344,2024-04-04,Slovnaft a.s. - IČO: 31322832,-16.0,PHM,3082057463.0,Slovensko
-345,2024-04-03,KRYSTYNEK s.r.o. IČO: 47933909,-840.0,Fotografovanie,2024014.0,Slovensko
-346,2024-04-03,Mgr. Branislav Gigac IČO: 55086217,-2700.0,Prace na kampani,2024030002.0,Slovensko
-347,2024-03-31,,-5.0,Poplatok za vedenie účtu,,Slovensko
-348,2024-03-31,,-5.0,Zverejňovanie účtu,,Slovensko
-349,2024-03-28,,-0.25,Poplatok za platbu kartou,,Slovensko
-350,2024-03-28,,-40.0,"B1767849982-44544 17** **** 6916;FACEBK 5SGYH2C7S2 ,fb.me/ads ,IE ;27.03.2024 12:33:20 ;CashBack:0 EUR",,Slovensko
-351,2024-03-27,Michal Babčan,-1000.0,Grafické práce,42024.0,Slovensko
-352,2024-03-22,,-0.25,Poplatok za platbu kartou,,Slovensko
-353,2024-03-22,,-33.0,"B1763054511-44544 17** **** 6916;FACEBK XDZEK2U6S2 ,fb.me/ads ,IE ;21.03.2024 20:11:18 ;CashBack:0 EUR",,Slovensko
-354,2024-03-20,Ivana Súkenníková ICO: 53253345,-450.0,Styling na fotenie,20240012.0,Slovensko
-355,2024-03-17,,-0.25,Poplatok za platbu kartou,,Slovensko
-356,2024-03-17,,-300.0,"B1759008508-44544 17** **** 6916;PATRIOT HOTEL ,VRANOV NAD TO ,SK ;15.03.2024 19:20:20 ;CashBack:0 EUR",,Slovensko
-357,2024-03-16,,-27.0,"B1758086789-44544 17** **** 6916;FACEBK 3NSMR287S2 ,fb.me/ads ,IE ;15.03.2024 18:59:40 ;CashBack:0 EUR",,Slovensko
-358,2024-03-16,,-0.25,Poplatok za platbu kartou,,Slovensko
-359,2024-03-15,,-0.25,Poplatok za platbu kartou,,Slovensko
-360,2024-03-15,Sketch s.r.o. IČO: 54087988,-23957.4,reklamné a propagačné predmety,4172024.0,Slovensko
-361,2024-03-15,,-22.0,"B1757128464-44544 17** **** 6916;FACEBK 3LHUB447S2 ,fb.me/ads ,IE ;14.03.2024 22:12:37 ;CashBack:0 EUR",,Slovensko
-362,2024-03-14,,-0.25,Poplatok za platbu kartou,,Slovensko
-363,2024-03-14,,-18.0,"B1756210740-44544 17** **** 6916;FACEBK 5EYQ22C7S2 ,fb.me/ads ,IE ;13.03.2024 19:07:09 ;CashBack:0 EUR",,Slovensko
-364,2024-03-13,"POSTOJ MEDIA, s.r.o. ICO: 50205668",-3650.0,Inzercia,920240001.0,Slovensko
-365,2024-03-13,"MEM Agency, s.r.o. ICO: 51447321",-2880.0,Techn.zabezp.podujati PACIVALE ROMA,20240001.0,Slovensko
-366,2024-03-13,Michal Babčan,-1000.0,Grafické práce,32024.0,Slovensko
-367,2024-03-13,SLOVENSKO,50000.0,prevod na TU,4.0,Slovensko
-368,2024-03-12,Initiative s.r.o. IČO: 50860917,-63498.96,OOH Billboardy,2624010.0,Slovensko
-369,2024-03-11,,-12.0,"B1753932947-44544 17** **** 6916;FACEBK 7GLW62U6S2 ,fb.me/ads ,IE ;10.03.2024 10:00:01 ;CashBack:0 EUR",,Slovensko
-370,2024-03-11,Mgr. Branislav Gigac IČO: 55086217,-2800.0,Práce na kampani,2024030001.0,Slovensko
-371,2024-03-11,,-15.0,"B1754005266-44544 17** **** 6916;FACEBK AA5PL2U7S2 ,fb.me/ads ,IE ;10.03.2024 20:29:31 ;CashBack:0 EUR",,Slovensko
-372,2024-03-11,,-0.25,Poplatok za platbu kartou,,Slovensko
-373,2024-03-11,,-0.25,Poplatok za platbu kartou,,Slovensko
-374,2024-03-10,,-4.0,"B1752222010-44544 17** **** 6916;FACEBK N8MU4447S2 ,fb.me/ads ,IE ;08.03.2024 15:14:27 ;CashBack:0 EUR",,Slovensko
-375,2024-03-10,,-4.0,"B1752223576-44544 17** **** 6916;FACEBK RC57UZP7S2 ,fb.me/ads ,IE ;08.03.2024 18:31:27 ;CashBack:0 EUR",,Slovensko
-376,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
-377,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
-378,2024-03-10,,-3.0,"B1752288701-44544 17** **** 6916;FACEBK YTC3J2U7S2 ,fb.me/ads ,IE ;08.03.2024 10:24:03 ;CashBack:0 EUR",,Slovensko
-379,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
-380,2024-03-10,,-3.0,"B1752303503-44544 17** **** 6916;FACEBK NGMG4447S2 ,fb.me/ads ,IE ;08.03.2024 07:33:42 ;CashBack:0 EUR",,Slovensko
-381,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
-382,2024-03-10,,-5.0,"B1752320723-44544 17** **** 6916;FACEBK 345SD2Y6S2 ,fb.me/ads ,IE ;08.03.2024 21:32:20 ;CashBack:0 EUR",,Slovensko
-383,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
-384,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
-385,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
-386,2024-03-10,,-10.0,"B1753307861-44544 17** **** 6916;FACEBK EZWNK2U7S2 ,fb.me/ads ,IE ;09.03.2024 21:02:55 ;CashBack:0 EUR",,Slovensko
-387,2024-03-10,,-6.0,"B1753168295-44544 17** **** 6916;FACEBK ZVFJ5447S2 ,fb.me/ads ,IE ;09.03.2024 06:28:34 ;CashBack:0 EUR",,Slovensko
-388,2024-03-10,,-8.0,"B1753202173-44544 17** **** 6916;FACEBK KKUAK2U7S2 ,fb.me/ads ,IE ;09.03.2024 13:36:40 ;CashBack:0 EUR",,Slovensko
-389,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
-390,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
-391,2024-03-08,,-2.0,"B1751308521-44544 17** **** 6916;FACEBK 6U7WPZF7S2 ,fb.me/ads ,IE ;07.03.2024 17:49:46 ;CashBack:0 EUR",,Slovensko
-392,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
-393,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
-394,2024-03-08,,-2.0,"B1751385010-44544 17** **** 6916;FACEBK RJ5NG287S2 ,fb.me/ads ,IE ;07.03.2024 16:15:13 ;CashBack:0 EUR",,Slovensko
-395,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
-396,2024-03-08,,-2.0,"B1751384304-44544 17** **** 6916;FACEBK YWURTZB7S2 ,fb.me/ads ,IE ;07.03.2024 14:32:21 ;CashBack:0 EUR",,Slovensko
-397,2024-03-08,,-2.0,"B1751449973-44544 17** **** 6916;FACEBK VCFZTZB7S2 ,fb.me/ads ,IE ;07.03.2024 19:17:35 ;CashBack:0 EUR",,Slovensko
-398,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
-399,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
-400,2024-03-08,,-2.0,"B1751448271-44544 17** **** 6916;FACEBK SK6W52L7S2 ,fb.me/ads ,IE ;07.03.2024 21:30:37 ;CashBack:0 EUR",,Slovensko
-401,2024-03-08,,-2.0,"B1751448503-44544 17** **** 6916;FACEBK LK4Z3447S2 ,fb.me/ads ,IE ;07.03.2024 20:30:37 ;CashBack:0 EUR",,Slovensko
-402,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
-403,2024-03-08,,-2.0,"B1752097277-44544 17** **** 6916;FACEBK BCZETZP7S2 ,fb.me/ads ,IE ;08.03.2024 03:02:24 ;CashBack:0 EUR",,Slovensko
-404,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
-405,2024-03-08,,-2.0,"B1751450408-44544 17** **** 6916;FACEBK WV744447S2 ,fb.me/ads ,IE ;07.03.2024 22:42:08 ;CashBack:0 EUR",,Slovensko
-406,2024-03-07,Initiative s.r.o. IČO: 50860917,-5743.33,OOH Billboardy,2624008.0,Slovensko
-407,2024-03-07,Initiative s.r.o. IČO: 50860917,-768.1,OOH Citylighty,2624009.0,Slovensko
-408,2024-03-06,SLOVENSKO,50000.0,prevod na TU,3.0,Slovensko
-409,2024-03-06,Valovič Tomáš,-0.1,Vratenie daru,,Slovensko
-410,2024-03-06,"Petit Press,a.s. - divízia Bratislava ICO: 3579025",-7812.0,Inzercia,2422100010.0,Slovensko
-411,2024-03-06,FOCUS ICO 17336325,-11484.0,Prieskum,20242013.0,Slovensko
-412,2024-03-06,Jaroslav Balara,-1.5,Vratenie daru,,Slovensko
-413,2024-03-06,Obec Zohor ICO: 00322741,-194.6,"Prenajom priestorov, rozhlas",9913400002.0,Slovensko
-414,2024-03-06,Initiative s. r. o. IČO: 50860917,-10515.08,OOH Bigboardy,2624007.0,Slovensko
-415,2024-03-06,Marek Ostrochovsky,-0.01,Vratenie daru,,Slovensko
-416,2024-03-06,Michalovic David,-5.0,Vratenie daru,,Slovensko
-417,2024-02-29,,-5.0,Zverejňovanie účtu,,Slovensko
-418,2024-02-29,,-3.1,Poplatok za vedenie účtu,,Slovensko
-419,2024-02-27,SLOVENSKO,50000.0,prevod na TU,2.0,Slovensko
-420,2024-02-26,Initiative s. r. o. IČO: 50860917,-4604.04,OOH Reklama v MHD,2624006.0,Slovensko
-421,2024-02-26,Initiative s. r. o. IČO: 50860917,-3259.87,OOH prelep billboardov,2624005.0,Slovensko
-422,2024-02-26,Initiative s. r. o. IČO: 50860917,-4230.58,OOH Billboardy,2624004.0,Slovensko
-423,2024-02-26,Jaroslav Balara,1.5,"Suma 1,5 ? je vyska mojho rodicovskeho prispevku.Dakujem, neprosim?",,Slovensko
-424,2024-02-20,Valovič Tomáš,0.1,Igor na hrad,,Slovensko
-425,2024-02-16,Marek Ostrochovsky,0.01,"coho ste sa chytili, to ste dojebali???",,Slovensko
-426,2024-02-15,Initiative s.r.o. IČO: 42287511,-9172.34,OOH citylighty,2624003.0,Slovensko
-427,2024-02-14,SLOVENSKO,50000.0,prevod na TU,1.0,Slovensko
-428,2024-02-13,Michalovic David,5.0,Vela stastia,,Slovensko
-429,2024-02-12,,-50.0,"Vedenie Platobnej karty embosovanej,2029,5,Karta č. 4544 17** **** 6916Poplatok za expresné vydanie",,Slovensko
-430,2024-04-09,KONZULTA Brno a.s.,-635.7,Úhrada FA 24730316 za sms správy,24730316.0,KDH
-431,2024-04-09,Expresta s.r.o.,-101.88,Úhrada FA 41286272 za letáky,41286272.0,KDH
-432,2024-04-09,"ISPA, spol. s r.o.",-504.0,Úhrada ZFA 24950105 za billboardy máj 2024,24950105.0,KDH
-433,2024-04-09,Marian Kuštár,-375.0,Úhrada FA 2024007 za postprodukciu fotografií,2024007.0,KDH
-434,2024-04-09,ARTON s.r.o.,-360.0,Úhrada Predd. FA 240141 za prenájom reklamného priestoru v mesiaci máj 2024,240141.0,KDH
-435,2024-04-09,"euroAWK, spol. s r.o.",-792.0,"Úhrada ZFA 2470029 za nájom billboardov, máj 2024",2470029.0,KDH
-436,2024-04-08,,-0.25,Poplatok za platbu kartou,,KDH
-437,2024-04-08,,-717.42,"B1775268026-44544 17** **** 7221;FACEBK PU5T824722 ,fb.me/ads ,IE ;07.04.2024 06:48:14 ;CashBack:0 EUR",,KDH
-438,2024-04-08,BERCIKOVA ALENA,1000.0,Dar Jakub Bercik,2024002968.0,KDH
-439,2024-04-05,Tlačiareň Kubík s.r.o.,-156.0,Úhrada FA 240100505 za propagačný materiál s potlačou,240100505.0,KDH
-440,2024-04-05,"Červeň Miroslav, Ing.",50.0,Dar Maria Cervenova,2024002967.0,KDH
-441,2024-04-05,GRYF reklamné štúdio s.r.o.,-156.0,Úhrada Predfaktúry 24027 za prenájom a realizáciu rekl. plochy,24027.0,KDH
-442,2024-04-05,KDH servis s.r.o.,-907.2,Úhrada FA 1020240007 za propagačnú činnosť,1020240007.0,KDH
-443,2024-04-05,Mgr. Rastislav Piovarči,-200.0,"Úhrada FA 2400024 za vytvorenie letáku - grafika, príprava",2400024.0,KDH
-444,2024-04-04,"NUBIUM, s.r.o.",-17400.0,"Úhrada FA 24042273 za prenájom reklamných panelov, tlač plagátov v mesiaci apríl 2024",24042273.0,KDH
-445,2024-04-04,"NUBIUM, s.r.o.",-13320.0,"Úhrada FA 24042274 za prenájom bigboardov, tlač a inštaláciu bannerov v mesiaci apríl 2024",24042274.0,KDH
-446,2024-04-04,Kresťanskodemokratické hnutie,100000.0,Prevod fin. prostriedkov z bežného účtu KDH,4042024.0,KDH
-447,2024-04-04,Kris digital s.r.o.,-3300.0,"Úhrada FA 20240005 za menežment a riadenie tímu, poradenské služby",20240005.0,KDH
-448,2024-03-31,,-5.0,Zverejňovanie účtu,,KDH
-449,2024-03-31,,-5.0,Poplatok za vedenie účtu,,KDH
-450,2024-03-31,,-0.25,Poplatok za platbu kartou,,KDH
-451,2024-03-31,,-800.0,"B1770086258-44544 17** **** 7221;FACEBK PN9BQX3622 ,fb.me/ads ,IE ;30.03.2024 15:39:22 ;CashBack:0 EUR",,KDH
-452,2024-03-28,"DEVIN printing house, s.r.o.",-188.4,Úhrada FA 2240047 za letáky,2240047.0,KDH
-453,2024-03-28,Expresta s.r.o.,-102.94,Úhrada FA 41284477 za propagačný materiál,41284477.0,KDH
-454,2024-03-24,,-800.0,"B1764872405-44544 17** **** 7221;FACEBK V7HQPZ3722 ,fb.me/ads ,IE ;23.03.2024 20:42:01 ;CashBack:0 EUR",,KDH
-455,2024-03-24,,-0.25,Poplatok za platbu kartou,,KDH
-456,2024-03-22,Expresta s.r.o.,-63.11,Úhrada FA 41283960 za propagačný materiál,41283960.0,KDH
-457,2024-03-22,JAN PODMAJERSKY,100.0,DAR,2024002962.0,KDH
-458,2024-03-22,JUDr. Budziňáková Lýdia,50.0,Dar Slavomír Gregorík,2024002963.0,KDH
-459,2024-03-21,,-0.25,Poplatok za platbu kartou,,KDH
-460,2024-03-21,,-800.0,"B1761316544-44544 17** **** 7221;FACEBK C7Z2LXX622 ,fb.me/ads ,IE ;19.03.2024 22:57:45 ;CashBack:0 EUR",,KDH
-461,2024-03-20,Mgr. Jana Urbankova,20.0,Dar pre Slavomira Gregorika,2024002960.0,KDH
-462,2024-03-16,"Krabáč Andrej, Ing.",1000.0,Drzte sa,,KDH
-463,2024-03-15,"Ravinger Tomáš, Mgr.",50.0,Dar pre kampan Mucha 11,2024002949.0,KDH
-464,2024-03-15,ARTON s.r.o.,-432.0,Úhrada Predd. FA 240106 za tlač plagátov,240106.0,KDH
-465,2024-03-15,ARTON s.r.o.,-2880.0,"Úhrada Predd. FA 240105 za nájom billboardov, apríl 2024",240105.0,KDH
-466,2024-03-15,Stefanec Ivan,20000.0,Dar na kampan Ivan Stefanec,,KDH
-467,2024-03-13,,-800.0,"B1755369432-44544 17** **** 7221;FACEBK YWWY6YP622 ,fb.me/ads ,IE ;12.03.2024 19:57:15 ;CashBack:0 EUR",,KDH
-468,2024-03-13,,-0.25,Poplatok za platbu kartou,,KDH
-469,2024-03-12,KONZULTA Brno a.s.,-815.49,Úhrada FA 24730193 za sms správy,24730193.0,KDH
-470,2024-03-12,KDH servis s.r.o.,-907.2,Úhrada FA 1020240004 za propagačnú činnosť,1020240004.0,KDH
-471,2024-03-12,Guldan-Studio s.r.o.,-1218.0,"Úhrada ZF 24005 za prenájom rekl. plôch, máj",24005.0,KDH
-472,2024-03-08,,-0.25,Poplatok za platbu kartou,,KDH
-473,2024-03-08,,-272.06,"B1751436894-44544 17** **** 7221;FACEBK WGTPZW7622 ,fb.me/ads ,IE ;07.03.2024 06:13:57 ;CashBack:0 EUR",,KDH
-474,2024-03-08,"SPaP - lodná osobná doprava, a.s.",-940.0,"Úhrada ZFA 24000013 za státie, občerstvenie",24000013.0,KDH
-475,2024-02-29,,-5.0,Zverejňovanie účtu,,KDH
-476,2024-02-29,,-1.55,Poplatok za vedenie účtu,,KDH
-477,2024-02-22,Kresťanskodemokratické hnutie,50000.0,Prevod fin. prostriedkov z bežného účtu KDH,2222024.0,KDH
-478,2024-04-06,"Kertés Patrik, Ing.",200.0,Platba/drzim palce,,Demokrati
-479,2024-04-05,"
-                            Mgr. Bystrik Novak
-                    ",20.0,"
-                        PLATBA
-                    /
-                        Pozdravujem J.Nada a pani Masarikovu ste top
-                    ","
-                        
-                    ",Demokrati
-480,2024-04-05,MICHAL DIESKA,20.0,"PLATBA/DAR, TP:VIETNAMSKA 42, BRATISLAVA",,Demokrati
-481,2024-04-05,"
-                            Peter Zagora
-                    ",50.0,"
-                        Platba
-                    /
-                        Forbasy 142
-                    ","
-                        
-                    ",Demokrati
-482,2024-04-05,"
-                            Kuric Martin, Ing.
-                    ",50.0,"
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-483,2024-04-05,"
-                            TARABUS JOZEF
-                    ",20.0,"
-                        PLATBA
-                    /
-                        
-                    ","
-                        VS/SS/KS
-                    ",Demokrati
-484,2024-04-05,"
-                            FACEBK *8UH8B3G4L2
-                    ",-169.73,"
-                        EUR NÁKUP POS FACEBK *8UH8B3G4L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-485,2024-04-05,Juraj Ukropec,10.0,"PLATBA/Dar - Juraj Ukropec, Hlboka 55, 94901 Nitra","4042024
-VS04042024/SS/KS0308",Demokrati
-486,2024-04-05,Ing. Maria Gurbalova,20.0,PLATBA,,Demokrati
-487,2024-04-05,MILOS DURIS,50.0,PLATBA/DURIS MILOS,,Demokrati
-488,2024-04-05,FILIP GLEMBA,20.0,PLATBA/DAR,,Demokrati
-489,2024-04-04,Ladislav Langer,50.0,"Platba/Dar - Langer Ladislav, Palarikova 14, Holic",,Demokrati
-490,2024-04-04,Maria Lisnikova,10.0,Platba,,Demokrati
-491,2024-04-04,SCIRANKA JAN,100.0,PLATBA/Dar - Zuzany Chalupovej 7A Bratislava,VS/SS/KS,Demokrati
-492,2024-04-04,Mgr. Dana Adamcova,20.0,PLATBA,"6653
-VS6653/SS/KS0558",Demokrati
-493,2024-04-04,Knotek Tomas,20.0,PLATBA/T.Knotek a S.Knotek,,Demokrati
-494,2024-04-04,ROMAN JIROVEC,100.0,PLATBA/NECH SA DARI-,"20240403
-VS0020240403/SS6512200156/KS0558",Demokrati
-495,2024-04-04,MARTIN LAMACKA,20.0,PLATBA/PLATBA,,Demokrati
-496,2024-04-04,Ing.Richard Masny PhD.,50.0,PLATBA/na kampan :),,Demokrati
-497,2024-04-04,Jakeš Richard,20.0,"Platba/dar, Agatova 21 Malinovo",,Demokrati
-498,2024-04-04,Holý Martin,20.0,Platba,,Demokrati
-499,2024-04-04,Matej Jurikovic,20.0,Platba/Dar,,Demokrati
-500,2024-04-04,Silvia Krnacova,15.0,Platba,,Demokrati
-501,2024-04-04,"Plšková Lucia, Ing.",20.0,Platba,,Demokrati
-502,2024-04-04,"
-                            Mario Patlevic
-                    ",20.0,"
-                        Platba
-                    /
-                        Dar na kampan.
-                    ","
-                        
-                    ",Demokrati
-503,2024-04-04,"
-                            Danížek Zdenko, JUDr.
+248,2024-04-09,"
+                            Dusan Kocis
                     ",500.0,"
                         Platba
                     /
-                        Dar. J. Alexyho 7, Bratislava
+                        Darovacia zmluva na podporu kandidata Martin Hojsik v eurovolbach 2024
                     ","
-                        2024VS2024/SS/KS
-                    ",Demokrati
-504,2024-04-04,Jana Snopkova,20.0,"Platba/dar Slovenska Lupca, Priboj 552/62",,Demokrati
-505,2024-04-04,"
-                            Slavka Drahosova
+                        60110VS60110/SS3/KS
+                    ",Progresívne Slovensko
+249,2024-04-09,"
+                            Baláž Siváková Beáta
                     ",20.0,"
                         Platba
+                    /
+                        Darovacia zmluva na podporu kandidata Ludovit Odor v eurovolbach 2024
+                    ","
+                        60109VS60109/SS1/KS
+                    ",Progresívne Slovensko
+250,2024-04-09,"
+                            NOLIS, s.r.o.
+                    ",-573.4,"
+                        Platba
+                    /
+                        Parlamentka prenajom priestorov tlacova konferencia
+                    ","
+                        1124015VS1124015/SS/KS308
+                    ",Progresívne Slovensko
+251,2024-04-09,"
+                            MARIA KOCNEROVA
+                    ",250.0,"
+                        PLATBA
+                    /
+                        Darovacia zmluva na podporu kandidata Maria Kocnerova v eurovolbach 2024
+                    ","
+                        60104VS60104/SS14/KS
+                    ",Progresívne Slovensko
+252,2024-04-09,"
+                            Lucia Kruta
+                    ",20.0,"
+                        Platba
+                    /
+                        Darovacia zmluva na podporu kandidata Krisztian Varadi v eurovolbach 2024
+                    ","
+                        60108VS60108/SS9/KS
+                    ",Progresívne Slovensko
+253,2024-04-09,"
+                            FACEBK *Q45XEZ3XC2
+                    ",-800.0,"
+                        EUR NÁKUP POS FACEBK *Q45XEZ3XC2 / fb.me/ads / (POS 99999999)
                     /
                         
                     ","
                         
-                    ",Demokrati
-506,2024-04-04,Matus Kral,20.0,Platba,,Demokrati
-507,2024-04-04,MONSOWILO,20.0,Platba PO24040480812690/Dar Komoca,,Demokrati
-508,2024-04-04,Ošvát Michal,20.0,Platba,,Demokrati
-509,2024-04-04,Alexandra Vaskova,20.0,Platba,,Demokrati
-510,2024-04-03,Tóth Zoltán,20.0,Platba/Dar - Sered,,Demokrati
-511,2024-04-03,Ivan Lacho,2.0,Platba,,Demokrati
-512,2024-04-03,Farkaš Aleš,20.0,"Platba/Dar , J. Murgasa 157/2 Prievidza 97101",,Demokrati
-513,2024-04-03,Juraj Bindas,50.0,"Platba/Dar, Soltesovej 6, 08001 Presov",,Demokrati
-514,2024-04-03,Zuzana Kubakova,10.0,Platba,,Demokrati
-515,2024-04-03,Jan Suska,500.0,Platba,,Demokrati
-516,2024-04-03,Martina Michalidesova,20.0,Platba,,Demokrati
-517,2024-04-03,Maria Jurisova,20.0,"Platba/Dar- Pila 219, 90089 Pila",,Demokrati
-518,2024-04-03,Miroslav Lahky,20.0,Platba/Jaro Drzim palce,,Demokrati
-519,2024-04-03,Jana Krakovska,10.0,Platba,,Demokrati
-520,2024-04-03,Virág Martin,20.0,Platba,,Demokrati
-521,2024-04-03,Jozef Paukov,20.0,Platba,,Demokrati
-522,2024-04-03,"Poloha Peter, Ing.",10.0,Platba,,Demokrati
-523,2024-04-03,Rychtárik Martin,5.0,Platba,,Demokrati
-524,2024-04-03,Gabriela Starcova,20.0,Platba/drzim palce,,Demokrati
-525,2024-04-03,Ivo Valosek,20.0,"Platba/Dar, Valosek, Cintorinska 551/49, Fintice",,Demokrati
-526,2024-03-30,,-0.0,Poplatok za balík,,Demokrati
-527,2024-03-27,FACEBK *QU33D2U4L2,-100.27,EUR NÁKUP POS FACEBK *QU33D2U4L2 / fb.me/ads / (POS 99999999),,Demokrati
-528,2024-03-27,FACEBK *5VJHB244L2,-150.0,EUR NÁKUP POS FACEBK *5VJHB244L2 / fb.me/ads / (POS 99999999),,Demokrati
-529,2024-03-25,"Magna Global Slovakia, s.r.o.",-3206.7,"Platba/kampan EP, billboard, dolepky","3624007
+                    ",Progresívne Slovensko
+254,2024-04-08,Advertic s. r. o.,500.0,Platba,"60105
+VS60105/SS/KS",Progresívne Slovensko
+255,2024-04-08,JACOBUS - ANDREA BOMHOFF,500.0,Platba PO24040781107756/60103,,Progresívne Slovensko
+256,2024-04-08,PATRIK BENKA,100.0,PLATBA/DAROVACIA ZMLUVA NA PODPORU KANDIDATA LUCIA FRANCESCATO V EUROVOLBACH 2024,"60102
+VS0000060102/SS0000000010/KS",Progresívne Slovensko
+257,2024-04-08,Marek Stefanisko,300.0,Platba/Darovacia zmluva na podporu kandidata Marek Stefanisko v eurovolbach 2024,"60106
+VS60106/SS13/KS",Progresívne Slovensko
+258,2024-04-08,Kristina Priecelova,25.0,Platba/Darovacia zmluva na podporu kandidata Ludovit Odor v eurovolbach 2024,"60107
+VS60107/SS1/KS",Progresívne Slovensko
+259,2024-04-04,Lea Maria Jassova,-1700.0,Platba/Jassova socialne siete 03 24,"12024
+VS012024/SS/KS",Progresívne Slovensko
+260,2024-04-04,"SLOVENSKÁ POŠTA, A.S.",50.0,PLATBA,"1009400001
+VS1009400001/SS6010000768/KS0998",Progresívne Slovensko
+261,2024-04-04,YAR LUCIA,2500.0,PLATBA/Lucia Yar dar,"6
+VS6/SS/KS",Progresívne Slovensko
+262,2024-04-03,Kubaň Jakub,50.0,Platba/Darovacia zmluva na podporu kandidata Sofia Karina Trommlerova v eurovolbach 2024,"60101
+VS60101/SS12/KS",Progresívne Slovensko
+263,2024-04-03,DANIEL FERENCIK,-504.0,Platba/Prenajom fotostudia a techniky,"2403002
+VS2403002/SS/KS",Progresívne Slovensko
+264,2024-04-03,Seeya Creative,-600.0,PLATBA VA24040309443/Livestream diskusia praha fa c.2024036,,Progresívne Slovensko
+265,2024-04-03,"GOKYO, S.R.O.",-300.0,Platba/gokyo fotenie kandidatov,"20240010
+VS20240010/SS/KS",Progresívne Slovensko
+266,2024-04-03,Petrušková Michaela,-1000.0,Platba/Petruskova marketingove sluzby 03 24,"20240008
+VS20240008/SS/KS308",Progresívne Slovensko
+267,2024-04-03,FACEBK *9C3GU2LXC2,-781.59,EUR NÁKUP POS FACEBK *9C3GU2LXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+268,2024-03-30,,-6.6,Poplatky za transakcie,,Progresívne Slovensko
+269,2024-03-30,,-7.0,Poplatok za balík,,Progresívne Slovensko
+270,2024-03-30,"Kečka Roman, PhDr.",20.0,Platba/Dar pre Miroslava Kocura,"60100
+VS60100/SS007/KS",Progresívne Slovensko
+271,2024-03-28,Ivan Kamenec,10.0,Platba,"60095
+VS60095/SS7/KS",Progresívne Slovensko
+272,2024-03-28,"Cifrová Ostrihoňová Veronika, Bc.",990.0,Platba/Darovacia zmluva na podporu kandidata Veronika Cifrova Ostrihonova v eurovolbach 2024,"60094
+VS60094/SS4/KS",Progresívne Slovensko
+273,2024-03-28,"Hojsík Martin, Mgr.",5000.0,Platba/martin hojsik dar,"3
+VS3/SS/KS",Progresívne Slovensko
+274,2024-03-28,"Kubaňová Silvia, Mgr.",30.0,Platba/Kampan s.k.trommler,"60096
+VS60096/SS12/KS0308",Progresívne Slovensko
+275,2024-03-27,Ing. Michal Wiezik Ph.D.,8000.0,PLATBA/Michal Wiezik,"5
+VS05/SS/KS",Progresívne Slovensko
+276,2024-03-27,MES POPLATOK VISA FIREMNA,-1.0,Mesačný poplatok MES POPLATOK VISA FIREMNA,,Progresívne Slovensko
+277,2024-03-26,VB MANAGEMENT S.R.O.,-2582.2,"Platba/Hotel Beigli prenajom priestoru, catering 25.3.2024","2400094
+VS2400094/SS/KS",Progresívne Slovensko
+278,2024-03-26,PUKAR S.R.O.,-480.0,Platba/maskerske prace fotenie eu kandidatky,"224008
+VS224008/SS/KS",Progresívne Slovensko
+279,2024-03-26,NEVERENDING STORY s.,-558.29,Platba/prenajom aut diskusia praha 03 24,"2401069
+VS2401069/SS/KS",Progresívne Slovensko
+280,2024-03-26,Slovenská výtvarná únia,-800.0,Platba/prenajom priestorov galeria umelka tlacova konferencia 6.3.2024,"2024010
+VS2024010/SS/KS",Progresívne Slovensko
+281,2024-03-26,MARATÓN s.r.o.,-1000.0,Platba/Kosice hotel maraton diskusia 03 24,"2024000052
+VS2024000052/SS/KS",Progresívne Slovensko
+282,2024-03-26,ASGUARD SECURITY,-144.0,Platba/Kosice diskusia sbs,"5024034
+VS5024034/SS/KS308",Progresívne Slovensko
+283,2024-03-26,ARES SECURITY CORPOR,-96.0,Platba/Banska Bystrica sbs diskusia 29.2.2024,"10240029
+VS10240029/SS/KS308",Progresívne Slovensko
+284,2024-03-26,MESTO BANSKA BYSTRIC,-204.0,Platba/Banska Bystrica prenajom priestorov diskusia 29.2.2024,"7420240035
+VS7420240035/SS62/KS3718",Progresívne Slovensko
+285,2024-03-26,"ENGRAMS, s.r.o.",-4500.0,Platba/Engrams poradenstvo pre kampan do eu volieb 02 24,"20240002
+VS20240002/SS/KS",Progresívne Slovensko
+286,2024-03-26,"ENGRAMS, s.r.o.",-4500.0,Platba/Engrams poradenstvo pre kampan do eu volieb 01 24,"20240001
+VS20240001/SS/KS",Progresívne Slovensko
+287,2024-03-26,NH COLLECTION BRUSSELS CE,-1603.96,EUR NÁKUP POS NH COLLECTION BRUSSELS CE / BRUXELLES / (POS 21720101),,Progresívne Slovensko
+288,2024-03-25,KAPWING PRO PLAN,-22.87,POS nákup zahr. KAPWING PRO PLAN / HTTPSWWW.KAPW / (POS M51SA49E),,Progresívne Slovensko
+289,2024-03-25,KAPWING PRO PLAN,-22.87,POS nákup zahr. KAPWING PRO PLAN / HTTPSWWW.KAPW / (POS M51SA49E),,Progresívne Slovensko
+290,2024-03-22,Andreas Rusnak,180.0,PLATBA/Darovacia zmluva na podporu kandidata Andreas Rusnak v eurovolbach 2024,"60087
+VS60087/SS11/KS",Progresívne Slovensko
+291,2024-03-22,NH COLLECTION BRUSSELS CE,-858.48,EUR NÁKUP POS NH COLLECTION BRUSSELS CE / BRUXELLES / (POS 21720101),,Progresívne Slovensko
+292,2024-03-22,NH COLLECTION BRUSSELS CE,-3007.44,EUR NÁKUP POS NH COLLECTION BRUSSELS CE / BRUXELLES / (POS 21720101),,Progresívne Slovensko
+293,2024-03-21,FRIC JOZEF,30.0,PLATBA/PS Kocur,"60086
+VS60086/SS7/KS",Progresívne Slovensko
+294,2024-03-21,More Design s. r. o.,-8328.0,"Platba/More Design dizajn web, skolenie,dizajn eu kampan","202412
+VS202412/SS/KS",Progresívne Slovensko
+295,2024-03-20,Vladislav Pisancik,10.0,PLATBA/dar Miro K.,VS/SS007/KS,Progresívne Slovensko
+296,2024-03-20,MatusBence s.r.o.,-7860.0,Platba/Eu volby vizual fotenie,"2024006
+VS2024006/SS/KS",Progresívne Slovensko
+297,2024-03-20,BASEfactory s. r. o.,-250.0,Platba/prenajom priestorov fotenie,"182024
+VS0182024/SS/KS",Progresívne Slovensko
+298,2024-03-20,ARTON s.r.o.,-1404.0,Platba/Arton tlac plagatov,"240114
+VS240114/SS/KS",Progresívne Slovensko
+299,2024-03-20,ARTON s.r.o.,-2790.0,Platba/Arton najom bilboard 15.3-31.3.2024,"240113
+VS240113/SS/KS",Progresívne Slovensko
+300,2024-03-20,Progresívne Slovensko,40000.0,Platba/prevod medzi uctami,,Progresívne Slovensko
+301,2024-03-20,ZELEZNICNA SPOLOCNOST,-45.7,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),,Progresívne Slovensko
+302,2024-03-19,YAR LUCIA,180.0,PLATBA/Darovacia zmluva na podporu kandidata Lucia Yar v,"60082
+VS60082/SS6/KS",Progresívne Slovensko
+303,2024-03-18,David Marcel,100.0,Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60084
+VS60084/SS7/KS",Progresívne Slovensko
+304,2024-03-18,AUSTRIAN AI 2572163418337,-652.11,EUR NÁKUP POS AUSTRIAN AI 2572163418337 / TICKET MAILED / (POS 99999999),,Progresívne Slovensko
+305,2024-03-18,AUSTRIAN AIR2572163349657,-283.8,EUR NÁKUP POS AUSTRIAN AIR2572163349657 / WWW.LUFTHANSA / (POS 28341049),,Progresívne Slovensko
+306,2024-03-18,AUSTRIAN AI 2572163418298,-800.11,EUR NÁKUP POS AUSTRIAN AI 2572163418298 / TICKET MAILED / (POS 99999999),,Progresívne Slovensko
+307,2024-03-18,"Kocúr Miroslav, ThDr., PhD.",77.77,Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60083
+VS60083/SS7/KS",Progresívne Slovensko
+308,2024-03-18,AUSTRIAN AI 2572163418378,-751.11,EUR NÁKUP POS AUSTRIAN AI 2572163418378 / TICKET MAILED / (POS 99999999),,Progresívne Slovensko
+309,2024-03-18,AUSTRIAN AIR2572163395725,-329.42,EUR NÁKUP POS AUSTRIAN AIR2572163395725 / WWW.LUFTHANSA / (POS 28341049),,Progresívne Slovensko
+310,2024-03-14,BKG*HOTEL AT BOOKING.C,-759.35,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850189),,Progresívne Slovensko
+311,2024-03-12,LASA s.r.o.,-298.8,Platba/prenajom podia tlacovka 6.3.2024,"2024014
+VS2024014/SS/KS",Progresívne Slovensko
+312,2024-03-12,FACEBK MHU242LXC2,-800.0,EUR NÁKUP POS FACEBK MHU242LXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+313,2024-03-11,FACEBK *LR8F7YPXC2,-720.0,EUR NÁKUP POS FACEBK *LR8F7YPXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+314,2024-03-08,FACEBK *9KXGYYFXC2,-480.0,EUR NÁKUP POS FACEBK *9KXGYYFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+315,2024-03-07,Ján Čief,-250.0,"Platba/diskusia BB 29.2.2024 osvetlenie, ozvucenie","946
+VS0946/SS/KS",Progresívne Slovensko
+316,2024-03-07,FRESH REPUBLIC s. r. o.,-69.0,Platba/FRESH REPUBLIC obcerstvenie tlacova konferencia,"2024104
+VS2024104/SS/KS",Progresívne Slovensko
+317,2024-03-05,"GOKYO, S.R.O.",-420.0,Platba/kostymy ps fotenie,"20240006
+VS20240006/SS/KS",Progresívne Slovensko
+318,2024-03-05,"Unimedia spol. ,s.r.",-239472.9,Platba/UNIMEDIA OOH 04-06 2024,"720240012
+VS720240012/SS/KS",Progresívne Slovensko
+319,2024-03-05,Progresívne Slovensko,240000.0,Platba/prevod medzi uctami,,Progresívne Slovensko
+320,2024-03-05,TrollWall AI,-3110.4,"Platba/TrollWall sluzby, 5uctov , 03-06 2024","20240304
+VS20240304/SS/KS",Progresívne Slovensko
+321,2024-03-05,JANA GOGH S. R. O.,-3600.0,Platba/Gogh reklamne a marketingove sluzby 02 24,"20240008
+VS20240008/SS/KS",Progresívne Slovensko
+322,2024-03-04,SHELL 8257,-45.01,POS nákup SHELL 8257 / EINSTEINOVA / (POS 33825702),,Progresívne Slovensko
+323,2024-03-04,FACEBK *SKL2XXPXC2,-161.85,EUR NÁKUP POS FACEBK *SKL2XXPXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+324,2024-03-01,Ministerstvo vnútra Slovenskej republiky,-1700.0,Platba/volebna kaucia Progresivne Slovensko EU volby,"51224836
+VS51224836/SS/KS",Progresívne Slovensko
+325,2024-02-29,,-2.6,Poplatky za transakcie,,Progresívne Slovensko
+326,2024-02-29,,-7.0,Poplatok za balík,,Progresívne Slovensko
+327,2024-02-27,MES POPLATOK VISA FIREMNA,-1.0,Mesačný poplatok MES POPLATOK VISA FIREMNA,,Progresívne Slovensko
+328,2024-02-26,FACEBK *P4TNXX7XC2,-320.0,EUR NÁKUP POS FACEBK *P4TNXX7XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+329,2024-02-22,NEVERENDING STORY s.,-48.0,Platba/dopravne sluzby tlacovka 20.2,"2401052
+VS2401052/SS/KS",Progresívne Slovensko
+330,2024-02-15,FACEBK *QE9MGX3XC2,-210.0,EUR NÁKUP POS FACEBK *QE9MGX3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+331,2024-02-14,FACEBK *CSBEFX3XC2,-140.0,EUR NÁKUP POS FACEBK *CSBEFX3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+332,2024-02-12,FACEBK *5TWUGXBXC2,-100.0,EUR NÁKUP POS FACEBK *5TWUGXBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+333,2024-02-09,FACEBK *66L2AX3XC2,-90.0,EUR NÁKUP POS FACEBK *66L2AX3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+334,2024-02-09,ENERGO ZUGOV S.R.O.,-230.6,Platba/Giselle tlacova konferencia,"20240002
+VS20240002/SS/KS",Progresívne Slovensko
+335,2024-02-08,FACEBK *LARSBX7XC2,-60.0,EUR NÁKUP POS FACEBK *LARSBX7XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+336,2024-02-07,FACEBK *CMHV7XXXC2,-40.0,EUR NÁKUP POS FACEBK *CMHV7XXXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+337,2024-02-06,FACEBK *WBF9UX3YC2,-10.0,EUR NÁKUP POS FACEBK *WBF9UX3YC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+338,2024-02-06,FACEBK *TCRX9XBXC2,-6.14,EUR NÁKUP POS FACEBK *TCRX9XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+339,2024-02-06,FACEBK *NG355X3XC2,-4.0,EUR NÁKUP POS FACEBK *NG355X3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+340,2024-02-06,FACEBK *98478X7XC2,-5.0,EUR NÁKUP POS FACEBK *98478X7XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+341,2024-02-06,FACEBK *2UFD5XXXC2,-6.0,EUR NÁKUP POS FACEBK *2UFD5XXXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+342,2024-02-06,FACEBK *ZST6UX3YC2,-9.0,EUR NÁKUP POS FACEBK *ZST6UX3YC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+343,2024-02-06,FACEBK *GYWPSYKXC2,-12.0,EUR NÁKUP POS FACEBK *GYWPSYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+344,2024-02-06,FACEBK *PNREUX3YC2,-15.0,EUR NÁKUP POS FACEBK *PNREUX3YC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+345,2024-02-06,FACEBK *QB8RTXFXC2,-18.0,EUR NÁKUP POS FACEBK *QB8RTXFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+346,2024-02-06,FACEBK *G3QBTYKXC2,-22.0,EUR NÁKUP POS FACEBK *G3QBTYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+347,2024-02-06,FACEBK *VMWJTYKXC2,-27.0,EUR NÁKUP POS FACEBK *VMWJTYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+348,2024-02-06,FACEBK *88UEZWPXC2,-33.0,EUR NÁKUP POS FACEBK *88UEZWPXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+349,2024-02-05,FACEBK *62FYRXFXC2,-2.0,EUR NÁKUP POS FACEBK *62FYRXFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+350,2024-02-05,FACEBK *YQ4U8XBXC2,-2.0,EUR NÁKUP POS FACEBK *YQ4U8XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+351,2024-02-05,FACEBK *A4CDZZTXC2,-2.0,EUR NÁKUP POS FACEBK *A4CDZZTXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+352,2024-02-05,FACEBK *JZLV8XBXC2,-2.0,EUR NÁKUP POS FACEBK *JZLV8XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+353,2024-02-05,FACEBK *MCFXRXFXC2,-2.0,EUR NÁKUP POS FACEBK *MCFXRXFXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+354,2024-02-05,FACEBK *4HE64X3XC2,-3.0,EUR NÁKUP POS FACEBK *4HE64X3XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+355,2024-02-05,FACEBK *JVJ9RYKXC2,-2.0,EUR NÁKUP POS FACEBK *JVJ9RYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+356,2024-02-05,FACEBK *ZANARYKXC2,-2.0,EUR NÁKUP POS FACEBK *ZANARYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+357,2024-02-05,FACEBK *UKDBRYKXC2,-2.0,EUR NÁKUP POS FACEBK *UKDBRYKXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+358,2024-02-05,FACEBK *73B39XBXC2,-3.0,EUR NÁKUP POS FACEBK *73B39XBXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+359,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
+360,2024-02-02,ZMENA DENNÉHO LIMITU,-5.0,Zmena limitu/úv. rámca ZMENA DENNÉHO LIMITU,,Progresívne Slovensko
+361,2024-02-01,"Unimedia spol. ,s.r.",-44850.0,Platba/UNIMEDIA OOH 02-03 2024,"720240006
+VS720240006/SS/KS",Progresívne Slovensko
+362,2024-01-31,,-0.0,Poplatok za balík,,Progresívne Slovensko
+363,2024-01-31,Progresívne Slovensko,70000.0,Platba/prevod medzi uctami,,Progresívne Slovensko
+364,2024-04-11,,-0.25,Poplatok za platbu kartou,,Slovensko
+365,2024-04-11,"OIL JPM, s.r.o. ICO: 31644945",-290.0,Prenajom,4240082.0,Slovensko
+366,2024-04-11,,-280.0,"B1777206713-44544 17** **** 6916;Anton Janata ,Bratislava - ,SK ;09.04.2024 20:30:20 ;CashBack:0 EUR",,Slovensko
+367,2024-04-11,,-0.25,Poplatok za platbu kartou,,Slovensko
+368,2024-04-11,Tlačiareň Kubík s.r.o. ICO: 47751011,-2298.0,Merch samolepky,240100501.0,Slovensko
+369,2024-04-11,,-90.0,"B1777546927-44544 17** **** 6916;FACEBK TX9833C7S2 ,fb.me/ads ,IE ;10.04.2024 11:52:44 ;CashBack:0 EUR",,Slovensko
+370,2024-04-11,X print s.r.o. ICO: 35742097,-324.0,Letaky,240362.0,Slovensko
+371,2024-04-11,HV print. spol. s.r.o. ICO: 31332862,-23.66,Etikety,2024030330.0,Slovensko
+372,2024-04-11,HV print. spol. s.r.o. ICO: 31332862,-494.02,Etikety,2024040341.0,Slovensko
+373,2024-04-10,,-0.25,"Poplatok za výber kartou,2203,5,4544 17** **** 6461;ATM Recycler VIVO BA II. ,Bratislava ,SK ;10.04.2024 18:58:45",,Slovensko
+374,2024-04-10,,-200.0,"B4008532816-214544 17** **** 6461;ATM Recycler VIVO BA II. ,Bratislava ,SK ;10.04.2024 18:58:45 ",,Slovensko
+375,2024-04-09,"Plotbase, s.r.o. IČO: 45674515",-742.9,"Roll up, pult",112277.0,Slovensko
+376,2024-04-08,,-0.25,Poplatok za platbu kartou,,Slovensko
+377,2024-04-08,,-13.11,"B1775308942-44544 17** **** 6916;FACEBK N5UQV2Q7S2 ,fb.me/ads ,IE ;07.04.2024 07:34:26 ;CashBack:0 EUR",,Slovensko
+378,2024-04-07,,-60.0,"B1774611701-44544 17** **** 6916;FACEBK P2GZ5547S2 ,fb.me/ads ,IE ;06.04.2024 15:01:39 ;CashBack:0 EUR",,Slovensko
+379,2024-04-07,,-0.25,Poplatok za platbu kartou,,Slovensko
+380,2024-04-06,,-0.25,Poplatok za platbu kartou,,Slovensko
+381,2024-04-06,,-37.79,"B1774056712-44544 17** **** 6916;KAUFLAND 1120, PO, LEVO ,PRESOV ,SK ;05.04.2024 11:59:53 ;CashBack:0 EUR",,Slovensko
+382,2024-04-06,,-6.01,"B1773707583-44544 17** **** 6916;PAGURKO Masiarstvo ,Presov ,SK ;05.04.2024 12:26:51 ;CashBack:0 EUR",,Slovensko
+383,2024-04-06,,-0.25,Poplatok za platbu kartou,,Slovensko
+384,2024-04-04,Matěj Horník ICO: 52206572,-2200.0,Socialne siete,424.0,Slovensko
+385,2024-04-04,Martin Bagar ICO: 50355031,-2700.0,Video produkcia,20240004.0,Slovensko
+386,2024-04-04,Slovnaft a.s. - IČO: 31322832,-16.0,PHM,3082057463.0,Slovensko
+387,2024-04-03,KRYSTYNEK s.r.o. IČO: 47933909,-840.0,Fotografovanie,2024014.0,Slovensko
+388,2024-04-03,Mgr. Branislav Gigac IČO: 55086217,-2700.0,Prace na kampani,2024030002.0,Slovensko
+389,2024-03-31,,-5.0,Zverejňovanie účtu,,Slovensko
+390,2024-03-31,,-5.0,Poplatok za vedenie účtu,,Slovensko
+391,2024-03-28,,-0.25,Poplatok za platbu kartou,,Slovensko
+392,2024-03-28,,-40.0,"B1767849982-44544 17** **** 6916;FACEBK 5SGYH2C7S2 ,fb.me/ads ,IE ;27.03.2024 12:33:20 ;CashBack:0 EUR",,Slovensko
+393,2024-03-27,Michal Babčan,-1000.0,Grafické práce,42024.0,Slovensko
+394,2024-03-22,,-33.0,"B1763054511-44544 17** **** 6916;FACEBK XDZEK2U6S2 ,fb.me/ads ,IE ;21.03.2024 20:11:18 ;CashBack:0 EUR",,Slovensko
+395,2024-03-22,,-0.25,Poplatok za platbu kartou,,Slovensko
+396,2024-03-20,Ivana Súkenníková ICO: 53253345,-450.0,Styling na fotenie,20240012.0,Slovensko
+397,2024-03-17,,-0.25,Poplatok za platbu kartou,,Slovensko
+398,2024-03-17,,-300.0,"B1759008508-44544 17** **** 6916;PATRIOT HOTEL ,VRANOV NAD TO ,SK ;15.03.2024 19:20:20 ;CashBack:0 EUR",,Slovensko
+399,2024-03-16,,-0.25,Poplatok za platbu kartou,,Slovensko
+400,2024-03-16,,-27.0,"B1758086789-44544 17** **** 6916;FACEBK 3NSMR287S2 ,fb.me/ads ,IE ;15.03.2024 18:59:40 ;CashBack:0 EUR",,Slovensko
+401,2024-03-15,,-0.25,Poplatok za platbu kartou,,Slovensko
+402,2024-03-15,,-22.0,"B1757128464-44544 17** **** 6916;FACEBK 3LHUB447S2 ,fb.me/ads ,IE ;14.03.2024 22:12:37 ;CashBack:0 EUR",,Slovensko
+403,2024-03-15,Sketch s.r.o. IČO: 54087988,-23957.4,reklamné a propagačné predmety,4172024.0,Slovensko
+404,2024-03-14,,-0.25,Poplatok za platbu kartou,,Slovensko
+405,2024-03-14,,-18.0,"B1756210740-44544 17** **** 6916;FACEBK 5EYQ22C7S2 ,fb.me/ads ,IE ;13.03.2024 19:07:09 ;CashBack:0 EUR",,Slovensko
+406,2024-03-13,"POSTOJ MEDIA, s.r.o. ICO: 50205668",-3650.0,Inzercia,920240001.0,Slovensko
+407,2024-03-13,"MEM Agency, s.r.o. ICO: 51447321",-2880.0,Techn.zabezp.podujati PACIVALE ROMA,20240001.0,Slovensko
+408,2024-03-13,Michal Babčan,-1000.0,Grafické práce,32024.0,Slovensko
+409,2024-03-13,SLOVENSKO,50000.0,prevod na TU,4.0,Slovensko
+410,2024-03-12,Initiative s.r.o. IČO: 50860917,-63498.96,OOH Billboardy,2624010.0,Slovensko
+411,2024-03-11,,-0.25,Poplatok za platbu kartou,,Slovensko
+412,2024-03-11,,-15.0,"B1754005266-44544 17** **** 6916;FACEBK AA5PL2U7S2 ,fb.me/ads ,IE ;10.03.2024 20:29:31 ;CashBack:0 EUR",,Slovensko
+413,2024-03-11,,-0.25,Poplatok za platbu kartou,,Slovensko
+414,2024-03-11,,-12.0,"B1753932947-44544 17** **** 6916;FACEBK 7GLW62U6S2 ,fb.me/ads ,IE ;10.03.2024 10:00:01 ;CashBack:0 EUR",,Slovensko
+415,2024-03-11,Mgr. Branislav Gigac IČO: 55086217,-2800.0,Práce na kampani,2024030001.0,Slovensko
+416,2024-03-10,,-4.0,"B1752222010-44544 17** **** 6916;FACEBK N8MU4447S2 ,fb.me/ads ,IE ;08.03.2024 15:14:27 ;CashBack:0 EUR",,Slovensko
+417,2024-03-10,,-4.0,"B1752223576-44544 17** **** 6916;FACEBK RC57UZP7S2 ,fb.me/ads ,IE ;08.03.2024 18:31:27 ;CashBack:0 EUR",,Slovensko
+418,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
+419,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
+420,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
+421,2024-03-10,,-3.0,"B1752288701-44544 17** **** 6916;FACEBK YTC3J2U7S2 ,fb.me/ads ,IE ;08.03.2024 10:24:03 ;CashBack:0 EUR",,Slovensko
+422,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
+423,2024-03-10,,-3.0,"B1752303503-44544 17** **** 6916;FACEBK NGMG4447S2 ,fb.me/ads ,IE ;08.03.2024 07:33:42 ;CashBack:0 EUR",,Slovensko
+424,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
+425,2024-03-10,,-5.0,"B1752320723-44544 17** **** 6916;FACEBK 345SD2Y6S2 ,fb.me/ads ,IE ;08.03.2024 21:32:20 ;CashBack:0 EUR",,Slovensko
+426,2024-03-10,,-8.0,"B1753202173-44544 17** **** 6916;FACEBK KKUAK2U7S2 ,fb.me/ads ,IE ;09.03.2024 13:36:40 ;CashBack:0 EUR",,Slovensko
+427,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
+428,2024-03-10,,-10.0,"B1753307861-44544 17** **** 6916;FACEBK EZWNK2U7S2 ,fb.me/ads ,IE ;09.03.2024 21:02:55 ;CashBack:0 EUR",,Slovensko
+429,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
+430,2024-03-10,,-0.25,Poplatok za platbu kartou,,Slovensko
+431,2024-03-10,,-6.0,"B1753168295-44544 17** **** 6916;FACEBK ZVFJ5447S2 ,fb.me/ads ,IE ;09.03.2024 06:28:34 ;CashBack:0 EUR",,Slovensko
+432,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
+433,2024-03-08,,-2.0,"B1751308521-44544 17** **** 6916;FACEBK 6U7WPZF7S2 ,fb.me/ads ,IE ;07.03.2024 17:49:46 ;CashBack:0 EUR",,Slovensko
+434,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
+435,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
+436,2024-03-08,,-2.0,"B1751385010-44544 17** **** 6916;FACEBK RJ5NG287S2 ,fb.me/ads ,IE ;07.03.2024 16:15:13 ;CashBack:0 EUR",,Slovensko
+437,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
+438,2024-03-08,,-2.0,"B1751384304-44544 17** **** 6916;FACEBK YWURTZB7S2 ,fb.me/ads ,IE ;07.03.2024 14:32:21 ;CashBack:0 EUR",,Slovensko
+439,2024-03-08,,-2.0,"B1751449973-44544 17** **** 6916;FACEBK VCFZTZB7S2 ,fb.me/ads ,IE ;07.03.2024 19:17:35 ;CashBack:0 EUR",,Slovensko
+440,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
+441,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
+442,2024-03-08,,-2.0,"B1751448271-44544 17** **** 6916;FACEBK SK6W52L7S2 ,fb.me/ads ,IE ;07.03.2024 21:30:37 ;CashBack:0 EUR",,Slovensko
+443,2024-03-08,,-2.0,"B1751448503-44544 17** **** 6916;FACEBK LK4Z3447S2 ,fb.me/ads ,IE ;07.03.2024 20:30:37 ;CashBack:0 EUR",,Slovensko
+444,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
+445,2024-03-08,,-2.0,"B1752097277-44544 17** **** 6916;FACEBK BCZETZP7S2 ,fb.me/ads ,IE ;08.03.2024 03:02:24 ;CashBack:0 EUR",,Slovensko
+446,2024-03-08,,-0.25,Poplatok za platbu kartou,,Slovensko
+447,2024-03-08,,-2.0,"B1751450408-44544 17** **** 6916;FACEBK WV744447S2 ,fb.me/ads ,IE ;07.03.2024 22:42:08 ;CashBack:0 EUR",,Slovensko
+448,2024-03-07,Initiative s.r.o. IČO: 50860917,-5743.33,OOH Billboardy,2624008.0,Slovensko
+449,2024-03-07,Initiative s.r.o. IČO: 50860917,-768.1,OOH Citylighty,2624009.0,Slovensko
+450,2024-03-06,SLOVENSKO,50000.0,prevod na TU,3.0,Slovensko
+451,2024-03-06,Valovič Tomáš,-0.1,Vratenie daru,,Slovensko
+452,2024-03-06,"Petit Press,a.s. - divízia Bratislava ICO: 3579025",-7812.0,Inzercia,2422100010.0,Slovensko
+453,2024-03-06,FOCUS ICO 17336325,-11484.0,Prieskum,20242013.0,Slovensko
+454,2024-03-06,Jaroslav Balara,-1.5,Vratenie daru,,Slovensko
+455,2024-03-06,Obec Zohor ICO: 00322741,-194.6,"Prenajom priestorov, rozhlas",9913400002.0,Slovensko
+456,2024-03-06,Initiative s. r. o. IČO: 50860917,-10515.08,OOH Bigboardy,2624007.0,Slovensko
+457,2024-03-06,Marek Ostrochovsky,-0.01,Vratenie daru,,Slovensko
+458,2024-03-06,Michalovic David,-5.0,Vratenie daru,,Slovensko
+459,2024-02-29,,-5.0,Zverejňovanie účtu,,Slovensko
+460,2024-02-29,,-3.1,Poplatok za vedenie účtu,,Slovensko
+461,2024-02-27,SLOVENSKO,50000.0,prevod na TU,2.0,Slovensko
+462,2024-02-26,Initiative s. r. o. IČO: 50860917,-4604.04,OOH Reklama v MHD,2624006.0,Slovensko
+463,2024-02-26,Initiative s. r. o. IČO: 50860917,-3259.87,OOH prelep billboardov,2624005.0,Slovensko
+464,2024-02-26,Initiative s. r. o. IČO: 50860917,-4230.58,OOH Billboardy,2624004.0,Slovensko
+465,2024-02-26,Jaroslav Balara,1.5,"Suma 1,5 ? je vyska mojho rodicovskeho prispevku.Dakujem, neprosim?",,Slovensko
+466,2024-02-20,Valovič Tomáš,0.1,Igor na hrad,,Slovensko
+467,2024-02-16,Marek Ostrochovsky,0.01,"coho ste sa chytili, to ste dojebali???",,Slovensko
+468,2024-02-15,Initiative s.r.o. IČO: 42287511,-9172.34,OOH citylighty,2624003.0,Slovensko
+469,2024-02-14,SLOVENSKO,50000.0,prevod na TU,1.0,Slovensko
+470,2024-02-13,Michalovic David,5.0,Vela stastia,,Slovensko
+471,2024-02-12,,-50.0,"Vedenie Platobnej karty embosovanej,2029,5,Karta č. 4544 17** **** 6916Poplatok za expresné vydanie",,Slovensko
+472,2024-04-11,"BigMedia, spol. s r.o.",-9360.0,"Úhrada FA 1224203048 za bigboardy, billboardy",1224203048.0,KDH
+473,2024-04-11,GRYF reklamné štúdio s.r.o.,-720.0,Úhrada Predfaktúry 24031 za prenájom reklamných plôch,24031.0,KDH
+474,2024-04-11,"SATOR, s.r.o.",-976.0,Úhrada FA 2024044 za propagačný materiál,2024044.0,KDH
+475,2024-04-11,"T-shock, s. r. o.",-73.8,Úhrada FA 24049149 za propagačný materiál s potlačou,24049149.0,KDH
+476,2024-04-09,Berčík Jakub,1000.0,Dar - Jakub Berčík,2024002969.0,KDH
+477,2024-04-09,KONZULTA Brno a.s.,-635.7,Úhrada FA 24730316 za sms správy,24730316.0,KDH
+478,2024-04-09,Marian Kuštár,-375.0,Úhrada FA 2024007 za postprodukciu fotografií,2024007.0,KDH
+479,2024-04-09,"euroAWK, spol. s r.o.",-792.0,"Úhrada ZFA 2470029 za nájom billboardov, máj 2024",2470029.0,KDH
+480,2024-04-09,ARTON s.r.o.,-360.0,Úhrada Predd. FA 240141 za prenájom reklamného priestoru v mesiaci máj 2024,240141.0,KDH
+481,2024-04-09,Expresta s.r.o.,-101.88,Úhrada FA 41286272 za letáky,41286272.0,KDH
+482,2024-04-09,"ISPA, spol. s r.o.",-504.0,Úhrada ZFA 24950105 za billboardy máj 2024,24950105.0,KDH
+483,2024-04-08,BERCIKOVA ALENA,1000.0,Dar Jakub Bercik,2024002968.0,KDH
+484,2024-04-08,,-0.25,Poplatok za platbu kartou,,KDH
+485,2024-04-08,,-717.42,"B1775268026-44544 17** **** 7221;FACEBK PU5T824722 ,fb.me/ads ,IE ;07.04.2024 06:48:14 ;CashBack:0 EUR",,KDH
+486,2024-04-05,Mgr. Rastislav Piovarči,-200.0,"Úhrada FA 2400024 za vytvorenie letáku - grafika, príprava",2400024.0,KDH
+487,2024-04-05,KDH servis s.r.o.,-907.2,Úhrada FA 1020240007 za propagačnú činnosť,1020240007.0,KDH
+488,2024-04-05,Tlačiareň Kubík s.r.o.,-156.0,Úhrada FA 240100505 za propagačný materiál s potlačou,240100505.0,KDH
+489,2024-04-05,GRYF reklamné štúdio s.r.o.,-156.0,Úhrada Predfaktúry 24027 za prenájom a realizáciu rekl. plochy,24027.0,KDH
+490,2024-04-05,"Červeň Miroslav, Ing.",50.0,Dar Maria Cervenova,2024002967.0,KDH
+491,2024-04-04,Kris digital s.r.o.,-3300.0,"Úhrada FA 20240005 za menežment a riadenie tímu, poradenské služby",20240005.0,KDH
+492,2024-04-04,"NUBIUM, s.r.o.",-17400.0,"Úhrada FA 24042273 za prenájom reklamných panelov, tlač plagátov v mesiaci apríl 2024",24042273.0,KDH
+493,2024-04-04,"NUBIUM, s.r.o.",-13320.0,"Úhrada FA 24042274 za prenájom bigboardov, tlač a inštaláciu bannerov v mesiaci apríl 2024",24042274.0,KDH
+494,2024-04-04,Kresťanskodemokratické hnutie,100000.0,Prevod fin. prostriedkov z bežného účtu KDH,4042024.0,KDH
+495,2024-03-31,,-0.25,Poplatok za platbu kartou,,KDH
+496,2024-03-31,,-800.0,"B1770086258-44544 17** **** 7221;FACEBK PN9BQX3622 ,fb.me/ads ,IE ;30.03.2024 15:39:22 ;CashBack:0 EUR",,KDH
+497,2024-03-31,,-5.0,Poplatok za vedenie účtu,,KDH
+498,2024-03-31,,-5.0,Zverejňovanie účtu,,KDH
+499,2024-03-28,"DEVIN printing house, s.r.o.",-188.4,Úhrada FA 2240047 za letáky,2240047.0,KDH
+500,2024-03-28,Expresta s.r.o.,-102.94,Úhrada FA 41284477 za propagačný materiál,41284477.0,KDH
+501,2024-03-24,,-0.25,Poplatok za platbu kartou,,KDH
+502,2024-03-24,,-800.0,"B1764872405-44544 17** **** 7221;FACEBK V7HQPZ3722 ,fb.me/ads ,IE ;23.03.2024 20:42:01 ;CashBack:0 EUR",,KDH
+503,2024-03-22,Expresta s.r.o.,-63.11,Úhrada FA 41283960 za propagačný materiál,41283960.0,KDH
+504,2024-03-22,JUDr. Budziňáková Lýdia,50.0,Dar Slavomír Gregorík,2024002963.0,KDH
+505,2024-03-22,JAN PODMAJERSKY,100.0,DAR,2024002962.0,KDH
+506,2024-03-21,,-0.25,Poplatok za platbu kartou,,KDH
+507,2024-03-21,,-800.0,"B1761316544-44544 17** **** 7221;FACEBK C7Z2LXX622 ,fb.me/ads ,IE ;19.03.2024 22:57:45 ;CashBack:0 EUR",,KDH
+508,2024-03-20,Mgr. Jana Urbankova,20.0,Dar pre Slavomira Gregorika,2024002960.0,KDH
+509,2024-03-16,"Krabáč Andrej, Ing.",1000.0,Drzte sa,,KDH
+510,2024-03-15,ARTON s.r.o.,-2880.0,"Úhrada Predd. FA 240105 za nájom billboardov, apríl 2024",240105.0,KDH
+511,2024-03-15,Stefanec Ivan,20000.0,Dar na kampan Ivan Stefanec,,KDH
+512,2024-03-15,ARTON s.r.o.,-432.0,Úhrada Predd. FA 240106 za tlač plagátov,240106.0,KDH
+513,2024-03-15,"Ravinger Tomáš, Mgr.",50.0,Dar pre kampan Mucha 11,2024002949.0,KDH
+514,2024-03-13,,-0.25,Poplatok za platbu kartou,,KDH
+515,2024-03-13,,-800.0,"B1755369432-44544 17** **** 7221;FACEBK YWWY6YP622 ,fb.me/ads ,IE ;12.03.2024 19:57:15 ;CashBack:0 EUR",,KDH
+516,2024-03-12,KONZULTA Brno a.s.,-815.49,Úhrada FA 24730193 za sms správy,24730193.0,KDH
+517,2024-03-12,KDH servis s.r.o.,-907.2,Úhrada FA 1020240004 za propagačnú činnosť,1020240004.0,KDH
+518,2024-03-12,Guldan-Studio s.r.o.,-1218.0,"Úhrada ZF 24005 za prenájom rekl. plôch, máj",24005.0,KDH
+519,2024-03-08,,-0.25,Poplatok za platbu kartou,,KDH
+520,2024-03-08,,-272.06,"B1751436894-44544 17** **** 7221;FACEBK WGTPZW7622 ,fb.me/ads ,IE ;07.03.2024 06:13:57 ;CashBack:0 EUR",,KDH
+521,2024-03-08,"SPaP - lodná osobná doprava, a.s.",-940.0,"Úhrada ZFA 24000013 za státie, občerstvenie",24000013.0,KDH
+522,2024-02-29,,-5.0,Zverejňovanie účtu,,KDH
+523,2024-02-29,,-1.55,Poplatok za vedenie účtu,,KDH
+524,2024-02-22,Kresťanskodemokratické hnutie,50000.0,Prevod fin. prostriedkov z bežného účtu KDH,2222024.0,KDH
+525,2024-04-10,Anton Stacho,20.0,Platba,,Demokrati
+526,2024-04-10,Škraban Róbert,20.0,Platba/Drzim palce .,,Demokrati
+527,2024-04-10,Havlíková Marta,50.0,Platba/Drzim palce. Robite to skvele.,,Demokrati
+528,2024-04-10,LINEROVA MONIKA,40.0,PLATBA/dar Namestie slobody 165623 Puchov,,Demokrati
+529,2024-04-10,Robert Sivak,10.0,Platba/Dakujeme Demokratom...,,Demokrati
+530,2024-04-09,Pop studio s. r. o.,-1440.0,Platba/fotenie,"20240006
+VS20240006/SS/KS",Demokrati
+531,2024-04-09,Matej Kukucka,-1000.0,Platba/graficke prace marec,"222024
+VS222024/SS/KS",Demokrati
+532,2024-04-09,Demokrati,3000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
+533,2024-04-09,JUICE s.r.o.,-2448.38,Platba/tlac BB april,"20241019
+VS20241019/SS/KS0308",Demokrati
+534,2024-04-09,Mgr. Jana Zbojekova,5.0,PLATBA/Dakujeme,,Demokrati
+535,2024-04-09,ALZBETA SVITKOVA,50.0,"PLATBA/DAR ALZBETA SVITKOVA HAANOVA 44, 85104 BRATISLAVA",,Demokrati
+536,2024-04-08,Ondrej Truhan,20.0,Platba,,Demokrati
+537,2024-04-08,Ing. Peter Miklossy,50.0,PLATBA/Dar,,Demokrati
+538,2024-04-08,GRZNAR MATUS,5.0,PLATBA,VS/SS/KS,Demokrati
+539,2024-04-08,Pavlík Michal,1000.0,Platba/Hlavu hore! Podme zabojovat.,,Demokrati
+540,2024-04-06,"Kertés Patrik, Ing.",200.0,Platba/drzim palce,,Demokrati
+541,2024-04-05,Mgr. Bystrik Novak,20.0,PLATBA/Pozdravujem J.Nada a pani Masarikovu ste top,,Demokrati
+542,2024-04-05,FACEBK *8UH8B3G4L2,-169.73,EUR NÁKUP POS FACEBK *8UH8B3G4L2 / fb.me/ads / (POS 99999999),,Demokrati
+543,2024-04-05,Peter Zagora,50.0,Platba/Forbasy 142,,Demokrati
+544,2024-04-05,"Kuric Martin, Ing.",50.0,Platba,,Demokrati
+545,2024-04-05,TARABUS JOZEF,20.0,PLATBA,VS/SS/KS,Demokrati
+546,2024-04-05,MILOS DURIS,50.0,PLATBA/DURIS MILOS,,Demokrati
+547,2024-04-05,Juraj Ukropec,10.0,"PLATBA/Dar - Juraj Ukropec, Hlboka 55, 94901 Nitra","4042024
+VS04042024/SS/KS0308",Demokrati
+548,2024-04-05,Ing. Maria Gurbalova,20.0,PLATBA,,Demokrati
+549,2024-04-05,FILIP GLEMBA,20.0,PLATBA/DAR,,Demokrati
+550,2024-04-05,MICHAL DIESKA,20.0,"PLATBA/DAR, TP:VIETNAMSKA 42, BRATISLAVA",,Demokrati
+551,2024-04-04,Silvia Krnacova,15.0,Platba,,Demokrati
+552,2024-04-04,Maria Lisnikova,10.0,Platba,,Demokrati
+553,2024-04-04,SCIRANKA JAN,100.0,PLATBA/Dar - Zuzany Chalupovej 7A Bratislava,VS/SS/KS,Demokrati
+554,2024-04-04,Mgr. Dana Adamcova,20.0,PLATBA,"6653
+VS6653/SS/KS0558",Demokrati
+555,2024-04-04,Knotek Tomas,20.0,PLATBA/T.Knotek a S.Knotek,,Demokrati
+556,2024-04-04,ROMAN JIROVEC,100.0,PLATBA/NECH SA DARI-,"20240403
+VS0020240403/SS6512200156/KS0558",Demokrati
+557,2024-04-04,Ing.Richard Masny PhD.,50.0,PLATBA/na kampan :),,Demokrati
+558,2024-04-04,Jakeš Richard,20.0,"Platba/dar, Agatova 21 Malinovo",,Demokrati
+559,2024-04-04,Holý Martin,20.0,Platba,,Demokrati
+560,2024-04-04,Ladislav Langer,50.0,"Platba/Dar - Langer Ladislav, Palarikova 14, Holic",,Demokrati
+561,2024-04-04,MARTIN LAMACKA,20.0,PLATBA/PLATBA,,Demokrati
+562,2024-04-04,Matej Jurikovic,20.0,Platba/Dar,,Demokrati
+563,2024-04-04,Jana Snopkova,20.0,"Platba/dar Slovenska Lupca, Priboj 552/62",,Demokrati
+564,2024-04-04,Alexandra Vaskova,20.0,Platba,,Demokrati
+565,2024-04-04,Mario Patlevic,20.0,Platba/Dar na kampan.,,Demokrati
+566,2024-04-04,"Danížek Zdenko, JUDr.",500.0,"Platba/Dar. J. Alexyho 7, Bratislava","2024
+VS2024/SS/KS",Demokrati
+567,2024-04-04,Slavka Drahosova,20.0,Platba,,Demokrati
+568,2024-04-04,"Plšková Lucia, Ing.",20.0,Platba,,Demokrati
+569,2024-04-04,Matus Kral,20.0,Platba,,Demokrati
+570,2024-04-04,MONSOWILO,20.0,Platba PO24040480812690/Dar Komoca,,Demokrati
+571,2024-04-04,Ošvát Michal,20.0,Platba,,Demokrati
+572,2024-04-03,Tóth Zoltán,20.0,Platba/Dar - Sered,,Demokrati
+573,2024-04-03,Ivan Lacho,2.0,Platba,,Demokrati
+574,2024-04-03,Farkaš Aleš,20.0,"Platba/Dar , J. Murgasa 157/2 Prievidza 97101",,Demokrati
+575,2024-04-03,Zuzana Kubakova,10.0,Platba,,Demokrati
+576,2024-04-03,Jan Suska,500.0,Platba,,Demokrati
+577,2024-04-03,Martina Michalidesova,20.0,Platba,,Demokrati
+578,2024-04-03,Maria Jurisova,20.0,"Platba/Dar- Pila 219, 90089 Pila",,Demokrati
+579,2024-04-03,Juraj Bindas,50.0,"Platba/Dar, Soltesovej 6, 08001 Presov",,Demokrati
+580,2024-04-03,Jana Krakovska,10.0,Platba,,Demokrati
+581,2024-04-03,Virág Martin,20.0,Platba,,Demokrati
+582,2024-04-03,Jozef Paukov,20.0,Platba,,Demokrati
+583,2024-04-03,"Poloha Peter, Ing.",10.0,Platba,,Demokrati
+584,2024-04-03,Miroslav Lahky,20.0,Platba/Jaro Drzim palce,,Demokrati
+585,2024-04-03,Rychtárik Martin,5.0,Platba,,Demokrati
+586,2024-04-03,Gabriela Starcova,20.0,Platba/drzim palce,,Demokrati
+587,2024-04-03,Ivo Valosek,20.0,"Platba/Dar, Valosek, Cintorinska 551/49, Fintice",,Demokrati
+588,2024-03-30,,-0.0,Poplatok za balík,,Demokrati
+589,2024-03-27,FACEBK *QU33D2U4L2,-100.27,EUR NÁKUP POS FACEBK *QU33D2U4L2 / fb.me/ads / (POS 99999999),,Demokrati
+590,2024-03-27,FACEBK *5VJHB244L2,-150.0,EUR NÁKUP POS FACEBK *5VJHB244L2 / fb.me/ads / (POS 99999999),,Demokrati
+591,2024-03-25,"Magna Global Slovakia, s.r.o.",-3206.7,"Platba/kampan EP, billboard, dolepky","3624007
 VS3624007/SS/KS0308",Demokrati
-530,2024-03-25,Demokrati,2000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
-531,2024-03-12,"Meravý Tomáš, Ing.",700.0,Platba/FB kampan Tomas Meravy 1. cast,,Demokrati
-532,2024-03-11,Milan Kypus,50.0,Platba/Lepsie Slovensko,,Demokrati
-533,2024-03-11,Marek Polonec,200.0,"Platba/Jedina strana v historii, ktora nepovalila demokraticku vladu",,Demokrati
-534,2024-03-11,Zlatica Medova,20.0,Platba/Drzim palce,,Demokrati
-535,2024-03-09,Andrea Janicka Rudnayova,100.0,Platba,,Demokrati
-536,2024-03-08,Dominik Sumbal,1000.0,Platba/Dar volby do EU,,Demokrati
-537,2024-03-05,FACEBK 7CTZJZ34L2,-14.79,EUR NÁKUP POS FACEBK 7CTZJZ34L2 / fb.me/ads / (POS 99999999),,Demokrati
-538,2024-03-04,"Magna Global Slovakia, s.r.o.",-12208.02,"Platba/kampan EP, billboard, maj / 3. cast","3624004
+592,2024-03-25,Demokrati,2000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
+593,2024-03-12,"Meravý Tomáš, Ing.",700.0,Platba/FB kampan Tomas Meravy 1. cast,,Demokrati
+594,2024-03-11,Milan Kypus,50.0,Platba/Lepsie Slovensko,,Demokrati
+595,2024-03-11,Marek Polonec,200.0,"Platba/Jedina strana v historii, ktora nepovalila demokraticku vladu",,Demokrati
+596,2024-03-11,Zlatica Medova,20.0,Platba/Drzim palce,,Demokrati
+597,2024-03-09,Andrea Janicka Rudnayova,100.0,Platba,,Demokrati
+598,2024-03-08,Dominik Sumbal,1000.0,Platba/Dar volby do EU,,Demokrati
+599,2024-03-05,FACEBK 7CTZJZ34L2,-14.79,EUR NÁKUP POS FACEBK 7CTZJZ34L2 / fb.me/ads / (POS 99999999),,Demokrati
+600,2024-03-04,"Magna Global Slovakia, s.r.o.",-12208.02,"Platba/kampan EP, billboard, maj / 3. cast","3624004
 VS3624004/SS/KS0308",Demokrati
-539,2024-03-01,"Magna Global Slovakia, s.r.o.",-30000.0,"Platba/kampan EP, billboard, maj / 2.cast","3624004
+601,2024-03-01,"Magna Global Slovakia, s.r.o.",-30000.0,"Platba/kampan EP, billboard, maj / 2.cast","3624004
 VS3624004/SS/KS0308",Demokrati
-540,2024-03-01,"Magna Global Slovakia, s.r.o.",-30000.0,"Platba/kampan EP, billboard, maj / 1.cast","3624004
+602,2024-03-01,"Magna Global Slovakia, s.r.o.",-30000.0,"Platba/kampan EP, billboard, maj / 1.cast","3624004
 VS3624004/SS/KS0308",Demokrati
-541,2024-03-01,Demokrati,2000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
-542,2024-02-29,,-0.0,Poplatok za balík,,Demokrati
-543,2024-02-28,Demokrati,31000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
-544,2024-02-26,"Magna Global Slovakia, s.r.o.",-20601.0,"Platba/kampan EP, billboard, april","3624003
+603,2024-03-01,Demokrati,2000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
+604,2024-02-29,,-0.0,Poplatok za balík,,Demokrati
+605,2024-02-28,Demokrati,31000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
+606,2024-02-26,"Magna Global Slovakia, s.r.o.",-20601.0,"Platba/kampan EP, billboard, april","3624003
 VS3624003/SS/KS0308",Demokrati
-545,2024-02-26,Demokrati,60000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
-546,2024-04-08,Ing.Szilard Nemeth-REKLAMNA AGENTURA SINEX,-15283.2,"Odoslaná platba elektronicky, Reklamne predmety,bannery,plagaty",VS: 2024142,Aliancia
-547,2024-04-03,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.04.2024","VS: 297000093
+607,2024-02-26,Demokrati,60000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
+608,2024-04-12,Vox Juventae,-3000.0,"Odoslaná platba elektronicky, Reklamne sluzby-reklamny banner na spravodajskom portali od 21.3.2024 do 19.4.2024",VS: 01032024,Aliancia
+609,2024-04-12,Meszaros Marta,500.0,"Prijatá platba, DAR Aniko Meszaros",,Aliancia
+610,2024-04-10,Tamas Ivan,1000.0,"Prijatá platba, DAR_Tamas Ivan",,Aliancia
+611,2024-04-08,Ing.Szilard Nemeth-REKLAMNA AGENTURA SINEX,-15283.2,"Odoslaná platba elektronicky, Reklamne predmety,bannery,plagaty",VS: 2024142,Aliancia
+612,2024-04-03,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.04.2024","VS: 297000093
 ŠS: 3400277176
 KS: 6898",Aliancia
-548,2024-04-03,,-445.79,"Transakcia platobnou kartou, Suma: 445,79 EUR 01.04.2024 Miesto: GOOGLE *ADS3732417223 650-253-0000","VS: 205000093
+613,2024-04-03,,-445.79,"Transakcia platobnou kartou, Suma: 445,79 EUR 01.04.2024 Miesto: GOOGLE *ADS3732417223 650-253-0000","VS: 205000093
 ŠS: 3400277176
 KS: 0608",Aliancia
-549,2024-04-02,,-180.0,"Transakcia platobnou kartou, Suma: 180 EUR 30.03.2024 Miesto: FACEBK *KS6WE2CGY2 fb.me/ads","VS: 405000091
+614,2024-04-02,,-180.0,"Transakcia platobnou kartou, Suma: 180 EUR 30.03.2024 Miesto: FACEBK *KS6WE2CGY2 fb.me/ads","VS: 405000091
 ŠS: 5032870992
 KS: 0608",Aliancia
-550,2024-04-02,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.03.2024","VS: 497000091
+615,2024-04-02,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.03.2024","VS: 497000091
 ŠS: 5032870992
 KS: 6898",Aliancia
-551,2024-03-31,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.03.2024 do 31.03.2024, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 11 x debet - elektronicky: 0,00",,Aliancia
-552,2024-03-28,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 27.03.2024","VS: 495000087
+616,2024-03-31,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.03.2024 do 31.03.2024, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 11 x debet - elektronicky: 0,00",,Aliancia
+617,2024-03-28,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 27.03.2024","VS: 495000087
 ŠS: 5032870992
 KS: 6898",Aliancia
-553,2024-03-28,,-3.0,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 27.03.2024","VS: 295000087
+618,2024-03-28,,-3.0,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 27.03.2024","VS: 295000087
 ŠS: 3400277176
 KS: 6898",Aliancia
-554,2024-03-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.03.2024","VS: 497000085
+619,2024-03-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.03.2024","VS: 497000085
 ŠS: 5032870992
 KS: 6898",Aliancia
-555,2024-03-26,,-960.0,"Transakcia platobnou kartou, Suma: 960 EUR 24.03.2024 Miesto: FACEBK *MTRZ93YGY2 fb.me/ads","VS: 405000085
+620,2024-03-26,,-960.0,"Transakcia platobnou kartou, Suma: 960 EUR 24.03.2024 Miesto: FACEBK *MTRZ93YGY2 fb.me/ads","VS: 405000085
 ŠS: 5032870992
 KS: 0608",Aliancia
-556,2024-03-25,,-960.0,"Transakcia platobnou kartou, Suma: 960 EUR 21.03.2024 Miesto: FACEBK *N4PS63YGY2 fb.me/ads","VS: 405000082
-ŠS: 5032870992
-KS: 0608",Aliancia
-557,2024-03-25,Festivitas eventum s.r.o.,-20000.0,"Odoslaná platba elektronicky, Vydavky na kampan - inzercia,billboardy,letaky",VS: 02032024,Aliancia
-558,2024-03-25,Delta Kt s.r.o.,-396.0,"Odoslaná platba elektronicky, Inzerat v tyzdenniku Delta c.12",VS: 240086,Aliancia
-559,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.03.2024","VS: 297000082
-ŠS: 3400277176
-KS: 6898",Aliancia
-560,2024-03-25,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 22.03.2024 Miesto: GOOGLE *ADS3732417223 650-253-0000","VS: 205000082
-ŠS: 3400277176
-KS: 0608",Aliancia
-561,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.03.2024","VS: 297000083
-ŠS: 3400277176
-KS: 6898",Aliancia
-562,2024-03-25,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 23.03.2024 Miesto: GOOGLE *ADS3732417223 650-253-0000","VS: 205000083
-ŠS: 3400277176
-KS: 0608",Aliancia
-563,2024-03-25,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 24.03.2024 Miesto: GOOGLE *ADS3732417223 650-253-0000","VS: 205000084
-ŠS: 3400277176
-KS: 0608",Aliancia
-564,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.03.2024","VS: 297000084
-ŠS: 3400277176
-KS: 6898",Aliancia
-565,2024-03-25,Mesto Rimavska Sobota,-239.0,"Odoslaná platba elektronicky, Inzercia - Gemerske Zvesti 4/2024","VS: 2024008
+621,2024-03-25,Festivitas eventum s.r.o.,-20000.0,"Odoslaná platba elektronicky, Vydavky na kampan - inzercia,billboardy,letaky",VS: 02032024,Aliancia
+622,2024-03-25,Delta Kt s.r.o.,-396.0,"Odoslaná platba elektronicky, Inzerat v tyzdenniku Delta c.12",VS: 240086,Aliancia
+623,2024-03-25,Mesto Rimavska Sobota,-239.0,"Odoslaná platba elektronicky, Inzercia - Gemerske Zvesti 4/2024","VS: 2024008
 KS: 0308",Aliancia
-566,2024-03-25,,-960.0,"Transakcia platobnou kartou, Suma: 960 EUR 21.03.2024 Miesto: FACEBK *J9R422GGY2 fb.me/ads","VS: 405000082
+624,2024-03-25,,-960.0,"Transakcia platobnou kartou, Suma: 960 EUR 21.03.2024 Miesto: FACEBK *N4PS63YGY2 fb.me/ads","VS: 405000082
 ŠS: 5032870992
 KS: 0608",Aliancia
-567,2024-03-25,,-960.0,"Transakcia platobnou kartou, Suma: 960 EUR 22.03.2024 Miesto: FACEBK *WH4RC24GY2 fb.me/ads","VS: 405000083
-ŠS: 5032870992
-KS: 0608",Aliancia
-568,2024-03-25,,-960.0,"Transakcia platobnou kartou, Suma: 960 EUR 23.03.2024 Miesto: FACEBK *AYJ542GGY2 fb.me/ads","VS: 405000084
-ŠS: 5032870992
-KS: 0608",Aliancia
-569,2024-03-25,,-960.0,"Transakcia platobnou kartou, Suma: 960 EUR 23.03.2024 Miesto: FACEBK *MG2T62CGY2 fb.me/ads","VS: 405000083
-ŠS: 5032870992
-KS: 0608",Aliancia
-570,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.03.2024","VS: 497000084
-ŠS: 5032870992
-KS: 6898",Aliancia
-571,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.03.2024","VS: 497000083
-ŠS: 5032870992
-KS: 6898",Aliancia
-572,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.03.2024","VS: 497000083
-ŠS: 5032870992
-KS: 6898",Aliancia
-573,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.03.2024","VS: 497000082
-ŠS: 5032870992
-KS: 6898",Aliancia
-574,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.03.2024","VS: 497000082
-ŠS: 5032870992
-KS: 6898",Aliancia
-575,2024-03-22,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.03.2024","VS: 497000081
-ŠS: 5032870992
-KS: 6898",Aliancia
-576,2024-03-22,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 20.03.2024 Miesto: FACEBK *M955S34HY2 fb.me/ads","VS: 405000081
-ŠS: 5032870992
-KS: 0608",Aliancia
-577,2024-03-22,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 21.03.2024 Miesto: GOOGLE *ADS3732417223 650-253-0000","VS: 205000081
+625,2024-03-25,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 22.03.2024 Miesto: GOOGLE *ADS3732417223 650-253-0000","VS: 205000082
 ŠS: 3400277176
 KS: 0608",Aliancia
-578,2024-03-22,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.03.2024","VS: 297000081
+626,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.03.2024","VS: 297000083
 ŠS: 3400277176
 KS: 6898",Aliancia
-579,2024-03-21,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.03.2024","VS: 297000081
-ŠS: 3400277176
-KS: 6898",Aliancia
-580,2024-03-21,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 20.03.2024 Miesto: GOOGLE *ADS3732417223 650-253-0000","VS: 205000081
+627,2024-03-25,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 23.03.2024 Miesto: GOOGLE *ADS3732417223 650-253-0000","VS: 205000083
 ŠS: 3400277176
 KS: 0608",Aliancia
-581,2024-03-20,Ing.Szilard Nemeth - REKLAMNA AGENTURA SINEX,-30000.0,"Odoslaná platba elektronicky, Zaloha na propagacne materialy",VS: 2024108,Aliancia
-582,2024-03-20,Ing.Szilard Nemeth - REKLAMNA AGENTURA SINEX,-393.6,"Odoslaná platba elektronicky, Vyroba propagacnych materialov",VS: 2024107,Aliancia
-583,2024-03-20,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 18.03.2024 Miesto: FACEBK LHMDBZKGY2 fb.me/ads","VS: 405000079
+628,2024-03-25,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 24.03.2024 Miesto: GOOGLE *ADS3732417223 650-253-0000","VS: 205000084
+ŠS: 3400277176
+KS: 0608",Aliancia
+629,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.03.2024","VS: 297000084
+ŠS: 3400277176
+KS: 6898",Aliancia
+630,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.03.2024","VS: 297000082
+ŠS: 3400277176
+KS: 6898",Aliancia
+631,2024-03-25,,-960.0,"Transakcia platobnou kartou, Suma: 960 EUR 21.03.2024 Miesto: FACEBK *J9R422GGY2 fb.me/ads","VS: 405000082
 ŠS: 5032870992
 KS: 0608",Aliancia
-584,2024-03-20,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.03.2024","VS: 497000079
-ŠS: 5032870992
-KS: 6898",Aliancia
-585,2024-03-18,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 14.03.2024 Miesto: FACEBK GEZXVZBGY2 fb.me/ads","VS: 405000075
+632,2024-03-25,,-960.0,"Transakcia platobnou kartou, Suma: 960 EUR 22.03.2024 Miesto: FACEBK *WH4RC24GY2 fb.me/ads","VS: 405000083
 ŠS: 5032870992
 KS: 0608",Aliancia
-586,2024-03-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.03.2024","VS: 497000075
+633,2024-03-25,,-960.0,"Transakcia platobnou kartou, Suma: 960 EUR 23.03.2024 Miesto: FACEBK *AYJ542GGY2 fb.me/ads","VS: 405000084
+ŠS: 5032870992
+KS: 0608",Aliancia
+634,2024-03-25,,-960.0,"Transakcia platobnou kartou, Suma: 960 EUR 23.03.2024 Miesto: FACEBK *MG2T62CGY2 fb.me/ads","VS: 405000083
+ŠS: 5032870992
+KS: 0608",Aliancia
+635,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.03.2024","VS: 497000084
 ŠS: 5032870992
 KS: 6898",Aliancia
-587,2024-03-18,CSEMADOK OV Velky Krtis,-150.0,"Odoslaná platba elektronicky, Uverejnenie reklamy v mesacniku KURTOS c.3/2024","VS: 132024
+636,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.03.2024","VS: 497000083
+ŠS: 5032870992
+KS: 6898",Aliancia
+637,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.03.2024","VS: 497000083
+ŠS: 5032870992
+KS: 6898",Aliancia
+638,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.03.2024","VS: 497000082
+ŠS: 5032870992
+KS: 6898",Aliancia
+639,2024-03-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.03.2024","VS: 497000082
+ŠS: 5032870992
+KS: 6898",Aliancia
+640,2024-03-22,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.03.2024","VS: 497000081
+ŠS: 5032870992
+KS: 6898",Aliancia
+641,2024-03-22,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 20.03.2024 Miesto: FACEBK *M955S34HY2 fb.me/ads","VS: 405000081
+ŠS: 5032870992
+KS: 0608",Aliancia
+642,2024-03-22,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 21.03.2024 Miesto: GOOGLE *ADS3732417223 650-253-0000","VS: 205000081
+ŠS: 3400277176
+KS: 0608",Aliancia
+643,2024-03-22,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.03.2024","VS: 297000081
+ŠS: 3400277176
+KS: 6898",Aliancia
+644,2024-03-21,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.03.2024","VS: 297000081
+ŠS: 3400277176
+KS: 6898",Aliancia
+645,2024-03-21,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 20.03.2024 Miesto: GOOGLE *ADS3732417223 650-253-0000","VS: 205000081
+ŠS: 3400277176
+KS: 0608",Aliancia
+646,2024-03-20,Ing.Szilard Nemeth - REKLAMNA AGENTURA SINEX,-30000.0,"Odoslaná platba elektronicky, Zaloha na propagacne materialy",VS: 2024108,Aliancia
+647,2024-03-20,Ing.Szilard Nemeth - REKLAMNA AGENTURA SINEX,-393.6,"Odoslaná platba elektronicky, Vyroba propagacnych materialov",VS: 2024107,Aliancia
+648,2024-03-20,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 18.03.2024 Miesto: FACEBK LHMDBZKGY2 fb.me/ads","VS: 405000079
+ŠS: 5032870992
+KS: 0608",Aliancia
+649,2024-03-20,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.03.2024","VS: 497000079
+ŠS: 5032870992
+KS: 6898",Aliancia
+650,2024-03-18,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 14.03.2024 Miesto: FACEBK GEZXVZBGY2 fb.me/ads","VS: 405000075
+ŠS: 5032870992
+KS: 0608",Aliancia
+651,2024-03-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.03.2024","VS: 497000075
+ŠS: 5032870992
+KS: 6898",Aliancia
+652,2024-03-18,CSEMADOK OV Velky Krtis,-150.0,"Odoslaná platba elektronicky, Uverejnenie reklamy v mesacniku KURTOS c.3/2024","VS: 132024
 KS: 0308",Aliancia
-588,2024-03-18,H and K Plus s.r.o. ICO: 51471965,-29184.0,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na 4/2024",VS: 30240004,Aliancia
-589,2024-03-13,"DARCUS, a.s.",-2025.0,"Odoslaná platba elektronicky, Uverejnenie reklamy - bannerova reklama - volby do EP 2024",VS: 2024018,Aliancia
-590,2024-03-13,MAGYAR SZOVETSEG - M,150000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby EP 2024",VS: 13032024,Aliancia
-591,2024-03-05,,-5.0,"Poplatok platobné karty, Miesto: POPLATOK ZA ZMENU PIN NA Suma: 5 EUR 04.03.2024","VS: 498000064
+653,2024-03-18,H and K Plus s.r.o. ICO: 51471965,-29184.0,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na 4/2024",VS: 30240004,Aliancia
+654,2024-03-13,"DARCUS, a.s.",-2025.0,"Odoslaná platba elektronicky, Uverejnenie reklamy - bannerova reklama - volby do EP 2024",VS: 2024018,Aliancia
+655,2024-03-13,MAGYAR SZOVETSEG - M,150000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby EP 2024",VS: 13032024,Aliancia
+656,2024-03-05,,-5.0,"Poplatok platobné karty, Miesto: POPLATOK ZA ZMENU PIN NA Suma: 5 EUR 04.03.2024","VS: 498000064
 ŠS: 5032870992
 KS: 6898",Aliancia
-592,2024-03-05,,-5.0,"Poplatok platobné karty, Miesto: POPLATOK ZA ZMENU PIN NA Suma: 5 EUR 04.03.2024","VS: 298000064
+657,2024-03-05,,-5.0,"Poplatok platobné karty, Miesto: POPLATOK ZA ZMENU PIN NA Suma: 5 EUR 04.03.2024","VS: 298000064
 ŠS: 3400277176
 KS: 6898",Aliancia
-593,2024-03-04,Vox Juventae,-3000.0,"Odoslaná platba elektronicky, Bannerova reklama - Reklamny priestor na Korkep.sk za obdobie 21.2.2024 - 20.3.2024",VS: 23012024,Aliancia
-594,2024-03-04,"DUEL-PRESS, s.r.o.",-6480.0,"Odoslaná platba elektronicky, Uverejnenie inzercii v denniku Uj Szo - volby do EP 2024",VS: 7012400148,Aliancia
-595,2024-03-04,Ing.Szilard Nemeth-REKLAMNA AGENTURA SINEX,-36000.0,"Odoslaná platba elektronicky, Propagacny material na volby do EP 2024",VS: 2024078,Aliancia
-596,2024-02-28,H and K Plus s.r.o. ICO: 51471965,-16800.0,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na marec 2024 - volby do EP 2024",VS: 30240003,Aliancia
-597,2024-02-28,Interregionalny vyskumno - rozvojovy institut,-20000.0,"Odoslaná platba elektronicky, Preddavok na realizaciu volebnej kampane do EP 2024",VS: 30240001,Aliancia
-598,2024-02-26,MAGYAR SZOVETSEG - M,150000.0,"Prijatá platba, Prevod na transparentny ucet EP volby 2024",VS: 26022024,Aliancia
-599,2024-03-31,,-5.0,Zverejňovanie účtu,,KÚ
-600,2024-03-31,,-4.52,Poplatok za vedenie účtu,,KÚ
-601,2024-03-18,"JM create, s.r.o.",-64380.0,Úhrada ZFA 30240001 - prenájom a tlač billboardov,30240001.0,KÚ
-602,2024-03-18,Kresťanská únia,65000.0,Prevod fin. prostriedkov z bežného účtu Kresťanská únia,,KÚ
-603,2024-03-13,"JM create, s.r.o.",-28173.6,Úhrada ZFA 30240002 prenájom a tlač citylightov,30240002.0,KÚ
-604,2024-03-13,Kresťanská únia,30000.0,Prevod fin. prostriedkov z bežného účtu Kresťanská únia,,KÚ
-605,2024-03-04,Jakub Lóška,0.01,na stroj času ktorý vráti p.Záborskú do 13.storočia,,KÚ
-606,2024-03-19,Gloznek Miloš,25.0,"?/DO2024-03-18/SPMilos Gloznek, DAR",,Pirátska strana
-607,2024-03-08,,-1700.0,VOLEBNA KAUCIA EP 2024,42228034.0,Pirátska strana
-608,2024-03-08,Pirátska strana - Slovensko,1700.0,Kaucia do volieb EP,,Pirátska strana
-609,2024-03-01,Pirátska strana - Slovensko,10.0,,,Pirátska strana
-610,2024-03-31,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
-611,2024-03-16,,-2.35,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 15.3.2024, částka  2.35 EUR",9269.0,Alternatíva pre Slovensko
-612,2024-03-15,,-2.55,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 14.3.2024, částka  2.55 EUR",9269.0,Alternatíva pre Slovensko
-613,2024-03-14,,-27.0,"Nákup: ALL IN 1 SPORT PUB,TT, TRNAVA, SK, dne 13.3.2024, částka  27.00 EUR",9269.0,Alternatíva pre Slovensko
-614,2024-03-14,,-14.0,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 13.3.2024, částka  14.00 EUR",9269.0,Alternatíva pre Slovensko
-615,2024-03-14,,-2.4,"Nákup: Milano 2, Trnava, SK, dne 13.3.2024, částka  2.40 EUR",9269.0,Alternatíva pre Slovensko
-616,2024-03-14,,-4.0,"Nákup: UNO caffetteria, Trnava, SK, dne 13.3.2024, částka  4.00 EUR",9269.0,Alternatíva pre Slovensko
-617,2024-03-14,"Mgr. Uhlíková, Ivana",2.5,,,Alternatíva pre Slovensko
-618,2024-03-13,RASTISLAV KRAJCIK,50.0,dar,,Alternatíva pre Slovensko
-619,2024-03-12,,-6.0,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 11.3.2024, částka  6.00 EUR",9269.0,Alternatíva pre Slovensko
-620,2024-03-11,,-5.95,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 10.3.2024, částka  5.95 EUR",9269.0,Alternatíva pre Slovensko
-621,2024-03-09,,-20.0,"Nákup: SHELL 8262, BAJKALSKA, SK, dne 8.3.2024, částka  20.00 EUR",9269.0,Alternatíva pre Slovensko
-622,2024-03-09,,-14.3,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 8.3.2024, částka  14.30 EUR",9269.0,Alternatíva pre Slovensko
-623,2024-03-09,,-2.55,"Nákup: ZSSK, A.S., BRATISLAVA, SK, dne 8.3.2024, částka  2.55 EUR",9269.0,Alternatíva pre Slovensko
-624,2024-03-08,,-1700.0,"Kaucia volby EP 2024 Alternativa pr
+658,2024-03-04,Vox Juventae,-3000.0,"Odoslaná platba elektronicky, Bannerova reklama - Reklamny priestor na Korkep.sk za obdobie 21.2.2024 - 20.3.2024",VS: 23012024,Aliancia
+659,2024-03-04,"DUEL-PRESS, s.r.o.",-6480.0,"Odoslaná platba elektronicky, Uverejnenie inzercii v denniku Uj Szo - volby do EP 2024",VS: 7012400148,Aliancia
+660,2024-03-04,Ing.Szilard Nemeth-REKLAMNA AGENTURA SINEX,-36000.0,"Odoslaná platba elektronicky, Propagacny material na volby do EP 2024",VS: 2024078,Aliancia
+661,2024-02-28,H and K Plus s.r.o. ICO: 51471965,-16800.0,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na marec 2024 - volby do EP 2024",VS: 30240003,Aliancia
+662,2024-02-28,Interregionalny vyskumno - rozvojovy institut,-20000.0,"Odoslaná platba elektronicky, Preddavok na realizaciu volebnej kampane do EP 2024",VS: 30240001,Aliancia
+663,2024-02-26,MAGYAR SZOVETSEG - M,150000.0,"Prijatá platba, Prevod na transparentny ucet EP volby 2024",VS: 26022024,Aliancia
+664,2024-04-11,KRAJNIAK MILAN,7000.0,EUROKAMPAN,,KÚ
+665,2024-03-31,,-5.0,Zverejňovanie účtu,,KÚ
+666,2024-03-31,,-4.52,Poplatok za vedenie účtu,,KÚ
+667,2024-03-18,"JM create, s.r.o.",-64380.0,Úhrada ZFA 30240001 - prenájom a tlač billboardov,30240001.0,KÚ
+668,2024-03-18,Kresťanská únia,65000.0,Prevod fin. prostriedkov z bežného účtu Kresťanská únia,,KÚ
+669,2024-03-13,"JM create, s.r.o.",-28173.6,Úhrada ZFA 30240002 prenájom a tlač citylightov,30240002.0,KÚ
+670,2024-03-13,Kresťanská únia,30000.0,Prevod fin. prostriedkov z bežného účtu Kresťanská únia,,KÚ
+671,2024-03-04,Jakub Lóška,0.01,na stroj času ktorý vráti p.Záborskú do 13.storočia,,KÚ
+672,2024-03-19,Gloznek Miloš,25.0,"?/DO2024-03-18/SPMilos Gloznek, DAR",,Pirátska strana
+673,2024-03-08,,-1700.0,VOLEBNA KAUCIA EP 2024,42228034.0,Pirátska strana
+674,2024-03-08,Pirátska strana - Slovensko,1700.0,Kaucia do volieb EP,,Pirátska strana
+675,2024-03-01,Pirátska strana - Slovensko,10.0,,,Pirátska strana
+676,2024-03-31,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
+677,2024-03-16,,-2.35,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 15.3.2024, částka  2.35 EUR",9269.0,Alternatíva pre Slovensko
+678,2024-03-15,,-2.55,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 14.3.2024, částka  2.55 EUR",9269.0,Alternatíva pre Slovensko
+679,2024-03-14,,-27.0,"Nákup: ALL IN 1 SPORT PUB,TT, TRNAVA, SK, dne 13.3.2024, částka  27.00 EUR",9269.0,Alternatíva pre Slovensko
+680,2024-03-14,,-14.0,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 13.3.2024, částka  14.00 EUR",9269.0,Alternatíva pre Slovensko
+681,2024-03-14,,-2.4,"Nákup: Milano 2, Trnava, SK, dne 13.3.2024, částka  2.40 EUR",9269.0,Alternatíva pre Slovensko
+682,2024-03-14,,-4.0,"Nákup: UNO caffetteria, Trnava, SK, dne 13.3.2024, částka  4.00 EUR",9269.0,Alternatíva pre Slovensko
+683,2024-03-14,"Mgr. Uhlíková, Ivana",2.5,,,Alternatíva pre Slovensko
+684,2024-03-13,RASTISLAV KRAJCIK,50.0,dar,,Alternatíva pre Slovensko
+685,2024-03-12,,-6.0,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 11.3.2024, částka  6.00 EUR",9269.0,Alternatíva pre Slovensko
+686,2024-03-11,,-5.95,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 10.3.2024, částka  5.95 EUR",9269.0,Alternatíva pre Slovensko
+687,2024-03-09,,-20.0,"Nákup: SHELL 8262, BAJKALSKA, SK, dne 8.3.2024, částka  20.00 EUR",9269.0,Alternatíva pre Slovensko
+688,2024-03-09,,-14.3,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 8.3.2024, částka  14.30 EUR",9269.0,Alternatíva pre Slovensko
+689,2024-03-09,,-2.55,"Nákup: ZSSK, A.S., BRATISLAVA, SK, dne 8.3.2024, částka  2.55 EUR",9269.0,Alternatíva pre Slovensko
+690,2024-03-08,,-1700.0,"Kaucia volby EP 2024 Alternativa pr
 e Slovensko",42256330.0,Alternatíva pre Slovensko
-625,2024-03-07,"Mgr. Uhlíková, Ivana",1750.0,Pozicka,,Alternatíva pre Slovensko
-626,2024-02-29,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
-627,2024-01-31,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
-628,2024-01-18,,-3.0,"Nákup: TRAFIKA T-PRESS,TT,KOLL, TRNAVA, SK, dne 17.1.2024, částka  3.00 EUR",9269.0,Alternatíva pre Slovensko
-629,2024-01-17,,-21.0,"Nákup: TRAFIKA T-PRESS,TT, HOS, TRNAVA, SK, dne 16.1.2024, částka  21.00 EUR",9269.0,Alternatíva pre Slovensko
-630,2024-01-17,,-10.0,"Nákup: Restauracia Brooklyn T, Trnava, SK, dne 16.1.2024, částka  10.00 EUR",9269.0,Alternatíva pre Slovensko
-631,2024-01-17,,-6.0,"Nákup: 2024 TERNO J.Bottu, Trnava, SK, dne 16.1.2024, částka  6.00 EUR",9269.0,Alternatíva pre Slovensko
-632,2024-01-16,RASTISLAV KRAJCIK,20.0,clenske 2024,,Alternatíva pre Slovensko
-633,2024-01-16,NOVOTNY MILOS,20.0,/DO2024-01-15/SPClenske 2024,,Alternatíva pre Slovensko
-634,2024-01-09,,-4.8,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 8.1.2024, částka  4.80 EUR",9269.0,Alternatíva pre Slovensko
-635,2024-01-08,,-7.69,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 7.1.2024, částka  7.69 EUR",9269.0,Alternatíva pre Slovensko
-636,2024-01-06,,-13.58,"Nákup: SHELL 8262, BAJKALSKA, SK, dne 5.1.2024, částka  13.58 EUR",9269.0,Alternatíva pre Slovensko
-637,2024-01-06,,-14.9,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 5.1.2024, částka  14.90 EUR",9269.0,Alternatíva pre Slovensko
-638,2024-01-05,,-14.4,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 4.1.2024, částka  14.40 EUR",9269.0,Alternatíva pre Slovensko
-639,2024-01-05,,-2.55,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 4.1.2024, částka  2.55 EUR",9269.0,Alternatíva pre Slovensko
-640,2024-01-05,,-63.0,"Nákup: Hotel Nivy, Bratislava, SK, dne 4.1.2024, částka  63.00 EUR",9269.0,Alternatíva pre Slovensko
-641,2024-01-05,,-12.5,"Nákup: SNYT, Bratislava -, SK, dne 4.1.2024, částka  12.50 EUR",9269.0,Alternatíva pre Slovensko
-642,2024-01-05,,-50.64,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 4.1.2024, částka  50.64 EUR",9269.0,Alternatíva pre Slovensko
-643,2024-01-05,,-18.3,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 4.1.2024, částka  18.30 EUR",9269.0,Alternatíva pre Slovensko
-644,2024-01-05,,-6.4,"Nákup: PERON, TN, KOLLAROVA, TRNAVA, SK, dne 4.1.2024, částka  6.40 EUR",9269.0,Alternatíva pre Slovensko
-645,2024-01-03,VLASKO JAN,20.0,/DO2024-01-02/SPCLENSKE 2023 JAN VLASKO,,Alternatíva pre Slovensko
-646,2024-01-03,,-4.0,"Nákup: Albatros, Trnava, SK, dne 2.1.2024, částka  4.00 EUR",9269.0,Alternatíva pre Slovensko
-647,2024-01-03,,-36.3,"Nákup: TRAFIKA T-PRESS,TT,KOLL, TRNAVA, SK, dne 2.1.2024, částka  36.30 EUR",9269.0,Alternatíva pre Slovensko
-648,2024-01-03,,-60.0,nájom 12/2023,202353.0,Alternatíva pre Slovensko
-649,2024-01-03,,-90.0,Inventarizácia 2023,,Alternatíva pre Slovensko
-650,2024-01-03,"Paul Podolay, Jana P",100.0,Podolay - dar 2024,,Alternatíva pre Slovensko
-651,2024-01-02,Mihalik Juraj,50.0,/DO2023-12-31/SPClenske 2023 doplatok Juraj Mihalik,,Alternatíva pre Slovensko
-652,2024-01-02,"Šimončič Richard, Mg",20.0,/DO2023-12-29/SPClenske 2023,,Alternatíva pre Slovensko
-653,2024-01-02,"Domorák Martin, Ing.",20.0,/DO2023-12-30/SPClenske 2023,,Alternatíva pre Slovensko
-654,2024-01-02,Milan Rusnák,20.0,/DO2023-12-31/SPČlenské 2023,,Alternatíva pre Slovensko
-655,2024-01-02,Ivana Uhlíková,20.0,/DO2023-12-31/SPČlenské 2023 Ivana Uhlíková,,Alternatíva pre Slovensko
-656,2024-01-02,Ivana Uhlíková,100.0,/DO2023-12-30/SPČlenské 2023 Anton Železník,,Alternatíva pre Slovensko
-657,2024-01-02,Andrea Slivová,20.0,/DO2024-01-01/SPClenske 2023 Michal Blažek,,Alternatíva pre Slovensko
-658,2024-01-02,Anton Paučin,10.0,/DO2023-12-29/SPčlenské 2023 Paučin Anton,,Alternatíva pre Slovensko
-659,2024-01-02,Milan Rusnák,20.0,/DO2023-12-31/SPČlenské ApS Vlado Očadlík,,Alternatíva pre Slovensko
-660,2023-12-31,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
-661,2023-12-31,,-0.6,poplatek za pojištění,3718.0,Alternatíva pre Slovensko
-662,2023-12-30,,-6.95,"Nákup: 2024 TERNO J.Bottu, Trnava, SK, dne 29.12.2023, částka  6.95 EUR",9269.0,Alternatíva pre Slovensko
-663,2023-12-30,,-19.9,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 29.12.2023, částka  19.90 EUR",9269.0,Alternatíva pre Slovensko
-664,2023-12-29,,-20.4,"Nákup: TRAFIKA T-PRESS,TT, HOS, TRNAVA, SK, dne 28.12.2023, částka  20.40 EUR",9269.0,Alternatíva pre Slovensko
-665,2023-12-29,,-12.3,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 28.12.2023, částka  12.30 EUR",9269.0,Alternatíva pre Slovensko
-666,2023-12-29,Patrik Zvonár,20.0,/DO2023-12-29/SP Clenske 2023,,Alternatíva pre Slovensko
-667,2023-12-28,MIHALIK MILAN,20.0,/DO2023-12-27/SPClenske 2023 Mihalik Milan,,Alternatíva pre Slovensko
-668,2023-12-28,Miloš Medovič,20.0,/DO2023-12-27/SP Clenske 2023,,Alternatíva pre Slovensko
-669,2023-12-21,,-1.0,Dar pre Vagus,3000469835.0,Alternatíva pre Slovensko
-670,2023-11-30,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
-671,2023-11-30,,-0.6,poplatek za pojištění,3718.0,Alternatíva pre Slovensko
-672,2023-11-30,,-1.0,Preplatok vrátenie,,Alternatíva pre Slovensko
-673,2023-11-03,Miloš Medovič,10.0,/DO2023-11-03/SP Dar,,Alternatíva pre Slovensko
-674,2023-10-31,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
-675,2023-10-31,,-0.6,poplatek za pojištění,3718.0,Alternatíva pre Slovensko
-676,2023-09-30,,-0.6,poplatek za pojištění,3718.0,Alternatíva pre Slovensko
-677,2023-09-30,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
-678,2023-08-31,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
-679,2023-08-31,,-0.6,poplatek za pojištění,3718.0,Alternatíva pre Slovensko
-680,2023-08-21,,-3.5,"Založení karty, číslo bylo přiděleno",9269.0,Alternatíva pre Slovensko
-681,2023-07-23,,-4.8,"tlač, viazanie",,Alternatíva pre Slovensko
-682,2023-07-13,,-31.3,"kopirovanie, tlac",,Alternatíva pre Slovensko
-683,2023-07-13,,-43.5,skolenie 11.7.2023,,Alternatíva pre Slovensko
-684,2023-07-13,,-70.0,web design,,Alternatíva pre Slovensko
-685,2023-07-13,"Česnek Viktor, Ing.,",150.0,/DO2023-07-12/SP,,Alternatíva pre Slovensko
-686,2024-03-31,,-5.0,Zverejňovanie účtu,,KSS
-687,2024-03-31,,-4.03,Poplatok za vedenie účtu,,KSS
-688,2024-03-24,Sládek Vladimír,120.0,Mimoriadny členský príspevok na voľby do EP 2024 Vladimír Sládek,,KSS
-689,2024-03-17,Klimentová Viera,50.0,Ján Ševc - Banská Bystrica,,KSS
-690,2024-03-12,Debnárová Dagmara,15.0,F001120320240907021,120324.0,KSS
-691,2024-04-09,GRYF reklamné štúdio s.r.o.,-4914.0,"prenájom rekl. plôch, tlač plagátov",20241103.0,Kotlebovci ĽSNS
-692,2024-04-09,KOTLEBOVCI - LUDOVA,10000.0,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre eurovolby 2024,,Kotlebovci ĽSNS
-693,2024-04-08,"euroAWK, spol. s r.o.",-1680.0,tlač plagátov,242052.0,Kotlebovci ĽSNS
-694,2024-04-02,Martin Kvak,-300.0,politologicke sluzby,1752023.0,Kotlebovci ĽSNS
-695,2024-03-31,,-5.0,Zverejňovanie účtu,,Kotlebovci ĽSNS
-696,2024-03-31,,-3.06,Poplatok za vedenie účtu,,Kotlebovci ĽSNS
-697,2024-03-28,"euroAWK, spol. s r.o.",-5040.0,bigboard,2470023.0,Kotlebovci ĽSNS
-698,2024-03-28,KOTLEBOVCI - LUDOVA,10000.0,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre eurovolby 2024,,Kotlebovci ĽSNS
-699,2024-03-25,Pavol Mindek - GRADE,-300.0,technicke zabezpečenie akcie,20240316.0,Kotlebovci ĽSNS
-700,2024-03-25,ARTON s.r.o.,-600.0,tlač banneru + inštalácia,240116.0,Kotlebovci ĽSNS
-701,2024-03-25,ARTON s.r.o.,-2160.0,prenájom reklamného priestoru,240115.0,Kotlebovci ĽSNS
-702,2024-03-22,Ševčik Martin,9.0,alica,,Kotlebovci ĽSNS
-703,2024-03-20,CAVAR 2 s.r.o.,-180.0,prenájom reklamnej plochy,1932024.0,Kotlebovci ĽSNS
-704,2024-03-19,Martin Kvak,-300.0,politologicke sluzby,1752023.0,Kotlebovci ĽSNS
-705,2024-03-19,GRYF reklamné štúdio s.r.o.,-5520.0,prenájom a realiz. reklamných plôch,24026.0,Kotlebovci ĽSNS
-706,2024-03-19,KOTLEBOVCI - LUDOVA,10000.0,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre eurovolby 2024,,Kotlebovci ĽSNS
-707,2024-04-08,"Radačovský Peter, RS",2000.0,?/DO2024-04-05/SPdrzim palce,,Slovenský patriot
-708,2024-03-28,,-900.0,Vdaka,2470021.0,Slovenský patriot
-709,2024-03-28,,-2184.0,Vdaka,2470020.0,Slovenský patriot
-710,2024-03-28,,-1491.0,Fotenie kandidatov,,Slovenský patriot
-711,2024-03-28,Mgr. Michal Radacovs,5320.0,"?/DO2024-03-27/SPMichal Radacovsky, Skalnata 3, 05375 Hnilec. Darovacia zmluva",23051982.0,Slovenský patriot
-712,2024-04-08,Nicholson Libusa,1000.0,dar, ,SOSK
-713,2024-04-08,"Gállová Andrea, Prof.PhDr., PhD.",500.0,Andrea Gallova Dar, ,SOSK
-714,2024-04-07,Platba kartou,-1272.58,TRICKAREN.SK +421948328396,****6544,SOSK
-715,2024-04-02, ,-33.0,Ročný popl. Vydanie/obnova karty,6544,SOSK
-716,2024-04-02,Marian Kollár,3000.0,Marian Kollar, ,SOSK
-717,2024-04-02,Ivo Balaj,75.0, , ,SOSK
-718,2024-03-28, ,-1.32,Poplatky za platby spolu,9,SOSK
-719,2024-03-28, ,-7.0,Vedenie účtu,9,SOSK
-720,2024-03-28,ISPA s.r.o,-4471.2,SOSK,202401476,SOSK
-721,2024-03-28,Big Media,-558.0,"BigMedia, spol. s r.o.: 12249/0044 - Spajame Obcanov Slovenska - SOSK - 2024-03-28",122490044,SOSK
-722,2024-03-22,"Kovaľová Mária, Mgr.",2000.0,Kovalova Dar, ,SOSK
-723,2024-03-19,Nicholson Libusa,2000.0,dar, ,SOSK
-724,2024-03-18,Miroslav Kollar,2000.0,Miroslav Kollar eurovolby 2024,822949,SOSK
-725,2024-03-13,Zuzana Fialova,200.0,Dar, ,SOSK
-726,2024-03-31,,-5.0,Zverejňovanie účtu,,Srdce
-727,2024-03-31,,-4.52,Poplatok za vedenie účtu,,Srdce
-728,2024-03-07,MV SR,-1700.0,kaucia na voľby do EP,42285089.0,Srdce
-729,2024-03-07,Pikali Michael,150.0,PHDR. INGRID CHARVATOVA FINANCNY DAR DO EP 2024,,Srdce
-730,2024-03-06,Milan Krsiak,200.0,"Milan Krsiak, financny dar na EP 2024",,Srdce
-731,2024-03-06,JUDr. Michal Francak,200.0,SRDCE vd-SNJ volby do EP 2024 od Michal Francak,,Srdce
-732,2024-03-06,"Hašan Milan, Ing.",100.0,"Ing. Milan Hasan, financny dar do EV 2024",,Srdce
-733,2024-03-05,Hlačoková Monika,100.0,Branislav Hlačok finacny dar EP2024,,Srdce
-734,2024-03-05,"Martauz Robert, Ing.",200.0,Robert Martauz financny dar do EP 2024,,Srdce
-735,2024-03-05,"Tokár Jozef,Tokárová Marcela",200.0,"Jozef Tokár, finančný dar na voľbydo EP 2024",,Srdce
-736,2024-03-05,Ján Vajcík,200.0,Ing. Ján Vajcík - financny dar do EP 2024,202403.0,Srdce
-737,2024-03-04,Haulík Peter,200.0,finančný dar do EP 2024,,Srdce
-738,2024-03-04,Varcholová Jarmila,200.0,ING. LUBOMIR VARCHOLA Financny dar do EP 2024,,Srdce
-739,2024-03-04,"Hašan Milan, Ing.",200.0,Ing. Milan Hasan - financny dar na volby do EP 2024,,Srdce
-740,2024-03-04,JUDr. Marian Miklosko,200.0,"JUDr.Marian Miklosko, financny dardo volieb EP 2024",,Srdce
-741,2024-04-03,M RICHARD ZEDNIK OU Mme RACHEL H,1000.0,DE24040355107 VZ409238FRL00U01/Od Richard Zednik,,Volt Slovensko
-742,2024-03-30,,-0.0,Poplatok za balík,,Volt Slovensko
+691,2024-03-07,"Mgr. Uhlíková, Ivana",1750.0,Pozicka,,Alternatíva pre Slovensko
+692,2024-02-29,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
+693,2024-01-31,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
+694,2024-01-18,,-3.0,"Nákup: TRAFIKA T-PRESS,TT,KOLL, TRNAVA, SK, dne 17.1.2024, částka  3.00 EUR",9269.0,Alternatíva pre Slovensko
+695,2024-01-17,,-21.0,"Nákup: TRAFIKA T-PRESS,TT, HOS, TRNAVA, SK, dne 16.1.2024, částka  21.00 EUR",9269.0,Alternatíva pre Slovensko
+696,2024-01-17,,-10.0,"Nákup: Restauracia Brooklyn T, Trnava, SK, dne 16.1.2024, částka  10.00 EUR",9269.0,Alternatíva pre Slovensko
+697,2024-01-17,,-6.0,"Nákup: 2024 TERNO J.Bottu, Trnava, SK, dne 16.1.2024, částka  6.00 EUR",9269.0,Alternatíva pre Slovensko
+698,2024-01-16,RASTISLAV KRAJCIK,20.0,clenske 2024,,Alternatíva pre Slovensko
+699,2024-01-16,NOVOTNY MILOS,20.0,/DO2024-01-15/SPClenske 2024,,Alternatíva pre Slovensko
+700,2024-01-09,,-4.8,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 8.1.2024, částka  4.80 EUR",9269.0,Alternatíva pre Slovensko
+701,2024-01-08,,-7.69,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 7.1.2024, částka  7.69 EUR",9269.0,Alternatíva pre Slovensko
+702,2024-01-06,,-13.58,"Nákup: SHELL 8262, BAJKALSKA, SK, dne 5.1.2024, částka  13.58 EUR",9269.0,Alternatíva pre Slovensko
+703,2024-01-06,,-14.9,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 5.1.2024, částka  14.90 EUR",9269.0,Alternatíva pre Slovensko
+704,2024-01-05,,-14.4,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 4.1.2024, částka  14.40 EUR",9269.0,Alternatíva pre Slovensko
+705,2024-01-05,,-2.55,"Nákup: ZSSK, A.S., TRNAVA, SK, dne 4.1.2024, částka  2.55 EUR",9269.0,Alternatíva pre Slovensko
+706,2024-01-05,,-63.0,"Nákup: Hotel Nivy, Bratislava, SK, dne 4.1.2024, částka  63.00 EUR",9269.0,Alternatíva pre Slovensko
+707,2024-01-05,,-12.5,"Nákup: SNYT, Bratislava -, SK, dne 4.1.2024, částka  12.50 EUR",9269.0,Alternatíva pre Slovensko
+708,2024-01-05,,-50.64,"Nákup: FAXCOPY21,TT,CITY ARENA, TRNAVA, SK, dne 4.1.2024, částka  50.64 EUR",9269.0,Alternatíva pre Slovensko
+709,2024-01-05,,-18.3,"Nákup: TRAFIKA T-PRESS, TT, TRNAVA, SK, dne 4.1.2024, částka  18.30 EUR",9269.0,Alternatíva pre Slovensko
+710,2024-01-05,,-6.4,"Nákup: PERON, TN, KOLLAROVA, TRNAVA, SK, dne 4.1.2024, částka  6.40 EUR",9269.0,Alternatíva pre Slovensko
+711,2024-01-03,VLASKO JAN,20.0,/DO2024-01-02/SPCLENSKE 2023 JAN VLASKO,,Alternatíva pre Slovensko
+712,2024-01-03,,-4.0,"Nákup: Albatros, Trnava, SK, dne 2.1.2024, částka  4.00 EUR",9269.0,Alternatíva pre Slovensko
+713,2024-01-03,,-36.3,"Nákup: TRAFIKA T-PRESS,TT,KOLL, TRNAVA, SK, dne 2.1.2024, částka  36.30 EUR",9269.0,Alternatíva pre Slovensko
+714,2024-01-03,,-60.0,nájom 12/2023,202353.0,Alternatíva pre Slovensko
+715,2024-01-03,,-90.0,Inventarizácia 2023,,Alternatíva pre Slovensko
+716,2024-01-03,"Paul Podolay, Jana P",100.0,Podolay - dar 2024,,Alternatíva pre Slovensko
+717,2024-01-02,Mihalik Juraj,50.0,/DO2023-12-31/SPClenske 2023 doplatok Juraj Mihalik,,Alternatíva pre Slovensko
+718,2024-01-02,"Šimončič Richard, Mg",20.0,/DO2023-12-29/SPClenske 2023,,Alternatíva pre Slovensko
+719,2024-01-02,"Domorák Martin, Ing.",20.0,/DO2023-12-30/SPClenske 2023,,Alternatíva pre Slovensko
+720,2024-01-02,Milan Rusnák,20.0,/DO2023-12-31/SPČlenské 2023,,Alternatíva pre Slovensko
+721,2024-01-02,Ivana Uhlíková,20.0,/DO2023-12-31/SPČlenské 2023 Ivana Uhlíková,,Alternatíva pre Slovensko
+722,2024-01-02,Ivana Uhlíková,100.0,/DO2023-12-30/SPČlenské 2023 Anton Železník,,Alternatíva pre Slovensko
+723,2024-01-02,Andrea Slivová,20.0,/DO2024-01-01/SPClenske 2023 Michal Blažek,,Alternatíva pre Slovensko
+724,2024-01-02,Anton Paučin,10.0,/DO2023-12-29/SPčlenské 2023 Paučin Anton,,Alternatíva pre Slovensko
+725,2024-01-02,Milan Rusnák,20.0,/DO2023-12-31/SPČlenské ApS Vlado Očadlík,,Alternatíva pre Slovensko
+726,2023-12-31,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
+727,2023-12-31,,-0.6,poplatek za pojištění,3718.0,Alternatíva pre Slovensko
+728,2023-12-30,,-6.95,"Nákup: 2024 TERNO J.Bottu, Trnava, SK, dne 29.12.2023, částka  6.95 EUR",9269.0,Alternatíva pre Slovensko
+729,2023-12-30,,-19.9,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 29.12.2023, částka  19.90 EUR",9269.0,Alternatíva pre Slovensko
+730,2023-12-29,,-20.4,"Nákup: TRAFIKA T-PRESS,TT, HOS, TRNAVA, SK, dne 28.12.2023, částka  20.40 EUR",9269.0,Alternatíva pre Slovensko
+731,2023-12-29,,-12.3,"Nákup: TRAFIKA T-PRESS, MAX, T, TRNAVA, SK, dne 28.12.2023, částka  12.30 EUR",9269.0,Alternatíva pre Slovensko
+732,2023-12-29,Patrik Zvonár,20.0,/DO2023-12-29/SP Clenske 2023,,Alternatíva pre Slovensko
+733,2023-12-28,MIHALIK MILAN,20.0,/DO2023-12-27/SPClenske 2023 Mihalik Milan,,Alternatíva pre Slovensko
+734,2023-12-28,Miloš Medovič,20.0,/DO2023-12-27/SP Clenske 2023,,Alternatíva pre Slovensko
+735,2023-12-21,,-1.0,Dar pre Vagus,3000469835.0,Alternatíva pre Slovensko
+736,2023-11-30,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
+737,2023-11-30,,-0.6,poplatek za pojištění,3718.0,Alternatíva pre Slovensko
+738,2023-11-30,,-1.0,Preplatok vrátenie,,Alternatíva pre Slovensko
+739,2023-11-03,Miloš Medovič,10.0,/DO2023-11-03/SP Dar,,Alternatíva pre Slovensko
+740,2023-10-31,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
+741,2023-10-31,,-0.6,poplatek za pojištění,3718.0,Alternatíva pre Slovensko
+742,2023-09-30,,-0.6,poplatek za pojištění,3718.0,Alternatíva pre Slovensko
+743,2023-09-30,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
+744,2023-08-31,,-0.6,poplatek za pojištění,9269.0,Alternatíva pre Slovensko
+745,2023-08-31,,-0.6,poplatek za pojištění,3718.0,Alternatíva pre Slovensko
+746,2023-08-21,,-3.5,"Založení karty, číslo bylo přiděleno",9269.0,Alternatíva pre Slovensko
+747,2023-07-23,,-4.8,"tlač, viazanie",,Alternatíva pre Slovensko
+748,2023-07-13,,-31.3,"kopirovanie, tlac",,Alternatíva pre Slovensko
+749,2023-07-13,,-43.5,skolenie 11.7.2023,,Alternatíva pre Slovensko
+750,2023-07-13,,-70.0,web design,,Alternatíva pre Slovensko
+751,2023-07-13,"Česnek Viktor, Ing.,",150.0,/DO2023-07-12/SP,,Alternatíva pre Slovensko
+752,2024-03-31,,-5.0,Zverejňovanie účtu,,KSS
+753,2024-03-31,,-4.03,Poplatok za vedenie účtu,,KSS
+754,2024-03-24,Sládek Vladimír,120.0,Mimoriadny členský príspevok na voľby do EP 2024 Vladimír Sládek,,KSS
+755,2024-03-17,Klimentová Viera,50.0,Ján Ševc - Banská Bystrica,,KSS
+756,2024-03-12,Debnárová Dagmara,15.0,F001120320240907021,120324.0,KSS
+757,2024-04-11,,-0.25,Poplatok za platbu kartou,,Kotlebovci ĽSNS
+758,2024-04-11,,-16.67,"B1778209798-44544 17** **** 8391;WWW.WEBSUPPORT.SK ,WWW.WEBSUPPOR ,SK ;10.04.2024 16:50:09 ;CashBack:0 EUR",,Kotlebovci ĽSNS
+759,2024-04-09,GRYF reklamné štúdio s.r.o.,-4914.0,"prenájom rekl. plôch, tlač plagátov",20241103.0,Kotlebovci ĽSNS
+760,2024-04-09,KOTLEBOVCI - LUDOVA,10000.0,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre eurovolby 2024,,Kotlebovci ĽSNS
+761,2024-04-08,"euroAWK, spol. s r.o.",-1680.0,tlač plagátov,242052.0,Kotlebovci ĽSNS
+762,2024-04-02,Martin Kvak,-300.0,politologicke sluzby,1752023.0,Kotlebovci ĽSNS
+763,2024-03-31,,-5.0,Zverejňovanie účtu,,Kotlebovci ĽSNS
+764,2024-03-31,,-3.06,Poplatok za vedenie účtu,,Kotlebovci ĽSNS
+765,2024-03-28,KOTLEBOVCI - LUDOVA,10000.0,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre eurovolby 2024,,Kotlebovci ĽSNS
+766,2024-03-28,"euroAWK, spol. s r.o.",-5040.0,bigboard,2470023.0,Kotlebovci ĽSNS
+767,2024-03-25,Pavol Mindek - GRADE,-300.0,technicke zabezpečenie akcie,20240316.0,Kotlebovci ĽSNS
+768,2024-03-25,ARTON s.r.o.,-600.0,tlač banneru + inštalácia,240116.0,Kotlebovci ĽSNS
+769,2024-03-25,ARTON s.r.o.,-2160.0,prenájom reklamného priestoru,240115.0,Kotlebovci ĽSNS
+770,2024-03-22,Ševčik Martin,9.0,alica,,Kotlebovci ĽSNS
+771,2024-03-20,CAVAR 2 s.r.o.,-180.0,prenájom reklamnej plochy,1932024.0,Kotlebovci ĽSNS
+772,2024-03-19,Martin Kvak,-300.0,politologicke sluzby,1752023.0,Kotlebovci ĽSNS
+773,2024-03-19,GRYF reklamné štúdio s.r.o.,-5520.0,prenájom a realiz. reklamných plôch,24026.0,Kotlebovci ĽSNS
+774,2024-03-19,KOTLEBOVCI - LUDOVA,10000.0,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre eurovolby 2024,,Kotlebovci ĽSNS
+775,2024-04-08,"Radačovský Peter, RS",2000.0,?/DO2024-04-05/SPdrzim palce,,Slovenský patriot
+776,2024-03-28,,-900.0,Vdaka,2470021.0,Slovenský patriot
+777,2024-03-28,,-2184.0,Vdaka,2470020.0,Slovenský patriot
+778,2024-03-28,,-1491.0,Fotenie kandidatov,,Slovenský patriot
+779,2024-03-28,Mgr. Michal Radacovs,5320.0,"?/DO2024-03-27/SPMichal Radacovsky, Skalnata 3, 05375 Hnilec. Darovacia zmluva",23051982.0,Slovenský patriot
+780,2024-04-11,Vlajky SK,-156.0,SOSK,21240624,SOSK
+781,2024-04-11, ,-24.0,SOSK,202403725,SOSK
+782,2024-04-10,"Kovaľová Mária, Mgr.",1000.0,Kovalova dar, ,SOSK
+783,2024-04-09,Platba kartou,-1272.58,TRICKAREN.SK PODOLINEC,****6544,SOSK
+784,2024-04-08,Nicholson Libusa,1000.0,dar, ,SOSK
+785,2024-04-08,"Gállová Andrea, Prof.PhDr., PhD.",500.0,Andrea Gallova Dar, ,SOSK
+786,2024-04-02,Marian Kollár,3000.0,Marian Kollar, ,SOSK
+787,2024-04-02,Ivo Balaj,75.0, , ,SOSK
+788,2024-04-02, ,-33.0,Ročný popl. Vydanie/obnova karty,6544,SOSK
+789,2024-03-28, ,-1.32,Poplatky za platby spolu,9,SOSK
+790,2024-03-28, ,-7.0,Vedenie účtu,9,SOSK
+791,2024-03-28,ISPA s.r.o,-4471.2,SOSK,202401476,SOSK
+792,2024-03-28,Big Media,-558.0,"BigMedia, spol. s r.o.: 12249/0044 - Spajame Obcanov Slovenska - SOSK - 2024-03-28",122490044,SOSK
+793,2024-03-22,"Kovaľová Mária, Mgr.",2000.0,Kovalova Dar, ,SOSK
+794,2024-03-19,Nicholson Libusa,2000.0,dar, ,SOSK
+795,2024-03-18,Miroslav Kollar,2000.0,Miroslav Kollar eurovolby 2024,822949,SOSK
+796,2024-03-13,Zuzana Fialova,200.0,Dar, ,SOSK
+797,2024-03-31,,-5.0,Zverejňovanie účtu,,Srdce
+798,2024-03-31,,-4.52,Poplatok za vedenie účtu,,Srdce
+799,2024-03-07,MV SR,-1700.0,kaucia na voľby do EP,42285089.0,Srdce
+800,2024-03-07,Pikali Michael,150.0,PHDR. INGRID CHARVATOVA FINANCNY DAR DO EP 2024,,Srdce
+801,2024-03-06,Milan Krsiak,200.0,"Milan Krsiak, financny dar na EP 2024",,Srdce
+802,2024-03-06,JUDr. Michal Francak,200.0,SRDCE vd-SNJ volby do EP 2024 od Michal Francak,,Srdce
+803,2024-03-06,"Hašan Milan, Ing.",100.0,"Ing. Milan Hasan, financny dar do EV 2024",,Srdce
+804,2024-03-05,Hlačoková Monika,100.0,Branislav Hlačok finacny dar EP2024,,Srdce
+805,2024-03-05,"Martauz Robert, Ing.",200.0,Robert Martauz financny dar do EP 2024,,Srdce
+806,2024-03-05,"Tokár Jozef,Tokárová Marcela",200.0,"Jozef Tokár, finančný dar na voľbydo EP 2024",,Srdce
+807,2024-03-05,Ján Vajcík,200.0,Ing. Ján Vajcík - financny dar do EP 2024,202403.0,Srdce
+808,2024-03-04,Haulík Peter,200.0,finančný dar do EP 2024,,Srdce
+809,2024-03-04,Varcholová Jarmila,200.0,ING. LUBOMIR VARCHOLA Financny dar do EP 2024,,Srdce
+810,2024-03-04,"Hašan Milan, Ing.",200.0,Ing. Milan Hasan - financny dar na volby do EP 2024,,Srdce
+811,2024-03-04,JUDr. Marian Miklosko,200.0,"JUDr.Marian Miklosko, financny dardo volieb EP 2024",,Srdce
+812,2024-04-03,M RICHARD ZEDNIK OU Mme RACHEL H,1000.0,DE24040355107 VZ409238FRL00U01/Od Richard Zednik,,Volt Slovensko
+813,2024-03-30,,-0.0,Poplatok za balík,,Volt Slovensko

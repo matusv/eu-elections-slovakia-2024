@@ -1,141 +1,96 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-04-06,200.0,EUR,"Kertés Patrik, Ing.",Platba/drzim palce,
-1,2024-04-05,20.0,EUR,MICHAL DIESKA,"PLATBA/DAR, TP:VIETNAMSKA 42, BRATISLAVA",
-2,2024-04-05,20.0,EUR,FILIP GLEMBA,PLATBA/DAR,
-3,2024-04-05,50.0,EUR,MILOS DURIS,PLATBA/DURIS MILOS,
-4,2024-04-05,20.0,EUR,Ing. Maria Gurbalova,PLATBA,
-5,2024-04-05,10.0,EUR,Juraj Ukropec,"PLATBA/Dar - Juraj Ukropec, Hlboka 55, 94901 Nitra","4042024
+0,2024-04-10,20.0,EUR,Anton Stacho,Platba,
+1,2024-04-10,10.0,EUR,Robert Sivak,Platba/Dakujeme Demokratom...,
+2,2024-04-10,20.0,EUR,Škraban Róbert,Platba/Drzim palce .,
+3,2024-04-10,50.0,EUR,Havlíková Marta,Platba/Drzim palce. Robite to skvele.,
+4,2024-04-10,40.0,EUR,LINEROVA MONIKA,PLATBA/dar Namestie slobody 165623 Puchov,
+5,2024-04-09,50.0,EUR,ALZBETA SVITKOVA,"PLATBA/DAR ALZBETA SVITKOVA HAANOVA 44, 85104 BRATISLAVA",
+6,2024-04-09,5.0,EUR,Mgr. Jana Zbojekova,PLATBA/Dakujeme,
+7,2024-04-09,-2448.38,EUR,JUICE s.r.o.,Platba/tlac BB april,"20241019
+VS20241019/SS/KS0308"
+8,2024-04-09,-1440.0,EUR,Pop studio s. r. o.,Platba/fotenie,"20240006
+VS20240006/SS/KS"
+9,2024-04-09,-1000.0,EUR,Matej Kukucka,Platba/graficke prace marec,"222024
+VS222024/SS/KS"
+10,2024-04-09,3000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
+11,2024-04-08,20.0,EUR,Ondrej Truhan,Platba,
+12,2024-04-08,50.0,EUR,Ing. Peter Miklossy,PLATBA/Dar,
+13,2024-04-08,5.0,EUR,GRZNAR MATUS,PLATBA,VS/SS/KS
+14,2024-04-08,1000.0,EUR,Pavlík Michal,Platba/Hlavu hore! Podme zabojovat.,
+15,2024-04-06,200.0,EUR,"Kertés Patrik, Ing.",Platba/drzim palce,
+16,2024-04-05,20.0,EUR,MICHAL DIESKA,"PLATBA/DAR, TP:VIETNAMSKA 42, BRATISLAVA",
+17,2024-04-05,20.0,EUR,FILIP GLEMBA,PLATBA/DAR,
+18,2024-04-05,50.0,EUR,MILOS DURIS,PLATBA/DURIS MILOS,
+19,2024-04-05,20.0,EUR,Ing. Maria Gurbalova,PLATBA,
+20,2024-04-05,10.0,EUR,Juraj Ukropec,"PLATBA/Dar - Juraj Ukropec, Hlboka 55, 94901 Nitra","4042024
 VS04042024/SS/KS0308"
-6,2024-04-05,20.0,EUR,"
-                            Mgr. Bystrik Novak
-                    ","
-                        PLATBA
-                    /
-                        Pozdravujem J.Nada a pani Masarikovu ste top
-                    ","
-                        
-                    "
-7,2024-04-05,20.0,EUR,"
-                            TARABUS JOZEF
-                    ","
-                        PLATBA
-                    /
-                        
-                    ","
-                        VS/SS/KS
-                    "
-8,2024-04-05,50.0,EUR,"
-                            Kuric Martin, Ing.
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-9,2024-04-05,50.0,EUR,"
-                            Peter Zagora
-                    ","
-                        Platba
-                    /
-                        Forbasy 142
-                    ","
-                        
-                    "
-10,2024-04-05,-169.73,EUR,"
-                            FACEBK *8UH8B3G4L2
-                    ","
-                        EUR NÁKUP POS FACEBK *8UH8B3G4L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-11,2024-04-04,20.0,EUR,"
-                            Mario Patlevic
-                    ","
-                        Platba
-                    /
-                        Dar na kampan.
-                    ","
-                        
-                    "
-12,2024-04-04,20.0,EUR,"
-                            Slavka Drahosova
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-13,2024-04-04,500.0,EUR,"
-                            Danížek Zdenko, JUDr.
-                    ","
-                        Platba
-                    /
-                        Dar. J. Alexyho 7, Bratislava
-                    ","
-                        2024VS2024/SS/KS
-                    "
-14,2024-04-04,20.0,EUR,Jana Snopkova,"Platba/dar Slovenska Lupca, Priboj 552/62",
-15,2024-04-04,20.0,EUR,"Plšková Lucia, Ing.",Platba,
-16,2024-04-04,20.0,EUR,Matus Kral,Platba,
-17,2024-04-04,20.0,EUR,MONSOWILO,Platba PO24040480812690/Dar Komoca,
-18,2024-04-04,20.0,EUR,Ošvát Michal,Platba,
-19,2024-04-04,20.0,EUR,Alexandra Vaskova,Platba,
-20,2024-04-04,20.0,EUR,Matej Jurikovic,Platba/Dar,
-21,2024-04-04,15.0,EUR,Silvia Krnacova,Platba,
-22,2024-04-04,50.0,EUR,Ladislav Langer,"Platba/Dar - Langer Ladislav, Palarikova 14, Holic",
-23,2024-04-04,20.0,EUR,Holý Martin,Platba,
-24,2024-04-04,20.0,EUR,Jakeš Richard,"Platba/dar, Agatova 21 Malinovo",
-25,2024-04-04,50.0,EUR,Ing.Richard Masny PhD.,PLATBA/na kampan :),
-26,2024-04-04,20.0,EUR,MARTIN LAMACKA,PLATBA/PLATBA,
-27,2024-04-04,100.0,EUR,ROMAN JIROVEC,PLATBA/NECH SA DARI-,"20240403
+21,2024-04-05,20.0,EUR,Mgr. Bystrik Novak,PLATBA/Pozdravujem J.Nada a pani Masarikovu ste top,
+22,2024-04-05,20.0,EUR,TARABUS JOZEF,PLATBA,VS/SS/KS
+23,2024-04-05,50.0,EUR,"Kuric Martin, Ing.",Platba,
+24,2024-04-05,50.0,EUR,Peter Zagora,Platba/Forbasy 142,
+25,2024-04-05,-169.73,EUR,FACEBK *8UH8B3G4L2,EUR NÁKUP POS FACEBK *8UH8B3G4L2 / fb.me/ads / (POS 99999999),
+26,2024-04-04,20.0,EUR,Mario Patlevic,Platba/Dar na kampan.,
+27,2024-04-04,20.0,EUR,Slavka Drahosova,Platba,
+28,2024-04-04,500.0,EUR,"Danížek Zdenko, JUDr.","Platba/Dar. J. Alexyho 7, Bratislava","2024
+VS2024/SS/KS"
+29,2024-04-04,20.0,EUR,Jana Snopkova,"Platba/dar Slovenska Lupca, Priboj 552/62",
+30,2024-04-04,20.0,EUR,"Plšková Lucia, Ing.",Platba,
+31,2024-04-04,20.0,EUR,Matus Kral,Platba,
+32,2024-04-04,20.0,EUR,MONSOWILO,Platba PO24040480812690/Dar Komoca,
+33,2024-04-04,20.0,EUR,Ošvát Michal,Platba,
+34,2024-04-04,20.0,EUR,Alexandra Vaskova,Platba,
+35,2024-04-04,20.0,EUR,Matej Jurikovic,Platba/Dar,
+36,2024-04-04,15.0,EUR,Silvia Krnacova,Platba,
+37,2024-04-04,50.0,EUR,Ladislav Langer,"Platba/Dar - Langer Ladislav, Palarikova 14, Holic",
+38,2024-04-04,20.0,EUR,Holý Martin,Platba,
+39,2024-04-04,20.0,EUR,Jakeš Richard,"Platba/dar, Agatova 21 Malinovo",
+40,2024-04-04,50.0,EUR,Ing.Richard Masny PhD.,PLATBA/na kampan :),
+41,2024-04-04,20.0,EUR,MARTIN LAMACKA,PLATBA/PLATBA,
+42,2024-04-04,100.0,EUR,ROMAN JIROVEC,PLATBA/NECH SA DARI-,"20240403
 VS0020240403/SS6512200156/KS0558"
-28,2024-04-04,20.0,EUR,Knotek Tomas,PLATBA/T.Knotek a S.Knotek,
-29,2024-04-04,20.0,EUR,Mgr. Dana Adamcova,PLATBA,"6653
+43,2024-04-04,20.0,EUR,Knotek Tomas,PLATBA/T.Knotek a S.Knotek,
+44,2024-04-04,20.0,EUR,Mgr. Dana Adamcova,PLATBA,"6653
 VS6653/SS/KS0558"
-30,2024-04-04,100.0,EUR,SCIRANKA JAN,PLATBA/Dar - Zuzany Chalupovej 7A Bratislava,VS/SS/KS
-31,2024-04-04,10.0,EUR,Maria Lisnikova,Platba,
-32,2024-04-03,20.0,EUR,Gabriela Starcova,Platba/drzim palce,
-33,2024-04-03,5.0,EUR,Rychtárik Martin,Platba,
-34,2024-04-03,20.0,EUR,Miroslav Lahky,Platba/Jaro Drzim palce,
-35,2024-04-03,10.0,EUR,"Poloha Peter, Ing.",Platba,
-36,2024-04-03,20.0,EUR,Jozef Paukov,Platba,
-37,2024-04-03,20.0,EUR,Virág Martin,Platba,
-38,2024-04-03,20.0,EUR,Ivo Valosek,"Platba/Dar, Valosek, Cintorinska 551/49, Fintice",
-39,2024-04-03,10.0,EUR,Jana Krakovska,Platba,
-40,2024-04-03,20.0,EUR,Tóth Zoltán,Platba/Dar - Sered,
-41,2024-04-03,20.0,EUR,Maria Jurisova,"Platba/Dar- Pila 219, 90089 Pila",
-42,2024-04-03,20.0,EUR,Martina Michalidesova,Platba,
-43,2024-04-03,500.0,EUR,Jan Suska,Platba,
-44,2024-04-03,10.0,EUR,Zuzana Kubakova,Platba,
-45,2024-04-03,50.0,EUR,Juraj Bindas,"Platba/Dar, Soltesovej 6, 08001 Presov",
-46,2024-04-03,20.0,EUR,Farkaš Aleš,"Platba/Dar , J. Murgasa 157/2 Prievidza 97101",
-47,2024-04-03,2.0,EUR,Ivan Lacho,Platba,
-48,2024-03-30,-0.0,EUR,,Poplatok za balík,
-49,2024-03-27,-100.27,EUR,FACEBK *QU33D2U4L2,EUR NÁKUP POS FACEBK *QU33D2U4L2 / fb.me/ads / (POS 99999999),
-50,2024-03-27,-150.0,EUR,FACEBK *5VJHB244L2,EUR NÁKUP POS FACEBK *5VJHB244L2 / fb.me/ads / (POS 99999999),
-51,2024-03-25,-3206.7,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, dolepky","3624007
+45,2024-04-04,100.0,EUR,SCIRANKA JAN,PLATBA/Dar - Zuzany Chalupovej 7A Bratislava,VS/SS/KS
+46,2024-04-04,10.0,EUR,Maria Lisnikova,Platba,
+47,2024-04-03,20.0,EUR,Gabriela Starcova,Platba/drzim palce,
+48,2024-04-03,5.0,EUR,Rychtárik Martin,Platba,
+49,2024-04-03,20.0,EUR,Miroslav Lahky,Platba/Jaro Drzim palce,
+50,2024-04-03,10.0,EUR,"Poloha Peter, Ing.",Platba,
+51,2024-04-03,20.0,EUR,Jozef Paukov,Platba,
+52,2024-04-03,20.0,EUR,Virág Martin,Platba,
+53,2024-04-03,20.0,EUR,Ivo Valosek,"Platba/Dar, Valosek, Cintorinska 551/49, Fintice",
+54,2024-04-03,10.0,EUR,Jana Krakovska,Platba,
+55,2024-04-03,20.0,EUR,Tóth Zoltán,Platba/Dar - Sered,
+56,2024-04-03,20.0,EUR,Maria Jurisova,"Platba/Dar- Pila 219, 90089 Pila",
+57,2024-04-03,20.0,EUR,Martina Michalidesova,Platba,
+58,2024-04-03,500.0,EUR,Jan Suska,Platba,
+59,2024-04-03,10.0,EUR,Zuzana Kubakova,Platba,
+60,2024-04-03,50.0,EUR,Juraj Bindas,"Platba/Dar, Soltesovej 6, 08001 Presov",
+61,2024-04-03,20.0,EUR,Farkaš Aleš,"Platba/Dar , J. Murgasa 157/2 Prievidza 97101",
+62,2024-04-03,2.0,EUR,Ivan Lacho,Platba,
+63,2024-03-30,-0.0,EUR,,Poplatok za balík,
+64,2024-03-27,-100.27,EUR,FACEBK *QU33D2U4L2,EUR NÁKUP POS FACEBK *QU33D2U4L2 / fb.me/ads / (POS 99999999),
+65,2024-03-27,-150.0,EUR,FACEBK *5VJHB244L2,EUR NÁKUP POS FACEBK *5VJHB244L2 / fb.me/ads / (POS 99999999),
+66,2024-03-25,-3206.7,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, dolepky","3624007
 VS3624007/SS/KS0308"
-52,2024-03-25,2000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
-53,2024-03-12,700.0,EUR,"Meravý Tomáš, Ing.",Platba/FB kampan Tomas Meravy 1. cast,
-54,2024-03-11,200.0,EUR,Marek Polonec,"Platba/Jedina strana v historii, ktora nepovalila demokraticku vladu",
-55,2024-03-11,20.0,EUR,Zlatica Medova,Platba/Drzim palce,
-56,2024-03-11,50.0,EUR,Milan Kypus,Platba/Lepsie Slovensko,
-57,2024-03-09,100.0,EUR,Andrea Janicka Rudnayova,Platba,
-58,2024-03-08,1000.0,EUR,Dominik Sumbal,Platba/Dar volby do EU,
-59,2024-03-05,-14.79,EUR,FACEBK 7CTZJZ34L2,EUR NÁKUP POS FACEBK 7CTZJZ34L2 / fb.me/ads / (POS 99999999),
-60,2024-03-04,-12208.02,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 3. cast","3624004
+67,2024-03-25,2000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
+68,2024-03-12,700.0,EUR,"Meravý Tomáš, Ing.",Platba/FB kampan Tomas Meravy 1. cast,
+69,2024-03-11,200.0,EUR,Marek Polonec,"Platba/Jedina strana v historii, ktora nepovalila demokraticku vladu",
+70,2024-03-11,20.0,EUR,Zlatica Medova,Platba/Drzim palce,
+71,2024-03-11,50.0,EUR,Milan Kypus,Platba/Lepsie Slovensko,
+72,2024-03-09,100.0,EUR,Andrea Janicka Rudnayova,Platba,
+73,2024-03-08,1000.0,EUR,Dominik Sumbal,Platba/Dar volby do EU,
+74,2024-03-05,-14.79,EUR,FACEBK 7CTZJZ34L2,EUR NÁKUP POS FACEBK 7CTZJZ34L2 / fb.me/ads / (POS 99999999),
+75,2024-03-04,-12208.02,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 3. cast","3624004
 VS3624004/SS/KS0308"
-61,2024-03-01,-30000.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 2.cast","3624004
+76,2024-03-01,-30000.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 2.cast","3624004
 VS3624004/SS/KS0308"
-62,2024-03-01,-30000.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 1.cast","3624004
+77,2024-03-01,-30000.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, maj / 1.cast","3624004
 VS3624004/SS/KS0308"
-63,2024-03-01,2000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
-64,2024-02-29,-0.0,EUR,,Poplatok za balík,
-65,2024-02-28,31000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
-66,2024-02-26,-20601.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, april","3624003
+78,2024-03-01,2000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
+79,2024-02-29,-0.0,EUR,,Poplatok za balík,
+80,2024-02-28,31000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
+81,2024-02-26,-20601.0,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, april","3624003
 VS3624003/SS/KS0308"
-67,2024-02-26,60000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
+82,2024-02-26,60000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
