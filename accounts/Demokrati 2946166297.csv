@@ -4,18 +4,87 @@ index,date,amount,currency,account_name,message,vs
 2,2024-04-10,20.0,EUR,Škraban Róbert,Platba/Drzim palce .,
 3,2024-04-10,50.0,EUR,Havlíková Marta,Platba/Drzim palce. Robite to skvele.,
 4,2024-04-10,40.0,EUR,LINEROVA MONIKA,PLATBA/dar Namestie slobody 165623 Puchov,
-5,2024-04-09,50.0,EUR,ALZBETA SVITKOVA,"PLATBA/DAR ALZBETA SVITKOVA HAANOVA 44, 85104 BRATISLAVA",
-6,2024-04-09,5.0,EUR,Mgr. Jana Zbojekova,PLATBA/Dakujeme,
-7,2024-04-09,-2448.38,EUR,JUICE s.r.o.,Platba/tlac BB april,"20241019
-VS20241019/SS/KS0308"
-8,2024-04-09,-1440.0,EUR,Pop studio s. r. o.,Platba/fotenie,"20240006
-VS20240006/SS/KS"
-9,2024-04-09,-1000.0,EUR,Matej Kukucka,Platba/graficke prace marec,"222024
-VS222024/SS/KS"
-10,2024-04-09,3000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
-11,2024-04-08,20.0,EUR,Ondrej Truhan,Platba,
-12,2024-04-08,50.0,EUR,Ing. Peter Miklossy,PLATBA/Dar,
-13,2024-04-08,5.0,EUR,GRZNAR MATUS,PLATBA,VS/SS/KS
+5,2024-04-09,50.0,EUR,"
+                            ALZBETA SVITKOVA
+                    ","
+                        PLATBA
+                    /
+                        DAR ALZBETA SVITKOVA HAANOVA 44, 85104 BRATISLAVA
+                    ","
+                        
+                    "
+6,2024-04-09,5.0,EUR,"
+                            Mgr. Jana Zbojekova
+                    ","
+                        PLATBA
+                    /
+                        Dakujeme
+                    ","
+                        
+                    "
+7,2024-04-09,-2448.38,EUR,"
+                            JUICE s.r.o.
+                    ","
+                        Platba
+                    /
+                        tlac BB april
+                    ","
+                        20241019VS20241019/SS/KS0308
+                    "
+8,2024-04-09,-1440.0,EUR,"
+                            Pop studio s. r. o.
+                    ","
+                        Platba
+                    /
+                        fotenie
+                    ","
+                        20240006VS20240006/SS/KS
+                    "
+9,2024-04-09,-1000.0,EUR,"
+                            Matej Kukucka
+                    ","
+                        Platba
+                    /
+                        graficke prace marec
+                    ","
+                        222024VS222024/SS/KS
+                    "
+10,2024-04-09,3000.0,EUR,"
+                            Demokrati
+                    ","
+                        Platba
+                    /
+                        na uhradu vydavkov kampane volieb do EP z BU Demokrati
+                    ","
+                        
+                    "
+11,2024-04-08,20.0,EUR,"
+                            Ondrej Truhan
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        
+                    "
+12,2024-04-08,50.0,EUR,"
+                            Ing. Peter Miklossy
+                    ","
+                        PLATBA
+                    /
+                        Dar
+                    ","
+                        
+                    "
+13,2024-04-08,5.0,EUR,"
+                            GRZNAR MATUS
+                    ","
+                        PLATBA
+                    /
+                        
+                    ","
+                        VS/SS/KS
+                    "
 14,2024-04-08,1000.0,EUR,Pavlík Michal,Platba/Hlavu hore! Podme zabojovat.,
 15,2024-04-06,200.0,EUR,"Kertés Patrik, Ing.",Platba/drzim palce,
 16,2024-04-05,20.0,EUR,MICHAL DIESKA,"PLATBA/DAR, TP:VIETNAMSKA 42, BRATISLAVA",
