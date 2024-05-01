@@ -1,16 +1,18 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2024-03-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-1,,2024-03-31,-4.52,EUR,Poplatok za vedenie účtu,Poplatok,,
-2,MV SR,2024-03-07,-1700.0,EUR,kaucia na voľby do EP,Platobný príkaz na úhradu / FIT 2.0 (EB),42285089.0,7032024.0
-3,Pikali Michael,2024-03-07,150.0,EUR,PHDR. INGRID CHARVATOVA FINANCNY DAR DO EP 2024,Bezhotovostný vklad,,
-4,Milan Krsiak,2024-03-06,200.0,EUR,"Milan Krsiak, financny dar na EP 2024",Bezhotovostný vklad - okamžitá platba,,
-5,JUDr. Michal Francak,2024-03-06,200.0,EUR,SRDCE vd-SNJ volby do EP 2024 od Michal Francak,Bezhotovostný vklad,,
-6,"Hašan Milan, Ing.",2024-03-06,100.0,EUR,"Ing. Milan Hasan, financny dar do EV 2024",Bezhotovostný vklad - okamžitá platba,,6032024.0
-7,Hlačoková Monika,2024-03-05,100.0,EUR,Branislav Hlačok finacny dar EP2024,Bezhotovostný vklad,,
-8,"Martauz Robert, Ing.",2024-03-05,200.0,EUR,Robert Martauz financny dar do EP 2024,Bezhotovostný vklad - okamžitá platba,,
-9,"Tokár Jozef,Tokárová Marcela",2024-03-05,200.0,EUR,"Jozef Tokár, finančný dar na voľbydo EP 2024",Bezhotovostný vklad,,
-10,Ján Vajcík,2024-03-05,200.0,EUR,Ing. Ján Vajcík - financny dar do EP 2024,Bezhotovostný vklad,202403.0,
-11,Haulík Peter,2024-03-04,200.0,EUR,finančný dar do EP 2024,Bezhotovostný vklad,,
-12,Varcholová Jarmila,2024-03-04,200.0,EUR,ING. LUBOMIR VARCHOLA Financny dar do EP 2024,Bezhotovostný vklad,,
-13,"Hašan Milan, Ing.",2024-03-04,200.0,EUR,Ing. Milan Hasan - financny dar na volby do EP 2024,Bezhotovostný vklad - okamžitá platba,,4032024.0
-14,JUDr. Marian Miklosko,2024-03-04,200.0,EUR,"JUDr.Marian Miklosko, financny dardo volieb EP 2024",Bezhotovostný vklad,,
+0,,2024-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2024-04-30,-5.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,,2024-03-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2024-03-31,-4.52,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,MV SR,2024-03-07,-1700.0,EUR,kaucia na voľby do EP,Platobný príkaz na úhradu / FIT 2.0 (EB),42285089.0,7032024.0
+5,Pikali Michael,2024-03-07,150.0,EUR,PHDR. INGRID CHARVATOVA FINANCNY DAR DO EP 2024,Bezhotovostný vklad,,
+6,Milan Krsiak,2024-03-06,200.0,EUR,"Milan Krsiak, financny dar na EP 2024",Bezhotovostný vklad - okamžitá platba,,
+7,JUDr. Michal Francak,2024-03-06,200.0,EUR,SRDCE vd-SNJ volby do EP 2024 od Michal Francak,Bezhotovostný vklad,,
+8,"Hašan Milan, Ing.",2024-03-06,100.0,EUR,"Ing. Milan Hasan, financny dar do EV 2024",Bezhotovostný vklad - okamžitá platba,,6032024.0
+9,Hlačoková Monika,2024-03-05,100.0,EUR,Branislav Hlačok finacny dar EP2024,Bezhotovostný vklad,,
+10,"Martauz Robert, Ing.",2024-03-05,200.0,EUR,Robert Martauz financny dar do EP 2024,Bezhotovostný vklad - okamžitá platba,,
+11,"Tokár Jozef,Tokárová Marcela",2024-03-05,200.0,EUR,"Jozef Tokár, finančný dar na voľbydo EP 2024",Bezhotovostný vklad,,
+12,Ján Vajcík,2024-03-05,200.0,EUR,Ing. Ján Vajcík - financny dar do EP 2024,Bezhotovostný vklad,202403.0,
+13,Haulík Peter,2024-03-04,200.0,EUR,finančný dar do EP 2024,Bezhotovostný vklad,,
+14,Varcholová Jarmila,2024-03-04,200.0,EUR,ING. LUBOMIR VARCHOLA Financny dar do EP 2024,Bezhotovostný vklad,,
+15,"Hašan Milan, Ing.",2024-03-04,200.0,EUR,Ing. Milan Hasan - financny dar na volby do EP 2024,Bezhotovostný vklad - okamžitá platba,,4032024.0
+16,JUDr. Marian Miklosko,2024-03-04,200.0,EUR,"JUDr.Marian Miklosko, financny dardo volieb EP 2024",Bezhotovostný vklad,,
