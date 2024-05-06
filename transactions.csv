@@ -523,10 +523,31 @@ VS60259/SS2/KS",Progresívne Slovensko
 519,2024-05-03,Boris Kukumberg,4000.0,Platba/Boris Kukumberg dar,,Progresívne Slovensko
 520,2024-05-03,Janka Kottulova,50.0,Platba/Darovacia zmluva na podporu kandidata Lucia Yar v eurovolbach 2024,"60258
 VS60258/SS6/KS",Progresívne Slovensko
-521,2024-05-03,Jan Kalocaj,-2500.0,Platba/organizacia podujati 04 23,"20240001
-VS20240001/SS/KS",Progresívne Slovensko
-522,2024-05-03,FACEBK *T5AU23GXC2,-800.0,EUR NÁKUP POS FACEBK *T5AU23GXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
-523,2024-05-03,FACEBK *49UKZ3LXC2,-691.93,EUR NÁKUP POS FACEBK *49UKZ3LXC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
+521,2024-05-03,Jan Kalocaj,-2500.0,"
+                        Platba
+                    /
+                        organizacia podujati 04 23
+                    ","
+                        20240001VS20240001/SS/KS
+                    ",Progresívne Slovensko
+522,2024-05-03,"
+                            FACEBK *T5AU23GXC2
+                    ",-800.0,"
+                        EUR NÁKUP POS FACEBK *T5AU23GXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
+523,2024-05-03,"
+                            FACEBK *49UKZ3LXC2
+                    ",-691.93,"
+                        EUR NÁKUP POS FACEBK *49UKZ3LXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Progresívne Slovensko
 524,2024-05-03,Pokorná Zuzana,100.0,Platba,"60260
 VS60260/SS11/KS",Progresívne Slovensko
 525,2024-05-02,Peter Cifra,250.0,"Platba/Prispevok Veronike, Peter Cifra","60256
@@ -537,16 +558,60 @@ VS60256/SS4/KS",Progresívne Slovensko
 529,2024-05-02,FACEBK *TVUTE28XC2,-800.0,EUR NÁKUP POS FACEBK *TVUTE28XC2 / fb.me/ads / (POS 99999999),,Progresívne Slovensko
 530,2024-05-02,Georgi Krastev,150.0,Platba/Darovacia zmluva na podporu kandidata Lucia Francescato v eurovolbach2024,"60254
 VS60254/SS10/KS",Progresívne Slovensko
-531,2024-05-02,Ladislav Hegyi,500.0,PLATBA/Darovacia zmluva na podporu kandidata Martin Hojsik v eurovolbach 2024,"60248
-VS60248/SS3/KS",Progresívne Slovensko
-532,2024-05-02,PETER LENYI,50.0,PLATBA/PODPORA PRE LUCIU YAR,"60255
-VS0000060255/SS0000000006/KS",Progresívne Slovensko
-533,2024-05-02,LAUKO MARTIN,25.0,PLATBA/Darovacia zmluva na podporu kandidata ps v eurovolbach 2024,"60253
-VS60253/SS/KS",Progresívne Slovensko
-534,2024-05-02,Progresívne Slovensko,50000.0,Platba/prevod medzi uctami,,Progresívne Slovensko
-535,2024-05-02,Cifrová Anna,150.0,Platba/veronika ostrihonova,,Progresívne Slovensko
-536,2024-05-02,"Findor Andrej, PhDr.",20.0,Platba/Darovacia zmluva na podporu kandidata Lucia Yar v eurovolbach 2024,"60257
-VS60257/SS6/KS",Progresívne Slovensko
+531,2024-05-02,"
+                            Ladislav Hegyi
+                    ",500.0,"
+                        PLATBA
+                    /
+                        Darovacia zmluva na podporu kandidata Martin Hojsik v eurovolbach 2024
+                    ","
+                        60248VS60248/SS3/KS
+                    ",Progresívne Slovensko
+532,2024-05-02,"
+                            PETER LENYI
+                    ",50.0,"
+                        PLATBA
+                    /
+                        PODPORA PRE LUCIU YAR
+                    ","
+                        60255VS0000060255/SS0000000006/KS
+                    ",Progresívne Slovensko
+533,2024-05-02,"
+                            LAUKO MARTIN
+                    ",25.0,"
+                        PLATBA
+                    /
+                        Darovacia zmluva na podporu kandidata ps v eurovolbach 2024
+                    ","
+                        60253VS60253/SS/KS
+                    ",Progresívne Slovensko
+534,2024-05-02,"
+                            Progresívne Slovensko
+                    ",50000.0,"
+                        Platba
+                    /
+                        prevod medzi uctami
+                    ","
+                        
+                    ",Progresívne Slovensko
+535,2024-05-02,"
+                            Cifrová Anna
+                    ",150.0,"
+                        Platba
+                    /
+                        veronika ostrihonova
+                    ","
+                        
+                    ",Progresívne Slovensko
+536,2024-05-02,"
+                            Findor Andrej, PhDr.
+                    ",20.0,"
+                        Platba
+                    /
+                        Darovacia zmluva na podporu kandidata Lucia Yar v eurovolbach 2024
+                    ","
+                        60257VS60257/SS6/KS
+                    ",Progresívne Slovensko
 537,2024-05-01,Igor Lebloch,-150.0,Platba/organizacne zabezpecenie diskusie v history art music club 25.4.2024,"20240018
 VS20240018/SS/KS",Progresívne Slovensko
 538,2024-05-01,Tlačová agentúra Slovenskej republiky,-144.0,Platba/tasr video 03 24,"1000240621
@@ -1412,42 +1477,12 @@ VS20241418/SS/KS308",Demokrati
 1194,2024-04-29,Milan Mego,5.0,Platba,,Demokrati
 1195,2024-04-29,Edita Polackova,100.0,"Platba/Edita Polackova, Kozacka 55, Trnava, DAR",,Demokrati
 1196,2024-04-29,Demokrati,2000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
-1197,2024-04-26,"
-                            FACEBK*
-                    ",-250.0,"
-                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-1198,2024-04-26,"
-                            RODANA S.R.O.
-                    ",-100.0,"
-                        Platba
-                    /
-                        prenajom ZA 24.4.
-                    ","
-                        2024101VS2024101/SS/KS308
-                    ",Demokrati
-1199,2024-04-26,"
-                            Pop studio s. r. o.
-                    ",-3744.0,"
-                        Platba
-                    /
-                        kampanove video
-                    ","
-                        20240011VS20240011/SS/KS
-                    ",Demokrati
-1200,2024-04-26,"
-                            FACEBK*
-                    ",-250.0,"
-                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
+1197,2024-04-26,FACEBK*,-250.0,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Demokrati
+1198,2024-04-26,RODANA S.R.O.,-100.0,Platba/prenajom ZA 24.4.,"2024101
+VS2024101/SS/KS308",Demokrati
+1199,2024-04-26,Pop studio s. r. o.,-3744.0,Platba/kampanove video,"20240011
+VS20240011/SS/KS",Demokrati
+1200,2024-04-26,FACEBK*,-250.0,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Demokrati
 1201,2024-04-26,Demokrati,1000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
 1202,2024-04-26,"ZEPHIROS, a.s.",-1102.8,Platba/kampanove oblecenie,"20241105
 VS20241105/SS/KS",Demokrati
@@ -2122,3 +2157,72 @@ avky RU/49/02/2024",14120083.0,Slovenský patriot
 1676,2024-04-30,"AD SK, s.r.o.",2000.0,Platba/Dar,,Volt Slovensko
 1677,2024-04-03,M RICHARD ZEDNIK OU Mme RACHEL H,1000.0,DE24040355107 VZ409238FRL00U01/Od Richard Zednik,,Volt Slovensko
 1678,2024-03-30,,-0.0,Poplatok za balík,,Volt Slovensko
+1679,2024-05-05,,-800.0,"B1796588231-44544 17** **** 6401;FACEBK* ,fb.me/ads ,IE ;03.05.2024 19:15:21 ;CashBack:0 EUR",,Hlas
+1680,2024-05-05,,-0.25,Poplatok za platbu kartou,,Hlas
+1681,2024-05-05,,-800.0,"B1796525522-44544 17** **** 6401;FACEBK* ,fb.me/ads ,IE ;03.05.2024 18:14:03 ;CashBack:0 EUR",,Hlas
+1682,2024-05-05,,-0.25,Poplatok za platbu kartou,,Hlas
+1683,2024-05-02,,-0.25,Poplatok za platbu kartou,,Hlas
+1684,2024-05-02,,-234.62,"B1795157629-44544 17** **** 6401;GOOGLE *ADS2821367403 ,G.CO/HELPPAY# ,IE ;01.05.2024 18:22:24 ;CashBack:0 EUR",,Hlas
+1685,2024-05-02,,-0.25,Poplatok za platbu kartou,,Hlas
+1686,2024-05-02,,-720.0,"B1795154372-44544 17** **** 6401;FACEBK *RCM5P3LCE2 ,fb.me/ads ,IE ;01.05.2024 12:53:18 ;CashBack:0 EUR",,Hlas
+1687,2024-05-02,,-0.25,Poplatok za platbu kartou,,Hlas
+1688,2024-05-02,,-800.0,"B1795147019-44544 17** **** 6401;FACEBK* ,fb.me/ads ,IE ;01.05.2024 08:07:42 ;CashBack:0 EUR",,Hlas
+1689,2024-04-30,,-5.0,Zverejňovanie účtu,,Hlas
+1690,2024-04-30,,-5.0,Poplatok za vedenie účtu,,Hlas
+1691,2024-04-30,,-0.25,Poplatok za platbu kartou,,Hlas
+1692,2024-04-30,,-480.0,"B1793366452-44544 17** **** 6401;FACEBK *DX4GC3GCE2 ,fb.me/ads ,IE ;29.04.2024 12:30:23 ;CashBack:0 EUR",,Hlas
+1693,2024-04-29,,-0.25,Poplatok za platbu kartou,,Hlas
+1694,2024-04-29,,-320.0,"B1792752765-44544 17** **** 6401;FACEBK *8HQKR2UCE2 ,fb.me/ads ,IE ;28.04.2024 04:36:10 ;CashBack:0 EUR",,Hlas
+1695,2024-04-29,,-0.25,Poplatok za platbu kartou,,Hlas
+1696,2024-04-29,,-800.0,"B1792827085-44544 17** **** 6401;FACEBK* ,fb.me/ads ,IE ;28.04.2024 20:38:06 ;CashBack:0 EUR",,Hlas
+1697,2024-04-28,,-210.0,"B1792092459-44544 17** **** 6401;FACEBK *FHL593QCE2 ,fb.me/ads ,IE ;27.04.2024 09:06:43 ;CashBack:0 EUR",,Hlas
+1698,2024-04-28,,-0.25,Poplatok za platbu kartou,,Hlas
+1699,2024-04-28,,-0.25,Poplatok za platbu kartou,,Hlas
+1700,2024-04-28,,-140.0,"B1791232528-44544 17** **** 6401;FACEBK *LK75F34CE2 ,fb.me/ads ,IE ;26.04.2024 18:28:35 ;CashBack:0 EUR",,Hlas
+1701,2024-04-28,,-0.25,Poplatok za platbu kartou,,Hlas
+1702,2024-04-28,,-90.0,"B1791064020-44544 17** **** 6401;FACEBK *36E7A44DE2 ,fb.me/ads ,IE ;26.04.2024 08:55:44 ;CashBack:0 EUR",,Hlas
+1703,2024-04-26,,-33.0,"B1790162299-44544 17** **** 6401;FACEBK *QNDLJ3YCE2 ,fb.me/ads ,IE ;25.04.2024 06:39:31 ;CashBack:0 EUR",,Hlas
+1704,2024-04-26,,-0.25,Poplatok za platbu kartou,,Hlas
+1705,2024-04-26,,-70.0,"B1790162410-44544 17** **** 6401;FACEBK *CYY7448CE2 ,fb.me/ads ,IE ;25.04.2024 19:52:06 ;CashBack:0 EUR",,Hlas
+1706,2024-04-26,,-0.25,Poplatok za platbu kartou,,Hlas
+1707,2024-04-26,,-33.0,"B1790193567-44544 17** **** 6401;FACEBK *NBMWM2UCE2 ,fb.me/ads ,IE ;25.04.2024 08:30:53 ;CashBack:0 EUR",,Hlas
+1708,2024-04-26,,-0.25,Poplatok za platbu kartou,,Hlas
+1709,2024-04-26,,-33.0,"B1790194180-44544 17** **** 6401;FACEBK *QK58B3CCE2 ,fb.me/ads ,IE ;25.04.2024 10:53:22 ;CashBack:0 EUR",,Hlas
+1710,2024-04-26,,-40.0,"B1790198744-44544 17** **** 6401;FACEBK *BXPDB3CCE2 ,fb.me/ads ,IE ;25.04.2024 14:08:09 ;CashBack:0 EUR",,Hlas
+1711,2024-04-26,,-0.25,Poplatok za platbu kartou,,Hlas
+1712,2024-04-26,,-70.0,"B1790615875-44544 17** **** 6401;FACEBK *FUYVB3CCE2 ,fb.me/ads ,IE ;25.04.2024 22:58:47 ;CashBack:0 EUR",,Hlas
+1713,2024-04-26,,-0.25,Poplatok za platbu kartou,,Hlas
+1714,2024-04-26,,-0.25,Poplatok za platbu kartou,,Hlas
+1715,2024-04-25,,-20.0,"B1789486542-44544 17** **** 6401;FACEBK *YSF3J3YCE2 ,fb.me/ads ,IE ;24.04.2024 20:33:47 ;CashBack:0 EUR",,Hlas
+1716,2024-04-25,,-9.0,"B1789485807-44544 17** **** 6401;FACEBK *Q55R248CE2 ,fb.me/ads ,IE ;24.04.2024 16:59:10 ;CashBack:0 EUR",,Hlas
+1717,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1718,2024-04-25,,-9.0,"B1789485801-44544 17** **** 6401;FACEBK *BPNV744DE2 ,fb.me/ads ,IE ;24.04.2024 16:03:41 ;CashBack:0 EUR",,Hlas
+1719,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1720,2024-04-25,,-20.0,"B1789486553-44544 17** **** 6401;FACEBK *APM4J3YCE2 ,fb.me/ads ,IE ;24.04.2024 21:13:21 ;CashBack:0 EUR",,Hlas
+1721,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1722,2024-04-25,,-15.0,"B1789486537-44544 17** **** 6401;FACEBK *EZS4844DE2 ,fb.me/ads ,IE ;24.04.2024 19:51:33 ;CashBack:0 EUR",,Hlas
+1723,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1724,2024-04-25,,-9.0,"B1789486510-44544 17** **** 6401;FACEBK *MSQAA3CCE2 ,fb.me/ads ,IE ;24.04.2024 17:21:41 ;CashBack:0 EUR",,Hlas
+1725,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1726,2024-04-25,,-12.0,"B1789486533-44544 17** **** 6401;FACEBK *L5M8M2UCE2 ,fb.me/ads ,IE ;24.04.2024 19:35:42 ;CashBack:0 EUR",,Hlas
+1727,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1728,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1729,2024-04-25,,-331.79,"B1788501984-44544 17** **** 6401;FACEBK WJR453GCE2 ,fb.me/ads ,IE ;23.04.2024 17:31:16 ;CashBack:0 EUR",,Hlas
+1730,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1731,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1732,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1733,2024-04-25,,-9.0,"B1789486512-44544 17** **** 6401;FACEBK *J4LWH3YCE2 ,fb.me/ads ,IE ;24.04.2024 18:00:13 ;CashBack:0 EUR",,Hlas
+1734,2024-04-25,,-9.0,"B1789486514-44544 17** **** 6401;FACEBK *XCMZ744DE2 ,fb.me/ads ,IE ;24.04.2024 18:10:22 ;CashBack:0 EUR",,Hlas
+1735,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1736,2024-04-25,,-9.0,"B1789486519-44544 17** **** 6401;FACEBK *D7EDE3LCE2 ,fb.me/ads ,IE ;24.04.2024 18:20:30 ;CashBack:0 EUR",,Hlas
+1737,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1738,2024-04-25,,-10.0,"B1789486522-44544 17** **** 6401;FACEBK *J7LN53QCE2 ,fb.me/ads ,IE ;24.04.2024 18:40:50 ;CashBack:0 EUR",,Hlas
+1739,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1740,2024-04-25,,-12.0,"B1789486527-44544 17** **** 6401;FACEBK *53WP53QCE2 ,fb.me/ads ,IE ;24.04.2024 19:21:55 ;CashBack:0 EUR",,Hlas
+1741,2024-04-25,,-22.0,"B1789774930-44544 17** **** 6401;FACEBK *N396J3YCE2 ,fb.me/ads ,IE ;24.04.2024 22:06:02 ;CashBack:0 EUR",,Hlas
+1742,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1743,2024-04-25,,-30.0,"B1789774939-44544 17** **** 6401;FACEBK *UHHSC34CE2 ,fb.me/ads ,IE ;25.04.2024 00:09:42 ;CashBack:0 EUR",,Hlas
+1744,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1745,2024-04-25,,-33.0,"B1789774946-44544 17** **** 6401;FACEBK *G78F844DE2 ,fb.me/ads ,IE ;25.04.2024 01:49:07 ;CashBack:0 EUR",,Hlas
+1746,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
+1747,2024-04-10,HLAS - sociálna demokracia,500000.0,prevod na voľby EP 2024,,Hlas
