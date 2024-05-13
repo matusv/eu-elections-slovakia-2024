@@ -569,15 +569,8 @@ index,date,account_name,amount,message,vs,name
 567,2024-02-01,REPUBLIKA,100000.0,prevod prostriedkov na transparentny ucet, ,Republika
 568,2024-01-31, ,-7.0,Vedenie účtu,9,Republika
 569,2024-05-10,Dudes Barbies s.r.o.,-10.0,SPRAC.POPLATOK VI24051009310,,Progresívne Slovensko
-570,2024-05-10,"
-                            ARTMIE, spol. s r.o.
-                    ",-250.0,"
-                        Platba
-                    /
-                        yar billboard snina 05 24
-                    ","
-                        2400000039VS2400000039/SS/KS8
-                    ",Progresívne Slovensko
+570,2024-05-10,"ARTMIE, spol. s r.o.",-250.0,Platba/yar billboard snina 05 24,"2400000039
+VS2400000039/SS/KS8",Progresívne Slovensko
 571,2024-05-10,"
                             FACEBK*
                     ",-87.0,"
@@ -1722,127 +1715,33 @@ VS32240309/SS/KS0308",Demokrati
 1394,2024-05-03,Gabriela Holickova,10.0,Platba,,Demokrati
 1395,2024-05-03,GRZNAR MATUS,5.0,PLATBA/Zlu nikdy neustupime,,Demokrati
 1396,2024-05-02,Mgr.Viliam Bujna,500.0,PLATBA/Viliam Bujna - prispevok na eurokampan,,Demokrati
-1397,2024-05-02,Ing. JUDr. Robert Miko,100.0,"
-                        PLATBA
-                    /
-                        Podpora - Demokrati
-                    ","
-                        
-                    ",Demokrati
-1398,2024-05-02,"
-                            FACEBK*
-                    ",-250.0,"
-                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
+1397,2024-05-02,Ing. JUDr. Robert Miko,100.0,PLATBA/Podpora - Demokrati,,Demokrati
+1398,2024-05-02,FACEBK*,-250.0,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Demokrati
 1399,2024-05-02,Seják Róbert,150.0,Platba/Dar,,Demokrati
-1400,2024-04-30,"
-                            Ivan Lacho
-                    ",2.0,"
-                        Platba
-                    /
-                        Jana Smreka 12,Bratislava
-                    ","
-                        
-                    ",Demokrati
-1401,2024-04-30,"
-                            FACEBK*
-                    ",-250.0,"
-                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-1402,2024-04-30,"
-                            FACEBK*
-                    ",-250.0,"
-                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-1403,2024-04-30,"
-                            FACEBK*
-                    ",-250.0,"
-                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-1404,2024-04-30,"
-                            Demokrati
-                    ",10000.0,"
-                        Platba
-                    /
-                        na uhradu vydavkov kampane volieb do EP z BU Demokrati
-                    ","
-                        
-                    ",Demokrati
-1405,2024-04-30,"
-                            Ivan Lacho
-                    ",5.0,"
-                        Platba
-                    /
-                        Jana Smreka 12,Bratislava
-                    ","
-                        
-                    ",Demokrati
-1406,2024-04-30,"
-                            Cofin, a. s.
-                    ",-144.0,"
-                        Platba
-                    /
-                        tlac letakov
-                    ","
-                        24040086VS24040086/SS/KS8
-                    ",Demokrati
-1407,2024-04-30,"
-                            JUICE s.r.o.
-                    ",-8029.2,"
-                        Platba
-                    /
-                        tlac BB, BigB, DoubleB, maj
-                    ","
-                        20241418VS20241418/SS/KS308
-                    ",Demokrati
-1408,2024-04-30,"
-                            
-                    ",-0.0,"
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
+1400,2024-04-30,Ivan Lacho,2.0,"Platba/Jana Smreka 12,Bratislava",,Demokrati
+1401,2024-04-30,FACEBK*,-250.0,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Demokrati
+1402,2024-04-30,FACEBK*,-250.0,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Demokrati
+1403,2024-04-30,FACEBK*,-250.0,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Demokrati
+1404,2024-04-30,Demokrati,10000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
+1405,2024-04-30,Ivan Lacho,5.0,"Platba/Jana Smreka 12,Bratislava",,Demokrati
+1406,2024-04-30,"Cofin, a. s.",-144.0,Platba/tlac letakov,"24040086
+VS24040086/SS/KS8",Demokrati
+1407,2024-04-30,JUICE s.r.o.,-8029.2,"Platba/tlac BB, BigB, DoubleB, maj","20241418
+VS20241418/SS/KS308",Demokrati
+1408,2024-04-30,,-0.0,Poplatok za balík,,Demokrati
 1409,2024-04-29,FACEBK*,-250.0,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Demokrati
 1410,2024-04-29,GoogleAdwordsEU ADS258323,-500.0,EUR NÁKUP POS GoogleAdwordsEU ADS258323 / Dublin / (POS 99999999),,Demokrati
 1411,2024-04-29,FACEBK*,-250.0,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Demokrati
 1412,2024-04-29,FACEBK*,-250.0,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Demokrati
 1413,2024-04-29,Edita Polackova,100.0,"Platba/Edita Polackova, Kozacka 55, Trnava, DAR",,Demokrati
-1414,2024-04-29,"
-                            Milan Mego
-                    ",5.0,"
+1414,2024-04-29,Milan Mego,5.0,"
                         Platba
                     /
                         
                     ","
                         
                     ",Demokrati
-1415,2024-04-29,"
-                            Demokrati
-                    ",2000.0,"
-                        Platba
-                    /
-                        na uhradu vydavkov kampane volieb do EP z BU Demokrati
-                    ","
-                        
-                    ",Demokrati
+1415,2024-04-29,Demokrati,2000.0,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,,Demokrati
 1416,2024-04-26,RODANA S.R.O.,-100.0,Platba/prenajom ZA 24.4.,"2024101
 VS2024101/SS/KS308",Demokrati
 1417,2024-04-26,FACEBK*,-250.0,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Demokrati
@@ -2489,13 +2388,7 @@ avky RU/49/02/2024",14120083.0,Slovenský patriot
 1929,2024-04-30,,-0.0,Poplatok za balík,,Volt Slovensko
 1930,2024-04-30,"AD SK, s.r.o.",2000.0,Platba/Dar,,Volt Slovensko
 1931,2024-04-03,M RICHARD ZEDNIK OU Mme RACHEL H,1000.0,DE24040355107 VZ409238FRL00U01/Od Richard Zednik,,Volt Slovensko
-1932,2024-03-30,,-0.0,"
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    ",Volt Slovensko
+1932,2024-03-30,,-0.0,Poplatok za balík,,Volt Slovensko
 1933,2024-05-12,,-0.25,Poplatok za platbu kartou,,Hlas
 1934,2024-05-12,,-800.0,"B1802955664-44544 17** **** 6401;FACEBK* ,fb.me/ads ,IE ;11.05.2024 13:34:24 ;CashBack:0 EUR",,Hlas
 1935,2024-05-12,,-0.25,Poplatok za platbu kartou,,Hlas
@@ -2582,3 +2475,24 @@ avky RU/49/02/2024",14120083.0,Slovenský patriot
 2016,2024-04-25,,-33.0,"B1789774946-44544 17** **** 6401;FACEBK *G78F844DE2 ,fb.me/ads ,IE ;25.04.2024 01:49:07 ;CashBack:0 EUR",,Hlas
 2017,2024-04-25,,-0.25,Poplatok za platbu kartou,,Hlas
 2018,2024-04-10,HLAS - sociálna demokracia,500000.0,prevod na voľby EP 2024,,Hlas
+2019,2024-05-10,Fibra print,-693.6,0240510135911.773786,2400349.0,MySlovensko
+2020,2024-05-06,REMOS spol. s r.o.,-311.52,QR2324055937,2324055937.0,MySlovensko
+2021,2024-04-30,,-5.0,Poplatok za vedenie účtu,,MySlovensko
+2022,2024-04-30,,-5.0,Zverejňovanie účtu,,MySlovensko
+2023,2024-04-29,Lukas Hunar_system okrskari,-150.0,Úhrada faktúry: 20240004,20240004.0,MySlovensko
+2024,2024-04-19,HMCC,-2880.0,0240419064326.680255,24002.0,MySlovensko
+2025,2024-04-19,Strana,5000.0,F001190420245059387,,MySlovensko
+2026,2024-04-17,ZSTV Media,-210.0,ZSTV Média,2024005.0,MySlovensko
+2027,2024-03-31,,-5.0,Zverejňovanie účtu,,MySlovensko
+2028,2024-03-31,,-1.94,Poplatok za vedenie účtu,,MySlovensko
+2029,2024-03-27,MP Enterprises,-1210.0,,2024001.0,MySlovensko
+2030,2024-03-25,NOTPROVIDED,-420.0,ZSTV Média,2024004.0,MySlovensko
+2031,2024-03-25,Strana,2000.0,F001250320244102608,,MySlovensko
+2032,2024-05-09,FACEBK*,-90.0,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Socialisti.sk
+2033,2024-05-02,FACEBK*,-8.14,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Socialisti.sk
+2034,2024-05-02,FACEBK*,-33.34,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),,Socialisti.sk
+2035,2024-04-30,Andrej Buran,5.5,"Platba/Na organizaciu 1. maja v Nitre, odfyzickej osoby - sympatizanta hnutia Socialisti.sk",,Socialisti.sk
+2036,2024-04-30,,-0.0,Poplatok za balík,,Socialisti.sk
+2037,2024-04-25,Polygrafické centrum,-504.0,Platba/Faktura cislo: ZLV-2024-03-000038 volebne noviny,"403000038
+VS403000038/SS/KS0008",Socialisti.sk
+2038,2024-04-15,Socialisti.sk,1200.0,Platba/Prispevok na kampan EP 2024 Socialisti.sk,,Socialisti.sk
