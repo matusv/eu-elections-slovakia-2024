@@ -1,18 +1,19 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2024-05-03,995.0,Bezhotovostný príjem,BOMBAROVA ZORICAKOVA,?/DO2024-05-02/SPDar,,,,BOMBAROVA ZORICAKOVA
-1,2024-04-24,-600.0,Bezhotovostná platba,,"Uhrada faktury: 20230002, za web de
+0,2024-05-09,950.0,Bezhotovostný príjem,Miroslav Bombara,?/DO2024-05-08/SPDar,,,,Miroslav Bombara
+1,2024-05-03,995.0,Bezhotovostný príjem,BOMBAROVA ZORICAKOVA,?/DO2024-05-02/SPDar,,,,BOMBAROVA ZORICAKOVA
+2,2024-04-24,-600.0,Bezhotovostná platba,,"Uhrada faktury: 20230002, za web de
 sign",,20230002,,"Inovacia webstranky Slov PATRIOT, Youness Alouri"
-2,2024-04-22,-660.0,Bezhotovostná platba,,"Slovensky PATRIOT. Strbanikova - tl
+3,2024-04-22,-660.0,Bezhotovostná platba,,"Slovensky PATRIOT. Strbanikova - tl
 ac. 13.03.2024",,240096,,tlac na reklamne plochy
-3,2024-04-22,-3036.0,Bezhotovostná platba,,"Slovensky PATRIOT. Strbanikova - na
+4,2024-04-22,-3036.0,Bezhotovostná platba,,"Slovensky PATRIOT. Strbanikova - na
 jom. 13.03.2024",,240095,,
-4,2024-04-22,-8736.0,Bezhotovostná platba,,"prenajom rekl ploch na zakl. objedn
+5,2024-04-22,-8736.0,Bezhotovostná platba,,"prenajom rekl ploch na zakl. objedn
 avky RU/49/02/2024",0308,14120083,,
-5,2024-04-22,-4056.0,Bezhotovostná platba,,"platba za prenajom bilbordov obj c.
+6,2024-04-22,-4056.0,Bezhotovostná platba,,"platba za prenajom bilbordov obj c.
  RU/62/02/2024",0308,14120082,,
-6,2024-04-22,14500.0,Bezhotovostný príjem,Mgr. Michal Radacovs,"?/DO2024-04-22/SPMichal Radacovsky , Skalnata 175/3, Hnilec, darovacia zmluva 2, 820523",,,,Mgr. Michal Radacovs
-7,2024-04-08,2000.0,Bezhotovostný príjem,"Radačovský Peter, RS",?/DO2024-04-05/SPdrzim palce,,,,"Radačovský Peter, 082 57 Ľutina 56, darovacia zmluva"
-8,2024-03-28,-900.0,Bezhotovostná platba,,Vdaka,,2470021,,LED panel
-9,2024-03-28,-2184.0,Bezhotovostná platba,,Vdaka,,2470020,,
-10,2024-03-28,-1491.0,Bezhotovostná platba,,,,,,Fotenie kandidatov
-11,2024-03-28,5320.0,Bezhotovostný príjem,Mgr. Michal Radacovs,"?/DO2024-03-27/SPMichal Radacovsky, Skalnata 3, 05375 Hnilec. Darovacia zmluva",,23051982,,"Mgr. Michal Radacovsky, MBA"
+7,2024-04-22,14500.0,Bezhotovostný príjem,Mgr. Michal Radacovs,"?/DO2024-04-22/SPMichal Radacovsky , Skalnata 175/3, Hnilec, darovacia zmluva 2, 820523",,,,Mgr. Michal Radacovs
+8,2024-04-08,2000.0,Bezhotovostný príjem,"Radačovský Peter, RS",?/DO2024-04-05/SPdrzim palce,,,,"Radačovský Peter, 082 57 Ľutina 56, darovacia zmluva"
+9,2024-03-28,-900.0,Bezhotovostná platba,,Vdaka,,2470021,,LED panel
+10,2024-03-28,-2184.0,Bezhotovostná platba,,Vdaka,,2470020,,
+11,2024-03-28,-1491.0,Bezhotovostná platba,,,,,,Fotenie kandidatov
+12,2024-03-28,5320.0,Bezhotovostný príjem,Mgr. Michal Radacovs,"?/DO2024-03-27/SPMichal Radacovsky, Skalnata 3, 05375 Hnilec. Darovacia zmluva",,23051982,,"Mgr. Michal Radacovsky, MBA"
