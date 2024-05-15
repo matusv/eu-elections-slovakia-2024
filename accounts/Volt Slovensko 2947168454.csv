@@ -5,7 +5,15 @@ index,date,amount,currency,account_name,message,vs
 3,2024-05-09,7000.0,EUR,Zedník Juraj,Platba/Dar od Juraja Zednika,
 4,2024-05-02,2000.0,EUR,Martin Skakala,Platba,
 5,2024-04-30,-0.0,EUR,,Poplatok za balík,
-6,2024-04-30,2000.0,EUR,"AD SK, s.r.o.",Platba/Dar,
+6,2024-04-30,2000.0,EUR,"
+                            AD SK, s.r.o.
+                    ","
+                        Platba
+                    /
+                        Dar
+                    ","
+                        
+                    "
 7,2024-04-03,1000.0,EUR,"
                             M RICHARD ZEDNIK OU Mme RACHEL H
                     ","

@@ -7,18 +7,69 @@ VS1500002424/SS/KS0558"
 4,2024-05-13,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
 5,2024-05-13,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
 6,2024-05-10,500.0,EUR,"Nosko Vladimír, RNDr., CSc.","Platba/Eva a Vladimir Nosko, Mlynske pole 22, Limbach 90091",
-7,2024-05-10,5.0,EUR,GRZNAR MATUS,PLATBA/Zlu nikdy neustupime,
-8,2024-05-10,100.0,EUR,Hormannova Zuzana,PLATBA,VS/SS/KS
-9,2024-05-09,-120.0,EUR,Reklamne studio Kanala s.r.o.,Platba/letaky Roznava,"252024
-VS252024/SS/KS"
-10,2024-05-09,-1158.0,EUR,"ZEPHIROS, a.s.","Platba/letaky, nalepky, plachty","20241258
-VS20241258/SS/KS"
-11,2024-05-09,-336.72,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, dolep","32240309
-VS32240309/SS/KS0308"
-12,2024-05-09,-240.0,EUR,"CALYPSO AGENCY SR, S",Platba/prenajom Trencin 25.4.,"2400039
-VS2400039/SS/KS308"
-13,2024-05-09,-5016.0,EUR,Polygrafické centrum,Platba/tlac volebne noviny,"403000043
-VS403000043/SS/KS"
+7,2024-05-10,5.0,EUR,"
+                            GRZNAR MATUS
+                    ","
+                        PLATBA
+                    /
+                        Zlu nikdy neustupime
+                    ","
+                        
+                    "
+8,2024-05-10,100.0,EUR,"
+                            Hormannova Zuzana
+                    ","
+                        PLATBA
+                    /
+                        
+                    ","
+                        VS/SS/KS
+                    "
+9,2024-05-09,-120.0,EUR,"
+                            Reklamne studio Kanala s.r.o.
+                    ","
+                        Platba
+                    /
+                        letaky Roznava
+                    ","
+                        252024VS252024/SS/KS
+                    "
+10,2024-05-09,-1158.0,EUR,"
+                            ZEPHIROS, a.s.
+                    ","
+                        Platba
+                    /
+                        letaky, nalepky, plachty
+                    ","
+                        20241258VS20241258/SS/KS
+                    "
+11,2024-05-09,-336.72,EUR,"
+                            Magna Global Slovakia, s.r.o.
+                    ","
+                        Platba
+                    /
+                        kampan EP, billboard, dolep
+                    ","
+                        32240309VS32240309/SS/KS0308
+                    "
+12,2024-05-09,-240.0,EUR,"
+                            CALYPSO AGENCY SR, S
+                    ","
+                        Platba
+                    /
+                        prenajom Trencin 25.4.
+                    ","
+                        2400039VS2400039/SS/KS308
+                    "
+13,2024-05-09,-5016.0,EUR,"
+                            Polygrafické centrum
+                    ","
+                        Platba
+                    /
+                        tlac volebne noviny
+                    ","
+                        403000043VS403000043/SS/KS
+                    "
 14,2024-05-09,7000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
 15,2024-05-09,20.0,EUR,"Klinovská Ľubica, Ing.","Platba/Dar Klinovska,Mierova 113,82105 Bratislsva",
 16,2024-05-09,-1500.0,EUR,Matej Kukucka,Platba/graficke prace april,"282024
@@ -37,105 +88,19 @@ VS282024/SS/KS"
 28,2024-05-06,-170.2,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
 29,2024-05-03,10.0,EUR,Gabriela Holickova,Platba,
 30,2024-05-03,5.0,EUR,GRZNAR MATUS,PLATBA/Zlu nikdy neustupime,
-31,2024-05-03,500.0,EUR,"
-                            Maria Harcinikova
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-32,2024-05-03,-496.38,EUR,"
-                            GoogleAdwordsEU ADS258323
-                    ","
-                        EUR NÁKUP POS GoogleAdwordsEU ADS258323 / Dublin / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-33,2024-05-02,150.0,EUR,"
-                            Seják Róbert
-                    ","
-                        Platba
-                    /
-                        Dar
-                    ","
-                        
-                    "
-34,2024-05-02,500.0,EUR,"
-                            Mgr.Viliam Bujna
-                    ","
-                        PLATBA
-                    /
-                        Viliam Bujna - prispevok na eurokampan
-                    ","
-                        
-                    "
-35,2024-05-02,100.0,EUR,"
-                            Ing. JUDr. Robert Miko
-                    ","
-                        PLATBA
-                    /
-                        Podpora - Demokrati
-                    ","
-                        
-                    "
-36,2024-05-02,-250.0,EUR,"
-                            FACEBK*
-                    ","
-                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-37,2024-04-30,-0.0,EUR,"
-                            
-                    ","
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    "
-38,2024-04-30,-8029.2,EUR,"
-                            JUICE s.r.o.
-                    ","
-                        Platba
-                    /
-                        tlac BB, BigB, DoubleB, maj
-                    ","
-                        20241418VS20241418/SS/KS308
-                    "
-39,2024-04-30,-144.0,EUR,"
-                            Cofin, a. s.
-                    ","
-                        Platba
-                    /
-                        tlac letakov
-                    ","
-                        24040086VS24040086/SS/KS8
-                    "
-40,2024-04-30,10000.0,EUR,"
-                            Demokrati
-                    ","
-                        Platba
-                    /
-                        na uhradu vydavkov kampane volieb do EP z BU Demokrati
-                    ","
-                        
-                    "
-41,2024-04-30,5.0,EUR,"
-                            Ivan Lacho
-                    ","
-                        Platba
-                    /
-                        Jana Smreka 12,Bratislava
-                    ","
-                        
-                    "
+31,2024-05-03,500.0,EUR,Maria Harcinikova,Platba,
+32,2024-05-03,-496.38,EUR,GoogleAdwordsEU ADS258323,EUR NÁKUP POS GoogleAdwordsEU ADS258323 / Dublin / (POS 99999999),
+33,2024-05-02,150.0,EUR,Seják Róbert,Platba/Dar,
+34,2024-05-02,500.0,EUR,Mgr.Viliam Bujna,PLATBA/Viliam Bujna - prispevok na eurokampan,
+35,2024-05-02,100.0,EUR,Ing. JUDr. Robert Miko,PLATBA/Podpora - Demokrati,
+36,2024-05-02,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
+37,2024-04-30,-0.0,EUR,,Poplatok za balík,
+38,2024-04-30,-8029.2,EUR,JUICE s.r.o.,"Platba/tlac BB, BigB, DoubleB, maj","20241418
+VS20241418/SS/KS308"
+39,2024-04-30,-144.0,EUR,"Cofin, a. s.",Platba/tlac letakov,"24040086
+VS24040086/SS/KS8"
+40,2024-04-30,10000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
+41,2024-04-30,5.0,EUR,Ivan Lacho,"Platba/Jana Smreka 12,Bratislava",
 42,2024-04-30,2.0,EUR,Ivan Lacho,"Platba/Jana Smreka 12,Bratislava",
 43,2024-04-30,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
 44,2024-04-30,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
