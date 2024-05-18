@@ -1,34 +1,11 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-05-13,8500.0,EUR,Zednik Richard Edward,Platba/Dar,
-1,2024-05-09,8000.0,EUR,Zednik Richard Edward,Platba/Dar,
-2,2024-05-09,500.0,EUR,Zednik Richard Edward,Platba/Dar,
-3,2024-05-09,7000.0,EUR,Zedník Juraj,Platba/Dar od Juraja Zednika,
-4,2024-05-02,2000.0,EUR,Martin Skakala,Platba,
-5,2024-04-30,-0.0,EUR,,Poplatok za balík,
-6,2024-04-30,2000.0,EUR,"
-                            AD SK, s.r.o.
-                    ","
-                        Platba
-                    /
-                        Dar
-                    ","
-                        
-                    "
-7,2024-04-03,1000.0,EUR,"
-                            M RICHARD ZEDNIK OU Mme RACHEL H
-                    ","
-                        DE24040355107 VZ409238FRL00U01
-                    /
-                        Od Richard Zednik
-                    ","
-                        
-                    "
-8,2024-03-30,-0.0,EUR,"
-                            
-                    ","
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    "
+0,2024-05-15,-54.0,EUR,Centrum HUB,Platba/MTG ROOM 1 - April 2024,
+1,2024-05-13,8500.0,EUR,Zednik Richard Edward,Platba/Dar,
+2,2024-05-09,8000.0,EUR,Zednik Richard Edward,Platba/Dar,
+3,2024-05-09,500.0,EUR,Zednik Richard Edward,Platba/Dar,
+4,2024-05-09,7000.0,EUR,Zedník Juraj,Platba/Dar od Juraja Zednika,
+5,2024-05-02,2000.0,EUR,Martin Skakala,Platba,
+6,2024-04-30,-0.0,EUR,,Poplatok za balík,
+7,2024-04-30,2000.0,EUR,"AD SK, s.r.o.",Platba/Dar,
+8,2024-04-03,1000.0,EUR,M RICHARD ZEDNIK OU Mme RACHEL H,DE24040355107 VZ409238FRL00U01/Od Richard Zednik,
+9,2024-03-30,-0.0,EUR,,Poplatok za balík,
