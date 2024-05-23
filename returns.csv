@@ -13,7 +13,15 @@ index,index,date,amount,account_name,message,vs,name
 11,57,2024-01-29,0.01,PATRIK TIMULAK,PRISPEVOK PRE TOHO KTORY V ZIVOTE NEPOUZIVA PAPIER KED CITA,,SNS
 12,49,2024-02-15,-0.01,MICHAL ZAJIC,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
 13,56,2024-01-29,0.01,MICHAL ZAJIC,ZMRDE. NA LETENKU DO MOSKVY.,,SNS
-14,7,2024-05-21,-10.0,Charles Edouard Richard STENKER,"Platba OO24052100035581/Vratenie daru podla 85/2005 Z.z., navstivte prosim progresivne.sk/podporte-europsku-buducnost",,Progresívne Slovensko
+14,7,2024-05-21,-10.0,"
+                            Charles Edouard Richard STENKER
+                    ","
+                        Platba OO24052100035581
+                    /
+                        Vratenie daru podla 85/2005 Z.z., navstivte prosim progresivne.sk/podporte-europsku-buducnost
+                    ","
+                        
+                    ",Progresívne Slovensko
 15,235,2024-04-19,10.0,Charles Edouard Richard STENKER,DE24041959857 801b5bbb1bd343f8/Slovensko patri do EU,,Progresívne Slovensko
 16,277,2024-03-06,-0.1,Valovič Tomáš,Vratenie daru,,Slovensko
 17,292,2024-02-20,0.1,Valovič Tomáš,Igor na hrad,,Slovensko
@@ -23,7 +31,7 @@ index,index,date,amount,account_name,message,vs,name
 21,296,2024-02-13,5.0,Michalovic David,Vela stastia,,Slovensko
 22,280,2024-03-06,-1.5,Jaroslav Balara,Vratenie daru,,Slovensko
 23,291,2024-02-26,1.5,Jaroslav Balara,"Suma 1,5 ? je vyska mojho rodicovskeho prispevku.Dakujem, neprosim?",,Slovensko
-24,158,2024-04-22,-1400.0,Jurčišin Patrik,Mylná platba / Dar - Jakub Berčík,,KDH
-25,176,2024-04-12,1400.0,Jurčišin Patrik,Dar - Jakub Berčík,,KDH
+24,163,2024-04-22,-1400.0,Jurčišin Patrik,Mylná platba / Dar - Jakub Berčík,,KDH
+25,181,2024-04-12,1400.0,Jurčišin Patrik,Dar - Jakub Berčík,,KDH
 26,28,2024-04-23,-9.0,Ševčik Martin,vrátenie daru,,Kotlebovci ĽSNS
 27,46,2024-03-22,9.0,Ševčik Martin,alica,,Kotlebovci ĽSNS

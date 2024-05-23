@@ -9,22 +9,85 @@ VS2024021/SS/KS308"
 VS008024/SS/KS"
 4,2024-05-21,-400.0,EUR,"Scherz, s.r.o.","Platba/Kocur diskusia prenajom priestoru a zvukovej techniky Scherz 9.5, 16.5","2024007
 VS2024007/SS/KS"
-5,2024-05-21,-95.0,EUR,KVZ s.r.o.,Platba/EU den Kosice gastro sluzby,"2400124
-VS2400124/SS/KS308"
-6,2024-05-21,-2155.66,EUR,honest.company s.r.o.,Platba/Nitra europsky den 8.5 zalohova fa gastro sluzby,"12024006
-VS12024006/SS/KS308"
-7,2024-05-21,-10.0,EUR,Charles Edouard Richard STENKER,"Platba OO24052100035581/Vratenie daru podla 85/2005 Z.z., navstivte prosim progresivne.sk/podporte-europsku-buducnost",
-8,2024-05-21,5000.0,EUR,"Hojsík Martin, Mgr.",Platba/martin hojsik dar,"3
-VS3/SS/KS"
-9,2024-05-21,500.0,EUR,Cifra Tomas,PLATBA/Dar Veronika Cifra Ostrihonova,"60285
-VS60285/SS4/KS"
-10,2024-05-21,500.0,EUR,Martin Poliacik,Platba/Darovacia zmluva na podporu kandidata Martin Poliacik v eurovolbach 2024,"60286
-VS60286/SS15/KS"
-11,2024-05-20,30.0,EUR,Vančo Viktor,Platba/Darovacia zmluva na podporu kandidata Krisztian Varadi v eurovolbach 2024,"60284
-VS60284/SS9/KS"
-12,2024-05-20,500.0,EUR,Hana Poliacikova,Platba/Darovacia zmluva na podporu kandidata Martin Poliacik v eurovolbach 2024,"60282
-VS60282/SS15/KS"
-13,2024-05-20,-1.0,EUR,MES POPLATOK VISA FIREMNA,Mesačný poplatok MES POPLATOK VISA FIREMNA,
+5,2024-05-21,-95.0,EUR,KVZ s.r.o.,"
+                        Platba
+                    /
+                        EU den Kosice gastro sluzby
+                    ","
+                        2400124VS2400124/SS/KS308
+                    "
+6,2024-05-21,-2155.66,EUR,"
+                            honest.company s.r.o.
+                    ","
+                        Platba
+                    /
+                        Nitra europsky den 8.5 zalohova fa gastro sluzby
+                    ","
+                        12024006VS12024006/SS/KS308
+                    "
+7,2024-05-21,-10.0,EUR,"
+                            Charles Edouard Richard STENKER
+                    ","
+                        Platba OO24052100035581
+                    /
+                        Vratenie daru podla 85/2005 Z.z., navstivte prosim progresivne.sk/podporte-europsku-buducnost
+                    ","
+                        
+                    "
+8,2024-05-21,5000.0,EUR,"
+                            Hojsík Martin, Mgr.
+                    ","
+                        Platba
+                    /
+                        martin hojsik dar
+                    ","
+                        3VS3/SS/KS
+                    "
+9,2024-05-21,500.0,EUR,"
+                            Cifra Tomas
+                    ","
+                        PLATBA
+                    /
+                        Dar Veronika Cifra Ostrihonova
+                    ","
+                        60285VS60285/SS4/KS
+                    "
+10,2024-05-21,500.0,EUR,"
+                            Martin Poliacik
+                    ","
+                        Platba
+                    /
+                        Darovacia zmluva na podporu kandidata Martin Poliacik v eurovolbach 2024
+                    ","
+                        60286VS60286/SS15/KS
+                    "
+11,2024-05-20,30.0,EUR,"
+                            Vančo Viktor
+                    ","
+                        Platba
+                    /
+                        Darovacia zmluva na podporu kandidata Krisztian Varadi v eurovolbach 2024
+                    ","
+                        60284VS60284/SS9/KS
+                    "
+12,2024-05-20,500.0,EUR,"
+                            Hana Poliacikova
+                    ","
+                        Platba
+                    /
+                        Darovacia zmluva na podporu kandidata Martin Poliacik v eurovolbach 2024
+                    ","
+                        60282VS60282/SS15/KS
+                    "
+13,2024-05-20,-1.0,EUR,"
+                            MES POPLATOK VISA FIREMNA
+                    ","
+                        Mesačný poplatok MES POPLATOK VISA FIREMNA
+                    /
+                        
+                    ","
+                        
+                    "
 14,2024-05-17,250.0,EUR,Mgr. Stefan Konecny,PLATBA/Darovacia zmluva na podporu kandidata ps v eurovolbach 2024,"60280
 VS60280/SS0/KS"
 15,2024-05-16,-800.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
@@ -38,31 +101,10 @@ VS60280/SS0/KS"
 VS240100002/SS/KS"
 23,2024-05-15,-1000.0,EUR,GoogleAdwordsEU ADS862770,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
 24,2024-05-15,-800.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
-25,2024-05-15,-35.7,EUR,"MR. DOU, BA, GORKEHO","
-                        AP nákup POS MR. DOU, BA, GORKEHO / BRATISLAVA / (POS 03062932)
-                    /
-                        
-                    ","
-                        
-                    "
-26,2024-05-15,-800.0,EUR,"
-                            FACEBK*
-                    ","
-                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-27,2024-05-14,2000.0,EUR,"
-                            Kocúr Miroslav, ThDr., PhD.
-                    ","
-                        Platba
-                    /
-                        Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024
-                    ","
-                        60279VS60279/SS7/KS
-                    "
+25,2024-05-15,-35.7,EUR,"MR. DOU, BA, GORKEHO","AP nákup POS MR. DOU, BA, GORKEHO / BRATISLAVA / (POS 03062932)",
+26,2024-05-15,-800.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
+27,2024-05-14,2000.0,EUR,"Kocúr Miroslav, ThDr., PhD.",Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60279
+VS60279/SS7/KS"
 28,2024-05-14,-2000.0,EUR,Čifári Zuzana,VÝBER V HOTOVOSTI/vklad do pokladne,
 29,2024-05-14,-1000.0,EUR,,Platba/Martiniakova reklamne a marketingove sluzby pre Yar,"20240007
 VS20240007/SS/KS"

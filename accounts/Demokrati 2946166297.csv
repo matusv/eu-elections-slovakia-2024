@@ -6,21 +6,87 @@ index,date,amount,currency,account_name,message,vs
 VS20262024/SS/KS0308"
 4,2024-05-20,-196.2,EUR,JUICE s.r.o.,Platba/dotlac BB,"20241590
 VS20241590/SS/KS308"
-5,2024-05-20,-170.4,EUR,"ZEPHIROS, a.s.",Platba/volebne letaky,"20241396
-VS20241396/SS/KS"
-6,2024-05-20,-34.61,EUR,"ZEPHIROS, a.s.",Platba/volebne plagaty,"20241356
-VS20241356/SS/KS"
-7,2024-05-20,-214.8,EUR,PTA,Platba/volebne letaky kandidatka,"24051602
-VS24051602/SS/KS"
-8,2024-05-20,30.0,EUR,Janka Kascakova,"Platba/Kascakova Janka Ing., Za Vodou 3, 064 01 Stara Lubovna, DAR - na Eurokampan 2024 pre stranu DEMOKRATI","7658
-VS7658/SS/KS558"
-9,2024-05-20,20.0,EUR,Jana Krakovska,Platba,
-10,2024-05-20,100.0,EUR,Ing.Jaroslav Galan,"PLATBA/Jaroslav Galan, Zahradna 41, 08216Zahradne, dar","5607026524
-VS5607026524/SS/KS0308"
-11,2024-05-20,50.0,EUR,STANISLAV HAVRAN,PLATBA/ZVYSENE CLENSKE,
-12,2024-05-20,20.0,EUR,Ing. Marek Neupauer,PLATBA/Bidovce,
-13,2024-05-20,-50.0,EUR,Stredná odborná škola obchodu a služieb,"Platba/prenajom RS 16.5., VFNZ051/24","5124
-VS05124/SS/KS0308"
+5,2024-05-20,-170.4,EUR,"
+                            ZEPHIROS, a.s.
+                    ","
+                        Platba
+                    /
+                        volebne letaky
+                    ","
+                        20241396VS20241396/SS/KS
+                    "
+6,2024-05-20,-34.61,EUR,"
+                            ZEPHIROS, a.s.
+                    ","
+                        Platba
+                    /
+                        volebne plagaty
+                    ","
+                        20241356VS20241356/SS/KS
+                    "
+7,2024-05-20,-214.8,EUR,"
+                            PTA
+                    ","
+                        Platba
+                    /
+                        volebne letaky kandidatka
+                    ","
+                        24051602VS24051602/SS/KS
+                    "
+8,2024-05-20,30.0,EUR,"
+                            Janka Kascakova
+                    ","
+                        Platba
+                    /
+                        Kascakova Janka Ing., Za Vodou 3, 064 01 Stara Lubovna, DAR - na Eurokampan 2024 pre stranu DEMOKRATI
+                    ","
+                        7658VS7658/SS/KS558
+                    "
+9,2024-05-20,20.0,EUR,"
+                            Jana Krakovska
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        
+                    "
+10,2024-05-20,100.0,EUR,"
+                            Ing.Jaroslav Galan
+                    ","
+                        PLATBA
+                    /
+                        Jaroslav Galan, Zahradna 41, 08216Zahradne, dar
+                    ","
+                        5607026524VS5607026524/SS/KS0308
+                    "
+11,2024-05-20,50.0,EUR,"
+                            STANISLAV HAVRAN
+                    ","
+                        PLATBA
+                    /
+                        ZVYSENE CLENSKE
+                    ","
+                        
+                    "
+12,2024-05-20,20.0,EUR,"
+                            Ing. Marek Neupauer
+                    ","
+                        PLATBA
+                    /
+                        Bidovce
+                    ","
+                        
+                    "
+13,2024-05-20,-50.0,EUR,"
+                            Stredná odborná škola obchodu a služieb
+                    ","
+                        Platba
+                    /
+                        prenajom RS 16.5., VFNZ051/24
+                    ","
+                        5124VS05124/SS/KS0308
+                    "
 14,2024-05-20,100.0,EUR,Roland Mederi,"Platba/nech sa vam dari ZA demokraciu, a PROTI vznikajucej autokracii,",
 15,2024-05-20,-250.0,EUR,FACEBK *KBAPR4C4L2,EUR NÁKUP POS FACEBK *KBAPR4C4L2 / fb.me/ads / (POS 99999999),
 16,2024-05-17,20.0,EUR,Morbacher Alfred,"Platba/Som mlady clovek, ktory buducnost Slovenska nevidi velmi svetlo. Nikdy vsak nestratim nadej, ze to bude raz inak. Dakujem Vam a drzim palce.",
@@ -44,76 +110,19 @@ VS1500002424/SS/KS0558"
 31,2024-05-13,20.0,EUR,"Toma Jozef, Ing.","Platba/dar Jozef TOMA Jana Smreka 12, 841 08 Bratislava",
 32,2024-05-13,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
 33,2024-05-13,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
-34,2024-05-10,500.0,EUR,"Nosko Vladimír, RNDr., CSc.","
-                        Platba
-                    /
-                        Eva a Vladimir Nosko, Mlynske pole 22, Limbach 90091
-                    ","
-                        
-                    "
-35,2024-05-10,5.0,EUR,"
-                            GRZNAR MATUS
-                    ","
-                        PLATBA
-                    /
-                        Zlu nikdy neustupime
-                    ","
-                        
-                    "
-36,2024-05-10,100.0,EUR,"
-                            Hormannova Zuzana
-                    ","
-                        PLATBA
-                    /
-                        
-                    ","
-                        VS/SS/KS
-                    "
-37,2024-05-09,-120.0,EUR,"
-                            Reklamne studio Kanala s.r.o.
-                    ","
-                        Platba
-                    /
-                        letaky Roznava
-                    ","
-                        252024VS252024/SS/KS
-                    "
-38,2024-05-09,-1158.0,EUR,"
-                            ZEPHIROS, a.s.
-                    ","
-                        Platba
-                    /
-                        letaky, nalepky, plachty
-                    ","
-                        20241258VS20241258/SS/KS
-                    "
-39,2024-05-09,-336.72,EUR,"
-                            Magna Global Slovakia, s.r.o.
-                    ","
-                        Platba
-                    /
-                        kampan EP, billboard, dolep
-                    ","
-                        32240309VS32240309/SS/KS0308
-                    "
-40,2024-05-09,-240.0,EUR,"
-                            CALYPSO AGENCY SR, S
-                    ","
-                        Platba
-                    /
-                        prenajom Trencin 25.4.
-                    ","
-                        2400039VS2400039/SS/KS308
-                    "
-41,2024-05-09,-5016.0,EUR,"
-                            Polygrafické centrum
-                    ","
-                        Platba
-                    /
-                        tlac volebne noviny
-                    ","
-                        403000043VS403000043/SS/KS
-                    "
+34,2024-05-10,500.0,EUR,"Nosko Vladimír, RNDr., CSc.","Platba/Eva a Vladimir Nosko, Mlynske pole 22, Limbach 90091",
+35,2024-05-10,5.0,EUR,GRZNAR MATUS,PLATBA/Zlu nikdy neustupime,
+36,2024-05-10,100.0,EUR,Hormannova Zuzana,PLATBA,VS/SS/KS
+37,2024-05-09,-120.0,EUR,Reklamne studio Kanala s.r.o.,Platba/letaky Roznava,"252024
+VS252024/SS/KS"
+38,2024-05-09,-1158.0,EUR,"ZEPHIROS, a.s.","Platba/letaky, nalepky, plachty","20241258
+VS20241258/SS/KS"
+39,2024-05-09,-336.72,EUR,"Magna Global Slovakia, s.r.o.","Platba/kampan EP, billboard, dolep","32240309
+VS32240309/SS/KS0308"
+40,2024-05-09,-240.0,EUR,"CALYPSO AGENCY SR, S",Platba/prenajom Trencin 25.4.,"2400039
+VS2400039/SS/KS308"
+41,2024-05-09,-5016.0,EUR,Polygrafické centrum,Platba/tlac volebne noviny,"403000043
+VS403000043/SS/KS"
 42,2024-05-09,7000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
 43,2024-05-09,20.0,EUR,"Klinovská Ľubica, Ing.","Platba/Dar Klinovska,Mierova 113,82105 Bratislsva",
 44,2024-05-09,-1500.0,EUR,Matej Kukucka,Platba/graficke prace april,"282024
