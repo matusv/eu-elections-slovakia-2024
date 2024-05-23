@@ -1,26 +1,13 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-05-20,200.0,EUR,"Kleštincová Lucia, Ing.",Platba,
-1,2024-05-20,100.0,EUR,"Adamec Štefan, Ing.",Platba/Stefan Adamec contribution to MEP candidate,"20240520
+0,2024-05-21,50.0,EUR,"Jónás Márk, Ing. Mgr.",Platba/dar pre Luciu,
+1,2024-05-20,200.0,EUR,"Kleštincová Lucia, Ing.",Platba,
+2,2024-05-20,100.0,EUR,"Adamec Štefan, Ing.",Platba/Stefan Adamec contribution to MEP candidate,"20240520
 VS20240520/SS/KS"
-2,2024-05-15,-54.0,EUR,Centrum HUB,Platba/MTG ROOM 1 - April 2024,
-3,2024-05-13,8500.0,EUR,Zednik Richard Edward,Platba/Dar,
-4,2024-05-09,8000.0,EUR,Zednik Richard Edward,"
-                        Platba
-                    /
-                        Dar
-                    ","
-                        
-                    "
-5,2024-05-09,500.0,EUR,"
-                            Zednik Richard Edward
-                    ","
-                        Platba
-                    /
-                        Dar
-                    ","
-                        
-                    "
-6,2024-05-09,7000.0,EUR,"
+3,2024-05-15,-54.0,EUR,Centrum HUB,Platba/MTG ROOM 1 - April 2024,
+4,2024-05-13,8500.0,EUR,Zednik Richard Edward,Platba/Dar,
+5,2024-05-09,8000.0,EUR,Zednik Richard Edward,Platba/Dar,
+6,2024-05-09,500.0,EUR,Zednik Richard Edward,Platba/Dar,
+7,2024-05-09,7000.0,EUR,"
                             Zedník Juraj
                     ","
                         Platba
@@ -29,7 +16,7 @@ VS20240520/SS/KS"
                     ","
                         
                     "
-7,2024-05-02,2000.0,EUR,"
+8,2024-05-02,2000.0,EUR,"
                             Martin Skakala
                     ","
                         Platba
@@ -38,7 +25,7 @@ VS20240520/SS/KS"
                     ","
                         
                     "
-8,2024-04-30,-0.0,EUR,"
+9,2024-04-30,-0.0,EUR,"
                             
                     ","
                         Poplatok za balík
@@ -47,7 +34,7 @@ VS20240520/SS/KS"
                     ","
                         
                     "
-9,2024-04-30,2000.0,EUR,"
+10,2024-04-30,2000.0,EUR,"
                             AD SK, s.r.o.
                     ","
                         Platba
@@ -56,7 +43,7 @@ VS20240520/SS/KS"
                     ","
                         
                     "
-10,2024-04-03,1000.0,EUR,"
+11,2024-04-03,1000.0,EUR,"
                             M RICHARD ZEDNIK OU Mme RACHEL H
                     ","
                         DE24040355107 VZ409238FRL00U01
@@ -65,7 +52,7 @@ VS20240520/SS/KS"
                     ","
                         
                     "
-11,2024-03-30,-0.0,EUR,"
+12,2024-03-30,-0.0,EUR,"
                             
                     ","
                         Poplatok za balík
