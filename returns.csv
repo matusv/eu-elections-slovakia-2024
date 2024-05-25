@@ -13,17 +13,20 @@ index,index,date,amount,account_name,message,vs,name
 11,59,2024-01-29,0.01,MICHAL ZAJIC,ZMRDE. NA LETENKU DO MOSKVY.,,SNS
 12,53,2024-02-15,-0.01,Ruzena Kapusnakova,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
 13,58,2024-01-29,0.01,Ruzena Kapusnakova,Simkovicovej a Dankovi na psychiatricke vysetrenie,,SNS
-14,12,2024-05-21,-10.0,Charles Edouard Richard STENKER,"Platba OO24052100035581/Vratenie daru podla 85/2005 Z.z., navstivte prosim progresivne.sk/podporte-europsku-buducnost",,Progresívne Slovensko
-15,240,2024-04-19,10.0,Charles Edouard Richard STENKER,DE24041959857 801b5bbb1bd343f8/Slovensko patri do EU,,Progresívne Slovensko
-16,282,2024-03-06,-0.1,Valovič Tomáš,Vratenie daru,,Slovensko
-17,297,2024-02-20,0.1,Valovič Tomáš,Igor na hrad,,Slovensko
-18,288,2024-03-06,-0.01,Marek Ostrochovsky,Vratenie daru,,Slovensko
-19,298,2024-02-16,0.01,Marek Ostrochovsky,"coho ste sa chytili, to ste dojebali???",,Slovensko
-20,289,2024-03-06,-5.0,Michalovic David,Vratenie daru,,Slovensko
-21,301,2024-02-13,5.0,Michalovic David,Vela stastia,,Slovensko
-22,285,2024-03-06,-1.5,Jaroslav Balara,Vratenie daru,,Slovensko
-23,296,2024-02-26,1.5,Jaroslav Balara,"Suma 1,5 ? je vyska mojho rodicovskeho prispevku.Dakujem, neprosim?",,Slovensko
-24,176,2024-04-22,-1400.0,Jurčišin Patrik,Mylná platba / Dar - Jakub Berčík,,KDH
-25,194,2024-04-12,1400.0,Jurčišin Patrik,Dar - Jakub Berčík,,KDH
-26,29,2024-04-23,-9.0,Ševčik Martin,vrátenie daru,,Kotlebovci ĽSNS
-27,47,2024-03-22,9.0,Ševčik Martin,alica,,Kotlebovci ĽSNS
+14,26,2024-05-21,-10.0,Charles Edouard Richard STENKER,"Platba OO24052100035581/Vratenie daru podla 85/2005 Z.z., navstivte prosim progresivne.sk/podporte-europsku-buducnost",,Progresívne Slovensko
+15,254,2024-04-19,10.0,Charles Edouard Richard STENKER,DE24041959857 801b5bbb1bd343f8/Slovensko patri do EU,,Progresívne Slovensko
+16,4,2024-05-23,-500.0,Jan Glovicko,Platba/Vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
+17,259,2024-04-18,500.0,Jan Glovicko,Platba/Martin Hojsik,"60192
+VS60192/SS3/KS",Progresívne Slovensko
+18,286,2024-03-06,-0.1,Valovič Tomáš,Vratenie daru,,Slovensko
+19,301,2024-02-20,0.1,Valovič Tomáš,Igor na hrad,,Slovensko
+20,292,2024-03-06,-0.01,Marek Ostrochovsky,Vratenie daru,,Slovensko
+21,302,2024-02-16,0.01,Marek Ostrochovsky,"coho ste sa chytili, to ste dojebali???",,Slovensko
+22,293,2024-03-06,-5.0,Michalovic David,Vratenie daru,,Slovensko
+23,305,2024-02-13,5.0,Michalovic David,Vela stastia,,Slovensko
+24,289,2024-03-06,-1.5,Jaroslav Balara,Vratenie daru,,Slovensko
+25,300,2024-02-26,1.5,Jaroslav Balara,"Suma 1,5 ? je vyska mojho rodicovskeho prispevku.Dakujem, neprosim?",,Slovensko
+26,178,2024-04-22,-1400.0,Jurčišin Patrik,Mylná platba / Dar - Jakub Berčík,,KDH
+27,196,2024-04-12,1400.0,Jurčišin Patrik,Dar - Jakub Berčík,,KDH
+28,29,2024-04-23,-9.0,Ševčik Martin,vrátenie daru,,Kotlebovci ĽSNS
+29,47,2024-03-22,9.0,Ševčik Martin,alica,,Kotlebovci ĽSNS
