@@ -32,99 +32,66 @@ VS7658/SS/KS558"
 21,2024-05-20,20.0,EUR,Jana Krakovska,Platba,
 22,2024-05-20,100.0,EUR,Ing.Jaroslav Galan,"PLATBA/Jaroslav Galan, Zahradna 41, 08216Zahradne, dar","5607026524
 VS5607026524/SS/KS0308"
-23,2024-05-20,50.0,EUR,STANISLAV HAVRAN,PLATBA/ZVYSENE CLENSKE,
-24,2024-05-20,20.0,EUR,Ing. Marek Neupauer,PLATBA/Bidovce,
-25,2024-05-20,-50.0,EUR,Stredná odborná škola obchodu a služieb,"Platba/prenajom RS 16.5., VFNZ051/24","5124
-VS05124/SS/KS0308"
-26,2024-05-20,100.0,EUR,Roland Mederi,"Platba/nech sa vam dari ZA demokraciu, a PROTI vznikajucej autokracii,",
-27,2024-05-20,-250.0,EUR,FACEBK *KBAPR4C4L2,EUR NÁKUP POS FACEBK *KBAPR4C4L2 / fb.me/ads / (POS 99999999),
+23,2024-05-20,50.0,EUR,STANISLAV HAVRAN,"
+                        PLATBA
+                    /
+                        ZVYSENE CLENSKE
+                    ","
+                        
+                    "
+24,2024-05-20,20.0,EUR,"
+                            Ing. Marek Neupauer
+                    ","
+                        PLATBA
+                    /
+                        Bidovce
+                    ","
+                        
+                    "
+25,2024-05-20,-50.0,EUR,"
+                            Stredná odborná škola obchodu a služieb
+                    ","
+                        Platba
+                    /
+                        prenajom RS 16.5., VFNZ051/24
+                    ","
+                        5124VS05124/SS/KS0308
+                    "
+26,2024-05-20,100.0,EUR,"
+                            Roland Mederi
+                    ","
+                        Platba
+                    /
+                        nech sa vam dari ZA demokraciu, a PROTI vznikajucej autokracii,
+                    ","
+                        
+                    "
+27,2024-05-20,-250.0,EUR,"
+                            FACEBK *KBAPR4C4L2
+                    ","
+                        EUR NÁKUP POS FACEBK *KBAPR4C4L2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
 28,2024-05-17,20.0,EUR,Morbacher Alfred,"Platba/Som mlady clovek, ktory buducnost Slovenska nevidi velmi svetlo. Nikdy vsak nestratim nadej, ze to bude raz inak. Dakujem Vam a drzim palce.",
 29,2024-05-17,300.0,EUR,PETER BRINDZA,PLATBA/Dar,
 30,2024-05-17,5.0,EUR,GRZNAR MATUS,PLATBA/Zlu nikdy neustupime,
 31,2024-05-17,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
 32,2024-05-16,-154.8,EUR,Mesto Rožňava,Platba/dan Roznava 7.5.,"1500029022
 VS1500029022/SS2403010569/KS0558"
-33,2024-05-16,-2.56,EUR,"
-                            Mesto Presov
-                    ","
-                        Platba
-                    /
-                        dan presov 18.4.
-                    ","
-                        1500052292VS1500052292/SS2403041098/KS0558
-                    "
-34,2024-05-16,20.0,EUR,"
-                            TOMAS BENO
-                    ","
-                        PLATBA
-                    /
-                        PRISPEVOK DEMOKRATOM
-                    ","
-                        
-                    "
-35,2024-05-15,100.0,EUR,"
-                            Húževková Katarína
-                    ","
-                        Platba
-                    /
-                        Huzevkova Katarina dar
-                    ","
-                        
-                    "
-36,2024-05-15,-250.0,EUR,"
-                            FACEBK*
-                    ","
-                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-37,2024-05-14,30.0,EUR,"
-                            Kunová Marta
-                    ","
-                        Platba
-                    /
-                        Marta Kunova Dar
-                    ","
-                        
-                    "
-38,2024-05-14,38.0,EUR,"
-                            INGRID VARGOVA
-                    ","
-                        PLATBA
-                    /
-                        PLATBA NA KAMPAN EUROVOLBY
-                    ","
-                        VS/SS/KS0308
-                    "
-39,2024-05-14,-250.0,EUR,"
-                            FACEBK*
-                    ","
-                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-40,2024-05-13,-16.0,EUR,"
-                            BU hlavný účet
-                    ","
-                        Platba
-                    /
-                        komarno, dan za ver.priestranstvo
-                    ","
-                        1500002424VS1500002424/SS/KS0558
-                    "
-41,2024-05-13,20.0,EUR,"
-                            Jana Krakovska
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
+33,2024-05-16,-2.56,EUR,Mesto Presov,Platba/dan presov 18.4.,"1500052292
+VS1500052292/SS2403041098/KS0558"
+34,2024-05-16,20.0,EUR,TOMAS BENO,PLATBA/PRISPEVOK DEMOKRATOM,
+35,2024-05-15,100.0,EUR,Húževková Katarína,Platba/Huzevkova Katarina dar,
+36,2024-05-15,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
+37,2024-05-14,30.0,EUR,Kunová Marta,Platba/Marta Kunova Dar,
+38,2024-05-14,38.0,EUR,INGRID VARGOVA,PLATBA/PLATBA NA KAMPAN EUROVOLBY,VS/SS/KS0308
+39,2024-05-14,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
+40,2024-05-13,-16.0,EUR,BU hlavný účet,"Platba/komarno, dan za ver.priestranstvo","1500002424
+VS1500002424/SS/KS0558"
+41,2024-05-13,20.0,EUR,Jana Krakovska,Platba,
 42,2024-05-13,250.0,EUR,Tirko Peter,DE24051350381 34000240512D8492/(CdtrRefInf)(Tp)(CdOrPrtry)(Cd)SCOR(/Cd)(/CdOrPrtry)(/Tp)(Ref)Eurovolby(/Ref)(/CdtrRefInf),
 43,2024-05-13,20.0,EUR,"Toma Jozef, Ing.","Platba/dar Jozef TOMA Jana Smreka 12, 841 08 Bratislava",
 44,2024-05-13,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),

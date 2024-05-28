@@ -1,14 +1,47 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-05-25,10.0,EUR,Papež Václav,Platba,"60329
-VS60329/SS12/KS"
-1,2024-05-25,250.0,EUR,Vašáková Lívia,Platba/podpora pre L Karvasovu,"60328
-VS60328/SS2/KS"
-2,2024-05-25,250.0,EUR,Fudala Viktor,Platba/Darovacia zmluva na podporu kandidata Lubica Karvasova v eurovolbach 2024,"60327
-VS60327/SS2/KS"
-3,2024-05-25,30.0,EUR,Katarina Karasova,Platba,"60326
-VS60326/SS/KS"
-4,2024-05-24,999.0,EUR,Lucia Paskova,Platba/Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024,"60324
-VS60324/SS7/KS"
+0,2024-05-25,10.0,EUR,Papež Václav,"
+                        Platba
+                    /
+                        
+                    ","
+                        60329VS60329/SS12/KS
+                    "
+1,2024-05-25,250.0,EUR,"
+                            Vašáková Lívia
+                    ","
+                        Platba
+                    /
+                        podpora pre L  Karvasovu
+                    ","
+                        60328VS60328/SS2/KS
+                    "
+2,2024-05-25,250.0,EUR,"
+                            Fudala Viktor
+                    ","
+                        Platba
+                    /
+                        Darovacia zmluva na podporu kandidata Lubica Karvasova v eurovolbach 2024
+                    ","
+                        60327VS60327/SS2/KS
+                    "
+3,2024-05-25,30.0,EUR,"
+                            Katarina Karasova
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        60326VS60326/SS/KS
+                    "
+4,2024-05-24,999.0,EUR,"
+                            Lucia Paskova
+                    ","
+                        Platba
+                    /
+                        Darovacia zmluva na podporu kandidata Miroslav Kocur v eurovolbach 2024
+                    ","
+                        60324VS60324/SS7/KS
+                    "
 5,2024-05-24,-1800.0,EUR,"
                             VLN Production
                     ","
