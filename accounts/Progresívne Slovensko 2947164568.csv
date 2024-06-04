@@ -7,18 +7,81 @@ VS60413/SS2/KS"
 3,2024-05-31,-7.0,EUR,,Poplatok za balík,
 4,2024-05-31,200.0,EUR,Marek Stefanisko,Platba/Darovacia zmluva na podporu kandidata Marek Stefanisko v eurovolbach 2024,"60411
 VS60411/SS13/KS"
-5,2024-05-31,20.0,EUR,SEMANISINOVA ZANETA,PLATBA/Darovacia zmluva na podporu kandidata ps v eurovol,"60403
-VS60403/SS/KS"
-6,2024-05-31,75.0,EUR,Jánsky Peter,Platba/Darovacia zmluva na podporu kandidata ps v eurovolbach 2024,"60409
-VS60409/SS/KS"
-7,2024-05-31,-1700.0,EUR,"CUBEK, s. r. o.","Platba/CUBEK, kalkan koordinacia zapadne slovensko","202401
-VS202401/SS/KS"
-8,2024-05-31,-800.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
-9,2024-05-31,-800.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
-10,2024-05-31,-5.5,EUR,LA GUTOSO S.R.O.,POS nákup LA GUTOSO S.R.O. / NOVE ZAMKY / (POS G2NPU912),
-11,2024-05-31,-5.0,EUR,LA GUTOSO S.R.O.,POS nákup LA GUTOSO S.R.O. / NOVE ZAMKY / (POS G2NPU912),
-12,2024-05-31,-800.0,EUR,FACEBK *2DBA85LXC2,EUR NÁKUP POS FACEBK *2DBA85LXC2 / fb.me/ads / (POS 99999999),
-13,2024-05-31,-800.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
+5,2024-05-31,20.0,EUR,SEMANISINOVA ZANETA,PLATBA/Darovacia zmluva na podporu kandidata ps v eurovol,"
+                        60403VS60403/SS/KS
+                    "
+6,2024-05-31,75.0,EUR,"
+                            Jánsky Peter
+                    ","
+                        Platba
+                    /
+                        Darovacia zmluva na podporu kandidata ps v eurovolbach 2024
+                    ","
+                        60409VS60409/SS/KS
+                    "
+7,2024-05-31,-1700.0,EUR,"
+                            CUBEK, s. r. o.
+                    ","
+                        Platba
+                    /
+                        CUBEK, kalkan koordinacia zapadne slovensko
+                    ","
+                        202401VS202401/SS/KS
+                    "
+8,2024-05-31,-800.0,EUR,"
+                            FACEBK*
+                    ","
+                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+9,2024-05-31,-800.0,EUR,"
+                            FACEBK*
+                    ","
+                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+10,2024-05-31,-5.5,EUR,"
+                            LA GUTOSO S.R.O.
+                    ","
+                        POS nákup LA GUTOSO S.R.O. / NOVE ZAMKY / (POS G2NPU912)
+                    /
+                        
+                    ","
+                        
+                    "
+11,2024-05-31,-5.0,EUR,"
+                            LA GUTOSO S.R.O.
+                    ","
+                        POS nákup LA GUTOSO S.R.O. / NOVE ZAMKY / (POS G2NPU912)
+                    /
+                        
+                    ","
+                        
+                    "
+12,2024-05-31,-800.0,EUR,"
+                            FACEBK *2DBA85LXC2
+                    ","
+                        EUR NÁKUP POS FACEBK *2DBA85LXC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+13,2024-05-31,-800.0,EUR,"
+                            FACEBK*
+                    ","
+                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
 14,2024-05-31,-500.0,EUR,GoogleAdwordsEU ADS173487,EUR NÁKUP POS GoogleAdwordsEU ADS173487 / Dublin / (POS 99999999),
 15,2024-05-31,-1000.0,EUR,GoogleAdwordsEU ADS862770,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
 16,2024-05-31,-800.0,EUR,FACEBK *5WXRK3YXC2,EUR NÁKUP POS FACEBK *5WXRK3YXC2 / fb.me/ads / (POS 99999999),
