@@ -6,17 +6,85 @@ index,date,amount,currency,account_name,message,vs
 VS32240381/SS/KS0308"
 4,2024-05-31,-3.0,EUR,MESTSKÁ ČASŤ BRATISLAVA - RAČA,Platba/Dan uzivanie priestranstva Raca 27.5.,"1500003892
 VS1500003892/SS/KS379"
-5,2024-05-31,-138.6,EUR,"ZEPHIROS, a.s.",Platba/letaky,"20241572
-VS20241572/SS/KS"
-6,2024-05-31,5000.0,EUR,Demokrati,Platba/na uhradu vydavkov kampane volieb do EP z BU Demokrati,
-7,2024-05-31,-1500.0,EUR,Matej Kukucka,Platba/graficke prace maj,"402024
-VS402024/SS/KS"
-8,2024-05-31,5.0,EUR,GRZNAR MATUS,PLATBA/Zlu nikdy neustupime,
-9,2024-05-31,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
-10,2024-05-31,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
-11,2024-05-31,-250.0,EUR,FACEBK *429GM5G4L2,EUR NÁKUP POS FACEBK *429GM5G4L2 / fb.me/ads / (POS 99999999),
-12,2024-05-31,-500.0,EUR,GoogleAdwordsEU ADS258323,EUR NÁKUP POS GoogleAdwordsEU ADS258323 / Dublin / (POS 99999999),
-13,2024-05-31,-250.0,EUR,FACEBK *SGYSY4U4L2,EUR NÁKUP POS FACEBK *SGYSY4U4L2 / fb.me/ads / (POS 99999999),
+5,2024-05-31,-138.6,EUR,"ZEPHIROS, a.s.","
+                        Platba
+                    /
+                        letaky
+                    ","
+                        20241572VS20241572/SS/KS
+                    "
+6,2024-05-31,5000.0,EUR,"
+                            Demokrati
+                    ","
+                        Platba
+                    /
+                        na uhradu vydavkov kampane volieb do EP z BU Demokrati
+                    ","
+                        
+                    "
+7,2024-05-31,-1500.0,EUR,"
+                            Matej Kukucka
+                    ","
+                        Platba
+                    /
+                        graficke prace maj
+                    ","
+                        402024VS402024/SS/KS
+                    "
+8,2024-05-31,5.0,EUR,"
+                            GRZNAR MATUS
+                    ","
+                        PLATBA
+                    /
+                        Zlu nikdy neustupime
+                    ","
+                        
+                    "
+9,2024-05-31,-250.0,EUR,"
+                            FACEBK*
+                    ","
+                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+10,2024-05-31,-250.0,EUR,"
+                            FACEBK*
+                    ","
+                        EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+11,2024-05-31,-250.0,EUR,"
+                            FACEBK *429GM5G4L2
+                    ","
+                        EUR NÁKUP POS FACEBK *429GM5G4L2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+12,2024-05-31,-500.0,EUR,"
+                            GoogleAdwordsEU ADS258323
+                    ","
+                        EUR NÁKUP POS GoogleAdwordsEU ADS258323 / Dublin / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+13,2024-05-31,-250.0,EUR,"
+                            FACEBK *SGYSY4U4L2
+                    ","
+                        EUR NÁKUP POS FACEBK *SGYSY4U4L2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
 14,2024-05-31,-250.0,EUR,FACEBK*,EUR NÁKUP POS FACEBK* / fb.me/ads / (POS 99999999),
 15,2024-05-31,-250.0,EUR,FACEBK *YE2YZ4U3L2,EUR NÁKUP POS FACEBK *YE2YZ4U3L2 / fb.me/ads / (POS 99999999),
 16,2024-05-31,-250.0,EUR,FACEBK *EW9NB5C4L2,EUR NÁKUP POS FACEBK *EW9NB5C4L2 / fb.me/ads / (POS 99999999),
