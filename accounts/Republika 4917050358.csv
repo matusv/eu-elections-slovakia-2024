@@ -1,214 +1,237 @@
 index,date,amount,account_name,message,vs
-0,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-1,2024-06-04,-960.0,Platba kartou,FACEBK *D5NZ34QDC2 fb.me/ads,****639
-2,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-3,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-4,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-5,2024-06-03,-967.82,Platba kartou,FACEBK *EWVGS34EC2 fb.me/ads,****639
-6,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-7,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-8,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-9,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-10,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-11,2024-06-02,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-12,2024-06-02,-960.0,Platba kartou,FACEBK *EZ8AB4GEC2 fb.me/ads,****639
-13,2024-06-02,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-14,2024-06-02,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-15,2024-06-02,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-16,2024-06-02,-960.0,Platba kartou,FACEBK *DR5U25CEC2 fb.me/ads,****639
-17,2024-06-02,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-18,2024-06-02,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-19,2024-06-02,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
-20,2024-06-03,-1500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-21,2024-06-03,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
-22,2024-06-03,-960.0,Platba kartou,FACEBK *PAT3E4L fb.me/ads,****639
-23,2024-06-03,-960.0,Platba kartou,FACEBK *7YAFZ38 fb.me/ads,****639
-24,2024-06-03,-960.0,Platba kartou,FACEBK *JFYJ84L fb.me/ads,****639
-25,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-26,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-27,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-28,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-29,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-30,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-31,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-32,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-33,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-34,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-35,2024-06-03,-500.0,Platba kartou,GoogleAdwordsEU Dublin,****639
-36,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-37,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-38,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-39,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-40,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-41,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-42,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-43,2024-06-03,50000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet, 
-44,2024-05-31,-16.98, ,Poplatky za platby spolu,9
-45,2024-05-31,-0.2, ,Popl.za 1x elektronický výpis,9
-46,2024-05-31,-7.0, ,Vedenie účtu,9
-47,2024-05-31,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
-48,2024-05-31,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-49,2024-05-31,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-50,2024-05-31,-500.0,Výber mobilom,S6AV162T NITRA 08:17,****639
-51,2024-05-31,-500.0,Výber mobilom,S6AV162T NITRA 08:16,****639
-52,2024-05-31,-500.0,Výber mobilom,S6AV162T NITRA 08:15,****639
-53,2024-05-31,-500.0,Výber mobilom,S6AV162T NITRA 08:14,****639
-54,2024-05-31,-500.0,Výber mobilom,S6AV162T NITRA 08:14,****639
-55,2024-05-31,-500.0,Výber mobilom,S6AV162T NITRA 08:13,****639
-56,2024-05-30,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
-57,2024-05-30,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-58,2024-05-30,-210.0,"ANWELL, s.r.o.",Plagaty EV24, 
-59,2024-05-29,-60.0,Mesto Trebisov, ,5002400058
-60,2024-05-29,210.0,Maria Halgasova,"Maria Halgasova Rybnicna 74, 93041 Hviezdoslavov. DAR",20241817
-61,2024-05-29,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
-62,2024-05-29,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-63,2024-05-29,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-64,2024-05-29,-2090.0,RePriMe s.r.o.,Inzercia EV2024,240004
-65,2024-05-29,-961.92,"JUDr. Miroslav Kamensky, advokat",Vratenie daru Miroslav Kamensky,20241800
-66,2024-05-29,-320.0,Eva Pastorkova,"Obcerstvenie, propagacia", 
-67,2024-05-29,-15.0,Obec Stefanov nad Oravou,Vyhlasenie v rozhlase,22024
-68,2024-05-29,-425.82,RCS reklama s.r.o.,Letaky EV24,820240331
-69,2024-05-28,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
-70,2024-05-28,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-71,2024-05-27,-960.0,"VUB,A.S.",DDFACEBK~*QLZRL3Qfb.me/ads~~~~~~P1,****639
-72,2024-05-27,-960.0,"VUB,A.S.",DDFACEBK*~~~~~~~~fb.me/ads~~~~~~P1,****639
-73,2024-05-27,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
-74,2024-05-27,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
-75,2024-05-27,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
-76,2024-05-27,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
-77,2024-05-27,961.92,"JUDr. Miroslav Kamensky, advokat",Miroslav Kamensky Jiraskova 23 974 06 Banska Bystrica DAR. uhrada fa,20241800
-78,2024-05-23,-960.0,Platba kartou,FACEBK *4WDMK4C fb.me/ads,****639
-79,2024-05-23,-4200.0,Chez Mimi s.r.o.,Medialny priestor 05/24,20240005
-80,2024-05-22,-960.0,Platba kartou,FACEBK *W4K7V3L fb.me/ads,****639
-81,2024-05-22,-2046.0,ARTON s.r.o.,Tlac plagatov 06/24,240239
-82,2024-05-22,-531.6,Katarina Klukova - GIGA,Letaky EV24,2024110
-83,2024-05-22,-18420.0,ARTON s.r.o.,Rekl. plochy 06/24,240238
-84,2024-05-22,-1048.34,"ANWELL, s.r.o.",Letaky EV24,20241675
-85,2024-05-22,-2500.0,VERBINA o.z.,Rekl priestor Hlavny Dennik,2405003
-86,2024-05-22,-4320.0,FRONTINUS s.r.o.,Politicka reklama EV24,1824
-87,2024-05-22,-16.55,Mesto Tvrdosin,Hlasenie v rozhlase,624036
-88,2024-05-22,-6000.0,Heureka Evolution s.r.o.,Bannerova kampan EV24,20240010
-89,2024-05-20,-160.0,Mesto Tvrdosin,Prenajom priestorov na miting,624033
-90,2024-05-20,-960.0,Platba kartou,FACEBK *ZEFN73U fb.me/ads,****639
-91,2024-05-20,-772.91,"VUB,A.S.",DDFACEBK~*E7TUF38fb.me/ads~~~~~~P1,****639
-92,2024-05-20,50.0,Terek Dusan,"Dusan Terek, Turecka 6, Senec, DAR", 
-93,2024-05-20,-5032.67,RCS reklama s.r.o.,Letaky EV24,820240314
-94,2024-05-20,-1300.0,Matica Slovenska,Inzercia SNN,20241067
-95,2024-05-20,-6000.0,Heureka Evolution s.r.o.,Bannerova kampan EV24,20240009
-96,2024-05-17,500.0,"JUDr. Miroslav Kamensky, advokat",Miroslav Kamensky Jiraskova 23 974 06 Banska Bystrica DAR, 
-97,2024-05-17,499.0,Miroslav Kamensky,Miroslav Kamensky Jiraskova 23 974 06 Banska Bystrica DAR, 
-98,2024-05-16,-960.0,"VUB,A.S.",DDFACEBK~*4B8YE4Yfb.me/ads~~~~~~P1,****639
-99,2024-05-16,-6000.0,Heuréka Evolution s.r.o.,Bannerova kampan EV24,20240008
-100,2024-05-14,100000.0,REPUBLIKA, , 
-101,2024-05-14,-534.0,Katarína Kluková - GIGA,Letaky EV24,2400001
-102,2024-05-14,-530.4,Miroslav Jiránek - BEPA,Bannery EV24,24227
-103,2024-05-14,-6000.0,Heuréka Evolution s.r.o.,Bannerova kampan EV24,20240007
-104,2024-05-13,-200.0,Obec Poproc,Prenajom priestorov na miting EV24,1118400041
-105,2024-05-10,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
-106,2024-05-09,5.0,Peter Varchoľak,"Peter Varcholak, Sadova 493/58, Stakcin 06761, DAR", 
-107,2024-05-09,-28590.8,CyberSoft s.r.o.,Billboardy a plagaty EV24,24050601
-108,2024-05-09,-852.0,Dataprint sk s.r.o.,Tlac bannerov EV24,2024048
-109,2024-05-09,-6810.0,W-Mont s.r.o.,Montaz bannerov EV24,2024003
-110,2024-05-09,-72.0,Print Factory s.r.o.,Tlac letakov EV24,20240119
-111,2024-05-09,-388.8,Ing. Pavol Anderko - ANKO,Vyroba plagatu,244029
-112,2024-05-09,-3000.0,HMCC s.r.o.,Reklamne panely 05/24,24004
-113,2024-05-09,-2160.0,Ing. Pavol Anderko - ANKO,Billboardy 05/24,240190
-114,2024-05-09,-5808.0,"NUBIUM, s.r.o.",Billboardy 05/24,24052902
-115,2024-05-09,-59.0,Obec Stos,"Prenajom saly, rozhlas EV24",2415
-116,2024-05-07,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
-117,2024-05-07,-50.0,Mesto Dubnica nad Vahom,Platba za prenajom priestorov na kulturne podujatie,6040524
-118,2024-05-06,-960.0,"VUB,A.S.",DDFACEBK*~~~~~~~~fb.me/ads~~~~~~P1,****639
-119,2024-05-02,-960.0,"VUB,A.S.",DDFACEBK*~~~~~~~~fb.me/ads~~~~~~P1,****639
-120,2024-05-02,-249.36,"TRISTANPRESS, spol. s r.o.",Billboardy EV24,2024214
-121,2024-05-02,-4000.0,Radovan Fasung, ,42024
-122,2024-04-30,-7.36, ,Poplatky za platby spolu,9
-123,2024-04-30,-0.2, ,Popl.za 1x elektronický výpis,9
-124,2024-04-30,-7.0, ,Vedenie účtu,9
-125,2024-04-30,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
-126,2024-04-30,-0.05, ,POPLATKY ZA RECYKLACIU,9
-127,2024-04-29,-960.0,"VUB,A.S.",DDFACEBK*~~~~~~~~fb.me/ads~~~~~~P1,****639
-128,2024-04-26,-3000.0, ,Reklamne panely,24001
-129,2024-04-26,-959.96,Platba kartou,FACEBK* fb.me/ads,****639
-130,2024-04-26,-1596.0,"ISPA, spol. s r.o.",Reklamne plochy 05/2024,24950123
-131,2024-04-26,-28582.8,"CyberSoft, s.r.o.",Billboardy 05/2024,24041201
-132,2024-04-24,100000.0,REPUBLIKA, , 
-133,2024-04-24,-2046.0,"ARTON, s.r.o.", ,240174
-134,2024-04-23,-960.0,Platba kartou,FACEBK ZRSPH3YD fb.me/ads,****639
-135,2024-04-23,-18600.0,"ARTON, s.r.o.", ,240173
-136,2024-04-22,-535.02,"VUB,A.S.",DDFACEBK~6T8K828Efb.me/ads~~~~~~P1,****639
-137,2024-04-22,-500.0,"VUB,A.S.",DDS6AV162M~~~~~~~NITRA~~~~~13:13M1,****639
-138,2024-04-22,-500.0,"VUB,A.S.",DDS6AV162M~~~~~~~NITRA~~~~~13:12M1,****639
-139,2024-04-22,-500.0,"VUB,A.S.",DDS6AV162M~~~~~~~NITRA~~~~~13:11M1,****639
-140,2024-04-22,-500.0,"VUB,A.S.",DDS6AV162M~~~~~~~NITRA~~~~~13:10M1,****639
-141,2024-04-22,-2143.2,"Dataprint sk, s.r.o.", ,2024044
-142,2024-04-22,-4545.6,"Dataprint sk, s.r.o.", ,2024043
-143,2024-04-22,-4000.0, , , 
-144,2024-04-22,-2090.0,Vydavatelstvo HELENA - Mgr. Alena Jassova, ,24041
-145,2024-04-22,-5292.0,Dataprint sk s.r.o., ,2024037
-146,2024-04-22,-5184.0,Dataprint SK s.r.o., ,2024035
-147,2024-04-22,-2500.0, , ,2404004
-148,2024-04-18,-960.0,Platba kartou,FACEBK AGSGG2LE fb.me/ads,****639
-149,2024-04-16,-960.0,Platba kartou,FACEBK 25VF92LD fb.me/ads,****639
-150,2024-04-15,-960.0,"VUB,A.S.",DDFACEBK~MHM363YDfb.me/ads~~~~~~P1,****639
-151,2024-04-08,-960.0,Platba kartou,FACEBK GV8DHZTD fb.me/ads,****639
-152,2024-04-08,5.0,Peter Varchoľak,"Peter Varcholak, Sadova 493/58, Stakcin 06761, DAR", 
-153,2024-04-03,-4000.0,Radovan Fasung, ,32024
-154,2024-04-03,-924.0,"NUBIUM, s.r.o.", ,24042275
-155,2024-04-03,-372.0,"BigMedia, spol. s r.o.", ,122490041
-156,2024-04-03,-372.0,"BigMedia, spol. s r.o.", ,122490040
-157,2024-04-03,-0.15, ,Poplatky Nonstop banking - SMS, 
-158,2024-04-02,-960.0,"VUB,A.S.",DDFACEBK~FUBQCZTDfb.me/ads~~~~~~P1,****639
-159,2024-03-28,-6.38, ,Poplatky za platby spolu,9
-160,2024-03-28,-0.2, ,Popl.za 1x elektronický výpis,9
-161,2024-03-28,-7.0, ,Vedenie účtu,9
-162,2024-03-28,-960.0,Platba kartou,FACEBK YUHBB2CE fb.me/ads,****639
-163,2024-03-25,-959.96,Platba kartou,FACEBK 6XTL5ZPD fb.me/ads,****639
-164,2024-03-20,-12096.0,"ISPA, spol. s r.o.", ,24950079
-165,2024-03-20,-6720.0,"ARTON, s.r.o.", ,240123
-166,2024-03-20,-1770.0,"G - tvar studia, s.r.o.", ,24001
-167,2024-03-20,-864.0,Ing. Pavol Anderko - ANKO, ,240111
-168,2024-03-20,-739.2,"ARTON, s.r.o.", ,240124
-169,2024-03-20,-504.0,Ing. Pavol Anderko - ANKO, ,244018
-170,2024-03-20,-84.24,RCS reklama s.r.o., ,820240157
-171,2024-03-20,-344.84,Platba kartou,FACEBK HWA84Z7E fb.me/ads,****639
-172,2024-03-19,-960.0,Platba kartou,FACEBK XS4PXYPD fb.me/ads,****639
-173,2024-03-18,-960.0,Platba kartou,FACEBK JEE6SYTD fb.me/ads,****639
-174,2024-03-15,-5796.0,"CyberSoft, s.r.o.", ,24031101
-175,2024-03-15,-6144.0,"ISPA, spol. s r.o.", , 
-176,2024-03-14,-960.0,Platba kartou,FACEBK 5LULSYPD fb.me/ads,****639
-177,2024-03-11,-960.0,"VUB,A.S.",DDFACEBK~V6TMPYPDfb.me/ads~~~~~~P1,****639
-178,2024-03-11,-960.0,"VUB,A.S.",DDFACEBK~F5KNVZXDfb.me/ads~~~~~~P1,****639
-179,2024-03-08,-1664.96, ,SEPA Europrevod/NonSEPAPrevod,820240132
-180,2024-03-08,-960.0,Platba kartou,FACEBK H268LYPD fb.me/ads,****639
-181,2024-03-08,5.0,Peter Varchoľak,"Peter Varcholak, Sadova 493/58, Stakcin 06761, DAR", 
-182,2024-03-07,-960.0,Platba kartou,FACEBK G7M8NY7E fb.me/ads,****639
-183,2024-03-06,-960.0,"VUB,A.S.",DDFACEBK~FL5UQZXDfb.me/ads~~~~~~P1,****639
-184,2024-03-04,-960.0,"VUB,A.S.",DDFACEBK~GAXE7Y3Efb.me/ads~~~~~~P1,****639
-185,2024-03-04,-960.0,"VUB,A.S.",DDFACEBK~6S3LNYFEfb.me/ads~~~~~~P1,****639
-186,2024-03-04,-792.0,"NUBIUM, s.r.o", ,24031488
-187,2024-03-04,50000.0,REPUBLIKA, , 
-188,2024-03-04,50000.0,REPUBLIKA, , 
-189,2024-03-01,-960.0,"VUB,A.S.",DDFACEBK~8AE8KZXDfb.me/ads~~~~~~P1,****639
-190,2024-03-01,-14.0, ,Ročný popl. Vydanie/obnova karty,639
-191,2024-03-01,-3.5, ,P-Zmena pod. vzoru právnická osoba, 
-192,2024-03-01,-4692.0,GRYF reklamne studio,prenajom reklamnych ploch 05/2024,24022
-193,2024-02-29,-3.52, ,Poplatky za platby spolu,9
-194,2024-02-29,-0.2, ,Popl.za 1x elektronický výpis,9
-195,2024-02-29,-7.0, ,Vedenie účtu,9
-196,2024-02-29,-960.0,Platba kartou,FACEBK KDFF6YTD fb.me/ads,****639
-197,2024-02-26,-960.0,Platba kartou,FACEBK 87DA5ZBE fb.me/ads,****639
-198,2024-02-26,-960.0,"VUB,A.S.",DDFACEBK~R5EQ7ZBEfb.me/ads~~~~~~P1,****639
-199,2024-02-21,-6600.0,"ARTON, sro",bilbordy 03/2024,240058
-200,2024-02-21,-6486.0,"CyberSoft, sro",reklamna kampan 03/2024,24021901
-201,2024-02-21,-726.0,"ARTON, sro",tlac plagatov,240059
-202,2024-02-01,-60.5,APPKEE,tarif aplikacia 02/2024,20230649
-203,2024-02-01,-60.5,APPKEE,tarif aplikacia 01/2024,20240055
-204,2024-02-01,-60.5,APPKEE,tarif aplikacia 11/2023,20230849
-205,2024-02-01,-60.5,APPKEE,tarif aplikacia 12/2023,20230943
-206,2024-02-01,-11880.0,GRYF reklamne studio,zaloha za reklamne plochy big 05/24,24010
-207,2024-02-01,-20838.0,GRYF reklamne studio,zaloha za reklamne plochy 05/24,24008
-208,2024-02-01,-20010.0,GRYF reklamne studio,zaloha za reklamne plochy 06/24,24009
-209,2024-02-01,-6900.0,GRYF reklamne studio,zaloha za reklamne plochy 04/24,24007
-210,2024-02-01,-9384.0,GRYF reklamne studio,zaloha za reklamne plochy 03/24,24006
-211,2024-02-01,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet, 
-212,2024-01-31,-7.0, ,Vedenie účtu,9
+0,2024-06-05,-960.0,Platba kartou,FACEBK *NDZH54QDC2 fb.me/ads,****639
+1,2024-06-05,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+2,2024-06-05,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+3,2024-06-05,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+4,2024-06-05,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+5,2024-06-05,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+6,2024-06-05,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+7,2024-06-04,-960.0,Platba kartou,FACEBK *D5NZ34QDC2 fb.me/ads,****639
+8,2024-06-04,-960.0,Platba kartou,FACEBK *B5JRC5YDC2 fb.me/ads,****639
+9,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+10,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+11,2024-06-04,-960.0,Platba kartou,FACEBK *KYA4D5YDC2 fb.me/ads,****639
+12,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+13,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+14,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+15,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+16,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+17,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+18,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+19,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+20,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+21,2024-06-03,-967.82,Platba kartou,FACEBK *EWVGS34EC2 fb.me/ads,****639
+22,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+23,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+24,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS1481697298 CC GOOGLE.COM,****639
+25,2024-06-05,-10.0, ,P-Blokácia na žiadosť klienta, 
+26,2024-06-05,40000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet, 
+27,2024-06-04,-6804.0,CyberSoft s.r.o.,Billboardova kampan jun 2024,24052801
+28,2024-06-04,-4200.0,PaedDr. Mgr. Miroslav Suja,Rekl priestor na podujati,240100016
+29,2024-06-04,-4000.0,Radovan Fasung,Graficke a marketingove sluzby EV24,52024
+30,2024-06-04,-1800.0,SITA Slovenska tlacova agentura a.s.,Video rozhovor EV24,312400631
+31,2024-06-04,-1700.0,Medialis s.r.o.,Rozhovor napalete.sk,2024004
+32,2024-06-04,-1700.0, ,Rozhovor napalete.sk,2024003
+33,2024-06-04,-990.0,Spacek Consulting s.r.o.,Video EV24,1
+34,2024-06-04,-960.0,Platba kartou,FACEBK *EZ8AB4G fb.me/ads,****639
+35,2024-06-04,-960.0,Platba kartou,FACEBK *DR5U25C fb.me/ads,****639
+36,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+37,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+38,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+39,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+40,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+41,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+42,2024-06-04,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+43,2024-06-03,-1500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+44,2024-06-03,-960.0,"VUB,A.S.",DDFACEBK*~~~~~~~~fb.me/ads~~~~~~P1,****639
+45,2024-06-03,-960.0,Platba kartou,FACEBK *PAT3E4L fb.me/ads,****639
+46,2024-06-03,-960.0,"VUB,A.S.",DDFACEBK~*7YAFZ38fb.me/ads~~~~~~P1,****639
+47,2024-06-03,-960.0,"VUB,A.S.",DDFACEBK~*JFYJ84Lfb.me/ads~~~~~~P1,****639
+48,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+49,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+50,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+51,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+52,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+53,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+54,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+55,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+56,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+57,2024-06-03,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+58,2024-06-03,-500.0,Platba kartou,GoogleAdwordsEU Dublin,****639
+59,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+60,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+61,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+62,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+63,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+64,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+65,2024-06-03,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+66,2024-06-03,50000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet, 
+67,2024-05-31,-16.98, ,Poplatky za platby spolu,9
+68,2024-05-31,-0.2, ,Popl.za 1x elektronický výpis,9
+69,2024-05-31,-7.0, ,Vedenie účtu,9
+70,2024-05-31,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
+71,2024-05-31,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+72,2024-05-31,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+73,2024-05-31,-500.0,Výber mobilom,S6AV162T NITRA 08:17,****639
+74,2024-05-31,-500.0,Výber mobilom,S6AV162T NITRA 08:16,****639
+75,2024-05-31,-500.0,Výber mobilom,S6AV162T NITRA 08:15,****639
+76,2024-05-31,-500.0,Výber mobilom,S6AV162T NITRA 08:14,****639
+77,2024-05-31,-500.0,Výber mobilom,S6AV162T NITRA 08:14,****639
+78,2024-05-31,-500.0,Výber mobilom,S6AV162T NITRA 08:13,****639
+79,2024-05-30,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
+80,2024-05-30,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+81,2024-05-30,-210.0,"ANWELL, s.r.o.",Plagaty EV24, 
+82,2024-05-29,-60.0,Mesto Trebisov, ,5002400058
+83,2024-05-29,210.0,Maria Halgasova,"Maria Halgasova Rybnicna 74, 93041 Hviezdoslavov. DAR",20241817
+84,2024-05-29,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
+85,2024-05-29,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+86,2024-05-29,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+87,2024-05-29,-2090.0,RePriMe s.r.o.,Inzercia EV2024,240004
+88,2024-05-29,-961.92,"JUDr. Miroslav Kamensky, advokat",Vratenie daru Miroslav Kamensky,20241800
+89,2024-05-29,-320.0,Eva Pastorkova,"Obcerstvenie, propagacia", 
+90,2024-05-29,-15.0,Obec Stefanov nad Oravou,Vyhlasenie v rozhlase,22024
+91,2024-05-29,-425.82,RCS reklama s.r.o.,Letaky EV24,820240331
+92,2024-05-28,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
+93,2024-05-28,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+94,2024-05-27,-960.0,"VUB,A.S.",DDFACEBK~*QLZRL3Qfb.me/ads~~~~~~P1,****639
+95,2024-05-27,-960.0,"VUB,A.S.",DDFACEBK*~~~~~~~~fb.me/ads~~~~~~P1,****639
+96,2024-05-27,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+97,2024-05-27,-500.0,Platba kartou,GOOGLE*ADS14816 CC GOOGLE.,****639
+98,2024-05-27,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+99,2024-05-27,-500.0,"VUB,A.S.",DDGOOGLE*ADS14816CC~GOOGLE.~~~~~P1,****639
+100,2024-05-27,961.92,"JUDr. Miroslav Kamensky, advokat",Miroslav Kamensky Jiraskova 23 974 06 Banska Bystrica DAR. uhrada fa,20241800
+101,2024-05-23,-960.0,Platba kartou,FACEBK *4WDMK4C fb.me/ads,****639
+102,2024-05-23,-4200.0,Chez Mimi s.r.o.,Medialny priestor 05/24,20240005
+103,2024-05-22,-960.0,Platba kartou,FACEBK *W4K7V3L fb.me/ads,****639
+104,2024-05-22,-2046.0,ARTON s.r.o.,Tlac plagatov 06/24,240239
+105,2024-05-22,-531.6,Katarina Klukova - GIGA,Letaky EV24,2024110
+106,2024-05-22,-18420.0,ARTON s.r.o.,Rekl. plochy 06/24,240238
+107,2024-05-22,-1048.34,"ANWELL, s.r.o.",Letaky EV24,20241675
+108,2024-05-22,-2500.0,VERBINA o.z.,Rekl priestor Hlavny Dennik,2405003
+109,2024-05-22,-4320.0,FRONTINUS s.r.o.,Politicka reklama EV24,1824
+110,2024-05-22,-16.55,Mesto Tvrdosin,Hlasenie v rozhlase,624036
+111,2024-05-22,-6000.0,Heureka Evolution s.r.o.,Bannerova kampan EV24,20240010
+112,2024-05-20,-160.0,Mesto Tvrdosin,Prenajom priestorov na miting,624033
+113,2024-05-20,-960.0,Platba kartou,FACEBK *ZEFN73U fb.me/ads,****639
+114,2024-05-20,-772.91,"VUB,A.S.",DDFACEBK~*E7TUF38fb.me/ads~~~~~~P1,****639
+115,2024-05-20,50.0,Terek Dusan,"Dusan Terek, Turecka 6, Senec, DAR", 
+116,2024-05-20,-5032.67,RCS reklama s.r.o.,Letaky EV24,820240314
+117,2024-05-20,-1300.0,Matica Slovenska,Inzercia SNN,20241067
+118,2024-05-20,-6000.0,Heureka Evolution s.r.o.,Bannerova kampan EV24,20240009
+119,2024-05-17,500.0,"JUDr. Miroslav Kamensky, advokat",Miroslav Kamensky Jiraskova 23 974 06 Banska Bystrica DAR, 
+120,2024-05-17,499.0,Miroslav Kamensky,Miroslav Kamensky Jiraskova 23 974 06 Banska Bystrica DAR, 
+121,2024-05-16,-960.0,"VUB,A.S.",DDFACEBK~*4B8YE4Yfb.me/ads~~~~~~P1,****639
+122,2024-05-16,-6000.0,Heuréka Evolution s.r.o.,Bannerova kampan EV24,20240008
+123,2024-05-14,100000.0,REPUBLIKA, , 
+124,2024-05-14,-534.0,Katarína Kluková - GIGA,Letaky EV24,2400001
+125,2024-05-14,-530.4,Miroslav Jiránek - BEPA,Bannery EV24,24227
+126,2024-05-14,-6000.0,Heuréka Evolution s.r.o.,Bannerova kampan EV24,20240007
+127,2024-05-13,-200.0,Obec Poproc,Prenajom priestorov na miting EV24,1118400041
+128,2024-05-10,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
+129,2024-05-09,5.0,Peter Varchoľak,"Peter Varcholak, Sadova 493/58, Stakcin 06761, DAR", 
+130,2024-05-09,-28590.8,CyberSoft s.r.o.,Billboardy a plagaty EV24,24050601
+131,2024-05-09,-852.0,Dataprint sk s.r.o.,Tlac bannerov EV24,2024048
+132,2024-05-09,-6810.0,W-Mont s.r.o.,Montaz bannerov EV24,2024003
+133,2024-05-09,-72.0,Print Factory s.r.o.,Tlac letakov EV24,20240119
+134,2024-05-09,-388.8,Ing. Pavol Anderko - ANKO,Vyroba plagatu,244029
+135,2024-05-09,-3000.0,HMCC s.r.o.,Reklamne panely 05/24,24004
+136,2024-05-09,-2160.0,Ing. Pavol Anderko - ANKO,Billboardy 05/24,240190
+137,2024-05-09,-5808.0,"NUBIUM, s.r.o.",Billboardy 05/24,24052902
+138,2024-05-09,-59.0,Obec Stos,"Prenajom saly, rozhlas EV24",2415
+139,2024-05-07,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
+140,2024-05-07,-50.0,Mesto Dubnica nad Vahom,Platba za prenajom priestorov na kulturne podujatie,6040524
+141,2024-05-06,-960.0,"VUB,A.S.",DDFACEBK*~~~~~~~~fb.me/ads~~~~~~P1,****639
+142,2024-05-02,-960.0,"VUB,A.S.",DDFACEBK*~~~~~~~~fb.me/ads~~~~~~P1,****639
+143,2024-05-02,-249.36,"TRISTANPRESS, spol. s r.o.",Billboardy EV24,2024214
+144,2024-05-02,-4000.0,Radovan Fasung, ,42024
+145,2024-04-30,-7.36, ,Poplatky za platby spolu,9
+146,2024-04-30,-0.2, ,Popl.za 1x elektronický výpis,9
+147,2024-04-30,-7.0, ,Vedenie účtu,9
+148,2024-04-30,-960.0,Platba kartou,FACEBK* fb.me/ads,****639
+149,2024-04-30,-0.05, ,POPLATKY ZA RECYKLACIU,9
+150,2024-04-29,-960.0,"VUB,A.S.",DDFACEBK*~~~~~~~~fb.me/ads~~~~~~P1,****639
+151,2024-04-26,-3000.0, ,Reklamne panely,24001
+152,2024-04-26,-959.96,Platba kartou,FACEBK* fb.me/ads,****639
+153,2024-04-26,-1596.0,"ISPA, spol. s r.o.",Reklamne plochy 05/2024,24950123
+154,2024-04-26,-28582.8,"CyberSoft, s.r.o.",Billboardy 05/2024,24041201
+155,2024-04-24,100000.0,REPUBLIKA, , 
+156,2024-04-24,-2046.0,"ARTON, s.r.o.", ,240174
+157,2024-04-23,-960.0,Platba kartou,FACEBK ZRSPH3YD fb.me/ads,****639
+158,2024-04-23,-18600.0,"ARTON, s.r.o.", ,240173
+159,2024-04-22,-535.02,"VUB,A.S.",DDFACEBK~6T8K828Efb.me/ads~~~~~~P1,****639
+160,2024-04-22,-500.0,"VUB,A.S.",DDS6AV162M~~~~~~~NITRA~~~~~13:13M1,****639
+161,2024-04-22,-500.0,"VUB,A.S.",DDS6AV162M~~~~~~~NITRA~~~~~13:12M1,****639
+162,2024-04-22,-500.0,"VUB,A.S.",DDS6AV162M~~~~~~~NITRA~~~~~13:11M1,****639
+163,2024-04-22,-500.0,"VUB,A.S.",DDS6AV162M~~~~~~~NITRA~~~~~13:10M1,****639
+164,2024-04-22,-2143.2,"Dataprint sk, s.r.o.", ,2024044
+165,2024-04-22,-4545.6,"Dataprint sk, s.r.o.", ,2024043
+166,2024-04-22,-4000.0, , , 
+167,2024-04-22,-2090.0,Vydavatelstvo HELENA - Mgr. Alena Jassova, ,24041
+168,2024-04-22,-5292.0,Dataprint sk s.r.o., ,2024037
+169,2024-04-22,-5184.0,Dataprint SK s.r.o., ,2024035
+170,2024-04-22,-2500.0, , ,2404004
+171,2024-04-18,-960.0,Platba kartou,FACEBK AGSGG2LE fb.me/ads,****639
+172,2024-04-16,-960.0,Platba kartou,FACEBK 25VF92LD fb.me/ads,****639
+173,2024-04-15,-960.0,"VUB,A.S.",DDFACEBK~MHM363YDfb.me/ads~~~~~~P1,****639
+174,2024-04-08,-960.0,Platba kartou,FACEBK GV8DHZTD fb.me/ads,****639
+175,2024-04-08,5.0,Peter Varchoľak,"Peter Varcholak, Sadova 493/58, Stakcin 06761, DAR", 
+176,2024-04-03,-4000.0,Radovan Fasung, ,32024
+177,2024-04-03,-924.0,"NUBIUM, s.r.o.", ,24042275
+178,2024-04-03,-372.0,"BigMedia, spol. s r.o.", ,122490041
+179,2024-04-03,-372.0,"BigMedia, spol. s r.o.", ,122490040
+180,2024-04-03,-0.15, ,Poplatky Nonstop banking - SMS, 
+181,2024-04-02,-960.0,"VUB,A.S.",DDFACEBK~FUBQCZTDfb.me/ads~~~~~~P1,****639
+182,2024-03-28,-6.38, ,Poplatky za platby spolu,9
+183,2024-03-28,-0.2, ,Popl.za 1x elektronický výpis,9
+184,2024-03-28,-7.0, ,Vedenie účtu,9
+185,2024-03-28,-960.0,Platba kartou,FACEBK YUHBB2CE fb.me/ads,****639
+186,2024-03-25,-959.96,Platba kartou,FACEBK 6XTL5ZPD fb.me/ads,****639
+187,2024-03-20,-12096.0,"ISPA, spol. s r.o.", ,24950079
+188,2024-03-20,-6720.0,"ARTON, s.r.o.", ,240123
+189,2024-03-20,-1770.0,"G - tvar studia, s.r.o.", ,24001
+190,2024-03-20,-864.0,Ing. Pavol Anderko - ANKO, ,240111
+191,2024-03-20,-739.2,"ARTON, s.r.o.", ,240124
+192,2024-03-20,-504.0,Ing. Pavol Anderko - ANKO, ,244018
+193,2024-03-20,-84.24,RCS reklama s.r.o., ,820240157
+194,2024-03-20,-344.84,Platba kartou,FACEBK HWA84Z7E fb.me/ads,****639
+195,2024-03-19,-960.0,Platba kartou,FACEBK XS4PXYPD fb.me/ads,****639
+196,2024-03-18,-960.0,Platba kartou,FACEBK JEE6SYTD fb.me/ads,****639
+197,2024-03-15,-5796.0,"CyberSoft, s.r.o.", ,24031101
+198,2024-03-15,-6144.0,"ISPA, spol. s r.o.", , 
+199,2024-03-14,-960.0,Platba kartou,FACEBK 5LULSYPD fb.me/ads,****639
+200,2024-03-11,-960.0,"VUB,A.S.",DDFACEBK~V6TMPYPDfb.me/ads~~~~~~P1,****639
+201,2024-03-11,-960.0,"VUB,A.S.",DDFACEBK~F5KNVZXDfb.me/ads~~~~~~P1,****639
+202,2024-03-08,-1664.96, ,SEPA Europrevod/NonSEPAPrevod,820240132
+203,2024-03-08,-960.0,Platba kartou,FACEBK H268LYPD fb.me/ads,****639
+204,2024-03-08,5.0,Peter Varchoľak,"Peter Varcholak, Sadova 493/58, Stakcin 06761, DAR", 
+205,2024-03-07,-960.0,Platba kartou,FACEBK G7M8NY7E fb.me/ads,****639
+206,2024-03-06,-960.0,"VUB,A.S.",DDFACEBK~FL5UQZXDfb.me/ads~~~~~~P1,****639
+207,2024-03-04,-960.0,"VUB,A.S.",DDFACEBK~GAXE7Y3Efb.me/ads~~~~~~P1,****639
+208,2024-03-04,-960.0,"VUB,A.S.",DDFACEBK~6S3LNYFEfb.me/ads~~~~~~P1,****639
+209,2024-03-04,-792.0,"NUBIUM, s.r.o", ,24031488
+210,2024-03-04,50000.0,REPUBLIKA, , 
+211,2024-03-04,50000.0,REPUBLIKA, , 
+212,2024-03-01,-960.0,"VUB,A.S.",DDFACEBK~8AE8KZXDfb.me/ads~~~~~~P1,****639
+213,2024-03-01,-14.0, ,Ročný popl. Vydanie/obnova karty,639
+214,2024-03-01,-3.5, ,P-Zmena pod. vzoru právnická osoba, 
+215,2024-03-01,-4692.0,GRYF reklamne studio,prenajom reklamnych ploch 05/2024,24022
+216,2024-02-29,-3.52, ,Poplatky za platby spolu,9
+217,2024-02-29,-0.2, ,Popl.za 1x elektronický výpis,9
+218,2024-02-29,-7.0, ,Vedenie účtu,9
+219,2024-02-29,-960.0,Platba kartou,FACEBK KDFF6YTD fb.me/ads,****639
+220,2024-02-26,-960.0,Platba kartou,FACEBK 87DA5ZBE fb.me/ads,****639
+221,2024-02-26,-960.0,"VUB,A.S.",DDFACEBK~R5EQ7ZBEfb.me/ads~~~~~~P1,****639
+222,2024-02-21,-6600.0,"ARTON, sro",bilbordy 03/2024,240058
+223,2024-02-21,-6486.0,"CyberSoft, sro",reklamna kampan 03/2024,24021901
+224,2024-02-21,-726.0,"ARTON, sro",tlac plagatov,240059
+225,2024-02-01,-60.5,APPKEE,tarif aplikacia 02/2024,20230649
+226,2024-02-01,-60.5,APPKEE,tarif aplikacia 01/2024,20240055
+227,2024-02-01,-60.5,APPKEE,tarif aplikacia 11/2023,20230849
+228,2024-02-01,-60.5,APPKEE,tarif aplikacia 12/2023,20230943
+229,2024-02-01,-11880.0,GRYF reklamne studio,zaloha za reklamne plochy big 05/24,24010
+230,2024-02-01,-20838.0,GRYF reklamne studio,zaloha za reklamne plochy 05/24,24008
+231,2024-02-01,-20010.0,GRYF reklamne studio,zaloha za reklamne plochy 06/24,24009
+232,2024-02-01,-6900.0,GRYF reklamne studio,zaloha za reklamne plochy 04/24,24007
+233,2024-02-01,-9384.0,GRYF reklamne studio,zaloha za reklamne plochy 03/24,24006
+234,2024-02-01,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet, 
+235,2024-01-31,-7.0, ,Vedenie účtu,9
