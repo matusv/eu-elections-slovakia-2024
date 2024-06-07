@@ -1,42 +1,53 @@
 index,index,date,amount,account_name,message,vs,name
-0,45,2024-06-05,-1.0,Maros Mjartan,Drzim palceky ..,,SaS
-1,494,2024-03-30,1.0,Maros Mjartan,Drzim palceky ..,,SaS
-2,46,2024-06-05,-0.01,Bačák Juraj,Prispevok na drahy alkohol v Dubaji .,,SaS
-3,509,2024-01-27,0.01,Bačák Juraj,Prispevok na drahy alkohol v Dubaji .,,SaS
-4,55,2024-02-15,-0.01,Bohuslav Masiarcik,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
-5,78,2024-01-26,0.01,Bohuslav Masiarcik,"Na jednodmerny do RuSSka, aby ste Putlera mohli bozkavat vsade.",,SNS
-6,51,2024-02-15,-0.01,Belica Vladimir,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-7,73,2024-01-27,0.01,Belica Vladimir,F001270120245490503,,SNS
-8,54,2024-02-15,-0.01,Godor Patrik,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
-9,79,2024-01-26,0.01,Godor Patrik,aby kokotom nebolo malo,,SNS
-10,56,2024-02-15,-0.01,Kristina Chabadova,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
-11,77,2024-01-27,0.01,Kristina Chabadova,za platy europoslancov robit hanbu a nadavat na EU? A to narodne menu kto tu bude zrat? SNS naspat do 19storocia,,SNS
-12,60,2024-02-15,-0.01,PATRIK TIMULAK,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
-13,69,2024-01-29,0.01,PATRIK TIMULAK,PRISPEVOK PRE TOHO KTORY V ZIVOTE NEPOUZIVA PAPIER KED CITA,,SNS
-14,61,2024-02-15,-0.01,MICHAL ZAJIC,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
-15,68,2024-01-29,0.01,MICHAL ZAJIC,ZMRDE. NA LETENKU DO MOSKVY.,,SNS
-16,62,2024-02-15,-0.01,Ruzena Kapusnakova,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
-17,67,2024-01-29,0.01,Ruzena Kapusnakova,Simkovicovej a Dankovi na psychiatricke vysetrenie,,SNS
-18,90,2024-05-29,-961.92,"JUDr. Miroslav Kamensky, advokat",Vratenie daru Miroslav Kamensky,20241800,Republika
-19,102,2024-05-27,961.92,"JUDr. Miroslav Kamensky, advokat",Miroslav Kamensky Jiraskova 23 974 06 Banska Bystrica DAR. uhrada fa,20241800,Republika
-20,333,2024-05-21,-10.0,Charles Edouard Richard STENKER,"Platba OO24052100035581/Vratenie daru podla 85/2005 Z.z., navstivte prosim progresivne.sk/podporte-europsku-buducnost",,Progresívne Slovensko
-21,561,2024-04-19,10.0,Charles Edouard Richard STENKER,DE24041959857 801b5bbb1bd343f8/Slovensko patri do EU,,Progresívne Slovensko
-22,311,2024-05-23,-500.0,Jan Glovicko,Platba/Vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
-23,565,2024-04-18,500.0,Jan Glovicko,Platba/Michal Wiezik,"60193
+0,111,2024-06-05,-0.01,Bačák Juraj,Prispevok na drahy alkohol v Dubaji .,,SaS
+1,574,2024-01-27,0.01,Bačák Juraj,Prispevok na drahy alkohol v Dubaji .,,SaS
+2,110,2024-06-05,-1.0,Maros Mjartan,Drzim palceky ..,,SaS
+3,559,2024-03-30,1.0,Maros Mjartan,Drzim palceky ..,,SaS
+4,56,2024-02-15,-0.01,Bohuslav Masiarcik,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
+5,79,2024-01-26,0.01,Bohuslav Masiarcik,"Na jednodmerny do RuSSka, aby ste Putlera mohli bozkavat vsade.",,SNS
+6,52,2024-02-15,-0.01,Belica Vladimir,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+7,74,2024-01-27,0.01,Belica Vladimir,F001270120245490503,,SNS
+8,55,2024-02-15,-0.01,Godor Patrik,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
+9,80,2024-01-26,0.01,Godor Patrik,aby kokotom nebolo malo,,SNS
+10,57,2024-02-15,-0.01,Kristina Chabadova,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
+11,78,2024-01-27,0.01,Kristina Chabadova,za platy europoslancov robit hanbu a nadavat na EU? A to narodne menu kto tu bude zrat? SNS naspat do 19storocia,,SNS
+12,61,2024-02-15,-0.01,PATRIK TIMULAK,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
+13,70,2024-01-29,0.01,PATRIK TIMULAK,PRISPEVOK PRE TOHO KTORY V ZIVOTE NEPOUZIVA PAPIER KED CITA,,SNS
+14,62,2024-02-15,-0.01,MICHAL ZAJIC,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
+15,69,2024-01-29,0.01,MICHAL ZAJIC,ZMRDE. NA LETENKU DO MOSKVY.,,SNS
+16,63,2024-02-15,-0.01,Ruzena Kapusnakova,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
+17,68,2024-01-29,0.01,Ruzena Kapusnakova,Simkovicovej a Dankovi na psychiatricke vysetrenie,,SNS
+18,91,2024-05-29,-961.92,"JUDr. Miroslav Kamensky, advokat",Vratenie daru Miroslav Kamensky,20241800,Republika
+19,103,2024-05-27,961.92,"JUDr. Miroslav Kamensky, advokat",Miroslav Kamensky Jiraskova 23 974 06 Banska Bystrica DAR. uhrada fa,20241800,Republika
+20,373,2024-05-21,-10.0,Charles Edouard Richard STENKER,"Platba OO24052100035581/Vratenie daru podla 85/2005 Z.z., navstivte prosim progresivne.sk/podporte-europsku-buducnost",,Progresívne Slovensko
+21,601,2024-04-19,10.0,Charles Edouard Richard STENKER,DE24041959857 801b5bbb1bd343f8/Slovensko patri do EU,,Progresívne Slovensko
+22,351,2024-05-23,-500.0,Jan Glovicko,Platba/Vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
+23,605,2024-04-18,500.0,Jan Glovicko,Platba/Michal Wiezik,"60193
 VS60193/SS5/KS",Progresívne Slovensko
-24,549,2024-03-06,-0.1,Valovič Tomáš,Vratenie daru,,Slovensko
-25,564,2024-02-20,0.1,Valovič Tomáš,Igor na hrad,,Slovensko
-26,555,2024-03-06,-0.01,Marek Ostrochovsky,Vratenie daru,,Slovensko
-27,565,2024-02-16,0.01,Marek Ostrochovsky,"coho ste sa chytili, to ste dojebali???",,Slovensko
-28,556,2024-03-06,-5.0,Michalovic David,Vratenie daru,,Slovensko
-29,568,2024-02-13,5.0,Michalovic David,Vela stastia,,Slovensko
-30,552,2024-03-06,-1.5,Jaroslav Balara,Vratenie daru,,Slovensko
-31,563,2024-02-26,1.5,Jaroslav Balara,"Suma 1,5 ? je vyska mojho rodicovskeho prispevku.Dakujem, neprosim?",,Slovensko
-32,315,2024-04-22,-1400.0,Jurčišin Patrik,Mylná platba / Dar - Jakub Berčík,,KDH
-33,333,2024-04-12,1400.0,Jurčišin Patrik,Dar - Jakub Berčík,,KDH
-34,132,2024-05-27,-990.0,"Mikúš Juraj, JUDr.",Mylná platba/Juraj Mikus dar,,KDH
-35,134,2024-05-27,990.0,"Mikúš Juraj, JUDr.",juraj Mikus dar,,KDH
-36,61,2024-05-29,-900.0,Juraj Podracky,"Platba/mylna platba, vratenie",,Demokrati
-37,62,2024-05-29,900.0,Juraj Podracky,Platba,,Demokrati
-38,47,2024-04-23,-9.0,Ševčik Martin,vrátenie daru,,Kotlebovci ĽSNS
-39,65,2024-03-22,9.0,Ševčik Martin,alica,,Kotlebovci ĽSNS
+24,15,2024-06-05,-10.0,Obec Turie,Platba/Obec Besenov vyhlasenie politickeho oznamu 5.6 2x,"702024
+VS702024/SS/KS",Progresívne Slovensko
+25,12,2024-06-05,10.0,"
+                            Obec Turie
+                    ","
+                        Platba
+                    /
+                        Obec Besenov vyhlasenie politickeho vratka z obce TURIE = OMYL
+                    ","
+                        702024VS702024/SS/KS
+                    ",Progresívne Slovensko
+26,600,2024-03-06,-0.1,Valovič Tomáš,Vratenie daru,,Slovensko
+27,615,2024-02-20,0.1,Valovič Tomáš,Igor na hrad,,Slovensko
+28,606,2024-03-06,-0.01,Marek Ostrochovsky,Vratenie daru,,Slovensko
+29,616,2024-02-16,0.01,Marek Ostrochovsky,"coho ste sa chytili, to ste dojebali???",,Slovensko
+30,607,2024-03-06,-5.0,Michalovic David,Vratenie daru,,Slovensko
+31,619,2024-02-13,5.0,Michalovic David,Vela stastia,,Slovensko
+32,603,2024-03-06,-1.5,Jaroslav Balara,Vratenie daru,,Slovensko
+33,614,2024-02-26,1.5,Jaroslav Balara,"Suma 1,5 ? je vyska mojho rodicovskeho prispevku.Dakujem, neprosim?",,Slovensko
+34,335,2024-04-22,-1400.0,Jurčišin Patrik,Mylná platba / Dar - Jakub Berčík,,KDH
+35,353,2024-04-12,1400.0,Jurčišin Patrik,Dar - Jakub Berčík,,KDH
+36,152,2024-05-27,-990.0,"Mikúš Juraj, JUDr.",Mylná platba/Juraj Mikus dar,,KDH
+37,154,2024-05-27,990.0,"Mikúš Juraj, JUDr.",juraj Mikus dar,,KDH
+38,77,2024-05-29,-900.0,Juraj Podracky,"Platba/mylna platba, vratenie",,Demokrati
+39,78,2024-05-29,900.0,Juraj Podracky,Platba,,Demokrati
+40,47,2024-04-23,-9.0,Ševčik Martin,vrátenie daru,,Kotlebovci ĽSNS
+41,65,2024-03-22,9.0,Ševčik Martin,alica,,Kotlebovci ĽSNS
