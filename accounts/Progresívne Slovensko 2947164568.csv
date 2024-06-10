@@ -1,48 +1,37 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-06-06,-256.8,EUR,"PS:Events, s.r.o.",Platba/PS:Events ranajky pre novinarov 15.5,"24010047
-VS24010047/SS/KS"
-1,2024-06-06,-1000.0,EUR,Hana Kobliskova,Platba/Kobliskova marketing 05 24,"2024005
-VS2024005/SS/KS"
-2,2024-06-06,-7.0,EUR,Obec Chmiňany,Platba/Obec Chminany vyhlasenie politickeho oznamu 5.6,"2024009
-VS2024009/SS/KS"
-3,2024-06-06,-5.0,EUR,OBEC NEMCOVCE,Platba/Obec Nemcovce vyhlasenie politickeho oznamu 5.6,"202406
-VS202406/SS/KS308"
-4,2024-06-07,-434.51,EUR,GoogleAdwordsEU ADS862770,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-5,2024-06-06,-300.0,EUR,Žemla Patrik,"
-                        Platba
-                    /
-                        Zemla vypomoc na kampani Francescato
+0,2024-06-07,-434.51,EUR,GoogleAdwordsEU ADS862770,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+1,2024-06-07,-839.31,EUR,FACEBK *Q4AAY5CUJ2,EUR NÁKUP POS FACEBK *Q4AAY5CUJ2 / fb.me/ads / (POS 99999999),
+2,2024-06-07,-879.23,EUR,FACEBK *XNFBJ5LXC2,EUR NÁKUP POS FACEBK *XNFBJ5LXC2 / fb.me/ads / (POS 99999999),
+3,2024-06-07,-1087.13,EUR,GoogleAdwordsEU ADS862770,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+4,2024-06-07,-800.0,EUR,FACEBK *TPFTZ3CXC2,EUR NÁKUP POS FACEBK *TPFTZ3CXC2 / fb.me/ads / (POS 99999999),
+5,2024-06-07,-800.0,EUR,"
+                            FACEBK *UDV8Y38XC2
                     ","
-                        202405VS202405/SS/KS
-                    "
-6,2024-06-07,-839.31,EUR,"
-                            FACEBK *Q4AAY5CUJ2
-                    ","
-                        EUR NÁKUP POS FACEBK *Q4AAY5CUJ2 / fb.me/ads / (POS 99999999)
+                        EUR NÁKUP POS FACEBK *UDV8Y38XC2 / fb.me/ads / (POS 99999999)
                     /
                         
                     ","
                         
                     "
-7,2024-06-07,-879.23,EUR,"
-                            FACEBK *XNFBJ5LXC2
+6,2024-06-07,-800.0,EUR,"
+                            FACEBK *C297J5LXC2
                     ","
-                        EUR NÁKUP POS FACEBK *XNFBJ5LXC2 / fb.me/ads / (POS 99999999)
+                        EUR NÁKUP POS FACEBK *C297J5LXC2 / fb.me/ads / (POS 99999999)
                     /
                         
                     ","
                         
                     "
-8,2024-06-05,-90.0,EUR,"
-                            KOSICE MESTO
+7,2024-06-07,-800.0,EUR,"
+                            FACEBK *KXQPS4UUJ2
                     ","
-                        Platba
+                        EUR NÁKUP POS FACEBK *KXQPS4UUJ2 / fb.me/ads / (POS 99999999)
                     /
-                        Mesto Kosice spravny poplatok 27.4
+                        
                     ","
-                        3324000460VS3324000460/SS/KS
+                        
                     "
-9,2024-06-07,-1087.13,EUR,"
+8,2024-06-07,-1000.0,EUR,"
                             GoogleAdwordsEU ADS862770
                     ","
                         EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999)
@@ -51,41 +40,50 @@ VS202406/SS/KS308"
                     ","
                         
                     "
-10,2024-06-05,-176.4,EUR,"
-                            COLORgrafik, spol. s r.o.
+9,2024-06-07,-800.0,EUR,"
+                            FACEBK *PX9SV3YXC2
                     ","
-                        Platba
-                    /
-                        Colorgrafik tlac
-                    ","
-                        100572024VS100572024/SS/KS
-                    "
-11,2024-06-05,-1500.0,EUR,"
-                            Tóthová Zuzana
-                    ","
-                        Platba
-                    /
-                        Tothova koordinacia dobrovolnikov  komunity ep kampan
-                    ","
-                        2024008VS2024008/SS/KS
-                    "
-12,2024-06-07,-800.0,EUR,"
-                            FACEBK *TPFTZ3CXC2
-                    ","
-                        EUR NÁKUP POS FACEBK *TPFTZ3CXC2 / fb.me/ads / (POS 99999999)
+                        EUR NÁKUP POS FACEBK *PX9SV3YXC2 / fb.me/ads / (POS 99999999)
                     /
                         
                     ","
                         
                     "
-13,2024-06-05,-442.3,EUR,"
-                            NOLIS, s.r.o.
+10,2024-06-07,-800.0,EUR,"
+                            FACEBK *D82BJ4GXC2
                     ","
-                        Platba
+                        EUR NÁKUP POS FACEBK *D82BJ4GXC2 / fb.me/ads / (POS 99999999)
                     /
-                        Nolis prenajom obcerstvenie diskusia 18.4
+                        
                     ","
-                        1124049VS1124049/SS/KS308
+                        
+                    "
+11,2024-06-07,-800.0,EUR,"
+                            FACEBK *DPBYX5CUJ2
+                    ","
+                        EUR NÁKUP POS FACEBK *DPBYX5CUJ2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+12,2024-06-07,-1000.0,EUR,"
+                            GoogleAdwordsEU ADS862770
+                    ","
+                        EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+13,2024-06-07,-800.0,EUR,"
+                            FACEBK *3AD3L44YC2
+                    ","
+                        EUR NÁKUP POS FACEBK *3AD3L44YC2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
                     "
 14,2024-06-07,-800.0,EUR,FACEBK *4SC5J4GXC2,EUR NÁKUP POS FACEBK *4SC5J4GXC2 / fb.me/ads / (POS 99999999),
 15,2024-06-07,-1000.0,EUR,GoogleAdwordsEU ADS862770,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),

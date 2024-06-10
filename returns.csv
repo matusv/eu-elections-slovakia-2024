@@ -17,8 +17,8 @@ index,index,date,amount,account_name,message,vs,name
 15,70,2024-01-29,0.01,MICHAL ZAJIC,ZMRDE. NA LETENKU DO MOSKVY.,,SNS
 16,64,2024-02-15,-0.01,Ruzena Kapusnakova,Vratenie platby podla zakona zo dna 29.01.2024,,SNS
 17,69,2024-01-29,0.01,Ruzena Kapusnakova,Simkovicovej a Dankovi na psychiatricke vysetrenie,,SNS
-18,91,2024-05-29,-961.92,"JUDr. Miroslav Kamensky, advokat",Vratenie daru Miroslav Kamensky,20241800,Republika
-19,103,2024-05-27,961.92,"JUDr. Miroslav Kamensky, advokat",Miroslav Kamensky Jiraskova 23 974 06 Banska Bystrica DAR. uhrada fa,20241800,Republika
+18,92,2024-05-29,-961.92,"JUDr. Miroslav Kamensky, advokat",Vratenie daru Miroslav Kamensky,20241800,Republika
+19,104,2024-05-27,961.92,"JUDr. Miroslav Kamensky, advokat",Miroslav Kamensky Jiraskova 23 974 06 Banska Bystrica DAR. uhrada fa,20241800,Republika
 20,421,2024-05-21,-10.0,Charles Edouard Richard STENKER,"Platba OO24052100035581/Vratenie daru podla 85/2005 Z.z., navstivte prosim progresivne.sk/podporte-europsku-buducnost",,Progresívne Slovensko
 21,649,2024-04-19,10.0,Charles Edouard Richard STENKER,DE24041959857 801b5bbb1bd343f8/Slovensko patri do EU,,Progresívne Slovensko
 22,399,2024-05-23,-500.0,Jan Glovicko,Platba/Vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
@@ -86,3 +86,5 @@ VS702024/SS/KS",Progresívne Slovensko
 57,30,2024-05-22,200.0,PUCIKOVA ZUZANA,Platba PO24052287111036,,Volt Slovensko
 58,0,2024-06-07,-50.0,TransferWise,"Platba OO24060700040711/Dakujeme za Vasu podporu, z dovodu pouzitia zahranicneho uctu Vam tuto platbu vraciame. Uvitame podporu zo slovenskeho uctu.",,Volt Slovensko
 59,26,2024-05-23,50.0,TransferWise,Platba PO24052387302974/Dar ALEX GALOVIC,920455483,Volt Slovensko
+60,0,2024-06-10,-150.0,Ivanecky Jan,"Odoslaná platba elektronicky, Vratenie prijateho daru na transparentnom ucte - EP volby 2024",VS: 10062024,Maďarská Aliancia
+61,1,2024-06-10,150.0,Ivanecky Jan,"Prijatá platba, ",,Maďarská Aliancia
