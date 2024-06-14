@@ -2,8 +2,22 @@ index,date,amount,currency,account_name,message,vs
 0,2024-06-07,-0.08,EUR,FACEBK *4UU337L4L2,EUR NÁKUP POS FACEBK *4UU337L4L2 / fb.me/ads / (POS 99999999),
 1,2024-06-07,-228.53,EUR,FACEBK *WPE237L4L2,EUR NÁKUP POS FACEBK *WPE237L4L2 / fb.me/ads / (POS 99999999),
 2,2024-06-07,-250.0,EUR,FACEBK *WHZAN5C4L2,EUR NÁKUP POS FACEBK *WHZAN5C4L2 / fb.me/ads / (POS 99999999),
-3,2024-06-07,-250.0,EUR,FACEBK *YA58N5C4L2,EUR NÁKUP POS FACEBK *YA58N5C4L2 / fb.me/ads / (POS 99999999),
-4,2024-06-07,-250.0,EUR,FACEBK *HJJ4W5Q4L2,EUR NÁKUP POS FACEBK *HJJ4W5Q4L2 / fb.me/ads / (POS 99999999),
+3,2024-06-07,-250.0,EUR,FACEBK *YA58N5C4L2,"
+                        EUR NÁKUP POS FACEBK *YA58N5C4L2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+4,2024-06-07,-250.0,EUR,"
+                            FACEBK *HJJ4W5Q4L2
+                    ","
+                        EUR NÁKUP POS FACEBK *HJJ4W5Q4L2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
 5,2024-06-07,-250.0,EUR,"
                             FACEBK *CAFZM5C4L2
                     ","
