@@ -1,18 +1,112 @@
 index,date,amount,currency,account_name,message,vs
 0,2024-06-07,-0.08,EUR,FACEBK *4UU337L4L2,EUR NÁKUP POS FACEBK *4UU337L4L2 / fb.me/ads / (POS 99999999),
 1,2024-06-07,-228.53,EUR,FACEBK *WPE237L4L2,EUR NÁKUP POS FACEBK *WPE237L4L2 / fb.me/ads / (POS 99999999),
-2,2024-06-07,-250.0,EUR,FACEBK *WHZAN5C4L2,EUR NÁKUP POS FACEBK *WHZAN5C4L2 / fb.me/ads / (POS 99999999),
-3,2024-06-07,-250.0,EUR,FACEBK *YA58N5C4L2,EUR NÁKUP POS FACEBK *YA58N5C4L2 / fb.me/ads / (POS 99999999),
-4,2024-06-07,-250.0,EUR,FACEBK *HJJ4W5Q4L2,EUR NÁKUP POS FACEBK *HJJ4W5Q4L2 / fb.me/ads / (POS 99999999),
-5,2024-06-07,-250.0,EUR,FACEBK *CAFZM5C4L2,EUR NÁKUP POS FACEBK *CAFZM5C4L2 / fb.me/ads / (POS 99999999),
-6,2024-06-07,-250.0,EUR,FACEBK *ZB8VM5C4L2,EUR NÁKUP POS FACEBK *ZB8VM5C4L2 / fb.me/ads / (POS 99999999),
-7,2024-06-07,-250.0,EUR,FACEBK *43XQ8544L2,EUR NÁKUP POS FACEBK *43XQ8544L2 / fb.me/ads / (POS 99999999),
-8,2024-06-07,-250.0,EUR,FACEBK *4L86W5G4L2,EUR NÁKUP POS FACEBK *4L86W5G4L2 / fb.me/ads / (POS 99999999),
-9,2024-06-06,10.0,EUR,Anton Vavrus,Platba/H Vavrusova,
-10,2024-06-06,-30.0,EUR,Boris Fekar,Platba/vratenie platby prijatej v moratoriu,
-11,2024-06-06,-50.0,EUR,"Morbacherová Hana, I",Platba/vratenie platby prijatej v moratoriu,
-12,2024-06-06,-100.0,EUR,ACSOVA JANA,Platba/vratenie platby prijatej v moratoriu,
-13,2024-06-06,100.0,EUR,ACSOVA JANA,"PLATBA/dar, Smrekova ul, B.Bystrica",
+2,2024-06-07,-250.0,EUR,FACEBK *WHZAN5C4L2,"
+                        EUR NÁKUP POS FACEBK *WHZAN5C4L2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+3,2024-06-07,-250.0,EUR,"
+                            FACEBK *YA58N5C4L2
+                    ","
+                        EUR NÁKUP POS FACEBK *YA58N5C4L2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+4,2024-06-07,-250.0,EUR,"
+                            FACEBK *HJJ4W5Q4L2
+                    ","
+                        EUR NÁKUP POS FACEBK *HJJ4W5Q4L2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+5,2024-06-07,-250.0,EUR,"
+                            FACEBK *CAFZM5C4L2
+                    ","
+                        EUR NÁKUP POS FACEBK *CAFZM5C4L2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+6,2024-06-07,-250.0,EUR,"
+                            FACEBK *ZB8VM5C4L2
+                    ","
+                        EUR NÁKUP POS FACEBK *ZB8VM5C4L2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+7,2024-06-07,-250.0,EUR,"
+                            FACEBK *43XQ8544L2
+                    ","
+                        EUR NÁKUP POS FACEBK *43XQ8544L2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+8,2024-06-07,-250.0,EUR,"
+                            FACEBK *4L86W5G4L2
+                    ","
+                        EUR NÁKUP POS FACEBK *4L86W5G4L2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+9,2024-06-06,10.0,EUR,"
+                            Anton Vavrus
+                    ","
+                        Platba
+                    /
+                        H Vavrusova
+                    ","
+                        
+                    "
+10,2024-06-06,-30.0,EUR,"
+                            Boris Fekar
+                    ","
+                        Platba
+                    /
+                        vratenie platby prijatej v moratoriu
+                    ","
+                        
+                    "
+11,2024-06-06,-50.0,EUR,"
+                            Morbacherová Hana, I
+                    ","
+                        Platba
+                    /
+                        vratenie platby prijatej v moratoriu
+                    ","
+                        
+                    "
+12,2024-06-06,-100.0,EUR,"
+                            ACSOVA JANA
+                    ","
+                        Platba
+                    /
+                        vratenie platby prijatej v moratoriu
+                    ","
+                        
+                    "
+13,2024-06-06,100.0,EUR,"
+                            ACSOVA JANA
+                    ","
+                        PLATBA
+                    /
+                        dar, Smrekova ul, B.Bystrica
+                    ","
+                        
+                    "
 14,2024-06-06,50.0,EUR,"Morbacherová Hana, Ing.",Platba/podpora na vasu cinnost,
 15,2024-06-06,30.0,EUR,Boris Fekar,Platba,
 16,2024-06-06,-58.32,EUR,"ZEPHIROS, a.s.",Platba/letaky,"20241627
@@ -31,132 +125,21 @@ VS29052024/SS/KS"
 VS240519/SS/KS308"
 27,2024-06-05,-14.0,EUR,MESTSKE KULTURNE STREDISKO V GALANTE,Platba/vylep plagatov GA,"20240103
 VS20240103/SS/KS0308"
-28,2024-06-05,-105.36,EUR,"
-                            PTA
-                    ","
-                        Platba
-                    /
-                        letak
-                    ","
-                        24060401VS24060401/SS/KS
-                    "
-29,2024-06-05,20.0,EUR,"
-                            TIBOR LIPTAJ
-                    ","
-                        PLATBA
-                    /
-                        NA DEMOKRACIU
-                    ","
-                        
-                    "
-30,2024-06-05,100.0,EUR,"
-                            Magdalena Sediva
-                    ","
-                        Platba
-                    /
-                        Prispevok od podporvatela na cinnost strany
-                    ","
-                        
-                    "
-31,2024-06-05,-250.0,EUR,"
-                            FACEBK *JFX4U5G4L2
-                    ","
-                        EUR NÁKUP POS FACEBK *JFX4U5G4L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-32,2024-06-05,-1.24,EUR,"
-                            FACEBK *YJPFT5Q4L2
-                    ","
-                        EUR NÁKUP POS FACEBK *YJPFT5Q4L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-33,2024-06-05,-250.0,EUR,"
-                            FACEBK *AXHQW4Y3L2
-                    ","
-                        EUR NÁKUP POS FACEBK *AXHQW4Y3L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-34,2024-06-05,-1.8,EUR,"
-                            FACEBK *PLNR85U3L2
-                    ","
-                        EUR NÁKUP POS FACEBK *PLNR85U3L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-35,2024-06-05,-250.0,EUR,"
-                            FACEBK *56NR85U3L2
-                    ","
-                        EUR NÁKUP POS FACEBK *56NR85U3L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-36,2024-06-05,-500.0,EUR,"
-                            GoogleAdwordsEU ADS258323
-                    ","
-                        EUR NÁKUP POS GoogleAdwordsEU ADS258323 / Dublin / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-37,2024-06-05,-1.27,EUR,"
-                            FACEBK *HV2J4684L2
-                    ","
-                        EUR NÁKUP POS FACEBK *HV2J4684L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-38,2024-06-05,-250.0,EUR,"
-                            FACEBK *729CX6L4L2
-                    ","
-                        EUR NÁKUP POS FACEBK *729CX6L4L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-39,2024-06-05,-1.58,EUR,"
-                            FACEBK *QJH3X6L4L2
-                    ","
-                        EUR NÁKUP POS FACEBK *QJH3X6L4L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-40,2024-06-05,-250.0,EUR,"
-                            FACEBK *WR9R65U4L2
-                    ","
-                        EUR NÁKUP POS FACEBK *WR9R65U4L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-41,2024-06-04,60.0,EUR,"
-                            Zuzana Szabóová
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
+28,2024-06-05,-105.36,EUR,PTA,Platba/letak,"24060401
+VS24060401/SS/KS"
+29,2024-06-05,20.0,EUR,TIBOR LIPTAJ,PLATBA/NA DEMOKRACIU,
+30,2024-06-05,100.0,EUR,Magdalena Sediva,Platba/Prispevok od podporvatela na cinnost strany,
+31,2024-06-05,-250.0,EUR,FACEBK *JFX4U5G4L2,EUR NÁKUP POS FACEBK *JFX4U5G4L2 / fb.me/ads / (POS 99999999),
+32,2024-06-05,-1.24,EUR,FACEBK *YJPFT5Q4L2,EUR NÁKUP POS FACEBK *YJPFT5Q4L2 / fb.me/ads / (POS 99999999),
+33,2024-06-05,-250.0,EUR,FACEBK *AXHQW4Y3L2,EUR NÁKUP POS FACEBK *AXHQW4Y3L2 / fb.me/ads / (POS 99999999),
+34,2024-06-05,-1.8,EUR,FACEBK *PLNR85U3L2,EUR NÁKUP POS FACEBK *PLNR85U3L2 / fb.me/ads / (POS 99999999),
+35,2024-06-05,-250.0,EUR,FACEBK *56NR85U3L2,EUR NÁKUP POS FACEBK *56NR85U3L2 / fb.me/ads / (POS 99999999),
+36,2024-06-05,-500.0,EUR,GoogleAdwordsEU ADS258323,EUR NÁKUP POS GoogleAdwordsEU ADS258323 / Dublin / (POS 99999999),
+37,2024-06-05,-1.27,EUR,FACEBK *HV2J4684L2,EUR NÁKUP POS FACEBK *HV2J4684L2 / fb.me/ads / (POS 99999999),
+38,2024-06-05,-250.0,EUR,FACEBK *729CX6L4L2,EUR NÁKUP POS FACEBK *729CX6L4L2 / fb.me/ads / (POS 99999999),
+39,2024-06-05,-1.58,EUR,FACEBK *QJH3X6L4L2,EUR NÁKUP POS FACEBK *QJH3X6L4L2 / fb.me/ads / (POS 99999999),
+40,2024-06-05,-250.0,EUR,FACEBK *WR9R65U4L2,EUR NÁKUP POS FACEBK *WR9R65U4L2 / fb.me/ads / (POS 99999999),
+41,2024-06-04,60.0,EUR,Zuzana Szabóová,Platba,
 42,2024-06-04,10.0,EUR,Anton Hrican,Platba,
 43,2024-06-04,20.0,EUR,VILIAM PECHACEK,PLATBA/Drzime palce Demokrati,
 44,2024-06-04,100.0,EUR,Margita Krajcikova,PLATBA/Som vasa volicka,
