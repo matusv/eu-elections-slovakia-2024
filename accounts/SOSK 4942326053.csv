@@ -1,49 +1,51 @@
 index,date,amount,account_name,message,vs
 0,2024-06-13,-31.51,Platba kartou,FACEBK *9A4NY4CXV2 fb.me/ads,****6544
-1,2024-06-12,-15.0,Zahorska Bystrica,Spajame Obcanov Slovenska - SOSK,143
-2,2024-06-12,300.0,Petra Bertova Polovkova,Bertova dar, 
-3,2024-06-10,-1440.0,Nubium s.r.o,"platba faktury, SOSK",24053632
-4,2024-06-05,2000.0,"Kovaľová Mária, Mgr.",Kovalova dar, 
-5,2024-06-05,500.0,Štefan Čopik,Stefan Copik MUDr., 
-6,2024-06-04,-494.4,PRINTHALL s.r.o,Platba faktury 202405299 SOSK,202405299
-7,2024-06-03,-400.0,penima SK s.r.o,Spajame Obcanov Slovenska - SOSK,2024128
-8,2024-05-31,-2.2, ,Poplatky za platby spolu,9
-9,2024-05-31,-0.2, ,Popl.za 1x elektronický výpis,9
-10,2024-05-31,-7.0, ,Vedenie účtu,9
-11,2024-05-30,1000.0,"Kovaľová Mária, Mgr.",Kovalova dar, 
-12,2024-05-21,-59.2,Ivan Fiala PC-BLOK,Spajame Obcanov Slovenska SOSK,2024004
-13,2024-05-21,60.0,Petra Bertova Polovkova,Bertova dar, 
-14,2024-05-21,-720.0,"City TV, sro","Uhrada faktury: 0152024, SOSK",152024
-15,2024-05-21,-162.0,"DOLIS GOEN, s.r.o.",Spajame Obcanov Slovenska - SOSK,22410712
-16,2024-05-15,-33.0,Platba kartou,FACEBK *UC34W4U fb.me/ads,****6544
-17,2024-05-10,100.0,BARTKO MARIAN,Eurovolby,660924
-18,2024-05-02,-3276.0,Dolis Goen spol s.r.o,Fakturujeme Vam prenajom billboardov SOSK,24010
-19,2024-05-02,2000.0,Nicholson Libusa,dar, 
-20,2024-05-02,-1200.0,Atelier EDO s.r.o,Spajame Obcanov Slovenska SOSK,2024051
-21,2024-04-30,-3.3, ,Poplatky za platby spolu,9
-22,2024-04-30,-0.2, ,Popl.za 1x elektronický výpis,9
-23,2024-04-30,-7.0, ,Vedenie účtu,9
-24,2024-04-30,-5340.0,JEZET reklamna agentura s.r.o,Spajame Obcanov Slovenska - SOSK reklamne putace.,2
-25,2024-04-30,3000.0,Nicholson Libusa,dar, 
-26,2024-04-30,2000.0,"Kovaľová Mária, Mgr.",Kovalova dar, 
-27,2024-04-24,100.0,"Lovaš Peter, Ing.",Ing. Peter Lovas, 
-28,2024-04-16,10.0,Zuzana Fialova,Dar, 
-29,2024-04-15,-550.0,Two media s.r.o,Spajame Obcanov Slovenska - SOSK,2024042
-30,2024-04-12,550.0,Petra Bertova Polovkova,Bertova dar, 
-31,2024-04-11,-156.0,Vlajky SK,SOSK,21240624
-32,2024-04-11,-24.0, ,SOSK,202403725
-33,2024-04-10,1000.0,"Kovaľová Mária, Mgr.",Kovalova dar, 
-34,2024-04-09,-1272.58,Platba kartou,TRICKAREN.SK PODOLINEC,****6544
-35,2024-04-08,1000.0,Nicholson Libusa,dar, 
-36,2024-04-08,500.0,"Gállová Andrea, Prof.PhDr., PhD.",Andrea Gallova Dar, 
-37,2024-04-02,-33.0, ,Ročný popl. Vydanie/obnova karty,6544
-38,2024-04-02,3000.0,Marian Kollár,Marian Kollar, 
-39,2024-04-02,75.0,Ivo Balaj, , 
-40,2024-03-28,-1.32, ,Poplatky za platby spolu,9
-41,2024-03-28,-7.0, ,Vedenie účtu,9
-42,2024-03-28,-4471.2,ISPA s.r.o,SOSK,202401476
-43,2024-03-28,-558.0,Big Media,"BigMedia, spol. s r.o.: 12249/0044 - Spajame Obcanov Slovenska - SOSK - 2024-03-28",122490044
-44,2024-03-22,2000.0,"Kovaľová Mária, Mgr.",Kovalova Dar, 
-45,2024-03-19,2000.0,Nicholson Libusa,dar, 
-46,2024-03-18,2000.0,Miroslav Kollar,Miroslav Kollar eurovolby 2024,822949
-47,2024-03-13,200.0,Zuzana Fialova,Dar, 
+1,2024-06-17,-300.0,Petra Bertova Polovkova,Bertova dar, 
+2,2024-06-17,-10.0, ,P-Blokácia na žiadosť klienta, 
+3,2024-06-12,-15.0,Zahorska Bystrica,Spajame Obcanov Slovenska - SOSK,143
+4,2024-06-12,300.0,Petra Bertova Polovkova,Bertova dar, 
+5,2024-06-10,-1440.0,Nubium s.r.o,"platba faktury, SOSK",24053632
+6,2024-06-05,2000.0,"Kovaľová Mária, Mgr.",Kovalova dar, 
+7,2024-06-05,500.0,Štefan Čopik,Stefan Copik MUDr., 
+8,2024-06-04,-494.4,PRINTHALL s.r.o,Platba faktury 202405299 SOSK,202405299
+9,2024-06-03,-400.0,penima SK s.r.o,Spajame Obcanov Slovenska - SOSK,2024128
+10,2024-05-31,-2.2, ,Poplatky za platby spolu,9
+11,2024-05-31,-0.2, ,Popl.za 1x elektronický výpis,9
+12,2024-05-31,-7.0, ,Vedenie účtu,9
+13,2024-05-30,1000.0,"Kovaľová Mária, Mgr.",Kovalova dar, 
+14,2024-05-21,-59.2,Ivan Fiala PC-BLOK,Spajame Obcanov Slovenska SOSK,2024004
+15,2024-05-21,60.0,Petra Bertova Polovkova,Bertova dar, 
+16,2024-05-21,-720.0,"City TV, sro","Uhrada faktury: 0152024, SOSK",152024
+17,2024-05-21,-162.0,"DOLIS GOEN, s.r.o.",Spajame Obcanov Slovenska - SOSK,22410712
+18,2024-05-15,-33.0,Platba kartou,FACEBK *UC34W4U fb.me/ads,****6544
+19,2024-05-10,100.0,BARTKO MARIAN,Eurovolby,660924
+20,2024-05-02,-3276.0,Dolis Goen spol s.r.o,Fakturujeme Vam prenajom billboardov SOSK,24010
+21,2024-05-02,2000.0,Nicholson Libusa,dar, 
+22,2024-05-02,-1200.0,Atelier EDO s.r.o,Spajame Obcanov Slovenska SOSK,2024051
+23,2024-04-30,-3.3, ,Poplatky za platby spolu,9
+24,2024-04-30,-0.2, ,Popl.za 1x elektronický výpis,9
+25,2024-04-30,-7.0, ,Vedenie účtu,9
+26,2024-04-30,-5340.0,JEZET reklamna agentura s.r.o,Spajame Obcanov Slovenska - SOSK reklamne putace.,2
+27,2024-04-30,3000.0,Nicholson Libusa,dar, 
+28,2024-04-30,2000.0,"Kovaľová Mária, Mgr.",Kovalova dar, 
+29,2024-04-24,100.0,"Lovaš Peter, Ing.",Ing. Peter Lovas, 
+30,2024-04-16,10.0,Zuzana Fialova,Dar, 
+31,2024-04-15,-550.0,Two media s.r.o,Spajame Obcanov Slovenska - SOSK,2024042
+32,2024-04-12,550.0,Petra Bertova Polovkova,Bertova dar, 
+33,2024-04-11,-156.0,Vlajky SK,SOSK,21240624
+34,2024-04-11,-24.0, ,SOSK,202403725
+35,2024-04-10,1000.0,"Kovaľová Mária, Mgr.",Kovalova dar, 
+36,2024-04-09,-1272.58,Platba kartou,TRICKAREN.SK PODOLINEC,****6544
+37,2024-04-08,1000.0,Nicholson Libusa,dar, 
+38,2024-04-08,500.0,"Gállová Andrea, Prof.PhDr., PhD.",Andrea Gallova Dar, 
+39,2024-04-02,-33.0, ,Ročný popl. Vydanie/obnova karty,6544
+40,2024-04-02,3000.0,Marian Kollár,Marian Kollar, 
+41,2024-04-02,75.0,Ivo Balaj, , 
+42,2024-03-28,-1.32, ,Poplatky za platby spolu,9
+43,2024-03-28,-7.0, ,Vedenie účtu,9
+44,2024-03-28,-4471.2,ISPA s.r.o,SOSK,202401476
+45,2024-03-28,-558.0,Big Media,"BigMedia, spol. s r.o.: 12249/0044 - Spajame Obcanov Slovenska - SOSK - 2024-03-28",122490044
+46,2024-03-22,2000.0,"Kovaľová Mária, Mgr.",Kovalova Dar, 
+47,2024-03-19,2000.0,Nicholson Libusa,dar, 
+48,2024-03-18,2000.0,Miroslav Kollar,Miroslav Kollar eurovolby 2024,822949
+49,2024-03-13,200.0,Zuzana Fialova,Dar, 
