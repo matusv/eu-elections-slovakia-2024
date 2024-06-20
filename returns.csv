@@ -1,8 +1,8 @@
 index,index,date,amount,account_name,message,vs,name
-0,149,2024-06-05,-1.0,Maros Mjartan,Drzim palceky ..,,SaS
-1,598,2024-03-30,1.0,Maros Mjartan,Drzim palceky ..,,SaS
-2,150,2024-06-05,-0.01,Bačák Juraj,Prispevok na drahy alkohol v Dubaji .,,SaS
-3,613,2024-01-27,0.01,Bačák Juraj,Prispevok na drahy alkohol v Dubaji .,,SaS
+0,152,2024-06-05,-1.0,Maros Mjartan,Drzim palceky ..,,SaS
+1,601,2024-03-30,1.0,Maros Mjartan,Drzim palceky ..,,SaS
+2,153,2024-06-05,-0.01,Bačák Juraj,Prispevok na drahy alkohol v Dubaji .,,SaS
+3,616,2024-01-27,0.01,Bačák Juraj,Prispevok na drahy alkohol v Dubaji .,,SaS
 4,60,2024-02-15,-0.01,Bohuslav Masiarcik,Vratenie platby podla zakona zo dna 26.01.2024,,SNS
 5,83,2024-01-26,0.01,Bohuslav Masiarcik,"Na jednodmerny do RuSSka, aby ste Putlera mohli bozkavat vsade.",,SNS
 6,56,2024-02-15,-0.01,Belica Vladimir,Vratenie platby podla zakona zo dna 27.01.2024,,SNS
@@ -19,14 +19,14 @@ index,index,date,amount,account_name,message,vs,name
 17,72,2024-01-29,0.01,Ruzena Kapusnakova,Simkovicovej a Dankovi na psychiatricke vysetrenie,,SNS
 18,103,2024-05-29,-961.92,"JUDr. Miroslav Kamensky, advokat",Vratenie daru Miroslav Kamensky,20241800,Republika
 19,115,2024-05-27,961.92,"JUDr. Miroslav Kamensky, advokat",Miroslav Kamensky Jiraskova 23 974 06 Banska Bystrica DAR. uhrada fa,20241800,Republika
-20,442,2024-05-21,-10.0,Charles Edouard Richard STENKER,"Platba OO24052100035581/Vratenie daru podla 85/2005 Z.z., navstivte prosim progresivne.sk/podporte-europsku-buducnost",,Progresívne Slovensko
-21,670,2024-04-19,10.0,Charles Edouard Richard STENKER,DE24041959857 801b5bbb1bd343f8/Slovensko patri do EU,,Progresívne Slovensko
-22,420,2024-05-23,-500.0,Jan Glovicko,Platba/Vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
-23,675,2024-04-18,500.0,Jan Glovicko,Platba/Martin Hojsik,"60192
-VS60192/SS3/KS",Progresívne Slovensko
-24,84,2024-06-05,-10.0,Obec Turie,Platba/Obec Besenov vyhlasenie politickeho oznamu 5.6 2x,"702024
+20,448,2024-05-21,-10.0,Charles Edouard Richard STENKER,"Platba OO24052100035581/Vratenie daru podla 85/2005 Z.z., navstivte prosim progresivne.sk/podporte-europsku-buducnost",,Progresívne Slovensko
+21,676,2024-04-19,10.0,Charles Edouard Richard STENKER,DE24041959857 801b5bbb1bd343f8/Slovensko patri do EU,,Progresívne Slovensko
+22,426,2024-05-23,-500.0,Jan Glovicko,Platba/Vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
+23,680,2024-04-18,500.0,Jan Glovicko,Platba/Michal Wiezik,"60193
+VS60193/SS5/KS",Progresívne Slovensko
+24,90,2024-06-05,-10.0,Obec Turie,Platba/Obec Besenov vyhlasenie politickeho oznamu 5.6 2x,"702024
 VS702024/SS/KS",Progresívne Slovensko
-25,81,2024-06-05,10.0,Obec Turie,Platba/Obec Besenov vyhlasenie politickeho vratka z obce TURIE = OMYL,"702024
+25,87,2024-06-05,10.0,Obec Turie,Platba/Obec Besenov vyhlasenie politickeho vratka z obce TURIE = OMYL,"702024
 VS702024/SS/KS",Progresívne Slovensko
 26,623,2024-03-06,-5.0,Michalovic David,Vratenie daru,,Slovensko
 27,635,2024-02-13,5.0,Michalovic David,Vela stastia,,Slovensko
@@ -36,50 +36,64 @@ VS702024/SS/KS",Progresívne Slovensko
 31,630,2024-02-26,1.5,Jaroslav Balara,"Suma 1,5 ? je vyska mojho rodicovskeho prispevku.Dakujem, neprosim?",,Slovensko
 32,616,2024-03-06,-0.1,Valovič Tomáš,Vratenie daru,,Slovensko
 33,631,2024-02-20,0.1,Valovič Tomáš,Igor na hrad,,Slovensko
-34,346,2024-04-22,-1400.0,Jurčišin Patrik,Mylná platba / Dar - Jakub Berčík,,KDH
-35,364,2024-04-12,1400.0,Jurčišin Patrik,Dar - Jakub Berčík,,KDH
-36,163,2024-05-27,-990.0,"Mikúš Juraj, JUDr.",Mylná platba/Juraj Mikus dar,,KDH
-37,165,2024-05-27,990.0,"Mikúš Juraj, JUDr.",juraj Mikus dar,,KDH
+34,350,2024-04-22,-1400.0,Jurčišin Patrik,Mylná platba / Dar - Jakub Berčík,,KDH
+35,368,2024-04-12,1400.0,Jurčišin Patrik,Dar - Jakub Berčík,,KDH
+36,167,2024-05-27,-990.0,"Mikúš Juraj, JUDr.",Mylná platba/Juraj Mikus dar,,KDH
+37,169,2024-05-27,990.0,"Mikúš Juraj, JUDr.",juraj Mikus dar,,KDH
 38,102,2024-05-29,-900.0,Juraj Podracky,"Platba/mylna platba, vratenie",,Demokrati
 39,103,2024-05-29,900.0,Juraj Podracky,Platba,,Demokrati
-40,10,2024-06-06,-30.0,"
-                            Boris Fekar
-                    ","
-                        Platba
-                    /
-                        vratenie platby prijatej v moratoriu
-                    ","
-                        
-                    ",Demokrati
+40,10,2024-06-06,-30.0,Boris Fekar,Platba/vratenie platby prijatej v moratoriu,,Demokrati
 41,15,2024-06-06,30.0,Boris Fekar,Platba,,Demokrati
-42,12,2024-06-06,-100.0,"
-                            ACSOVA JANA
-                    ","
-                        Platba
-                    /
-                        vratenie platby prijatej v moratoriu
-                    ","
-                        
-                    ",Demokrati
-43,13,2024-06-06,100.0,"
-                            ACSOVA JANA
-                    ","
-                        PLATBA
-                    /
-                        dar, Smrekova ul, B.Bystrica
-                    ","
-                        
-                    ",Demokrati
+42,12,2024-06-06,-100.0,ACSOVA JANA,Platba/vratenie platby prijatej v moratoriu,,Demokrati
+43,13,2024-06-06,100.0,ACSOVA JANA,"PLATBA/dar, Smrekova ul, B.Bystrica",,Demokrati
 44,49,2024-04-23,-9.0,Ševčik Martin,vrátenie daru,,Kotlebovci ĽSNS
 45,67,2024-03-22,9.0,Ševčik Martin,alica,,Kotlebovci ĽSNS
 46,1,2024-06-17,-300.0,Petra Bertova Polovkova,Bertova dar, ,SOSK
 47,4,2024-06-12,300.0,Petra Bertova Polovkova,Bertova dar, ,SOSK
-48,7,2024-06-06,-10.0,Milan Safarik,"Platba/Dakujeme za podporu, vraciame z dovodu moratoria 48 hodin pred volbami. Uvitame podporu na beznom ucte. V Fernandes. Pokladnicka",,Volt Slovensko
-49,9,2024-06-06,10.0,Milan Safarik,"Platba/dali ste im na frak p.Klestincova, mate moj hlas",,Volt Slovensko
-50,6,2024-06-06,-1000.0,M RICHARD ZEDNIK OU Mme RACHEL H,"Platba OO24060600043995/Dakujeme za Vas prispevok, z dovodu transferu zo zahranicneho uctu tento prispevok vraciame odosielatelovi.",,Volt Slovensko
+48,7,2024-06-06,-10.0,"
+                            Milan Safarik
+                    ","
+                        Platba
+                    /
+                        Dakujeme za podporu, vraciame z dovodu moratoria 48 hodin pred volbami. Uvitame podporu na beznom ucte. V Fernandes. Pokladnicka
+                    ","
+                        
+                    ",Volt Slovensko
+49,9,2024-06-06,10.0,"
+                            Milan Safarik
+                    ","
+                        Platba
+                    /
+                        dali ste im na frak p.Klestincova, mate moj hlas
+                    ","
+                        
+                    ",Volt Slovensko
+50,6,2024-06-06,-1000.0,"
+                            M RICHARD ZEDNIK OU Mme RACHEL H
+                    ","
+                        Platba OO24060600043995
+                    /
+                        Dakujeme za Vas prispevok, z dovodu transferu zo zahranicneho uctu tento prispevok vraciame odosielatelovi.
+                    ","
+                        
+                    ",Volt Slovensko
 51,46,2024-04-03,1000.0,M RICHARD ZEDNIK OU Mme RACHEL H,DE24040355107 VZ409238FRL00U01/Od Richard Zednik,,Volt Slovensko
-52,5,2024-06-06,-100.0,LOBATO DOS REIS CASTELO V + MASARCO,"Platba OO24060600044095/Dakujeme za podporu, vraciame z dovodu moratoria 48 hodin pred volbami. Uvitame podporu na beznom ucte. V Fernandes. Pokladnicka",,Volt Slovensko
-53,8,2024-06-06,100.0,LOBATO DOS REIS CASTELO V + MASARCO,DE24060656883 050624OL44UPS0L0,,Volt Slovensko
+52,5,2024-06-06,-100.0,LOBATO DOS REIS CASTELO V + MASARCO,"
+                        Platba OO24060600044095
+                    /
+                        Dakujeme za podporu, vraciame z dovodu moratoria 48 hodin pred volbami. Uvitame podporu na beznom ucte. V Fernandes. Pokladnicka
+                    ","
+                        
+                    ",Volt Slovensko
+53,8,2024-06-06,100.0,"
+                            LOBATO DOS REIS CASTELO V + MASARCO
+                    ","
+                        DE24060656883 050624OL44UPS0L0
+                    /
+                        
+                    ","
+                        
+                    ",Volt Slovensko
 54,4,2024-06-07,-200.0,MASARCOVA JANA,"Platba OO24060700030058/Dakujeme za podporu, vraciame z dovodu platby z uctu v zahranici. Uvitame Vasu podporu zo slovenskeho uctu na nasom novom beznom ucte.",,Volt Slovensko
 55,17,2024-05-29,200.0,MASARCOVA JANA,DE24052954103 280524OL44J2VN00,,Volt Slovensko
 56,3,2024-06-07,-200.0,MRS NATALIA DIANISKOVA,"PLATBA VI24060704690/Dakujeme za podporu, vraciame z dovodu platby z uctu v zahranici. Uvitame Vasu podporu na nasom beznom ucte zo slovenskym cislom uctu.",,Volt Slovensko
@@ -87,8 +101,6 @@ VS702024/SS/KS",Progresívne Slovensko
 58,2,2024-06-07,-200.0,PUCIKOVA ZUZANA,"Platba OO24060700040180/Dakujeme za podporu, platbu vraciame z dovodu platby zo zahranicneho uctu.",,Volt Slovensko
 59,31,2024-05-22,200.0,PUCIKOVA ZUZANA,Platba PO24052287111036,,Volt Slovensko
 60,1,2024-06-07,-50.0,TransferWise,"Platba OO24060700040711/Dakujeme za Vasu podporu, z dovodu pouzitia zahranicneho uctu Vam tuto platbu vraciame. Uvitame podporu zo slovenskeho uctu.",,Volt Slovensko
-61,27,2024-05-23,50.0,TransferWise,Platba PO24052387302974/Dar ALEX GALOVIC,"
-                        920455483
-                    ",Volt Slovensko
+61,27,2024-05-23,50.0,TransferWise,Platba PO24052387302974/Dar ALEX GALOVIC,920455483,Volt Slovensko
 62,41,2024-06-10,-150.0,Ivanecky Jan,"Odoslaná platba elektronicky, Vratenie prijateho daru na transparentnom ucte - EP volby 2024",VS: 10062024,Maďarská Aliancia
 63,42,2024-06-10,150.0,Ivanecky Jan,"Prijatá platba, ",,Maďarská Aliancia
