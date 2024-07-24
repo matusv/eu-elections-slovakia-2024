@@ -3,96 +3,21 @@ index,date,amount,currency,account_name,message,vs
 1,2024-07-03,-7.65,EUR,GoogleAdwordsEU ADS258323,EUR NÁKUP POS GoogleAdwordsEU ADS258323 / Dublin / (POS 99999999),
 2,2024-06-29,-0.0,EUR,,Poplatok za balík,
 3,2024-06-20,-10.0,EUR,Anton Vavrus,Platba/vratenie platby prijatej v moratoriu,
-4,2024-06-19,-115.0,EUR,"
-                            Pezinske kulturne centrum
-                    ","
-                        Platba
-                    /
-                        najom PK 30.5.
-                    ","
-                        
-                    "
-5,2024-06-19,-34.0,EUR,"
-                            MESTO PEZINOK
-                    ","
-                        Platba
-                    /
-                        uzivanie cesty PK 30.5.
-                    ","
-                        VS/SS241/KS
-                    "
-6,2024-06-19,-80.0,EUR,"
-                            MESTO BANSKA BYSTRIC
-                    ","
-                        Platba
-                    /
-                        dan za uzivanie ver.priestranstva BB 15.5.
-                    ","
-                        5010330082VS5010330082/SS2403050964/KS1118
-                    "
-7,2024-06-19,-250.0,EUR,"
-                            Slovenska posta, a.s.
-                    ","
-                        Platba
-                    /
-                        roznos letakov posta TN
-                    ","
-                        9001700134VS9001700134/SS/KS308
-                    "
-8,2024-06-19,-72.0,EUR,"
-                            SPOLOCNIK, s. r. o.
-                    ","
-                        Platba
-                    /
-                        inzercia v novinach
-                    ","
-                        1082024VS1082024/SS/KS
-                    "
-9,2024-06-19,-50.0,EUR,"
-                            KOSICE MESTO
-                    ","
-                        Platba
-                    /
-                        dan za uzivanie ver. priestranstva KE 17.4.
-                    ","
-                        3324000577VS3324000577/SS/KS0308
-                    "
-10,2024-06-19,-65.0,EUR,"
-                            Mesto Poprad
-                    ","
-                        Platba
-                    /
-                        dan zabratie ver. priestranstva PP 22.5.
-                    ","
-                        2020408050VS2020408050/SS2403045437/KS
-                    "
-11,2024-06-07,-0.08,EUR,"
-                            FACEBK *4UU337L4L2
-                    ","
-                        EUR NÁKUP POS FACEBK *4UU337L4L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-12,2024-06-07,-228.53,EUR,"
-                            FACEBK *WPE237L4L2
-                    ","
-                        EUR NÁKUP POS FACEBK *WPE237L4L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-13,2024-06-07,-250.0,EUR,"
-                            FACEBK *WHZAN5C4L2
-                    ","
-                        EUR NÁKUP POS FACEBK *WHZAN5C4L2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
+4,2024-06-19,-115.0,EUR,Pezinske kulturne centrum,Platba/najom PK 30.5.,
+5,2024-06-19,-34.0,EUR,MESTO PEZINOK,Platba/uzivanie cesty PK 30.5.,VS/SS241/KS
+6,2024-06-19,-80.0,EUR,MESTO BANSKA BYSTRIC,Platba/dan za uzivanie ver.priestranstva BB 15.5.,"5010330082
+VS5010330082/SS2403050964/KS1118"
+7,2024-06-19,-250.0,EUR,"Slovenska posta, a.s.",Platba/roznos letakov posta TN,"9001700134
+VS9001700134/SS/KS308"
+8,2024-06-19,-72.0,EUR,"SPOLOCNIK, s. r. o.",Platba/inzercia v novinach,"1082024
+VS1082024/SS/KS"
+9,2024-06-19,-50.0,EUR,KOSICE MESTO,Platba/dan za uzivanie ver. priestranstva KE 17.4.,"3324000577
+VS3324000577/SS/KS0308"
+10,2024-06-19,-65.0,EUR,Mesto Poprad,Platba/dan zabratie ver. priestranstva PP 22.5.,"2020408050
+VS2020408050/SS2403045437/KS"
+11,2024-06-07,-0.08,EUR,FACEBK *4UU337L4L2,EUR NÁKUP POS FACEBK *4UU337L4L2 / fb.me/ads / (POS 99999999),
+12,2024-06-07,-228.53,EUR,FACEBK *WPE237L4L2,EUR NÁKUP POS FACEBK *WPE237L4L2 / fb.me/ads / (POS 99999999),
+13,2024-06-07,-250.0,EUR,FACEBK *WHZAN5C4L2,EUR NÁKUP POS FACEBK *WHZAN5C4L2 / fb.me/ads / (POS 99999999),
 14,2024-06-07,-250.0,EUR,FACEBK *YA58N5C4L2,EUR NÁKUP POS FACEBK *YA58N5C4L2 / fb.me/ads / (POS 99999999),
 15,2024-06-07,-250.0,EUR,FACEBK *HJJ4W5Q4L2,EUR NÁKUP POS FACEBK *HJJ4W5Q4L2 / fb.me/ads / (POS 99999999),
 16,2024-06-07,-250.0,EUR,FACEBK *CAFZM5C4L2,EUR NÁKUP POS FACEBK *CAFZM5C4L2 / fb.me/ads / (POS 99999999),

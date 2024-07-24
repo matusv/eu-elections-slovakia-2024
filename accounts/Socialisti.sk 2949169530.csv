@@ -6,87 +6,20 @@ index,date,amount,currency,account_name,message,vs
 VS92406034/SS/KS8"
 4,2024-06-05,-320.0,EUR,Socialisti.sk,Platba/P4SFF4USK2,"6202407
 VS06202407/SS/KS0968"
-5,2024-06-05,-270.26,EUR,"
-                            Socialisti.sk
-                    ","
-                        Platba
-                    /
-                        2RPP75URK2
-                    ","
-                        6202404VS06202404/SS/KS0968
-                    "
-6,2024-06-05,-320.0,EUR,"
-                            Socialisti.sk
-                    ","
-                        Platba
-                    /
-                        ACBKR5LSK2
-                    ","
-                        6202401VS06202401/SS/KS0968
-                    "
-7,2024-06-05,1100.0,EUR,"
-                            Socialisti.sk
-                    ","
-                        Platba
-                    /
-                        Prispevok na kampan EP 2024 Socialisti.sk
-                    ","
-                        
-                    "
-8,2024-06-03,-1737.0,EUR,"
-                            KPK Print s.r.o.
-                    ","
-                        Platba
-                    /
-                        tlacoviny, letaky, plagaty
-                    ","
-                        92405172VS92405172/SS/KS8
-                    "
-9,2024-06-01,1000.0,EUR,"
-                            Socialisti.sk
-                    ","
-                        Platba
-                    /
-                        Prispevok na kampan EP 2024 Socialisti.sk
-                    ","
-                        
-                    "
-10,2024-05-31,-7.0,EUR,"
-                            
-                    ","
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    "
-11,2024-05-30,-210.0,EUR,"
-                            Socialisti.sk
-                    ","
-                        Platba
-                    /
-                        FBADS 455 103386418 facebook
-                    ","
-                        103386418VS103386418/SS24052024/KS0558
-                    "
-12,2024-05-29,-680.46,EUR,"
-                            REGIONPRESS, s.r.o.
-                    ","
-                        Platba
-                    /
-                        Uhrada fa20 424 0039 regionpress inzercia
-                    ","
-                        204240039VS204240039/SS201240080/KS0308
-                    "
-13,2024-05-29,35.0,EUR,"
-                            Papan Sely
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
+5,2024-06-05,-270.26,EUR,Socialisti.sk,Platba/2RPP75URK2,"6202404
+VS06202404/SS/KS0968"
+6,2024-06-05,-320.0,EUR,Socialisti.sk,Platba/ACBKR5LSK2,"6202401
+VS06202401/SS/KS0968"
+7,2024-06-05,1100.0,EUR,Socialisti.sk,Platba/Prispevok na kampan EP 2024 Socialisti.sk,
+8,2024-06-03,-1737.0,EUR,KPK Print s.r.o.,"Platba/tlacoviny, letaky, plagaty","92405172
+VS92405172/SS/KS8"
+9,2024-06-01,1000.0,EUR,Socialisti.sk,Platba/Prispevok na kampan EP 2024 Socialisti.sk,
+10,2024-05-31,-7.0,EUR,,Poplatok za balík,
+11,2024-05-30,-210.0,EUR,Socialisti.sk,Platba/FBADS 455 103386418 facebook,"103386418
+VS103386418/SS24052024/KS0558"
+12,2024-05-29,-680.46,EUR,"REGIONPRESS, s.r.o.",Platba/Uhrada fa20 424 0039 regionpress inzercia,"204240039
+VS204240039/SS201240080/KS0308"
+13,2024-05-29,35.0,EUR,Papan Sely,Platba,
 14,2024-05-28,-244.8,EUR,KPK Print s.r.o.,Platba/promo stolik tlacovka,"92405171
 VS92405171/SS/KS8"
 15,2024-05-28,-674.0,EUR,Yakuba s. r. o.,Platba/Projekt Lipa Mieru,"202405001
